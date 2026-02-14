@@ -1,0 +1,33 @@
+# FindSkills - Complete Skills Catalog
+
+> Total: 3 skills | Last updated: 2026-02-14
+
+This file contains a complete listing of all Skills in the FindSkills directory.
+For structured JSON data, fetch: /skills.json
+
+## Memory
+
+- Author: anthropic
+- Description: Persistent memory for Claude Code sessions, storing user preferences and project context across conversations
+- GitHub: https://github.com/anthropics/claude-code/tree/main/skills/memory
+- Tags: memory, context, persistence
+- Category: core
+- Source: manual
+
+## Web Search
+
+- Author: openclaw
+- Description: Enable AI Agent to perform real-time web search with configurable search engines
+- GitHub: https://github.com/openclaw/openclaw
+- Tags: search, web, browsing
+- Category: tools
+- Source: manual
+
+## Thought
+
+- Author: openclaw
+- Description: Extended thinking and reasoning skill for complex problem decomposition
+- GitHub: https://github.com/openclaw/openclaw
+- Tags: thinking, reasoning, planning
+- Category: core
+- Source: manual
