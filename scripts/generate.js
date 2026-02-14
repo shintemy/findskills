@@ -38,7 +38,7 @@ export function generateLlmsFullTxt(data) {
 }
 
 // CLI entry point: read skills.json, write llms-full.txt
-if (__filename === resolve(process.argv[1])) {
+if (process.argv[1] && __filename === resolve(process.argv[1])) {
   const skillsPath = join(ROOT, 'skills.json');
   const outputPath = join(ROOT, 'llms-full.txt');
 

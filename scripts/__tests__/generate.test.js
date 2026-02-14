@@ -71,5 +71,6 @@ describe('generateLlmsFullTxt', () => {
 
     assert.ok(result.includes('## Minimal'));
     assert.ok(!result.includes('- Tags:'));
+    assert.ok(!result.includes('- Category:'));
   });
 });
