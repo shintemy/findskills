@@ -1,0 +1,45 @@
+{
+  "skills": [
+    {
+      "id": "anthropic-memory",
+      "name": "Memory",
+      "description": "Persistent memory for Claude Code sessions, storing user preferences and project context across conversations",
+      "author": "anthropic",
+      "github": "https://github.com/anthropics/claude-code/tree/main/skills/memory",
+      "source": "manual",
+      "tags": ["memory", "context", "persistence"],
+      "category": "core",
+      "updated_at": "2026-02-01",
+      "collected_at": "2026-02-14"
+    },
+    {
+      "id": "openclaw-web-search",
+      "name": "Web Search",
+      "description": "Enable AI Agent to perform real-time web search with configurable search engines",
+      "author": "openclaw",
+      "github": "https://github.com/openclaw/openclaw",
+      "source": "manual",
+      "tags": ["search", "web", "browsing"],
+      "category": "tools",
+      "updated_at": "2026-01-15",
+      "collected_at": "2026-02-14"
+    },
+    {
+      "id": "openclaw-thought",
+      "name": "Thought",
+      "description": "Extended thinking and reasoning skill for complex problem decomposition",
+      "author": "openclaw",
+      "github": "https://github.com/openclaw/openclaw",
+      "source": "manual",
+      "tags": ["thinking", "reasoning", "planning"],
+      "category": "core",
+      "updated_at": "2026-01-20",
+      "collected_at": "2026-02-14"
+    }
+  ],
+  "meta": {
+    "total": 3,
+    "last_updated": "2026-02-14T12:00:00Z",
+    "sources": ["manual"]
+  }
+}

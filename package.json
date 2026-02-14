@@ -1,0 +1,16 @@
+{
+  "name": "findskills",
+  "version": "0.1.0",
+  "description": "AI-First Skills Directory",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect.js",
+    "generate": "node scripts/generate.js",
+    "update": "npm run collect && npm run generate",
+    "test": "node --test scripts/__tests__/"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
