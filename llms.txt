@@ -1,0 +1,15 @@
+# FindSkills
+
+> AI Skills directory. Aggregates Skills from ClawHub, GitHub, and curated sources for AI Agent discovery.
+
+FindSkills is a curated index of AI Agent Skills. It collects Skills from multiple sources and provides structured data for programmatic access. Data is updated daily via automated collection.
+
+## API
+
+- [Skills JSON](/skills.json): Structured JSON data with all Skills, suitable for programmatic consumption
+- [Full Skills Catalog](/llms-full.txt): Complete Markdown listing of all Skills in one file
+
+## About
+
+- [Website](https://findskills.vercel.app): Browse Skills with search and filtering
+- [GitHub](https://github.com/seanwangai/findskills): Source code and contribution guide
