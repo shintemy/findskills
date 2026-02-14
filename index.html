@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FindSkills - AI-First Skills Directory</title>
+  <meta name="description" content="FindSkills - AI-First Skills Directory. Discover AI Agent Skills from ClawHub, GitHub, and curated sources. Machine-readable via skills.json and llms.txt.">
+  <meta name="robots" content="index, follow">
+  <link rel="alternate" type="application/json" href="/skills.json" title="Skills JSON API">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DataCatalog",
+  "name": "FindSkills",
+  "description": "AI-First Skills Directory",
+  "url": "https://findskills.vercel.app",
+  "dataset": {
+    "@type": "Dataset",
+    "name": "AI Agent Skills",
+    "description": "Curated index of AI Agent Skills from ClawHub, GitHub, and manual sources",
+    "distribution": {
+      "@type": "DataDownload",
+      "contentUrl": "https://findskills.vercel.app/skills.json",
+      "encodingFormat": "application/json"
+    }
+  }
+}
+  </script>
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --bg-primary: #0d1117;
+      --bg-card: #161b22;
+      --bg-card-hover: #1c2330;
+      --text-primary: #e6edf3;
+      --text-secondary: #8b949e;
+      --accent: #58a6ff;
+      --accent-hover: #79b8ff;
+      --border: #30363d;
+      --badge-clawhub: #2ea043;
+      --badge-github: #58a6ff;
+      --badge-manual: #8b949e;
+      --tag-bg: #1f2937;
+      --tag-text: #a5b4c4;
+      --radius: 8px;
+      --radius-sm: 4px;
+      --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans",
+        Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    }
+
+    html {
+      font-family: var(--font-stack);
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: var(--accent-hover);
+      text-decoration: underline;
+    }
+
+    /* Header */
+    .header {
+      text-align: center;
+      padding: 3rem 1.5rem 2rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .header h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.25rem;
+    }
+
+    .header .tagline {
+      color: var(--text-secondary);
+      font-size: 1.125rem;
+      margin-bottom: 1rem;
+    }
+
+    .header .stats {
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+    }
+
+    /* Search */
+    .search-container {
+      max-width: 600px;
+      margin: 2rem auto 0;
+      padding: 0 1.5rem;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 0.75rem 1rem 0.75rem 2.75rem;
+      font-size: 1rem;
+      font-family: var(--font-stack);
+      background: var(--bg-card);
+      color: var(--text-primary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-input::placeholder {
+      color: var(--text-secondary);
+    }
+
+    .search-input:focus {
+      border-color: var(--accent);
+    }
+
+    .search-wrapper {
+      position: relative;
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 0.875rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-secondary);
+      pointer-events: none;
+      width: 18px;
+      height: 18px;
+    }
+
+    .filter-stats {
+      text-align: center;
+      color: var(--text-secondary);
+      font-size: 0.8125rem;
+      margin-top: 0.75rem;
+      min-height: 1.25rem;
+    }
+
+    /* Main content */
+    .main {
+      flex: 1;
+      max-width: 1200px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+
+    /* Grid */
+    .skills-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.25rem;
+    }
+
+    @media (min-width: 640px) {
+      .skills-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (min-width: 1024px) {
+      .skills-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
+    /* Skill card */
+    .skill-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      transition: background-color 0.2s, border-color 0.2s;
+    }
+
+    .skill-card:hover {
+      background: var(--bg-card-hover);
+      border-color: var(--accent);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+    }
+
+    .card-name {
+      font-size: 1.125rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .source-badge {
+      font-size: 0.6875rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      padding: 0.125rem 0.5rem;
+      border-radius: 9999px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      color: #fff;
+    }
+
+    .source-badge.clawhub {
+      background: var(--badge-clawhub);
+    }
+
+    .source-badge.github {
+      background: var(--badge-github);
+    }
+
+    .source-badge.manual {
+      background: var(--badge-manual);
+    }
+
+    .card-description {
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+      line-height: 1.5;
+      flex: 1;
+    }
+
+    .card-author {
+      color: var(--text-secondary);
+      font-size: 0.8125rem;
+    }
+
+    .card-author span {
+      color: var(--text-primary);
+      font-weight: 500;
+    }
+
+    .card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.375rem;
+    }
+
+    .tag {
+      font-size: 0.75rem;
+      padding: 0.125rem 0.5rem;
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      border-radius: 9999px;
+      border: 1px solid var(--border);
+    }
+
+    .card-footer {
+      padding-top: 0.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .github-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.375rem;
+      font-size: 0.8125rem;
+      color: var(--accent);
+    }
+
+    .github-link:hover {
+      color: var(--accent-hover);
+    }
+
+    .github-link svg {
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+    }
+
+    /* Error state */
+    .error-message {
+      text-align: center;
+      color: #f85149;
+      padding: 3rem 1.5rem;
+      font-size: 1rem;
+    }
+
+    .error-message p {
+      margin-bottom: 0.5rem;
+    }
+
+    .error-message .error-detail {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }
+
+    /* Loading state */
+    .loading {
+      text-align: center;
+      padding: 3rem 1.5rem;
+      color: var(--text-secondary);
+      font-size: 1rem;
+    }
+
+    /* Empty state */
+    .empty-state {
+      text-align: center;
+      padding: 3rem 1.5rem;
+      color: var(--text-secondary);
+      font-size: 1rem;
+      grid-column: 1 / -1;
+    }
+
+    /* Footer */
+    .footer {
+      border-top: 1px solid var(--border);
+      text-align: center;
+      padding: 2rem 1.5rem;
+      color: var(--text-secondary);
+      font-size: 0.8125rem;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.75rem;
+    }
+
+    .footer-links a {
+      color: var(--text-secondary);
+    }
+
+    .footer-links a:hover {
+      color: var(--accent);
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <h1>FindSkills</h1>
+    <p class="tagline">AI-First Skills Directory</p>
+    <p class="stats" id="stats">Loading skills...</p>
+    <div class="search-container">
+      <div class="search-wrapper">
+        <svg class="search-icon" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+          <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd"/>
+        </svg>
+        <input
+          type="search"
+          class="search-input"
+          id="search"
+          placeholder="Search skills by name, description, or tag..."
+          aria-label="Search skills"
+          autocomplete="off"
+        >
+      </div>
+      <p class="filter-stats" id="filter-stats"></p>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="skills-grid" id="skills-grid">
+      <p class="loading">Loading skills...</p>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-links">
+      <a href="/skills.json">skills.json</a>
+      <a href="/llms.txt">llms.txt</a>
+      <a href="https://github.com/seanwangai/findskills" target="_blank" rel="noopener">GitHub</a>
+    </div>
+    <p>FindSkills - Open directory of AI Agent Skills</p>
+  </footer>
+
+  <script>
+    (function () {
+      'use strict';
+
+      var allSkills = [];
+      var totalCount = 0;
+      var sources = [];
+
+      var gridEl = document.getElementById('skills-grid');
+      var statsEl = document.getElementById('stats');
+      var filterStatsEl = document.getElementById('filter-stats');
+      var searchEl = document.getElementById('search');
+
+      function escapeHtml(str) {
+        var div = document.createElement('div');
+        div.appendChild(document.createTextNode(str));
+        return div.innerHTML;
+      }
+
+      function badgeClass(source) {
+        if (source === 'clawhub') return 'clawhub';
+        if (source === 'github') return 'github';
+        return 'manual';
+      }
+
+      function renderCard(skill) {
+        var tagsHtml = (skill.tags || [])
+          .map(function (t) { return '<span class="tag">' + escapeHtml(t) + '</span>'; })
+          .join('');
+
+        return (
+          '<article class="skill-card">' +
+            '<div class="card-header">' +
+              '<span class="card-name" title="' + escapeHtml(skill.name) + '">' + escapeHtml(skill.name) + '</span>' +
+              '<span class="source-badge ' + badgeClass(skill.source) + '">' + escapeHtml(skill.source) + '</span>' +
+            '</div>' +
+            '<p class="card-description">' + escapeHtml(skill.description) + '</p>' +
+            '<p class="card-author">by <span>' + escapeHtml(skill.author) + '</span></p>' +
+            '<div class="card-tags">' + tagsHtml + '</div>' +
+            '<div class="card-footer">' +
+              '<a class="github-link" href="' + escapeHtml(skill.github) + '" target="_blank" rel="noopener">' +
+                '<svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">' +
+                  '<path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>' +
+                '</svg>' +
+                'View on GitHub' +
+              '</a>' +
+            '</div>' +
+          '</article>'
+        );
+      }
+
+      function renderSkills(skills) {
+        if (skills.length === 0) {
+          gridEl.innerHTML = '<p class="empty-state">No skills match your search.</p>';
+          return;
+        }
+        gridEl.innerHTML = skills.map(renderCard).join('');
+      }
+
+      function updateStats() {
+        var uniqueSources = [];
+        var seen = {};
+        for (var i = 0; i < sources.length; i++) {
+          if (!seen[sources[i]]) {
+            seen[sources[i]] = true;
+            uniqueSources.push(sources[i]);
+          }
+        }
+        statsEl.textContent = totalCount + ' Skills from ' + uniqueSources.length + ' source' + (uniqueSources.length !== 1 ? 's' : '');
+      }
+
+      function filterSkills(query) {
+        if (!query) {
+          renderSkills(allSkills);
+          filterStatsEl.textContent = '';
+          return;
+        }
+        var q = query.toLowerCase();
+        var filtered = allSkills.filter(function (skill) {
+          if (skill.name.toLowerCase().indexOf(q) !== -1) return true;
+          if (skill.description.toLowerCase().indexOf(q) !== -1) return true;
+          var tags = skill.tags || [];
+          for (var i = 0; i < tags.length; i++) {
+            if (tags[i].toLowerCase().indexOf(q) !== -1) return true;
+          }
+          return false;
+        });
+        renderSkills(filtered);
+        filterStatsEl.textContent = 'Showing ' + filtered.length + ' of ' + totalCount + ' skills';
+      }
+
+      searchEl.addEventListener('input', function () {
+        filterSkills(searchEl.value.trim());
+      });
+
+      document.addEventListener('DOMContentLoaded', function () {
+        fetch('skills.json')
+          .then(function (res) {
+            if (!res.ok) {
+              throw new Error('Failed to load skills.json (HTTP ' + res.status + ')');
+            }
+            return res.json();
+          })
+          .then(function (data) {
+            allSkills = data.skills || [];
+            totalCount = allSkills.length;
+            sources = (data.meta && data.meta.sources) || [];
+            updateStats();
+            renderSkills(allSkills);
+          })
+          .catch(function (err) {
+            gridEl.innerHTML =
+              '<div class="error-message">' +
+                '<p>Unable to load skills.</p>' +
+                '<p class="error-detail">' + escapeHtml(err.message) + '</p>' +
+              '</div>';
+            statsEl.textContent = 'Error loading skills';
+          });
+      });
+    })();
+  </script>
+</body>
+</html>
