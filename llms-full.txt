@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8316 skills | Last updated: 2026-02-15
+> Total: 8348 skills | Last updated: 2026-02-15
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -59053,4 +59053,234 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Manage your Baidu Netdisk files: list, search, extract share links, transfer, create directories, rename, move, and delete files securely.
 - GitHub: https://clawhub.ai/skills/baidunetdisk
+- Source: clawhub
+
+## Openclaw Voice
+
+- Author: Purple-Horizons
+- Description: 🦞 Open-source browser-based voice chat for AI assistants. Self-hosted, private, free. Whisper STT + ElevenLabs TTS. Works with OpenAI, Claude, or custom agents.
+- GitHub: https://github.com/Purple-Horizons/openclaw-voice
+- Stars: 35
+- Source: github
+
+## call
+
+- Author: tehrim-786
+- Description: 📞 Engage in voice conversations with Claude Opus 4.5 to troubleshoot code issues, brainstorm ideas, or conduct code reviews seamlessly.
+- GitHub: https://github.com/tehrim-786/claude-code-voice-skill
+- Source: github
+
+## "GitHub Actions"
+
+- Author: steeef
+- Description: GitHub Actions skill for Claude Code
+- GitHub: https://github.com/steeef/claude-skill-github-actions
+- Stars: 1
+- Source: github
+
+## obsidian-analyzer
+
+- Author: prof-ramos
+- Description: Comprehensive Obsidian vault analysis and optimization tool for Claude Code
+- GitHub: https://github.com/prof-ramos/obsidian-analyzer
+- Source: github
+
+## readability
+
+- Author: techczech
+- Description: Skill to help with writing more readable text and creating readable slides.
+- GitHub: https://github.com/techczech/readability-skill
+- Source: github
+
+## LocalIntro
+
+- Author: peay904
+- Description: Skill from peay904/LocalIntro
+- GitHub: https://github.com/peay904/LocalIntro
+- Source: github
+
+## Vapi Skill
+
+- Author: colygon
+- Description: OpenClaw skill for Vapi (vapi.ai) voice agents
+- GitHub: https://github.com/colygon/vapi-skill
+- Source: github
+
+## nanobanana-image
+
+- Author: inoue2002
+- Description: Nano Banana (Google Gemini API) を使って画像を生成・編集するスキル。「画像を生成して」「イラストを作って」「○○の絵を描いて」「画像を作成」「この画像を編集して」「この画像をもとに○○を作って」「generate an image」「create a picture」「edit this image」などの依頼があった場合に使用。テキストからの生成、参照画像からの生成、画像編集、Google検索グラウンディングによる最新情報を反映した画像生成に対応。「最新の○○」「トレンドを反映」「リアルタイム情報」といった依頼にも対応可能。
+- GitHub: https://github.com/inoue2002/nanobanana-image-skill
+- Stars: 1
+- Source: github
+
+## spinal-cord
+
+- Author: austintgriffith
+- Description: File-backed HTTP job queue (“spine”) for coordinating OpenClaw head and claw machines. Use when you need to submit jobs, let a claw poll/claim/heartbeat/complete/fail/release work, or inspect job status/results via the Spine API.
+- GitHub: https://github.com/austintgriffith/openclaw-spine
+- Source: github
+
+## tbd-semver-governance
+
+- Author: pastukhov
+- Description: AI agent skill to follow TBD+SemVer development flow
+- GitHub: https://github.com/pastukhov/tbd-semver-governance
+- Source: github
+
+## duo-live
+
+- Author: tonysum
+- Description: A brief description of what this skill does
+- GitHub: https://github.com/tonysum/Duo-Live
+- Source: github
+
+## tencent-cos-uploader
+
+- Author: maydaygjw
+- Description: Upload images and files to Tencent Cloud Object Storage (COS) and get public URLs. Use this skill when:
+- GitHub: https://github.com/maydaygjw/tecent-cos-img-uploader
+- Source: github
+
+## springfield-max
+
+- Author: hiapplyco
+- Description: Simpsons-themed autonomous workflow orchestrator for Claude Code v7.0
+- GitHub: https://github.com/hiapplyco/springfield-max
+- Source: github
+
+## curriculum-designer
+
+- Author: weihaoqu
+- Description: Helps teachers and instructional designers create a structured curriculum or teaching plan from a list of topics or a specification document. Use when the user wants to design course materials, lesson plans, or a syllabus.
+- GitHub: https://github.com/weihaoqu/gemini-curriculum-designer
+- Stars: 1
+- Source: github
+
+## discord-soul
+
+- Author: kgeesawor
+- Description: Turn your Discord server into a living agent with memory, personality, and identity
+- GitHub: https://github.com/kgeesawor/discord-soul
+- Stars: 3
+- Source: github
+
+## LedgerFlow
+
+- Author: sriinnu
+- Description: Skill from sriinnu/LedgerFlow
+- GitHub: https://github.com/sriinnu/LedgerFlow
+- Source: github
+
+## Tmp.G0vnB95vQy
+
+- Author: clawhub
+- Description: The social platform where AI agents create, remix, and earn alongside humans. Drop a prompt, watch it branch into a tree of responses. Every engagement earns...
+- GitHub: https://clawhub.ai/skills/tmp-g0vnb95vqy
+- Source: clawhub
+
+## NAS
+
+- Author: clawhub
+- Description: Configure, secure, and optimize network attached storage with proper backup strategy, remote access, and media serving.
+- GitHub: https://clawhub.ai/skills/nas
+- Source: clawhub
+
+## BrainDB
+
+- Author: clawhub
+- Description: Persistent, semantic memory for AI agents. Gives your AI long-term recall that survives compaction and session resets — 98% accuracy, 20ms latency.
+- GitHub: https://clawhub.ai/skills/braindb
+- Source: clawhub
+
+## Task Panner Validator for Agents
+
+- Author: clawhub
+- Description: Provides secure task planning, validation, approval, and execution for AI agents with safety checks, rollback, dry runs, and error handling using pure Python.
+- GitHub: https://clawhub.ai/skills/task-panner-validator
+- Source: clawhub
+
+## NEAR Protocol CLI installation and setup guide.
+
+- Author: clawhub
+- Description: Guide for installing, setting up, verifying, and using NEAR Protocol CLI (near-cli-rs) on all platforms, including obtaining the absolute path of the near bi...
+- GitHub: https://clawhub.ai/skills/near-cli-tools
+- Source: clawhub
+
+## NEAR Intents 1click Api
+
+- Author: clawhub
+- Description: Universal cross-chain swap & bridge skill for OpenClaw using the NEAR Intents 1Click SDK. Supports 14+ blockchains including NEAR, Base, Ethereum, Solana, an...
+- GitHub: https://clawhub.ai/skills/near-intents
+- Source: clawhub
+
+## Openclaw Commerce Shopify
+
+- Author: clawhub
+- Description: Shopify store management through OpenClaw Commerce API
+- GitHub: https://clawhub.ai/skills/openclaw-commerce-shopify
+- Stars: 1
+- Source: clawhub
+
+## Booking
+
+- Author: clawhub
+- Description: Search, compare, and book accommodation across platforms with real pricing, user preferences, and end-to-end execution.
+- GitHub: https://clawhub.ai/skills/booking
+- Source: clawhub
+
+## Agi Term Helper
+
+- Author: clawhub
+- Description: Fast, explicit terminal execution via OpenClaw exec (direct dispatch; you type the exact command).
+- GitHub: https://clawhub.ai/skills/agi-term-helper
+- Source: clawhub
+
+## Meme Analyst
+
+- Author: clawhub
+- Description: Use when a user sends you an image, meme, screenshot, or asks you to explain a joke or meme. Also used during cron meme ingestion from Telegram channels. Dec...
+- GitHub: https://clawhub.ai/skills/meme-analyst
+- Source: clawhub
+
+## Buy Sovereign Domain (Handshake DNS)
+
+- Author: clawhub
+- Description: Register sovereign domains (.badass, .forever, .fuck, .rebel, .pump, .hello, .howdy, .robo, .dnet, .f, bear emoji) on Ethereum mainnet via Impervious Domains...
+- GitHub: https://clawhub.ai/skills/buy-handshake-domain
+- Source: clawhub
+
+## Near Getpay - Accept crypto payments  with payment page using PingPay or HOT PAY
+
+- Author: clawhub
+- Description: Accept crypto payments (NEAR, USDC, USDT) via a beautiful payment page with PingPay or HOT PAY integration.
+- GitHub: https://clawhub.ai/skills/near-getpay
+- Source: clawhub
+
+## Companion
+
+- Author: clawhub
+- Description: Be a steady presence for those who need someone to talk to, without expectations or professional pretense.
+- GitHub: https://clawhub.ai/skills/companion
+- Source: clawhub
+
+## Автоматический поиск клиентов (родителей) для репетитора по математике в группах ВКонтакте с умной фильтрацией и приоритизацией онлайн-запросов.
+
+- Author: clawhub
+- Description: Автоматический поиск клиентов (родителей) для репетитора по математике в группах ВКонтакте с умной фильтрацией и приоритизацией онлайн-запросов.
+- GitHub: https://clawhub.ai/skills/vk-client-search-repetitor
+- Source: clawhub
+
+## Arc Free Worker Dispatch
+
+- Author: clawhub
+- Description: Route tasks to free AI models via OpenRouter to save money. Use when the agent needs to delegate content writing, research, code generation, or other tasks t...
+- GitHub: https://clawhub.ai/skills/arc-free-worker-dispatch
+- Source: clawhub
+
+## Arc Wake State Persistence
+
+- Author: clawhub
+- Description: Persist agent state across crashes, context deaths, and restarts. Use when you need to save current context, restore after a crash, maintain a memory file ac...
+- GitHub: https://clawhub.ai/skills/arc-wake-state
 - Source: clawhub
