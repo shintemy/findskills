@@ -21,6 +21,35 @@ export function parseLinkHeader(header) {
   return match ? match[1] : null;
 }
 
+const RELEVANCE_KEYWORDS = [
+  'skill', 'agent', 'claude', 'openclaw', 'claw', 'llm', 'ai agent',
+  'mcp', 'copilot', 'chatgpt', 'gemini', 'deepseek', 'moltbot',
+  'agentic', 'prompt engineering'
+];
+
+const RELEVANCE_PATTERNS = RELEVANCE_KEYWORDS.map(
+  kw => new RegExp(`\\b${kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i')
+);
+
+export function isRelevantSkill(skill, skillMdContent) {
+  // Signal 1: Valid SKILL.md frontmatter (starts with ---)
+  if (skillMdContent) {
+    const trimmed = skillMdContent.trim();
+    if (trimmed.startsWith('---') && trimmed.indexOf('---', 3) > 3) {
+      return true;
+    }
+  }
+
+  // Signal 2: Word-boundary keyword match in name + description + tags
+  const text = [
+    skill.name || '',
+    skill.description || '',
+    ...(skill.tags || [])
+  ].join(' ');
+
+  return RELEVANCE_PATTERNS.some(re => re.test(text));
+}
+
 export function deduplicateSkills(skills) {
   const map = new Map();
   for (const skill of skills) {
@@ -124,7 +153,52 @@ async function collectFromGitHub() {
     }
   }
 
-  return skills;
+  // Filter: fetch SKILL.md content for each candidate and check relevance
+  console.log(`  Filtering ${skills.length} candidates for relevance...`);
+  const filtered = [];
+
+  for (const skill of skills) {
+    const match = skill.github.match(/github\.com\/([^/]+)\/([^/]+)/);
+    if (!match) continue;
+
+    const [, owner, repo] = match;
+    let skillMdContent = null;
+
+    try {
+      const mdUrl = `https://raw.githubusercontent.com/${owner}/${repo}/HEAD/SKILL.md`;
+      const mdRes = await fetch(mdUrl, {
+        headers: { 'User-Agent': 'FindSkills-Collector' }
+      });
+      if (mdRes.ok) {
+        skillMdContent = await mdRes.text();
+      }
+    } catch {
+      // Ignore fetch errors, will rely on keyword matching
+    }
+
+    if (isRelevantSkill(skill, skillMdContent)) {
+      // Enrich from SKILL.md frontmatter if available
+      if (skillMdContent) {
+        const fmMatch = skillMdContent.match(/^---\n([\s\S]*?)\n---/);
+        if (fmMatch) {
+          const fm = fmMatch[1];
+          const nameMatch = fm.match(/^name:\s*(.+)$/m);
+          const descMatch = fm.match(/^description:\s*(.+)$/m);
+          if (nameMatch) skill.name = nameMatch[1].trim();
+          if (descMatch && skill.description.startsWith('Skill from ')) {
+            skill.description = descMatch[1].trim();
+          }
+        }
+      }
+      filtered.push(skill);
+    }
+
+    // Small delay to avoid rate limiting raw.githubusercontent.com
+    await new Promise(r => setTimeout(r, 200));
+  }
+
+  console.log(`  ${filtered.length} of ${skills.length} skills passed relevance filter`);
+  return filtered;
 }
 
 async function collectFromSources() {

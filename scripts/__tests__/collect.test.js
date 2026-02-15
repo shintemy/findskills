@@ -1,6 +1,6 @@
 import { describe, it } from 'node:test';
 import assert from 'node:assert/strict';
-import { deduplicateSkills, mergeSkillsData, normalizeSkillId, parseLinkHeader } from '../collect.js';
+import { deduplicateSkills, mergeSkillsData, normalizeSkillId, parseLinkHeader, isRelevantSkill } from '../collect.js';
 
 describe('normalizeSkillId', () => {
   it('creates id from author and name', () => {
@@ -73,5 +73,38 @@ describe('parseLinkHeader', () => {
 
   it('returns null for null input', () => {
     assert.equal(parseLinkHeader(null), null);
+  });
+});
+
+describe('isRelevantSkill', () => {
+  it('accepts skill with SKILL.md frontmatter', () => {
+    const skill = { name: 'Random Name', description: 'No keywords', author: 'someone', tags: [] };
+    const skillMd = '---\nname: My Skill\ndescription: Does stuff\n---\n# My Skill';
+    assert.equal(isRelevantSkill(skill, skillMd), true);
+  });
+
+  it('accepts skill with agent keyword in description', () => {
+    const skill = { name: 'My Tool', description: 'A Claude Code skill for testing', author: 'dev', tags: [] };
+    assert.equal(isRelevantSkill(skill, null), true);
+  });
+
+  it('accepts skill with relevant tags', () => {
+    const skill = { name: 'Tool', description: 'Does stuff', author: 'dev', tags: ['claude', 'agent'] };
+    assert.equal(isRelevantSkill(skill, null), true);
+  });
+
+  it('rejects skill with no signals', () => {
+    const skill = { name: 'Blog', description: 'My personal blog', author: 'dev', tags: [] };
+    assert.equal(isRelevantSkill(skill, null), false);
+  });
+
+  it('accepts skill with openclaw keyword in name', () => {
+    const skill = { name: 'OpenClaw Container Tools', description: 'Some tool', author: 'dev', tags: [] };
+    assert.equal(isRelevantSkill(skill, null), true);
+  });
+
+  it('rejects game project', () => {
+    const skill = { name: 'Chain Survivor', description: 'A 2D game which seek for survive', author: 'dev', tags: [] };
+    assert.equal(isRelevantSkill(skill, null), false);
   });
 });
