@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8190 skills | Last updated: 2026-02-15
+> Total: 8281 skills | Last updated: 2026-02-15
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -58164,4 +58164,641 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Access unsecured credit lines for AI agents on the Arc Network using the Credex Protocol. Use for borrowing USDC against reputation, repaying debt to grow credit limits, providing liquidity as an LP, or managing cross-chain USDC via Circle Bridge. Triggers on "borrow from credex", "repay debt", "deposit to pool", "check credit status", "provide liquidity", or any credit/lending task on Arc.
 - GitHub: https://clawhub.ai/skills/credex-protocol
+- Source: clawhub
+
+## agentuidb
+
+- Author: matanrak
+- Description: >-
+- GitHub: https://github.com/matanrak/agentuidb
+- Source: github
+
+## Ai Agent
+
+- Author: lxgicstudios
+- Description: AI agent framework scaffolding. ReAct, tool-use, planning patterns for autonomous agents.
+- GitHub: https://github.com/lxgicstudios/ai-agent
+- Source: github
+
+## Instagram Data Extractor CLI
+
+- Author: lxgicstudios
+- Description: Instagram data extraction CLI. Profiles, posts, stories, reels with anti-detection. No API key.
+- GitHub: https://github.com/lxgicstudios/insta-fetch
+- Source: github
+
+## asana
+
+- Author: L-U-C-K-Y
+- Description: "Manage Asana tasks, projects, briefs, status updates, custom fields, dependencies, attachments, events, and timelines via Personal Access Token (PAT)."
+- GitHub: https://github.com/L-U-C-K-Y/asana-agent-skill
+- Source: github
+
+## code-security-audit
+
+- Author: chaigon
+- Description: >
+- GitHub: https://github.com/chaigon/code-security-audit-skill
+- Source: github
+
+## flutter-best-practices
+
+- Author: kaelen-hou
+- Description: Flutter performance optimization guidelines - A Claude Code skill with 20+ rules
+- GitHub: https://github.com/kaelen-hou/flutter-best-practices
+- Source: github
+
+## molt-bar
+
+- Author: alonw0
+- Description: A skill for AI agents (MoltBot) to hang out in a virtual pixel-art pub.
+- GitHub: https://github.com/alonw0/molt-bar-skill
+- Source: github
+
+## kitten
+
+- Author: aelaguiz
+- Description: Kitten skill for clawdbot
+- GitHub: https://github.com/aelaguiz/kitten_skill
+- Source: github
+
+## postiz
+
+- Author: gitroomhq
+- Description: Postiz Agents CLI - connect it to Claude / OpenClaw / etc, to schedule social media posts 🤖
+- GitHub: https://github.com/gitroomhq/postiz-agent
+- Source: github
+
+## web-scraping
+
+- Author: yfe404
+- Description: Intelligent web scraping Claude Code skill with automatic strategy selection and TypeScript-first Apify Actor development
+- GitHub: https://github.com/yfe404/web-scraper
+- Source: github
+
+## thx-boris
+
+- Author: saad-ahmed
+- Description: Boris Cherny, creator of Claude Code, shows how he uses Claude Code to build Claude Code. This is a skill to package up that information. 
+- GitHub: https://github.com/saad-ahmed/thx-boris
+- Source: github
+
+## mcp-integration
+
+- Author: lunarpulse
+- Description: openclaw-mcp-plugin enables using mcp , remote streamable http
+- GitHub: https://github.com/lunarpulse/openclaw-mcp-plugin
+- Source: github
+
+## east
+
+- Author: elaraai
+- Description: A simple and easy programming language with a strong structural type system
+- GitHub: https://github.com/elaraai/east
+- Source: github
+
+## erpnext-frappe-dev
+
+- Author: 6missedcalls
+- Description: Claude Code skill with comprehensive Frappe Framework & ERPNext v15 API reference. Gives your AI assistant full context on DocTypes, controllers, hooks, REST APIs, form scripts, and 14+ module references.
+- GitHub: https://github.com/6missedcalls/erpnext-skill
+- Source: github
+
+## fizz
+
+- Author: visionik
+- Description: Fizzy.do Kanban CLI for managing boards, cards, comments, tags, and more.
+- GitHub: https://github.com/visionik/fizz
+- Source: github
+
+## devonthink
+
+- Author: TomBener
+- Description: DEVONthink Skill
+- GitHub: https://github.com/TomBener/devonthink-skill
+- Source: github
+
+## PatchEvergreen Breaking Changes Analyzer
+
+- Author: yourpropertyexpert
+- Description: An MCP server to connect to the PatchEvergreen library breaking changes API
+- GitHub: https://github.com/yourpropertyexpert/PatchEvergreen-MCP-Server
+- Source: github
+
+## deepthink
+
+- Author: wxhou
+- Description: Adaptive deep thinking skill - automatically detects complexity and adjusts thinking depth (3/4-5/6 rounds). Optimized to minimize token usage.
+- GitHub: https://github.com/wxhou/deepthink
+- Source: github
+
+## cache-strategy
+
+- Author: lxgicstudios
+- Description: AI-powered caching strategy generator - optimal cache TTLs and invalidation with GPT
+- GitHub: https://github.com/lxgicstudios/ai-cache-strategy
+- Source: github
+
+## Remotion Video Project
+
+- Author: codetech7
+- Description: Working on motion video
+- GitHub: https://github.com/codetech7/remotion
+- Source: github
+
+## skill-creator
+
+- Author: alexanderchan
+- Description: my own take on skill creator with mcp also
+- GitHub: https://github.com/alexanderchan/skill-creator
+- Source: github
+
+## design
+
+- Author: MASAKASUNO1
+- Description: geminidesign CLI でHTMLデザインを生成・管理する。Webページ、UIコンポーネント、ランディングページなどのデザイン作成時に使用。
+- GitHub: https://github.com/MASAKASUNO1/geminidesign
+- Source: github
+
+## consensus-coder
+
+- Author: bsharpe
+- Description: Multi-model collaborative coding workflow for complex problems
+- GitHub: https://github.com/bsharpe/consensus-coder
+- Source: github
+
+## sensibo
+
+- Author: harley
+- Description: AI agent skill for checking and controlling Sensibo AC units
+- GitHub: https://github.com/harley/sensibo
+- Source: github
+
+## JSON Transform CLI
+
+- Author: lxgicstudios
+- Description: Transform JSON like a pro. Query, reshape, flatten, diff. jq alternative.
+- GitHub: https://github.com/lxgicstudios/jsonmorph
+- Source: github
+
+## weibo_hotspot_analyzer
+
+- Author: violin86318
+- Description: 微博热搜产品创意分析器 - 基于 AI 的自动化工具
+- GitHub: https://github.com/violin86318/weibo-hotspot-analyzer
+- Source: github
+
+## 1password Cli For Agents Skills
+
+- Author: sichengchen
+- Description: Skill from sichengchen/1password-cli-for-agents-skills
+- GitHub: https://github.com/sichengchen/1password-cli-for-agents-skills
+- Source: github
+
+## inspect-value
+
+- Author: HuakunShen
+- Description: Web Component value inspector — works in React, Vue, Angular, Svelte, or vanilla JS. Drop-in debug panel for any       framework. 
+- GitHub: https://github.com/HuakunShen/inspect-value
+- Source: github
+
+## whisper-transcribe
+
+- Author: SpillwaveSolutions
+- Description: Uses Whisper Transcribe plus grounding to accurately transcribe audio files into text
+- GitHub: https://github.com/SpillwaveSolutions/whisper-transcribe
+- Source: github
+
+## frontend-design
+
+- Author: ReachDem
+- Description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.
+- GitHub: https://github.com/ReachDem/taw-delivery
+- Source: github
+
+## Naruto
+
+- Author: Nisith24
+- Description: Skill from Nisith24/naruto
+- GitHub: https://github.com/Nisith24/naruto
+- Source: github
+
+## project-audit
+
+- Author: TheBoscoClub
+- Description: Modular project audit skill for Claude Code - comprehensive security, quality, and testing phases
+- GitHub: https://github.com/TheBoscoClub/claude-test-skill
+- Source: github
+
+## chrome-automation
+
+- Author: jameingh
+- Description: Chrome-automation skill for everyone.
+- GitHub: https://github.com/jameingh/chrome-automation
+- Source: github
+
+## memos_crud
+
+- Author: lukefan
+- Description: Perform CRUD operations on a Memos instance (create, read, update, delete memos).
+- GitHub: https://github.com/lukefan/memos_crud
+- Source: github
+
+## manus
+
+- Author: disi3r
+- Description: Manus AI autonomous agent skill for OpenClaw - Research, development, automation, and media generation
+- GitHub: https://github.com/disi3r/openclaw-skill-manus
+- Source: github
+
+## tanstack-start
+
+- Author: ferdousbhai
+- Description: Claude Code skill for TanStack Start full-stack React framework
+- GitHub: https://github.com/ferdousbhai/tanstack-start-skill
+- Source: github
+
+## x-auto-operator
+
+- Author: yordyi
+- Description: |
+- GitHub: https://github.com/yordyi/skillforx
+- Source: github
+
+## Vibedesign Skill
+
+- Author: hamzadiaz
+- Description: OpenClaw skill for generating animated React components via VibeDesign
+- GitHub: https://github.com/hamzadiaz/vibedesign-skill
+- Source: github
+
+## DeepResearch
+
+- Author: starlink-awaken
+- Description: Systematic multi-phase deep research framework for AI agents
+- GitHub: https://github.com/starlink-awaken/deep-research-skill
+- Source: github
+
+## ssq-predictor
+
+- Author: ma-pony
+- Description: 双色球预测分析 Agent Skill，融合概率统计、物理学、易经玄学三维度分析，支持 Claude Code / Cursor / Windsurf / Codex CLI
+- GitHub: https://github.com/ma-pony/ssq-predictor
+- Source: github
+
+## instant-postgres
+
+- Author: atilafassina
+- Description: Skill for instant postgres provisioning
+- GitHub: https://github.com/atilafassina/instant-postgres-skill
+- Source: github
+
+## ts-tui-game-skill
+
+- Author: Kadajett
+- Description: An AI skill for making beautiful functional TUI games with typescript
+- GitHub: https://github.com/Kadajett/ts-tui-game-skill
+- Source: github
+
+## Shelltrader
+
+- Author: tylrd
+- Description: Skill from tylrd/shelltrader
+- GitHub: https://github.com/tylrd/shelltrader
+- Source: github
+
+## morphism-mapper
+
+- Author: pinren
+- Description: Category Theory Morphism Mapper - Cross-domain problem solving using category theory
+- GitHub: https://github.com/pinren/morphism-mapper
+- Source: github
+
+## html-ppt-designer
+
+- Author: andyhuo520
+- Description: HTML PPT Designer v5.2 - 智能演示文稿设计器，将任何内容转化为精致的 HTML 演示文稿
+- GitHub: https://github.com/andyhuo520/html-ppt-designer
+- Source: github
+
+## aos-constitutional-governance
+
+- Author: genesalvatore
+- Description: aos-openclaw-constitutional
+- GitHub: https://github.com/genesalvatore/aos-openclaw-constitutional
+- Source: github
+
+## Remy
+
+- Author: remy-onpot
+- Description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.
+- GitHub: https://github.com/remy-onpot/Remy
+- Source: github
+
+## node-aws-security-audit
+
+- Author: Grenguar
+- Description: Security audits for Node.js on AWS — NextJS, Lambda, ECS, API Gateway, IAM, and OWASP Top 10. Score 0-100 with remediation code.
+- GitHub: https://github.com/Grenguar/node-aws-security-audit
+- Source: github
+
+## Unbrowse Grokipedia
+
+- Author: skymoore
+- Description: Skill from skymoore/unbrowse-grokipedia
+- GitHub: https://github.com/skymoore/unbrowse-grokipedia
+- Source: github
+
+## pam-consultant-agent
+
+- Author: jerm71279
+- Description: AI-powered PAM Security Consultant for assessments, compliance mapping, NHI discovery, and migrations
+- GitHub: https://github.com/jerm71279/pam-consultant-agent
+- Source: github
+
+## jekyll-research-theme
+
+- Author: lalithaar
+- Description: An open-research repository investigating systemic gaps in human-centric design, covering Robomorphic robotics, psychophysical UI scaling, and adversarial loops in food informatics.
+- GitHub: https://github.com/lalithaar/Interdisciplinary-Systems-Research-Lab
+- Source: github
+
+## managing-mails
+
+- Author: sangpire
+- Description: 🤖 IMAP Mail 관리용 Agent Skill
+- GitHub: https://github.com/sangpire/managing-mails
+- Source: github
+
+## satgate
+
+- Author: SatGate-io
+- Description: SatGate CLI — Manage your API's economic firewall from the terminal
+- GitHub: https://github.com/SatGate-io/satgate-cli
+- Source: github
+
+## Onedrive Connect
+
+- Author: lucapaone76
+- Description: A Python project to provide a skill (in the sense of the standard skills now available for LLMs) to connect to OneDrive. personal. Any specific token must be injected by secrets 
+- GitHub: https://github.com/lucapaone76/onedrive-connect
+- Source: github
+
+## statistical-analysis
+
+- Author: TerryFYL
+- Description: A Claude Code skill that transforms Claude into a professional statistical consultant. Diagnoses data quality and assumptions before analysis, auto-selects methods, and outputs APA tables + figures + result paragraphs.
+- GitHub: https://github.com/TerryFYL/claude-statistical-analysis-skill
+- Source: github
+
+## sql-check
+
+- Author: lxgicstudios
+- Description: Detect SQL injection vulnerabilities in your codebase using AI.
+- GitHub: https://github.com/lxgicstudios/ai-sql-check
+- Source: github
+
+## hello-world
+
+- Author: FAeN399
+- Description: A simple example skill that demonstrates the basic structure of a Claude Skill, including scripts, references, and best practices. Use this as a learning template when creating new skills.
+- GitHub: https://github.com/FAeN399/Skill-Repo
+- Source: github
+
+## atlassian-cli
+
+- Author: doug-skinner
+- Description: Claude skill that provides natural language control of Atlassian ACLI, allowing you to manage Jira issues, Confluence pages, and more directly from Claude Code
+- GitHub: https://github.com/doug-skinner/acli-claude-skill
+- Source: github
+
+## statgen-skills
+
+- Author: CamelliaRui
+- Description: A custom agent skill for statistical genetics workflows
+- GitHub: https://github.com/CamelliaRui/statgen_skills
+- Source: github
+
+## gltchlaunch
+
+- Author: rougecoin-project
+- Description: The GLTCH agent network on Base. Launch tokens, discover agents, trade as signal.
+- GitHub: https://github.com/rougecoin-project/gltchlaunch
+- Source: github
+
+## naming-gen
+
+- Author: lxgicstudios
+- Description: AI-powered naming assistant - better variable and function names with GPT
+- GitHub: https://github.com/lxgicstudios/ai-naming
+- Source: github
+
+## Claude Skill Version Sync
+
+- Author: wrsmith108
+- Description: Claude Code skill for detecting and synchronizing Node.js version specifications across project files
+- GitHub: https://github.com/wrsmith108/claude-skill-version-sync
+- Source: github
+
+## linear
+
+- Author: cipher-shad0w
+- Description: Manage Linear issues, projects, teams, and documents from the command line using the linear CLI. Create, update, list, and track issues; manage projects and milestones; interact with the Linear GraphQL API.
+- GitHub: https://github.com/cipher-shad0w/openclaw-linear
+- Source: github
+
+## speak-tts
+
+- Author: EmZod
+- Description: A fast CLI tool for Agents to convert their text output to speech using Chatterbox TTS on Apple Silicon. Agent SKILL files included.
+- GitHub: https://github.com/EmZod/speak
+- Source: github
+
+## klipper
+
+- Author: Brandawg93
+- Description: Monitor your print status from OpenClaw
+- GitHub: https://github.com/Brandawg93/clawhub-klipper
+- Source: github
+
+## Impromptu
+
+- Author: clawhub
+- Description: A platform where agents design conversation trees and earn from what they create. Humans and agents collaborate as co-equal partners. 80% of subscription rev...
+- GitHub: https://clawhub.ai/skills/impromptu
+- Source: clawhub
+
+## android-agent
+
+- Author: clawhub
+- Description: Control a real Android phone via USB or network using GPT-4o vision to run tasks like opening apps, typing, tapping, and automation scripts.
+- GitHub: https://clawhub.ai/skills/android-agent
+- Source: clawhub
+
+## Tweet Cli
+
+- Author: clawhub
+- Description: Post tweets, replies, and quotes to X/Twitter using the official API v2. Use this instead of bird for posting. Uses API credits so only post when explicitly...
+- GitHub: https://clawhub.ai/skills/tweet-cli
+- Source: clawhub
+
+## agi-terminal-helper
+
+- Author: clawhub
+- Description: Guidance for using terminal tools safely (propose first, then run; workspace-first).
+- GitHub: https://clawhub.ai/skills/agi-terminal-helper
+- Source: clawhub
+
+## Apple Search Ads
+
+- Author: clawhub
+- Description: Manage Apple Search Ads campaigns, ad groups, keywords, and reports via the asa-cli tool. Use when the user asks about Apple Search Ads management, campaign...
+- GitHub: https://clawhub.ai/skills/apple-search-ads-skill
+- Source: clawhub
+
+## Optionns
+
+- Author: clawhub
+- Description: Autonomously monitor live sports games and execute micro-bets on one-touch barrier options with instant mockUSDC settlement on Solana Devnet.
+- GitHub: https://clawhub.ai/skills/sports
+- Source: clawhub
+
+## Evolution State Analyzer
+
+- Author: clawhub
+- Description: Analyzes the evolution memory graph for stagnation patterns, recurring failures, and success plateaus. Generates actionable insights to guide future evolutio...
+- GitHub: https://clawhub.ai/skills/evolution-state-analyzer
+- Source: clawhub
+
+## Emoji Reaction Automator
+
+- Author: clawhub
+- Description: Suggests emoji reactions for text messages based on sentiment analysis (positive, negative, funny, neutral). Use to increase social engagement and human-like...
+- GitHub: https://clawhub.ai/skills/emoji-reaction-automator
+- Source: clawhub
+
+## Wps Skill
+
+- Author: clawhub
+- Description: Automate WPS Office tasks including document creation, opening, format conversion, batch processing, and managing WPS 365 smart forms, docs, sheets, flowchar...
+- GitHub: https://clawhub.ai/skills/wps-office
+- Source: clawhub
+
+## AgentChat
+
+- Author: clawhub
+- Description: Command-line tool for encrypted agent-to-agent messaging and small file sharing over public Nostr relays using npub/nsec authentication.
+- GitHub: https://clawhub.ai/skills/wangwu-agent-chat
+- Source: clawhub
+
+## Skill Namer
+
+- Author: clawhub
+- Description: Generate short, molty-native names for skills, ENS domains, and agent-economy primitives when the obvious words are taken. Produces high-traction “new primit...
+- GitHub: https://clawhub.ai/skills/skill-namer
+- Source: clawhub
+
+## memory-compression-system
+
+- Author: clawhub
+- Description: Integrated memory management and extreme context compression for OpenClaw. Combines memory management, compression, search, and automation in one unified skill.
+- GitHub: https://clawhub.ai/skills/memory-compression-system
+- Source: clawhub
+
+## Clawdtm Review
+
+- Author: clawhub
+- Description: Review and rate OpenClaw skills on ClawdTM. See what humans and AI agents recommend.
+- GitHub: https://clawhub.ai/skills/clawdtm-review
+- Source: clawhub
+
+## Clawdtm Advisor
+
+- Author: clawhub
+- Description: Search, evaluate security, and install OpenClaw skills. Helps your human find the right skills safely.
+- GitHub: https://clawhub.ai/skills/clawdtm-advisor
+- Source: clawhub
+
+## Flight
+
+- Author: clawhub
+- Description: Search, compare, book, and manage flights with price tracking, multi-platform comparison, and loyalty optimization.
+- GitHub: https://clawhub.ai/skills/flight
+- Source: clawhub
+
+## Alchemy Web3
+
+- Author: clawhub
+- Description: Interact with Alchemy's Web3 APIs for blockchain data, NFTs, tokens, transfers, and webhooks across 80+ chains.
+- GitHub: https://clawhub.ai/skills/alchemy-web3
+- Source: clawhub
+
+## Zapier MCP
+
+- Author: clawhub
+- Description: Connect 8,000+ apps via Zapier MCP. Includes full UI integration for Clawdbot Gateway dashboard. Use when setting up Zapier integration, connecting apps, or...
+- GitHub: https://clawhub.ai/skills/zapier-mcp
+- Source: clawhub
+
+## Pinchtab
+
+- Author: clawhub
+- Description: Control a headless or headed Chrome browser via Pinchtab's HTTP API. Use for web automation, scraping, form filling, navigation, and multi-tab workflows. Pin...
+- GitHub: https://clawhub.ai/skills/pinchtab
+- Source: clawhub
+
+## ClawKeeper
+
+- Author: clawhub
+- Description: Manage the user's tasks and habits — the human-side work that the claw can't do but can help with. Handles adding, completing, editing, deleting tasks and ha...
+- GitHub: https://clawhub.ai/skills/clawkeeper
+- Source: clawhub
+
+## baidunetdisk
+
+- Author: clawhub
+- Description: 支持百度网盘文件查看、搜索、分享链接提取、一键转存及目录创建的综合管理功能。
+- GitHub: https://clawhub.ai/skills/baidunetdisk-skill
+- Source: clawhub
+
+## Fiscal
+
+- Author: clawhub
+- Description: Act as a personal accountant using the fiscal CLI for Actual Budget. Set up budgets, import bank transactions, categorize spending, manage accounts, create r...
+- GitHub: https://clawhub.ai/skills/fiscal
+- Source: clawhub
+
+## Udemy
+
+- Author: clawhub
+- Description: Create, publish, and monetize Udemy courses with curriculum design, AI-assisted content creation, and platform compliance.
+- GitHub: https://clawhub.ai/skills/udemy
+- Source: clawhub
+
+## FinClaw
+
+- Author: clawhub
+- Description: AI finance assistant — real-time quotes, charts, technical analysis, portfolio tracking, price alerts, watchlists, daily briefings, macro economics, and sent...
+- GitHub: https://clawhub.ai/skills/finclaw
+- Source: clawhub
+
+## Webflow
+
+- Author: clawhub
+- Description: Build, launch, and optimize Webflow sites with responsive design, CMS architecture, and clean handoffs.
+- GitHub: https://clawhub.ai/skills/webflow
+- Source: clawhub
+
+## Dropshipping
+
+- Author: clawhub
+- Description: Build and scale dropshipping businesses with product research, supplier management, order automation, and multi-channel operations.
+- GitHub: https://clawhub.ai/skills/dropshipping
+- Source: clawhub
+
+## OpenClaw Dashboard Connector - ClawHQ
+
+- Author: clawhub
+- Description: Reports AI agent status to ClawHQ dashboard via API on each heartbeat or manual trigger for real-time monitoring.
+- GitHub: https://clawhub.ai/skills/clawhq-dashboard
 - Source: clawhub
