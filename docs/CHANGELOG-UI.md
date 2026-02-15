@@ -67,3 +67,12 @@
 **涉及文件：** `index.html`（HTML、CSS、JS）
 
 ---
+
+### 5. 添加 Favicon
+
+**修改内容：**
+- 在 `<head>` 中添加 favicon，使用 `assets/findskills_logo.svg`（橙色 claw 图标）
+
+**涉及文件：** `index.html`
+
+---
