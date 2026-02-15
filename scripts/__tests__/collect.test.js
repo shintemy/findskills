@@ -1,6 +1,6 @@
 import { describe, it } from 'node:test';
 import assert from 'node:assert/strict';
-import { deduplicateSkills, mergeSkillsData, normalizeSkillId } from '../collect.js';
+import { deduplicateSkills, mergeSkillsData, normalizeSkillId, parseLinkHeader } from '../collect.js';
 
 describe('normalizeSkillId', () => {
   it('creates id from author and name', () => {
@@ -57,5 +57,21 @@ describe('mergeSkillsData', () => {
     const result = mergeSkillsData(existing, newSkills);
     assert.equal(result.skills.length, 1);
     assert.equal(result.skills[0].name, 'New Name');
+  });
+});
+
+describe('parseLinkHeader', () => {
+  it('extracts next URL from Link header', () => {
+    const header = '<https://api.github.com/search/code?q=test&page=2>; rel="next", <https://api.github.com/search/code?q=test&page=5>; rel="last"';
+    assert.equal(parseLinkHeader(header), 'https://api.github.com/search/code?q=test&page=2');
+  });
+
+  it('returns null when no next link', () => {
+    const header = '<https://api.github.com/search/code?q=test&page=1>; rel="prev"';
+    assert.equal(parseLinkHeader(header), null);
+  });
+
+  it('returns null for null input', () => {
+    assert.equal(parseLinkHeader(null), null);
   });
 });

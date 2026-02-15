@@ -15,6 +15,12 @@ export function normalizeSkillId(author, name) {
   return `${clean(author)}-${clean(name)}`;
 }
 
+export function parseLinkHeader(header) {
+  if (!header) return null;
+  const match = header.match(/<([^>]+)>;\s*rel="next"/);
+  return match ? match[1] : null;
+}
+
 export function deduplicateSkills(skills) {
   const map = new Map();
   for (const skill of skills) {
@@ -52,45 +58,70 @@ async function collectFromGitHub() {
 
   const skills = [];
   const query = 'filename:SKILL.md path:/';
-  const url = `https://api.github.com/search/code?q=${encodeURIComponent(query)}&per_page=100`;
+  let url = `https://api.github.com/search/code?q=${encodeURIComponent(query)}&per_page=100`;
+  let page = 0;
+  const today = new Date().toISOString().split('T')[0];
 
-  try {
-    const res = await fetch(url, {
-      headers: {
-        'Authorization': `token ${token}`,
-        'Accept': 'application/vnd.github.v3+json',
-        'User-Agent': 'FindSkills-Collector'
-      }
-    });
+  while (url && page < 10) {
+    page++;
+    console.log(`  GitHub search page ${page}...`);
 
-    if (!res.ok) {
-      console.error(`GitHub API error: ${res.status} ${res.statusText}`);
-      return [];
-    }
-
-    const data = await res.json();
-    const today = new Date().toISOString().split('T')[0];
-
-    for (const item of data.items || []) {
-      const repo = item.repository;
-      const author = repo.owner.login;
-      const name = repo.name;
-
-      skills.push({
-        id: normalizeSkillId(author, name),
-        name: name.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
-        description: repo.description || `Skill from ${author}/${name}`,
-        author,
-        github: repo.html_url,
-        source: 'github',
-        tags: repo.topics || [],
-        category: '',
-        updated_at: repo.updated_at ? repo.updated_at.split('T')[0] : today,
-        collected_at: today
+    try {
+      const res = await fetch(url, {
+        headers: {
+          'Authorization': `token ${token}`,
+          'Accept': 'application/vnd.github.v3+json',
+          'User-Agent': 'FindSkills-Collector'
+        }
       });
+
+      if (res.status === 403) {
+        const retryAfter = res.headers.get('retry-after');
+        if (retryAfter) {
+          console.warn(`  Rate limited. Retrying after ${retryAfter}s...`);
+          await new Promise(r => setTimeout(r, parseInt(retryAfter, 10) * 1000));
+          page--; // Retry same page
+          continue;
+        }
+        console.error('GitHub API 403 Forbidden (no Retry-After)');
+        break;
+      }
+
+      if (!res.ok) {
+        console.error(`GitHub API error: ${res.status} ${res.statusText}`);
+        break;
+      }
+
+      const data = await res.json();
+
+      for (const item of data.items || []) {
+        const repo = item.repository;
+        const author = repo.owner.login;
+        const name = repo.name;
+
+        skills.push({
+          id: normalizeSkillId(author, name),
+          name: name.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
+          description: repo.description || `Skill from ${author}/${name}`,
+          author,
+          github: repo.html_url,
+          source: 'github',
+          tags: repo.topics || [],
+          category: '',
+          updated_at: repo.updated_at ? repo.updated_at.split('T')[0] : today,
+          collected_at: today
+        });
+      }
+
+      // Follow pagination via Link header
+      url = parseLinkHeader(res.headers.get('link'));
+
+      // Respect rate limit: GitHub code search allows 10 req/min
+      if (url) await new Promise(r => setTimeout(r, 6500));
+    } catch (err) {
+      console.error('GitHub collection failed:', err.message);
+      break;
     }
-  } catch (err) {
-    console.error('GitHub collection failed:', err.message);
   }
 
   return skills;
