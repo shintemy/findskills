@@ -80,16 +80,21 @@
 
     /* Header */
     .header {
+      position: relative;
       text-align: center;
       padding: 3rem 1.5rem 2rem;
       border-bottom: 1px solid var(--border);
     }
 
     .header h1 {
-      font-size: 2.5rem;
-      font-weight: 700;
-      letter-spacing: -0.02em;
       margin-bottom: 0.25rem;
+    }
+
+    .header-logo img {
+      display: block;
+      margin: 0 auto;
+      height: 6rem;
+      width: auto;
     }
 
     .header .tagline {
@@ -103,16 +108,61 @@
       font-size: 0.875rem;
     }
 
-    /* Search */
-    .search-container {
-      max-width: 600px;
-      margin: 2rem auto 0;
-      padding: 0 1.5rem;
+    /* Search - magnifying glass icon in top-right */
+    .search-trigger {
+      position: absolute;
+      top: 1.5rem;
+      right: 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 2.5rem;
+      height: 2.5rem;
+      padding: 0;
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: color 0.2s, border-color 0.2s, background-color 0.2s;
     }
 
-    .search-input {
+    .search-trigger:hover {
+      color: var(--accent);
+      border-color: var(--accent);
+      background: var(--bg-card);
+    }
+
+    .search-trigger svg {
+      width: 1.25rem;
+      height: 1.25rem;
+    }
+
+    .search-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      background: rgba(13, 17, 23, 0.9);
+      padding: 2rem 1.5rem;
+    }
+
+    .search-overlay.is-open {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      padding-top: 4rem;
+    }
+
+    .search-overlay .search-inner {
       width: 100%;
-      padding: 0.75rem 1rem 0.75rem 2.75rem;
+      max-width: 500px;
+    }
+
+    .search-overlay .search-input {
+      width: 100%;
+      padding: 0.875rem 1rem 0.875rem 2.75rem;
       font-size: 1rem;
       font-family: var(--font-stack);
       background: var(--bg-card);
@@ -123,19 +173,19 @@
       transition: border-color 0.2s;
     }
 
-    .search-input::placeholder {
+    .search-overlay .search-input::placeholder {
       color: var(--text-secondary);
     }
 
-    .search-input:focus {
+    .search-overlay .search-input:focus {
       border-color: var(--accent);
     }
 
-    .search-wrapper {
+    .search-overlay .search-wrapper {
       position: relative;
     }
 
-    .search-icon {
+    .search-overlay .search-icon {
       position: absolute;
       left: 0.875rem;
       top: 50%;
@@ -146,12 +196,31 @@
       height: 18px;
     }
 
-    .filter-stats {
+    .search-overlay .filter-stats {
       text-align: center;
       color: var(--text-secondary);
       font-size: 0.8125rem;
       margin-top: 0.75rem;
       min-height: 1.25rem;
+    }
+
+    .search-overlay .search-close {
+      position: absolute;
+      top: 1.5rem;
+      right: 1.5rem;
+      width: 2rem;
+      height: 2rem;
+      padding: 0;
+      background: transparent;
+      border: none;
+      color: var(--text-secondary);
+      cursor: pointer;
+      font-size: 1.5rem;
+      line-height: 1;
+    }
+
+    .search-overlay .search-close:hover {
+      color: var(--text-primary);
     }
 
     /* Main content */
@@ -166,19 +235,19 @@
     /* Grid */
     .skills-grid {
       display: grid;
-      grid-template-columns: 1fr;
+      grid-template-columns: minmax(0, 1fr);
       gap: 1.25rem;
     }
 
     @media (min-width: 640px) {
       .skills-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(2, minmax(0, 1fr));
       }
     }
 
     @media (min-width: 1024px) {
       .skills-grid {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(3, minmax(0, 1fr));
       }
     }
 
@@ -192,6 +261,7 @@
       flex-direction: column;
       gap: 0.75rem;
       transition: background-color 0.2s, border-color 0.2s;
+      min-width: 0;
     }
 
     .skill-card:hover {
@@ -357,10 +427,21 @@
 </head>
 <body>
   <header class="header">
-    <h1>FindSkills</h1>
+    <h1 class="header-logo">
+      <img src="assets/findskills_logo_dark_background.svg" alt="FindSkills">
+    </h1>
     <p class="tagline">AI-First Skills Directory</p>
     <p class="stats" id="stats">Loading skills...</p>
-    <div class="search-container">
+    <button type="button" class="search-trigger" id="search-trigger" aria-label="Open search">
+      <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+        <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd"/>
+      </svg>
+    </button>
+  </header>
+
+  <div class="search-overlay" id="search-overlay">
+    <button type="button" class="search-close" id="search-close" aria-label="Close search">&times;</button>
+    <div class="search-inner">
       <div class="search-wrapper">
         <svg class="search-icon" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
           <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd"/>
@@ -373,12 +454,11 @@
           placeholder="Search skills by name, description, or tag..."
           aria-label="Search skills"
           autocomplete="off"
-          toolparamdescription="Search keyword to filter skills by name, description, or tags"
         >
       </div>
       <p class="filter-stats" id="filter-stats"></p>
     </div>
-  </header>
+  </div>
 
   <main class="main">
     <div class="skills-grid" id="skills-grid">
@@ -488,6 +568,28 @@
 
       searchEl.addEventListener('input', function () {
         filterSkills(searchEl.value.trim());
+      });
+
+      var searchTrigger = document.getElementById('search-trigger');
+      var searchOverlay = document.getElementById('search-overlay');
+      var searchClose = document.getElementById('search-close');
+
+      function openSearch() {
+        searchOverlay.classList.add('is-open');
+        searchEl.focus();
+      }
+
+      function closeSearch() {
+        searchOverlay.classList.remove('is-open');
+      }
+
+      searchTrigger.addEventListener('click', openSearch);
+      searchClose.addEventListener('click', closeSearch);
+      searchOverlay.addEventListener('click', function (e) {
+        if (e.target === searchOverlay) closeSearch();
+      });
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') closeSearch();
       });
 
       // WebMCP: Register tools for AI Agent browser interaction
