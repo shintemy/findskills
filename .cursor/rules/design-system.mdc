@@ -1,0 +1,28 @@
+---
+description: FindSkills Design System — All UI MUST follow design/design-system.json strictly. No ad-hoc values.
+alwaysApply: true
+---
+
+# FindSkills Design System
+
+**Authority**: `design/design-system.json` is the ONLY design specification. All UI implementations MUST comply strictly.
+
+## Core Rules
+
+1. **Colors**: Use ONLY colors defined in design-system.json. Brand accent is coral `#FF9667`, NOT blue.
+2. **Typography**: Inter font (400, 500, 600, 700). Use typography scale (h1, h2, body-md, body-sm, caption).
+3. **Spacing**: 8px base unit. Use semantic tokens (space-1, space-2, space-3, etc.).
+4. **Cards**: `rounded-lg` (16px), `shadow-sm` at rest, `shadow-md` on hover, `border light-border`.
+5. **Badges**: `rounded-md`, height 24–28px. Map sources: clawhub→featured (brand), github→info, manual→neutral.
+6. **Links/Buttons**: Brand color for primary actions. Hover: brand-hover. Focus: shadow-focus-brand.
+7. **Forbidden**: Glassmorphism, neon glows, gradient text, raw hex in component code.
+
+## Implementation
+
+- Static HTML/CSS: Map design tokens to CSS custom properties in `:root`. Reference variables only.
+- New pages: Follow same pattern. Light theme default (`light-surface` bg, `light-elevated` cards).
+- Future React/Vite: Use Tailwind classes from design-system components section.
+
+## Reference
+
+Read `design/design-system.json` before any UI work. No creative improvisation.

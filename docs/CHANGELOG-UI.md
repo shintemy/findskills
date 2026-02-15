@@ -76,3 +76,20 @@
 **涉及文件：** `index.html`
 
 ---
+
+### 6. 严格遵循 design-system.json 重构全站 UI
+
+**修改内容：**
+- 将 design/design-system.json 设计 tokens 映射为 CSS 变量（品牌色、浅色主题、字体、间距、圆角、阴影）
+- 浅色主题：背景 light-surface，卡片 light-elevated，品牌色 #FF9667
+- 字体：Inter（Google Fonts）
+- 卡片：rounded-lg，shadow-sm / hover shadow-md
+- 徽章：clawhub→featured (brand)，github→info，manual→neutral
+- 链接/强调色：从蓝色改为品牌珊瑚色
+- 搜索遮罩：light 主题样式，focus shadow-focus-brand
+- Logo 切换为 findskills_logo_light_background.svg（适配浅色背景）
+- 新增 .cursor/rules/design-system.mdc：后续功能和页面必须遵循设计规范
+
+**涉及文件：** `index.html`、`.cursor/rules/design-system.mdc`
+
+---

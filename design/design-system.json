@@ -1,0 +1,610 @@
+{
+  "$schema": "FindSkills Design System — Complete AI Development Guide",
+  "$version": "1.0.0",
+  "$authority": "This file is the ONLY design specification source for AI-driven development. All UI implementations MUST comply strictly. No ad-hoc values, no external style systems, no creative improvisation.",
+
+  "designPrinciples": {
+    "P1_ClarityOverDecoration": "Information hierarchy must be scannable in 3 seconds. Remove anything that does not serve comprehension.",
+    "P2_BrandFirstContrast": "Use strong neutral contrast for structure; apply coral (#FF9667) exclusively as the action/accent signal.",
+    "P3_SystemicConsistency": "Only use tokens defined in this file. Never introduce raw hex, pixel, or font values in component code.",
+    "P4_BalancedWarmth": "Layouts should be rational and spacious. Warmth comes solely from the brand accent, not from decoration.",
+    "P5_AccessibleByDefault": "Body text contrast ≥ 4.5:1, large text ≥ 3:1, interactive elements ≥ 3:1 (WCAG AA).",
+    "P6_SinglePrimaryAction": "Each viewport should have at most ONE primary (brand-filled) action button. All others must be secondary or ghost.",
+    "P7_ProgressiveDisclosure": "Show only what the user needs now. Use modals, dropdowns, and expandable sections to defer complexity."
+  },
+
+  "forbiddenPatterns": [
+    "Glassmorphism, frosted-glass, or blur-heavy backgrounds",
+    "Neon glows, gradient text, or animated gradient backgrounds",
+    "Playful cartoon illustrations or mascots",
+    "Decorative luxury ornaments, gold/silver accents",
+    "Handwritten or script typefaces",
+    "Heavy drop shadows, colored shadows, or layered dramatic shadows",
+    "Inline styles with raw pixel/hex values — always use Tailwind tokens",
+    "Any color not defined in this file's color section",
+    "Compact/dense interaction modes — always use comfortable density"
+  ],
+
+  "technology": {
+    "framework": "React + Vite",
+    "styling": "Tailwind CSS v3 (classes only, no CSS-in-JS, no inline styles)",
+    "icons": "lucide-react (size: 14–24, strokeWidth: 2, rounded joins)",
+    "fonts": "Google Fonts — Inter (400, 500, 600, 700)"
+  },
+
+  "foundations": {
+
+    "color": {
+      "_usage": "All colors MUST be referenced via their Tailwind token. The hex values are listed for documentation only.",
+
+      "brand": {
+        "primary":      { "hex": "#FF9667", "tw": "brand",        "usage": "Primary CTA backgrounds, active indicators, accent icons" },
+        "primaryHover": { "hex": "#F07F4D", "tw": "brand-hover",  "usage": "Hover state for primary buttons/links" },
+        "primaryActive":{ "hex": "#E46F3A", "tw": "brand-active", "usage": "Pressed/active state for primary buttons" },
+        "deep":         { "hex": "#A53300", "tw": "brand-deep",   "usage": "High-contrast text on brand-tinted backgrounds (e.g. Featured badge text)" },
+        "tint10":       { "tw": "brand/10",  "usage": "Subtle brand backgrounds — active nav items, icon containers, featured badges" },
+        "tint15":       { "tw": "brand/15",  "usage": "Avatar placeholder backgrounds in tables" },
+        "tint20":       { "tw": "brand/20",  "usage": "Avatar backgrounds, border-radius demo fills" },
+        "tint30":       { "tw": "brand/30",  "usage": "Spacing-scale visualization bars" },
+        "tint50":       { "tw": "brand/50",  "usage": "Disabled primary button background" }
+      },
+
+      "light": {
+        "_theme": "Default (light) theme",
+        "background":    { "hex": "#FFFFFF", "tw": "light-bg",            "usage": "Page-level background (rarely used; surface preferred)" },
+        "surface":       { "hex": "#F8F9FB", "tw": "light-surface",       "usage": "Page canvas, section fills, hover states for secondary buttons" },
+        "elevated":      { "hex": "#FFFFFF", "tw": "light-elevated",      "usage": "Cards, modals, navigation bar, input backgrounds" },
+        "textPrimary":   { "hex": "#111111", "tw": "light-text-primary",  "usage": "Headings, body text, primary button text on brand bg" },
+        "textSecondary": { "hex": "#4B5563", "tw": "light-text-secondary","usage": "Supporting text, table cell text, alert body text" },
+        "textTertiary":  { "hex": "#6B7280", "tw": "light-text-tertiary", "usage": "Placeholder, captions, disabled text, breadcrumb inactive items" },
+        "border":        { "hex": "#E5E7EB", "tw": "light-border",        "usage": "Card borders, input borders, button outlines, dividers between nav items" },
+        "divider":       { "hex": "#EEF1F4", "tw": "light-divider",       "usage": "Horizontal rules, table row separators, section dividers" }
+      },
+
+      "dark": {
+        "_theme": "Dark theme",
+        "background":    { "hex": "#111111", "tw": "dark-bg",             "usage": "Dark page canvas" },
+        "surface":       { "hex": "#1A1A1A", "tw": "dark-surface",        "usage": "Dark section fills, card interiors" },
+        "elevated":      { "hex": "#242424", "tw": "dark-elevated",       "usage": "Dark modals, inputs, inner containers" },
+        "textPrimary":   { "hex": "#FFFFFF", "tw": "dark-text-primary",   "usage": "Dark headings and primary text" },
+        "textSecondary": { "hex": "#D1D5DB", "tw": "dark-text-secondary", "usage": "Dark supporting text" },
+        "textTertiary":  { "hex": "#9CA3AF", "tw": "dark-text-tertiary",  "usage": "Dark placeholders, captions" },
+        "border":        { "hex": "#374151", "tw": "dark-border",         "usage": "Dark card/input borders" },
+        "divider":       { "hex": "#2A2F36", "tw": "dark-divider",        "usage": "Dark horizontal rules" }
+      },
+
+      "semantic": {
+        "success": { "hex": "#1F9D62", "tw": "semantic-success", "usage": "Positive states — active badges, success alerts, upward trends" },
+        "warning": { "hex": "#D97706", "tw": "semantic-warning", "usage": "Caution states — pending badges, warning alerts" },
+        "danger":  { "hex": "#DC2626", "tw": "semantic-danger",  "usage": "Negative states — error alerts, failed badges, destructive buttons, notification dots" },
+        "info":    { "hex": "#2563EB", "tw": "semantic-info",    "usage": "Informational states — info alerts, info badges, neutral progress bars" }
+      },
+
+      "semanticTints": {
+        "_pattern": "{semantic-color}/{opacity} — e.g. bg-semantic-success/10",
+        "badgeBg":    "/10 on light, /20 on dark",
+        "alertBg":    "/10",
+        "alertBorder": "/30",
+        "hoverBg":    "/10 (destructive ghost button hover)"
+      }
+    },
+
+    "typography": {
+      "_fontStack": "font-sans → Inter, SF Pro Text, PingFang SC, Helvetica Neue, Arial, sans-serif",
+      "_monoStack": "font-mono → JetBrains Mono, SFMono-Regular, Menlo, Monaco, monospace",
+
+      "scale": {
+        "displayXL": { "tw": "text-display-xl", "size": "56px", "lineHeight": "64px", "weight": 700, "tracking": "-0.02em" },
+        "displayLG": { "tw": "text-display-lg", "size": "48px", "lineHeight": "56px", "weight": 700, "tracking": "-0.02em" },
+        "h1":        { "tw": "text-h1",         "size": "40px", "lineHeight": "48px", "weight": 700, "tracking": "-0.015em" },
+        "h2":        { "tw": "text-h2",         "size": "32px", "lineHeight": "40px", "weight": 700, "tracking": "-0.01em" },
+        "h3":        { "tw": "text-h3",         "size": "24px", "lineHeight": "32px", "weight": 600, "tracking": "-0.005em" },
+        "h4":        { "tw": "text-h4",         "size": "20px", "lineHeight": "28px", "weight": 600, "tracking": "0" },
+        "bodyLG":    { "tw": "text-body-lg",    "size": "18px", "lineHeight": "28px", "weight": 400, "tracking": "0" },
+        "bodyMD":    { "tw": "text-body-md",    "size": "16px", "lineHeight": "24px", "weight": 400, "tracking": "0" },
+        "bodySM":    { "tw": "text-body-sm",    "size": "14px", "lineHeight": "20px", "weight": 400, "tracking": "0.005em" },
+        "caption":   { "tw": "text-caption",    "size": "12px", "lineHeight": "16px", "weight": 500, "tracking": "0.01em" }
+      },
+
+      "weightClasses": {
+        "regular":  "font-normal",
+        "medium":   "font-medium",
+        "semibold": "font-semibold",
+        "bold":     "font-bold"
+      },
+
+      "rules": {
+        "headingToBodyGap": "mt-1 (8px) for subtitle after heading, mt-2 (16px) for body paragraph after heading",
+        "paragraphGap": "mt-1.5 (12px) between paragraphs",
+        "maxBodyWidth": "max-w-prose (720px) for readable body text columns",
+        "minInteractiveText": "text-body-sm (14px) — never use caption for clickable labels",
+        "sectionTitlePattern": "text-h2 + text-body-md subtitle with mt-1 gap, mb-3 before content"
+      }
+    },
+
+    "spacing": {
+      "_grid": "8px base unit. All spacing values are multiples of 4px.",
+      "scale": {
+        "0.5":  "4px",
+        "1":    "8px",
+        "1.5":  "12px",
+        "2":    "16px",
+        "3":    "24px",
+        "4":    "32px",
+        "5":    "40px",
+        "6":    "48px",
+        "8":    "64px",
+        "10":   "80px",
+        "12":   "96px"
+      },
+      "semanticUsage": {
+        "microGap":             { "token": "gap-1 / space-y-1",     "px": 8,  "usage": "Icon-to-label, inline badge gap" },
+        "elementGap":           { "token": "gap-1.5 / space-y-1.5", "px": 12, "usage": "Form field spacing, alert item gap, button group gap" },
+        "componentPadding":     { "token": "p-2",                   "px": 16, "usage": "Inner padding of inputs, alert banners, table cells, dropdown items" },
+        "cardPadding":          { "token": "p-3",                   "px": 24, "usage": "Card interior, nav bar interior, section containers" },
+        "blockGap":             { "token": "gap-3 / space-y-3",     "px": 24, "usage": "Gap between cards in grid, between subsections" },
+        "sectionGap":           { "token": "space-y-8",             "px": 64, "usage": "Main content vertical rhythm between major sections" },
+        "pageVerticalPadding":  { "token": "py-6 md:py-8",         "px": "48–64", "usage": "Top/bottom padding of <main>" },
+        "pageHorizontalPadding":{ "token": "px-2 md:px-4",         "px": "16–32", "usage": "Left/right padding of <main>" }
+      }
+    },
+
+    "borderRadius": {
+      "none":    { "tw": "rounded-none", "px": "0px",  "usage": "Never for UI components; reserved for full-bleed images" },
+      "sm":      { "tw": "rounded-sm",   "px": "4px",  "usage": "Checkbox corners, inline code blocks, spacing-vis bars" },
+      "default": { "tw": "rounded",      "px": "8px",  "usage": "Rarely used standalone; see md" },
+      "md":      { "tw": "rounded-md",   "px": "12px", "usage": "DEFAULT for most components: buttons, inputs, nav items, badges, alerts, table status pills, dropdown menus, icon containers" },
+      "lg":      { "tw": "rounded-lg",   "px": "16px", "usage": "Cards, modals, table containers, elevated panels, empty state containers" },
+      "xl":      { "tw": "rounded-xl",   "px": "24px", "usage": "Large decorative containers only" },
+      "full":    { "tw": "rounded-full",  "px": "9999px", "usage": "Avatars, toggle switches, progress bar tracks and fills, notification dots, spinners" }
+    },
+
+    "shadow": {
+      "sm":         { "tw": "shadow-sm",         "value": "0 1px 2px rgba(0,0,0,0.06)",      "usage": "Cards at rest, nav bar, toggle knob" },
+      "md":         { "tw": "shadow-md",         "value": "0 4px 12px rgba(0,0,0,0.10)",     "usage": "Card hover state, tooltip" },
+      "lg":         { "tw": "shadow-lg",         "value": "0 10px 24px rgba(0,0,0,0.14)",    "usage": "Modals, dropdown menus" },
+      "focusBrand": { "tw": "shadow-focus-brand","value": "0 0 0 3px rgba(255,150,103,0.35)","usage": "Focus ring for inputs and interactive elements" }
+    },
+
+    "motion": {
+      "fast":   { "tw": "duration-fast ease-standard",   "ms": 120, "usage": "Button hover/active, input focus, dropdown item hover, nav item hover" },
+      "normal": { "tw": "duration-normal ease-standard",  "ms": 200, "usage": "Card shadow transitions, tooltip appear" },
+      "slow":   { "tw": "duration-slow ease-standard",    "ms": 280, "usage": "Progress bar fill animation" },
+      "easing": "cubic-bezier(0.2, 0, 0, 1)",
+      "rules": [
+        "All interactive elements must have transition classes",
+        "Use transition-colors for bg/text changes, transition-shadow for focus/elevation, transition-all for combined",
+        "Never use spring/bounce easing",
+        "Never chain more than 2 sequential animations"
+      ]
+    },
+
+    "layout": {
+      "container": "max-w-container (1200px) mx-auto",
+      "grid": {
+        "desktop": "grid-cols-12 gap-3 (12 columns, 24px gutter)",
+        "tablet":  "grid-cols-8  gap-3 (8 columns, 24px gutter)",
+        "mobile":  "grid-cols-4  gap-3 (4 columns, 24px gutter)"
+      },
+      "responsiveBreakpoints": {
+        "sm": "640px — show/hide elements, stack to row",
+        "md": "768px — nav links visible, 2-col form grid, horizontal page header",
+        "lg": "1024px — 4-col KPI grid, search bar visible"
+      },
+      "pageStructure": {
+        "root": "min-h-screen bg-light-surface font-sans",
+        "nav":  "sticky top-0 z-50 h-[72px] bg-light-elevated border-b border-light-border shadow-sm",
+        "main": "max-w-container mx-auto px-2 md:px-4 py-6 md:py-8 space-y-8",
+        "sectionDivider": "border-light-divider my-8 (use <hr>)"
+      }
+    }
+  },
+
+  "components": {
+
+    "topNavigation": {
+      "container": "sticky top-0 z-50 h-[72px] bg-light-elevated border-b border-light-border shadow-sm flex items-center px-4 md:px-[32px]",
+      "logo": {
+        "mark": "w-[36px] h-[36px] rounded-md bg-brand flex items-center justify-center",
+        "markIcon": "size={20} text-light-text-primary",
+        "wordmark": "text-h4 text-light-text-primary font-semibold tracking-tight hidden sm:inline"
+      },
+      "navLinks": {
+        "container": "hidden md:flex items-center gap-3 ml-8",
+        "item": "flex items-center gap-1.5 px-2 py-1 rounded-md text-body-sm transition-colors duration-fast ease-standard",
+        "itemDefault": "text-light-text-secondary hover:text-light-text-primary hover:bg-light-surface",
+        "itemActive": "text-brand font-medium bg-brand/10",
+        "iconSize": 18
+      },
+      "searchInput": {
+        "container": "relative hidden lg:block",
+        "icon": "absolute left-[12px] top-1/2 -translate-y-1/2 text-light-text-tertiary size=16",
+        "input": "h-[44px] w-[260px] rounded-md border border-light-border bg-light-elevated pl-[36px] pr-2 text-body-sm text-light-text-primary placeholder:text-light-text-tertiary outline-none focus:shadow-focus-brand transition-shadow duration-fast"
+      },
+      "notificationBell": {
+        "button": "relative w-[44px] h-[44px] rounded-md flex items-center justify-center text-light-text-secondary hover:bg-light-surface transition-colors duration-fast",
+        "dot": "absolute top-[10px] right-[10px] w-[8px] h-[8px] rounded-full bg-semantic-danger"
+      },
+      "userMenu": {
+        "avatar": "w-[36px] h-[36px] rounded-full bg-brand/20 flex items-center justify-center text-brand font-semibold text-body-sm",
+        "chevron": "text-light-text-tertiary hidden sm:block size=16"
+      },
+      "verticalDivider": "h-[36px] w-[1px] bg-light-divider mx-0.5 hidden sm:block",
+      "mobileMenuButton": "md:hidden w-[44px] h-[44px] flex items-center justify-center text-light-text-secondary"
+    },
+
+    "pageHeader": {
+      "container": "flex flex-col md:flex-row md:items-end md:justify-between gap-2",
+      "title": "text-h1 text-light-text-primary",
+      "subtitle": "text-body-lg text-light-text-secondary mt-1",
+      "actions": "flex gap-1.5"
+    },
+
+    "buttons": {
+      "_rule": "Always include transition classes. Max ONE primary button per viewport.",
+
+      "primary": {
+        "sm":       "h-[36px] px-1.5 rounded-md bg-brand text-light-text-primary text-body-sm font-medium hover:bg-brand-hover active:bg-brand-active transition-colors duration-fast",
+        "md":       "h-[44px] px-2 rounded-md bg-brand text-light-text-primary text-body-md font-medium hover:bg-brand-hover active:bg-brand-active transition-colors duration-fast",
+        "lg":       "h-[52px] px-[20px] rounded-md bg-brand text-light-text-primary text-body-md font-medium hover:bg-brand-hover active:bg-brand-active transition-colors duration-fast",
+        "disabled": "h-[44px] px-2 rounded-md bg-brand/50 text-light-text-tertiary text-body-md font-medium cursor-not-allowed",
+        "withIcon": "flex items-center gap-1"
+      },
+      "secondary": {
+        "sm":       "h-[36px] px-1.5 rounded-md border border-light-border text-light-text-primary text-body-sm font-medium bg-transparent hover:bg-light-surface transition-colors duration-fast",
+        "md":       "h-[44px] px-2 rounded-md border border-light-border text-light-text-primary text-body-md font-medium bg-transparent hover:bg-light-surface transition-colors duration-fast",
+        "lg":       "h-[52px] px-[20px] rounded-md border border-light-border text-light-text-primary text-body-md font-medium bg-transparent hover:bg-light-surface transition-colors duration-fast",
+        "withIcon": "flex items-center gap-1"
+      },
+      "destructive": {
+        "filled": "h-[36px] px-1.5 rounded-md bg-semantic-danger text-white text-body-sm font-medium hover:opacity-90 transition-opacity duration-fast",
+        "ghost":  "h-[44px] px-2 rounded-md border border-semantic-danger text-semantic-danger text-body-md font-medium bg-transparent hover:bg-semantic-danger/10 transition-colors duration-fast",
+        "withIcon": "flex items-center gap-1"
+      },
+      "iconOnly": {
+        "md": "w-[44px] h-[44px] rounded-md border border-light-border flex items-center justify-center text-light-text-secondary hover:bg-light-surface hover:text-light-text-primary transition-colors duration-fast",
+        "sm": "w-[36px] h-[36px] rounded-md flex items-center justify-center text-light-text-tertiary hover:bg-light-surface transition-colors duration-fast",
+        "tableAction": "w-[32px] h-[32px] rounded-md flex items-center justify-center text-light-text-tertiary hover:text-light-text-primary hover:bg-light-surface transition-colors duration-fast",
+        "tableActionDanger": "w-[32px] h-[32px] rounded-md flex items-center justify-center text-light-text-tertiary hover:text-semantic-danger hover:bg-semantic-danger/10 transition-colors duration-fast"
+      },
+      "ghost": {
+        "sm": "h-[36px] px-1.5 rounded-md text-body-sm font-medium text-light-text-secondary bg-transparent hover:bg-light-surface transition-colors duration-fast"
+      },
+      "link": "text-body-sm font-medium text-brand hover:text-brand-hover transition-colors duration-fast flex items-center gap-0.5",
+
+      "darkTheme": {
+        "primary":   "h-[44px] px-2 rounded-md bg-brand text-light-text-primary text-body-md font-medium hover:bg-brand-hover transition-colors duration-fast",
+        "secondary": "h-[44px] px-2 rounded-md border border-dark-border text-dark-text-primary text-body-md font-medium bg-transparent hover:bg-dark-surface transition-colors duration-fast"
+      }
+    },
+
+    "inputs": {
+      "_rule": "All inputs use focus:shadow-focus-brand for focus ring. Never use browser-default outline.",
+
+      "text": {
+        "default": "w-full h-[44px] rounded-md border border-light-border bg-light-elevated px-2 text-body-md text-light-text-primary placeholder:text-light-text-tertiary outline-none focus:shadow-focus-brand transition-shadow duration-fast",
+        "withIconLeft": "w-full h-[44px] rounded-md border border-light-border bg-light-elevated pl-[36px] pr-2 text-body-md text-light-text-primary placeholder:text-light-text-tertiary outline-none focus:shadow-focus-brand transition-shadow duration-fast",
+        "iconPosition": "absolute left-[12px] top-1/2 -translate-y-1/2 text-light-text-tertiary",
+        "iconSize": 18,
+        "error": "w-full h-[44px] rounded-md border-2 border-semantic-danger bg-light-elevated px-2 text-body-md text-light-text-primary outline-none"
+      },
+      "select": "w-full h-[44px] rounded-md border border-light-border bg-light-elevated px-2 text-body-md text-light-text-primary outline-none focus:shadow-focus-brand transition-shadow duration-fast appearance-none",
+      "textarea": "w-full rounded-md border border-light-border bg-light-elevated px-2 py-1.5 text-body-md text-light-text-primary placeholder:text-light-text-tertiary outline-none focus:shadow-focus-brand transition-shadow duration-fast resize-none",
+      "checkbox": "w-[18px] h-[18px] rounded-sm border border-light-border accent-brand",
+      "label": "text-body-sm font-medium text-light-text-primary",
+      "helperText": "text-body-sm text-light-text-tertiary",
+      "errorMessage": "text-body-sm text-semantic-danger flex items-center gap-0.5",
+      "errorMessageIcon": "AlertTriangle size=14",
+      "fieldGroup": "space-y-1",
+      "formGrid": "grid grid-cols-1 md:grid-cols-2 gap-3 max-w-prose",
+
+      "darkTheme": {
+        "text": "w-full h-[44px] rounded-md border border-dark-border bg-dark-elevated px-2 text-body-md text-dark-text-primary placeholder:text-dark-text-tertiary outline-none focus:shadow-focus-brand transition-shadow duration-fast"
+      }
+    },
+
+    "toggle": {
+      "track": {
+        "base": "w-[44px] h-[24px] rounded-full relative cursor-pointer transition-colors duration-fast",
+        "on":  "bg-brand",
+        "off": "bg-light-border"
+      },
+      "thumb": {
+        "base": "absolute top-[2px] w-[20px] h-[20px] rounded-full bg-white shadow-sm transition-all duration-fast",
+        "on":  "left-[22px]",
+        "off": "left-[2px]"
+      },
+      "row": "flex items-center justify-between py-0.5",
+      "label": "text-body-sm text-light-text-secondary"
+    },
+
+    "cards": {
+      "_rule": "All cards use rounded-lg (16px). Default shadow-sm, hover shadow-md with transition-shadow duration-normal.",
+
+      "base": "rounded-lg bg-light-elevated border border-light-border p-3 shadow-sm hover:shadow-md transition-shadow duration-normal",
+      "kpiCard": {
+        "container": "rounded-lg bg-light-elevated border border-light-border p-3 shadow-sm hover:shadow-md transition-shadow duration-normal",
+        "headerRow": "flex items-center justify-between mb-2",
+        "label": "text-body-sm text-light-text-secondary",
+        "iconBox": "w-[36px] h-[36px] rounded-md bg-brand/10 flex items-center justify-center",
+        "icon": "text-brand size=20 strokeWidth=2",
+        "value": "text-h2 text-light-text-primary",
+        "trendRow": "flex items-center gap-0.5 mt-1",
+        "trendUp": "text-semantic-success",
+        "trendDown": "text-semantic-danger",
+        "trendValue": "text-body-sm font-medium",
+        "trendMeta": "text-caption text-light-text-tertiary ml-0.5"
+      },
+      "featureCard": {
+        "container": "rounded-lg bg-light-elevated border border-light-border p-3 shadow-sm hover:shadow-md transition-shadow duration-normal",
+        "iconBox": "w-[48px] h-[48px] rounded-md bg-brand/10 flex items-center justify-center mb-2",
+        "title": "text-h4 text-light-text-primary",
+        "description": "text-body-sm text-light-text-secondary mt-1",
+        "footer": "flex items-center gap-1 mt-2"
+      },
+      "mediaCard": {
+        "container": "rounded-lg bg-light-elevated border border-light-border shadow-sm overflow-hidden hover:shadow-md transition-shadow duration-normal",
+        "imagePlaceholder": "h-[120px] bg-gradient-to-br from-brand/20 to-brand/5 flex items-center justify-center",
+        "body": "p-3"
+      },
+      "userCard": {
+        "container": "rounded-lg bg-light-elevated border border-light-border p-3 shadow-sm hover:shadow-md transition-shadow duration-normal",
+        "avatar": "w-[48px] h-[48px] rounded-full bg-brand/20 flex items-center justify-center text-brand text-body-lg font-bold",
+        "name": "text-body-md font-semibold text-light-text-primary",
+        "role": "text-body-sm text-light-text-tertiary",
+        "statsRow": "mt-2 pt-2 border-t border-light-divider grid grid-cols-3 gap-1 text-center",
+        "statValue": "text-h4 text-light-text-primary",
+        "statLabel": "text-caption text-light-text-tertiary"
+      },
+      "kpiGrid": "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3",
+      "cardGrid3Col": "grid grid-cols-1 md:grid-cols-3 gap-3"
+    },
+
+    "badges": {
+      "_rule": "Height 24–28px. Use rounded-md. Text is text-body-sm font-medium or text-caption font-medium.",
+
+      "success":  "inline-flex items-center gap-0.5 h-[28px] px-1.5 rounded-md bg-semantic-success/10 text-semantic-success text-body-sm font-medium",
+      "warning":  "inline-flex items-center gap-0.5 h-[28px] px-1.5 rounded-md bg-semantic-warning/10 text-semantic-warning text-body-sm font-medium",
+      "danger":   "inline-flex items-center gap-0.5 h-[28px] px-1.5 rounded-md bg-semantic-danger/10 text-semantic-danger text-body-sm font-medium",
+      "info":     "inline-flex items-center gap-0.5 h-[28px] px-1.5 rounded-md bg-semantic-info/10 text-semantic-info text-body-sm font-medium",
+      "featured": "inline-flex items-center gap-0.5 h-[28px] px-1.5 rounded-md bg-brand/10 text-brand-deep text-body-sm font-medium",
+      "neutral":  "inline-flex items-center gap-0.5 h-[28px] px-1.5 rounded-md bg-light-surface border border-light-border text-light-text-secondary text-body-sm font-medium",
+      "dark":     "inline-flex items-center gap-0.5 h-[28px] px-1.5 rounded-md bg-light-text-primary text-white text-body-sm font-medium",
+      "tableInline": "inline-flex items-center h-[24px] px-1 rounded-md text-caption font-medium",
+      "tableActive": "bg-semantic-success/10 text-semantic-success",
+      "tablePending": "bg-semantic-warning/10 text-semantic-warning",
+      "tableInactive": "bg-light-surface text-light-text-tertiary",
+      "iconSize": 14,
+
+      "darkTheme": {
+        "success": "inline-flex items-center h-[28px] px-1.5 rounded-md bg-semantic-success/20 text-semantic-success text-body-sm font-medium",
+        "warning": "inline-flex items-center h-[28px] px-1.5 rounded-md bg-semantic-warning/20 text-semantic-warning text-body-sm font-medium",
+        "danger":  "inline-flex items-center h-[28px] px-1.5 rounded-md bg-semantic-danger/20 text-semantic-danger text-body-sm font-medium"
+      }
+    },
+
+    "alerts": {
+      "_rule": "Always include dismiss button. Icon is size=20. Title is font-semibold.",
+      "container": "flex items-start gap-1.5 p-2 rounded-md border",
+      "success": { "bg": "bg-semantic-success/10", "border": "border-semantic-success/30", "text": "text-semantic-success" },
+      "warning": { "bg": "bg-semantic-warning/10", "border": "border-semantic-warning/30", "text": "text-semantic-warning" },
+      "danger":  { "bg": "bg-semantic-danger/10",  "border": "border-semantic-danger/30",  "text": "text-semantic-danger" },
+      "info":    { "bg": "bg-semantic-info/10",    "border": "border-semantic-info/30",    "text": "text-semantic-info" },
+      "icon": "shrink-0 mt-[2px]",
+      "title": "text-body-sm font-semibold",
+      "message": "text-body-sm text-light-text-secondary",
+      "dismiss": "text-light-text-tertiary hover:text-light-text-primary transition-colors duration-fast"
+    },
+
+    "table": {
+      "container": "rounded-lg bg-light-elevated border border-light-border shadow-sm overflow-hidden",
+      "toolbar": "flex items-center justify-between p-2 border-b border-light-divider",
+      "toolbarButton": "h-[36px] px-1.5 rounded-md border border-light-border text-body-sm font-medium text-light-text-secondary bg-transparent hover:bg-light-surface transition-colors duration-fast flex items-center gap-1",
+      "toolbarMeta": "text-body-sm text-light-text-tertiary",
+      "thead": "border-b border-light-divider bg-light-surface",
+      "th": "text-caption font-medium text-light-text-tertiary uppercase tracking-wider px-2 py-1.5",
+      "tr": "border-b border-light-divider last:border-0 hover:bg-light-surface/60 transition-colors duration-fast",
+      "td": "px-2 py-1.5",
+      "cellText": "text-body-sm text-light-text-secondary",
+      "cellNamePrimary": "text-body-sm font-medium text-light-text-primary",
+      "cellNameSecondary": "text-caption text-light-text-tertiary",
+      "avatarCell": "w-[36px] h-[36px] rounded-full bg-brand/15 flex items-center justify-center text-brand text-body-sm font-semibold",
+      "progressBar": {
+        "track": "flex-1 h-[6px] bg-light-surface rounded-full overflow-hidden",
+        "fill": "h-full bg-brand rounded-full transition-all duration-slow",
+        "label": "text-caption text-light-text-tertiary w-[32px] text-right"
+      },
+      "actionsCell": "flex items-center justify-end gap-0.5",
+      "pagination": {
+        "container": "flex items-center justify-between px-2 py-1.5 border-t border-light-divider",
+        "meta": "text-body-sm text-light-text-tertiary",
+        "button": "h-[36px] px-1.5 rounded-md border border-light-border text-body-sm font-medium text-light-text-secondary bg-transparent hover:bg-light-surface transition-colors duration-fast",
+        "pageButton": "w-[36px] h-[36px] rounded-md text-body-sm font-medium transition-colors duration-fast",
+        "pageActive": "bg-brand text-light-text-primary",
+        "pageDefault": "text-light-text-secondary hover:bg-light-surface",
+        "ellipsis": "text-light-text-tertiary px-0.5"
+      }
+    },
+
+    "modal": {
+      "backdrop": "fixed inset-0 z-50 bg-light-text-primary/50 flex items-center justify-center",
+      "container": "w-full max-w-[480px] rounded-lg bg-light-elevated border border-light-border shadow-lg p-3",
+      "header": "flex items-center justify-between mb-2",
+      "title": "text-h3 text-light-text-primary",
+      "closeButton": "w-[36px] h-[36px] rounded-md flex items-center justify-center text-light-text-tertiary hover:bg-light-surface transition-colors duration-fast",
+      "body": "text-body-md text-light-text-secondary",
+      "footer": "flex justify-end gap-1.5 mt-3 pt-2 border-t border-light-divider"
+    },
+
+    "breadcrumb": {
+      "container": "flex items-center gap-0.5 text-body-sm",
+      "link": "text-light-text-tertiary hover:text-light-text-primary transition-colors duration-fast",
+      "separator": "ChevronRight size=14 text-light-text-tertiary",
+      "current": "text-light-text-primary font-medium"
+    },
+
+    "tabs": {
+      "container": "flex border-b border-light-border",
+      "tab": "px-2 py-1.5 text-body-sm font-medium transition-colors duration-fast border-b-2 -mb-[1px]",
+      "tabActive": "border-brand text-brand",
+      "tabDefault": "border-transparent text-light-text-tertiary hover:text-light-text-primary hover:border-light-border"
+    },
+
+    "sidebar": {
+      "width": "w-[240px]",
+      "itemContainer": "space-y-0.5",
+      "item": "w-full flex items-center gap-1.5 h-[40px] px-1.5 rounded-md text-body-sm font-medium transition-colors duration-fast",
+      "itemActive": "bg-brand/10 text-brand",
+      "itemDefault": "text-light-text-secondary hover:bg-light-surface hover:text-light-text-primary",
+      "iconSize": 18
+    },
+
+    "progressBar": {
+      "container": "space-y-1",
+      "header": "flex items-center justify-between mb-1",
+      "label": "text-body-sm text-light-text-primary",
+      "value": "text-body-sm font-medium text-light-text-secondary",
+      "track": "h-[8px] bg-light-surface rounded-full overflow-hidden",
+      "fill": "h-full rounded-full transition-all duration-slow",
+      "fillBrand": "bg-brand",
+      "fillInfo": "bg-semantic-info",
+      "fillDanger": "bg-semantic-danger",
+      "darkTrack": "h-[8px] bg-dark-elevated rounded-full overflow-hidden"
+    },
+
+    "spinner": {
+      "container": "flex items-center gap-2",
+      "element": "w-[24px] h-[24px] border-2 border-light-border border-t-brand rounded-full animate-spin",
+      "label": "text-body-sm text-light-text-secondary"
+    },
+
+    "avatars": {
+      "sizes": {
+        "xs": { "px": 24, "fontSize": "9px" },
+        "sm": { "px": 32, "fontSize": "12px" },
+        "md": { "px": 40, "fontSize": "15px" },
+        "lg": { "px": 48, "fontSize": "18px" },
+        "xl": { "px": 56, "fontSize": "21px" }
+      },
+      "base": "rounded-full bg-brand/20 flex items-center justify-center text-brand font-semibold",
+      "stackedGroup": "flex -space-x-[10px]",
+      "stackedItem": "rounded-full border-2 border-light-elevated bg-brand/20 flex items-center justify-center text-brand text-body-sm font-semibold",
+      "stackedOverflow": "rounded-full border-2 border-light-elevated bg-light-surface flex items-center justify-center text-caption font-medium text-light-text-tertiary"
+    },
+
+    "tooltip": {
+      "container": "absolute bg-light-text-primary text-white text-caption px-1.5 py-0.5 rounded-md shadow-md whitespace-nowrap",
+      "arrow": "w-0 h-0 border-l-[6px] border-r-[6px] border-t-[6px] border-l-transparent border-r-transparent border-t-light-text-primary"
+    },
+
+    "dropdown": {
+      "container": "absolute w-[200px] bg-light-elevated border border-light-border rounded-md shadow-lg py-0.5 z-10",
+      "item": "w-full flex items-center gap-1.5 px-2 py-1 text-body-sm text-light-text-secondary hover:bg-light-surface hover:text-light-text-primary transition-colors duration-fast",
+      "dangerItem": "w-full flex items-center gap-1.5 px-2 py-1 text-body-sm text-semantic-danger hover:bg-semantic-danger/10 transition-colors duration-fast",
+      "separator": "border-light-divider my-0.5",
+      "iconSize": 16
+    },
+
+    "emptyState": {
+      "container": "rounded-lg bg-light-elevated border border-light-border p-6 shadow-sm flex flex-col items-center justify-center text-center min-h-[240px]",
+      "iconBox": "w-[64px] h-[64px] rounded-lg bg-light-surface flex items-center justify-center mb-2",
+      "icon": "text-light-text-tertiary size=32",
+      "title": "text-h4 text-light-text-primary",
+      "description": "text-body-md text-light-text-secondary mt-1 max-w-[360px]",
+      "action": "mt-3"
+    },
+
+    "divider": {
+      "section": "border-light-divider my-8",
+      "card": "border-t border-light-divider",
+      "dropdown": "border-light-divider my-0.5",
+      "vertical": "h-[36px] w-[1px] bg-light-divider mx-0.5"
+    },
+
+    "codeInline": "font-mono text-body-sm bg-light-surface px-0.5 rounded-sm border border-light-border",
+
+    "footer": {
+      "container": "pt-8 pb-6 border-t border-light-divider text-center",
+      "text": "text-body-sm text-light-text-tertiary",
+      "subtext": "text-caption text-light-text-tertiary mt-0.5"
+    }
+  },
+
+  "patterns": {
+
+    "sectionTitle": {
+      "description": "Standard heading for each section. h2 + optional subtitle, followed by content with mb-3.",
+      "container": "mb-3",
+      "title": "text-h2 text-light-text-primary",
+      "subtitle": "text-body-md text-light-text-secondary mt-1"
+    },
+
+    "showcasePanel": {
+      "description": "Rounded container for displaying grouped UI elements.",
+      "classes": "rounded-lg bg-light-elevated border border-light-border p-3 shadow-sm"
+    },
+
+    "categoryLabel": {
+      "description": "Uppercase label above a group of related components.",
+      "classes": "text-caption text-light-text-tertiary mb-1.5 uppercase tracking-widest"
+    },
+
+    "colorSwatch": {
+      "container": "flex flex-col items-center gap-1",
+      "swatch": "w-[80px] h-[64px] rounded-md shadow-sm",
+      "name": "text-caption text-light-text-primary font-medium",
+      "hex": "text-caption text-light-text-tertiary font-mono"
+    }
+  },
+
+  "iconography": {
+    "library": "lucide-react",
+    "defaultSize": 20,
+    "smallSize": 16,
+    "largeSize": 24,
+    "badgeIconSize": 14,
+    "strokeWidth": 2,
+    "style": "Rounded geometric, medium stroke weight",
+    "colorRules": {
+      "default": "text-light-text-secondary (neutral context)",
+      "active": "text-brand (active nav items, accent icons in KPI cards)",
+      "tertiary": "text-light-text-tertiary (input prefix icons, placeholder icons)",
+      "semantic": "Matches parent semantic color in alerts and badges",
+      "disabled": "text-light-text-tertiary"
+    }
+  },
+
+  "structureHierarchy": {
+    "levels": [
+      { "level": 1, "name": "Page",      "description": "Top-level canvas: nav + main + footer. One per route." },
+      { "level": 2, "name": "Section",    "description": "Major functional block separated by <hr> dividers and space-y-8 gaps." },
+      { "level": 3, "name": "Module",     "description": "Reusable chunk: card grid, table with toolbar, form group." },
+      { "level": 4, "name": "Component",  "description": "Single UI unit: button, input, badge, table row, alert." },
+      { "level": 5, "name": "Element",    "description": "Atomic part: icon, label, helper text, divider, avatar." }
+    ],
+    "rules": [
+      "Max ONE primary action button per viewport section",
+      "Headline MUST precede body content in every section",
+      "Group related elements by proximity and alignment",
+      "Max 3 visual priority tiers per section (heading → body → meta)"
+    ]
+  },
+
+  "governance": {
+    "tokenPolicy": "NEVER use raw hex, pixel, or font values in component code. Always use Tailwind classes mapped from this file.",
+    "newComponentProcess": "Define the component spec in this file FIRST, then implement. Never implement then document.",
+    "complianceChecklist": [
+      "Uses ONLY typography classes from this file's scale",
+      "Uses ONLY spacing tokens from this file's scale",
+      "Uses ONLY colors defined in this file",
+      "All interactive elements have proper transition classes",
+      "Focus states use shadow-focus-brand",
+      "Hover states use defined hover tokens",
+      "No banned patterns (see forbiddenPatterns)",
+      "Icons are from lucide-react with correct size/strokeWidth",
+      "Border radius matches component-specific rule",
+      "Max one primary button per viewport"
+    ],
+    "versionControl": "Increment $version for any change. All downstream UI must be re-validated after version bump."
+  }
+}
