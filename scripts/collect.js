@@ -76,6 +76,74 @@ export function mergeSkillsData(existing, newSkills) {
   };
 }
 
+export function mapClawHubSkill(item) {
+  const today = new Date().toISOString().split('T')[0];
+  const updatedDate = item.updatedAt
+    ? new Date(item.updatedAt).toISOString().split('T')[0]
+    : today;
+
+  return {
+    id: `clawhub-${item.slug}`,
+    name: item.displayName || item.slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
+    description: item.summary || `Skill from ClawHub: ${item.slug}`,
+    author: 'clawhub',
+    github: `https://clawhub.ai/skills/${item.slug}`,
+    source: 'clawhub',
+    tags: [],
+    category: '',
+    updated_at: updatedDate,
+    collected_at: today
+  };
+}
+
+async function collectFromClawHub() {
+  const skills = [];
+  let cursor = undefined;
+  let page = 0;
+
+  while (page < 100) {
+    page++;
+    const params = new URLSearchParams({ limit: '200' });
+    if (cursor) params.set('cursor', cursor);
+
+    const url = `https://clawhub.ai/api/v1/skills?${params}`;
+
+    try {
+      const res = await fetch(url, {
+        headers: {
+          'User-Agent': 'FindSkills-Collector',
+          'Accept': 'application/json'
+        }
+      });
+
+      if (!res.ok) {
+        console.error(`ClawHub API error: ${res.status} ${res.statusText}`);
+        break;
+      }
+
+      const data = await res.json();
+      const items = data.items || [];
+
+      for (const item of items) {
+        skills.push(mapClawHubSkill(item));
+      }
+
+      console.log(`  ClawHub page ${page}: ${items.length} skills (total: ${skills.length})`);
+
+      cursor = data.nextCursor;
+      if (!cursor || typeof cursor !== 'string') break;
+
+      // Small delay between pages
+      await new Promise(r => setTimeout(r, 500));
+    } catch (err) {
+      console.error('ClawHub collection failed:', err.message);
+      break;
+    }
+  }
+
+  return skills;
+}
+
 // --- Collection functions ---
 
 async function collectFromGitHub() {
@@ -261,11 +329,15 @@ if (process.argv[1] && __filename === resolve(process.argv[1])) {
   const githubSkills = await collectFromGitHub();
   console.log(`  Found ${githubSkills.length} skills from GitHub`);
 
+  console.log('Collecting from ClawHub...');
+  const clawhubSkills = await collectFromClawHub();
+  console.log(`  Found ${clawhubSkills.length} skills from ClawHub`);
+
   console.log('Collecting from sources.json...');
   const manualSkills = await collectFromSources();
   console.log(`  Found ${manualSkills.length} skills from sources`);
 
-  const allNew = [...githubSkills, ...manualSkills];
+  const allNew = [...githubSkills, ...clawhubSkills, ...manualSkills];
   const merged = mergeSkillsData(existing, allNew);
 
   writeFileSync(skillsPath, JSON.stringify(merged, null, 2) + '\n', 'utf-8');

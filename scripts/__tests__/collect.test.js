@@ -1,6 +1,6 @@
 import { describe, it } from 'node:test';
 import assert from 'node:assert/strict';
-import { deduplicateSkills, mergeSkillsData, normalizeSkillId, parseLinkHeader, isRelevantSkill } from '../collect.js';
+import { deduplicateSkills, mergeSkillsData, normalizeSkillId, parseLinkHeader, isRelevantSkill, mapClawHubSkill } from '../collect.js';
 
 describe('normalizeSkillId', () => {
   it('creates id from author and name', () => {
@@ -106,5 +106,44 @@ describe('isRelevantSkill', () => {
   it('rejects game project', () => {
     const skill = { name: 'Chain Survivor', description: 'A 2D game which seek for survive', author: 'dev', tags: [] };
     assert.equal(isRelevantSkill(skill, null), false);
+  });
+});
+
+describe('mapClawHubSkill', () => {
+  it('maps ClawHub item to skill format', () => {
+    const item = {
+      slug: 'web-search',
+      displayName: 'Web Search',
+      summary: 'Search the web',
+      tags: { latest: '1.0.0' },
+      stats: { downloads: 100, stars: 5 },
+      createdAt: 1700000000000,
+      updatedAt: 1700000000000,
+      latestVersion: { version: '1.0.0', createdAt: 1700000000000, changelog: '' }
+    };
+
+    const result = mapClawHubSkill(item);
+    assert.equal(result.id, 'clawhub-web-search');
+    assert.equal(result.name, 'Web Search');
+    assert.equal(result.description, 'Search the web');
+    assert.equal(result.source, 'clawhub');
+    assert.equal(result.author, 'clawhub');
+  });
+
+  it('handles item without displayName', () => {
+    const item = {
+      slug: 'my-tool',
+      displayName: null,
+      summary: null,
+      tags: {},
+      stats: {},
+      createdAt: 1700000000000,
+      updatedAt: 1700000000000,
+      latestVersion: null
+    };
+
+    const result = mapClawHubSkill(item);
+    assert.equal(result.name, 'My Tool');
+    assert.equal(result.description, 'Skill from ClawHub: my-tool');
   });
 });
