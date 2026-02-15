@@ -130,6 +130,8 @@ async function collectFromClawHub() {
 
       console.log(`  ClawHub page ${page}: ${items.length} skills (total: ${skills.length})`);
 
+      if (items.length === 0) break;
+
       cursor = data.nextCursor;
       if (!cursor || typeof cursor !== 'string') break;
 
