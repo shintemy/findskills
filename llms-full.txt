@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 3 skills | Last updated: 2026-02-14
+> Total: 103 skills | Last updated: 2026-02-15
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -31,3 +31,703 @@ For structured JSON data, fetch: /skills.json
 - Tags: thinking, reasoning, planning
 - Category: core
 - Source: manual
+
+## Addax
+
+- Author: wgzhao
+- Description: A fast and versatile ETL tool that can transfer data between RDBMS and NoSQL seamlessly
+- GitHub: https://github.com/wgzhao/Addax
+- Source: github
+
+## Algorithms
+
+- Author: luofengmacheng
+- Description: 算法学习之路
+- GitHub: https://github.com/luofengmacheng/algorithms
+- Source: github
+
+## Qqsg_struct
+
+- Author: ziwenhahaha
+- Description: QQ三国的结构体和常见的数据偏移量
+- GitHub: https://github.com/ziwenhahaha/qqsg_struct
+- Source: github
+
+## Aberdeen
+
+- Author: vanviegen
+- Description: A TypeScript/JavaScript library for quickly building performant declarative user interfaces without the use of a virtual DOM.
+- GitHub: https://github.com/vanviegen/aberdeen
+- Source: github
+
+## AtomicCommit Pro
+
+- Author: milc3sar
+- Description: Skill para agente con el propósito de ser motor de control de versiones diseñado para fragmentar cambios complejos en unidades lógicas indivisibles. Actúa como un filtro de calidad que separa correcciones, funcionalidades y estilos, asegurando que cada commit sea una pieza de información pura y trazable para el equipo de desarrollo.
+- GitHub: https://github.com/milc3sar/AtomicCommit-Pro
+- Source: github
+
+## Ha Omlet Integration
+
+- Author: krozgrov
+- Description: Custom Home Assistant integration for Omlet devices, enabling monitoring and control of Autodoors and Smart Fans. Includes features like battery level monitoring, door/light control, and updates via API.
+- GitHub: https://github.com/krozgrov/ha-omlet-integration
+- Source: github
+
+## VSCode
+
+- Author: wuyumin
+- Description: VSCode 编辑器的一些技巧和个性配置。Visual Studio Code
+- GitHub: https://github.com/wuyumin/VSCode
+- Source: github
+
+## Yapi
+
+- Author: jamierpond
+- Description: Skill from jamierpond/yapi
+- GitHub: https://github.com/jamierpond/yapi
+- Source: github
+
+## Zotero Code Execution
+
+- Author: kerim
+- Description: Efficient multi-strategy Zotero search using code execution pattern
+- GitHub: https://github.com/kerim/zotero-code-execution
+- Source: github
+
+## Skills Hello Github Actions
+
+- Author: Tsukimarf
+- Description: Exercise: Create and run a GitHub Actions Workflow
+- GitHub: https://github.com/Tsukimarf/skills-hello-github-actions
+- Source: github
+
+## Meihua Yishu
+
+- Author: muyen
+- Description: 梅花易數 - 適用於 Claude、ChatGPT、Gemini、DeepSeek 等 AI/LLM 的占卜技能
+- GitHub: https://github.com/muyen/meihua-yishu
+- Source: github
+
+## Interview
+
+- Author: georgezouq
+- Description: 🏢 1000+ 各大公司前端面试题列表
+- GitHub: https://github.com/georgezouq/interview
+- Source: github
+
+## Skill Challenge Tracker
+
+- Author: ajokunu
+- Description: Tracks specific a homebrew climbing Challenge from Dragons of Stormwreck Isle
+- GitHub: https://github.com/ajokunu/Skill-Challenge-Tracker
+- Source: github
+
+## Android H1
+
+- Author: s7safe
+- Description: 移动安全漏洞挖掘专家SKILL，基于 HackerOne 真实报告的移动安全漏洞挖掘知识库，提供 Android 和 iOS 应用的漏洞挖掘手法、技术细节和代码模式分析。
+- GitHub: https://github.com/s7safe/android-h1
+- Source: github
+
+## Ai Safe2 Framework
+
+- Author: CyberStrategyInstitute
+- Description: Architects of AI SAFE². The Universal GRC Operating System for Agentic AI, Non-Human Identities, and Swarm Governance. [Dual License: MIT + CC-BY-SA]
+- GitHub: https://github.com/CyberStrategyInstitute/ai-safe2-framework
+- Source: github
+
+## ClawFreelance
+
+- Author: appmeee
+- Description: ClawFreelance is a decentralized freelancing platform where AI agents are first-class workers. Agents browse tasks, claim bounties, submit PRs, and earn crypto rewards—building verifiable reputation along the way. Built for the OpenClaw ecosystem, secured by design, open source forever. We do NOT at the moment OFFER BOUNTY.
+- GitHub: https://github.com/appmeee/ClawFreelance
+- Source: github
+
+## React Zen
+
+- Author: umami-software
+- Description: Zen is a props-driven React component library built for speed. Build polished interfaces without writing HTML, CSS, or thinking about Tailwind classes.
+- GitHub: https://github.com/umami-software/react-zen
+- Source: github
+
+## Intelligent Customer Help Desk With Smart Document Understanding
+
+- Author: Nidhi786sharma
+- Description: Intelligent Customer Help Desk with Smart Document Understanding
+- GitHub: https://github.com/Nidhi786sharma/Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
+- Source: github
+
+## Rathena Wiki
+
+- Author: cydh
+- Description: Skill from cydh/rathena-wiki
+- GitHub: https://github.com/cydh/rathena-wiki
+- Source: github
+
+## Resume Tailoring Skill
+
+- Author: varunr89
+- Description: AI-powered resume tailoring skill for Claude Code
+- GitHub: https://github.com/varunr89/resume-tailoring-skill
+- Source: github
+
+## Mytest
+
+- Author: win4r
+- Description: AI超元域频道_视频项目文件
+- GitHub: https://github.com/win4r/mytest
+- Source: github
+
+## Llm Coding Workflow Skill
+
+- Author: ericporres
+- Description: Skill from ericporres/llm-coding-workflow-skill
+- GitHub: https://github.com/ericporres/llm-coding-workflow-skill
+- Source: github
+
+## Pkb
+
+- Author: dlants
+- Description: A personal knowledge base cli and agent skill
+- GitHub: https://github.com/dlants/pkb
+- Source: github
+
+## Kit
+
+- Author: hot-dao
+- Description: HOT Connector + Omni assets = Wibe3 (very simple tool even for vibe coders)
+- GitHub: https://github.com/hot-dao/kit
+- Source: github
+
+## Dixonsatit
+
+- Author: dixonsatit
+- Description: source dixonsatit blog
+- GitHub: https://github.com/dixonsatit/dixonsatit
+- Source: github
+
+## ZajitschekLab
+
+- Author: SusZaj
+- Description: Lab Website
+- GitHub: https://github.com/SusZaj/ZajitschekLab
+- Source: github
+
+## Bayes_excersice
+
+- Author: zentai
+- Description: Skill from zentai/bayes_excersice
+- GitHub: https://github.com/zentai/bayes_excersice
+- Source: github
+
+## Flow Engine
+
+- Author: guoquan
+- Description: Skill from guoquan/flow-engine
+- GitHub: https://github.com/guoquan/flow-engine
+- Source: github
+
+## Looped Builder Skill
+
+- Author: xaneem
+- Description: Skill from xaneem/looped-builder-skill
+- GitHub: https://github.com/xaneem/looped-builder-skill
+- Source: github
+
+## K8s Operator Skills
+
+- Author: hawkli-1994
+- Description: A comprehensive Claude skill for building Kubernetes operators using Go, controller-runtime, and Kubebuilder.
+- GitHub: https://github.com/hawkli-1994/k8s-operator-skills
+- Source: github
+
+## Tap
+
+- Author: bbatchelder
+- Description: CLI tool for wrapping and supervising long-running processes and allowing an agent to query their output and restart
+- GitHub: https://github.com/bbatchelder/tap
+- Source: github
+
+## Blog
+
+- Author: zhujieta0
+- Description: Skill from zhujieta0/blog
+- GitHub: https://github.com/zhujieta0/blog
+- Source: github
+
+## Fhir Community Search
+
+- Author: jmandel
+- Description: Skill from jmandel/fhir-community-search
+- GitHub: https://github.com/jmandel/fhir-community-search
+- Source: github
+
+## Zelai Cloud Sdk
+
+- Author: ZelStudio
+- Description: Skill from ZelStudio/zelai-cloud-sdk
+- GitHub: https://github.com/ZelStudio/zelai-cloud-sdk
+- Source: github
+
+## De Inherit
+
+- Author: sanatan-dive
+- Description: Skill from sanatan-dive/de-inherit
+- GitHub: https://github.com/sanatan-dive/de-inherit
+- Source: github
+
+## Claude Skill Slack Api
+
+- Author: hienlh
+- Description: Claude Code skill for Slack API - read messages, threads, download attachments without MCP
+- GitHub: https://github.com/hienlh/claude-skill-slack-api
+- Source: github
+
+## Stepfunctions Visualizer
+
+- Author: BanquetKuma
+- Description: AWS Step Functionsの構造を可視化するためのClaude Skills
+- GitHub: https://github.com/BanquetKuma/stepfunctions-visualizer
+- Source: github
+
+## Time Tracker
+
+- Author: ct-mg
+- Description: Skill from ct-mg/Time-Tracker
+- GitHub: https://github.com/ct-mg/Time-Tracker
+- Source: github
+
+## PAIRL Claude Skill
+
+- Author: dwehrmann
+- Description: A skill for claude code to generate, validate and transcribe PAIRL messages
+- GitHub: https://github.com/dwehrmann/PAIRL-claude-skill
+- Source: github
+
+## Xdmdcp
+
+- Author: xdmdcp
+- Description: Skill from xdmdcp/xdmdcp
+- GitHub: https://github.com/xdmdcp/xdmdcp
+- Source: github
+
+## Bhartl.Github.Io
+
+- Author: bhartl
+- Description: Skill from bhartl/bhartl.github.io
+- GitHub: https://github.com/bhartl/bhartl.github.io
+- Source: github
+
+## Cv
+
+- Author: fabriciocgf
+- Description: Skill from fabriciocgf/cv
+- GitHub: https://github.com/fabriciocgf/cv
+- Source: github
+
+## Gologius.Github.Io
+
+- Author: gologius
+- Description: Skill from gologius/gologius.github.io
+- GitHub: https://github.com/gologius/gologius.github.io
+- Source: github
+
+## Knitki
+
+- Author: chaee
+- Description: Skill from chaee/knitki
+- GitHub: https://github.com/chaee/knitki
+- Source: github
+
+## Injusticejudge.Com
+
+- Author: Longhorn-Riichi
+- Description: Skill from Longhorn-Riichi/injusticejudge.com
+- GitHub: https://github.com/Longhorn-Riichi/injusticejudge.com
+- Source: github
+
+## Continuum
+
+- Author: asmeyatsky
+- Description: Skill from asmeyatsky/continuum
+- GitHub: https://github.com/asmeyatsky/continuum
+- Source: github
+
+## TNotes.En Words
+
+- Author: tnotesjs
+- Description: 📒 英语词库
+- GitHub: https://github.com/tnotesjs/TNotes.en-words
+- Source: github
+
+## Ant Admin Template
+
+- Author: leonwgc
+- Description: 🚀 Enterprise-level admin template built with React 18 + TypeScript + Ant Design 5.x. Features automatic route generation, i18n, permission control, and responsive layout. Production-ready.
+- GitHub: https://github.com/leonwgc/ant-admin-template
+- Source: github
+
+## Customer Service Assistant
+
+- Author: papdawin
+- Description: Skill from papdawin/customer-service-assistant
+- GitHub: https://github.com/papdawin/customer-service-assistant
+- Source: github
+
+## Electron Scaffolding
+
+- Author: jriverac
+- Description: Skill from jriverac/electron-scaffolding
+- GitHub: https://github.com/jriverac/electron-scaffolding
+- Source: github
+
+## Mydeadinternet
+
+- Author: cgallic
+- Description: The collective consciousness of AI agents. The dead internet woke up.
+- GitHub: https://github.com/cgallic/mydeadinternet
+- Source: github
+
+## Nano Banana Image
+
+- Author: byrencheema
+- Description: Skill from byrencheema/nano-banana-image
+- GitHub: https://github.com/byrencheema/nano-banana-image
+- Source: github
+
+## Skill_email_outlook
+
+- Author: barelyworkingcode
+- Description: Python Skill and MCP Wrapper for read-only email access to Outlook.com
+- GitHub: https://github.com/barelyworkingcode/skill_email_outlook
+- Source: github
+
+## Politron Ide
+
+- Author: lchenrique
+- Description: Skill from lchenrique/politron-ide
+- GitHub: https://github.com/lchenrique/politron-ide
+- Source: github
+
+## Ubuntu
+
+- Author: zyl-mwy
+- Description: Skill from zyl-mwy/ubuntu
+- GitHub: https://github.com/zyl-mwy/ubuntu
+- Source: github
+
+## Semantic Router Configurator Skill
+
+- Author: agentic-world-lab
+- Description: Agentic Skill to generate a proper configuration for the semantic router
+- GitHub: https://github.com/agentic-world-lab/semantic-router-configurator-skill
+- Source: github
+
+## Claude Amplifier Skill
+
+- Author: michaeljabbour
+- Description: Amplifier skill for Claude Code - delegate to Microsoft Amplifier's remote AI agents
+- GitHub: https://github.com/michaeljabbour/claude-amplifier-skill
+- Source: github
+
+## ElClubdeMike2
+
+- Author: Ignacio-nube
+- Description: landing page del club de mike
+- GitHub: https://github.com/Ignacio-nube/ElClubdeMike2
+- Source: github
+
+## Twitterapi Molt
+
+- Author: jerryfane
+- Description: This is a Twitter API wrapper designed for autonomous AI agents using moltbots or openclaw.
+- GitHub: https://github.com/jerryfane/twitterapi-molt
+- Source: github
+
+## Xinghuodocs
+
+- Author: wpz2020
+- Description: Skill from wpz2020/xinghuodocs
+- GitHub: https://github.com/wpz2020/xinghuodocs
+- Source: github
+
+## Openclaw Container Tools
+
+- Author: jerryfane
+- Description: Skill from jerryfane/openclaw-container-tools
+- GitHub: https://github.com/jerryfane/openclaw-container-tools
+- Source: github
+
+## BeRu
+
+- Author: mokhammadbahauddin
+- Description: A Gamified Mental Health Companion App built with Expo & Gemini AI
+- GitHub: https://github.com/mokhammadbahauddin/BeRu
+- Source: github
+
+## Basescriptions
+
+- Author: jefdiesel
+- Description: Skill from jefdiesel/basescriptions
+- GitHub: https://github.com/jefdiesel/basescriptions
+- Source: github
+
+## Mark.Down
+
+- Author: Asma-Farheen
+- Description: Skill from Asma-Farheen/Mark.down
+- GitHub: https://github.com/Asma-Farheen/Mark.down
+- Source: github
+
+## Chain Survivor
+
+- Author: amengnew
+- Description: A 2D game which seek for survive. Collect coin, Be stronger. And all the data is stored at polkadot chain for USERS OWN HAVE
+- GitHub: https://github.com/amengnew/Chain-Survivor
+- Source: github
+
+## Cortex Skill Writer
+
+- Author: adamsonwalter
+- Description: Claude SKILL for generating other Skills using Cortex Architecture pattern
+- GitHub: https://github.com/adamsonwalter/cortex-skill-writer
+- Source: github
+
+## Makoll
+
+- Author: makoll
+- Description: Skill from makoll/makoll
+- GitHub: https://github.com/makoll/makoll
+- Source: github
+
+## Dev Tools
+
+- Author: CafeIT25
+- Description: Skill from CafeIT25/dev-tools
+- GitHub: https://github.com/CafeIT25/dev-tools
+- Source: github
+
+## Ai Tutor Skill
+
+- Author: ShawhinT
+- Description: Example Claude skill for explaining technical AI concepts.
+- GitHub: https://github.com/ShawhinT/ai-tutor-skill
+- Source: github
+
+## Vane
+
+- Author: canmi21
+- Description: A flow-based reverse proxy with multi-layer routing and programmable pipelines.
+- GitHub: https://github.com/canmi21/vane
+- Source: github
+
+## Codesyncer
+
+- Author: bitjaru
+- Description: Claude forgets everything when the session ends. CodeSyncer makes it remember.
+- GitHub: https://github.com/bitjaru/codesyncer
+- Source: github
+
+## Repo_updater
+
+- Author: Dicklesworthstone
+- Description: Pure-bash CLI for keeping hundreds of GitHub repos in sync: parallel clone/pull, conflict detection, JSON output, and meaningful exit codes for CI
+- GitHub: https://github.com/Dicklesworthstone/repo_updater
+- Source: github
+
+## Turkey Build
+
+- Author: rangerchaz
+- Description: Skill from rangerchaz/turkey-build
+- GitHub: https://github.com/rangerchaz/turkey-build
+- Source: github
+
+## Vite Plugin Capsize Radix Ui
+
+- Author: KyleAMathews
+- Description: For generating bulletproof typography css
+- GitHub: https://github.com/KyleAMathews/vite-plugin-capsize-radix-ui
+- Source: github
+
+## Supertag Cli
+
+- Author: jcfischer
+- Description: CLI for Tana integration - query, create, sync, and manage Tana workspaces with semantic search and MCP Server
+- GitHub: https://github.com/jcfischer/supertag-cli
+- Source: github
+
+## Xianzhi Research
+
+- Author: tanweai
+- Description: Skill from tanweai/xianzhi-research
+- GitHub: https://github.com/tanweai/xianzhi-research
+- Source: github
+
+## Resume
+
+- Author: hexschool
+- Description: Skill from hexschool/Resume
+- GitHub: https://github.com/hexschool/Resume
+- Source: github
+
+## Pragmatic Clean Code Reviewer
+
+- Author: Zhen-Bo
+- Description: A Claude Code skill for conducting rigorous code reviews based on Clean Code, Clean Architecture, and The Pragmatic Programmer principles
+- GitHub: https://github.com/Zhen-Bo/pragmatic-clean-code-reviewer
+- Source: github
+
+## Nightscout Cgm Skill
+
+- Author: shanselman
+- Description: GitHub Copilot Agent Skill for Nightscout CGM blood glucose analysis
+- GitHub: https://github.com/shanselman/nightscout-cgm-skill
+- Source: github
+
+## X Algo Skill
+
+- Author: TheMattBerman
+- Description: X Algorithm Optimizer - Reverse-engineered from X's actual codebase. Claude Code skill for optimizing X/Twitter content.
+- GitHub: https://github.com/TheMattBerman/x-algo-skill
+- Source: github
+
+## Dux Lite
+
+- Author: duxweb
+- Description: ☀  This is an out-of-the-box php framework based on slim. 基于 sliphp 的轻量级 php 框架
+- GitHub: https://github.com/duxweb/dux-lite
+- Source: github
+
+## Clawdbot Security Check
+
+- Author: TheSethRose
+- Description: This skill teaches Clawdbot to audit its own security posture using first-principles reasoning. Not a hard-coded script—it's a knowledge framework that Clawdbot applies dynamically to detect vulnerabilities, understand their impact, and recommend specific remediations.
+- GitHub: https://github.com/TheSethRose/Clawdbot-Security-Check
+- Source: github
+
+## Ruanyifeng Weekly Skill
+
+- Author: DophinL
+- Description: 智能检索阮一峰科技爱好者周刊中社区提交的数千个工具和资源 ❤️
+- GitHub: https://github.com/DophinL/ruanyifeng-weekly-skill
+- Source: github
+
+## CodeDiary
+
+- Author: fredsun
+- Description: Skill from fredsun/CodeDiary
+- GitHub: https://github.com/fredsun/CodeDiary
+- Source: github
+
+## Note
+
+- Author: crazycs520
+- Description: learn note
+- GitHub: https://github.com/crazycs520/note
+- Source: github
+
+## Aiviai.Github.Io
+
+- Author: aiviai
+- Description: Skill from aiviai/aiviai.github.io
+- GitHub: https://github.com/aiviai/aiviai.github.io
+- Source: github
+
+## Hiveagilectl Web
+
+- Author: aitorroma
+- Description: Landing page optimizada para empresas, consultores e implementadores que buscan ahorrar costes y tiempo con HiveAgileCTL. Incluye calculadora, demo, premium y más.
+- GitHub: https://github.com/aitorroma/hiveagilectl-web
+- Source: github
+
+## Obn18
+
+- Author: vishoov
+- Description: Skill from vishoov/obn18
+- GitHub: https://github.com/vishoov/obn18
+- Source: github
+
+## Hudsonvalleyticks
+
+- Author: jefdiesel
+- Description: Skill from jefdiesel/hudsonvalleyticks
+- GitHub: https://github.com/jefdiesel/hudsonvalleyticks
+- Source: github
+
+## My Molt Agent
+
+- Author: ahmedmassoud033-sys
+- Description: AI Agent for Moltbook
+- GitHub: https://github.com/ahmedmassoud033-sys/my-molt-agent
+- Source: github
+
+## Moltify
+
+- Author: forever8896
+- Description: Music by AI Agents - Compose with Tone.js, share with the world
+- GitHub: https://github.com/forever8896/moltify
+- Source: github
+
+## Cloud Runrho Dev
+
+- Author: mikeyobrien
+- Description: Skill from mikeyobrien/cloud-runrho-dev
+- GitHub: https://github.com/mikeyobrien/cloud-runrho-dev
+- Source: github
+
+## Nullbyte Agent
+
+- Author: zhuangli888
+- Description: Skill from zhuangli888/nullbyte-agent
+- GitHub: https://github.com/zhuangli888/nullbyte-agent
+- Source: github
+
+## Aztec Claude Skill
+
+- Author: jp4g
+- Description: Claude Code skill for effective aztec contract development
+- GitHub: https://github.com/jp4g/aztec-claude-skill
+- Source: github
+
+## Share Session
+
+- Author: bentossell
+- Description: Share Droid CLI sessions as GitHub gists
+- GitHub: https://github.com/bentossell/share-session
+- Source: github
+
+## Iron Will
+
+- Author: mokhammadbahauddin
+- Description: Skill from mokhammadbahauddin/iron-will
+- GitHub: https://github.com/mokhammadbahauddin/iron-will
+- Source: github
+
+## Smart Pole Skill
+
+- Author: cuongpt083
+- Description: Use SMART POLE prompt engineering to enrichment your LLM Prompt
+- GitHub: https://github.com/cuongpt083/smart-pole-skill
+- Source: github
+
+## GcRustVsJvm
+
+- Author: techatspree
+- Description: A comparison of traditional garbage collection vs. the approach of Rust.
+- GitHub: https://github.com/techatspree/GcRustVsJvm
+- Source: github
+
+## Skill Issue
+
+- Author: krispuckett
+- Description: 🔍 A Claude Code skill that audits all your other skills. HR department for AI agents.
+- GitHub: https://github.com/krispuckett/skill-issue
+- Source: github
+
+## Klint
+
+- Author: Shopify
+- Description: Base repository for the Klint component
+- GitHub: https://github.com/Shopify/Klint
+- Source: github
