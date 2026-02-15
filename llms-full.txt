@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8405 skills | Last updated: 2026-02-15
+> Total: 8458 skills | Last updated: 2026-02-15
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -59685,4 +59685,379 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Wraps HLE benchmark questions in a structured Chain-of-Thought (CoT) reasoning process. Use when answering HLE questions to ensure strict step-by-step logic...
 - GitHub: https://clawhub.ai/skills/hle-reasoning-wrapper
+- Source: clawhub
+
+## ai-game-saves
+
+- Author: chasseuragace
+- Description: "The Game No One Has Completed" - RPG framework for human-AI collaboration. Commands include "resume", "load [build] build", "status", "inventory", "quest log", "train", "map", "save". Builds are wizard, warrior, ranger, paladin, rogue.
+- GitHub: https://github.com/chasseuragace/the-game
+- Source: github
+
+## azure-infra
+
+- Author: bmdhodl
+- Description: Chat-based Azure infrastructure assistance using Azure CLI and portal context. Use for querying, auditing, and monitoring Azure resources (VMs, Storage, IAM, Functions, AKS, App Service, Key Vault, Azure Monitor, billing, etc.), and for proposing safe changes with explicit confirmation before any write/destructive action.
+- GitHub: https://github.com/bmdhodl/azure-infra-skill
+- Source: github
+
+## linear
+
+- Author: jesseproudman
+- Description: Moltbot skill for Linear project management integration
+- GitHub: https://github.com/jesseproudman/linear-skill
+- Source: github
+
+## osh
+
+- Author: svr2kos2
+- Description: Control remote devices via OSH (OpenClaw Remote Bridge). Execute shell commands on remote Windows/Linux/macOS machines through WebSocket tunneling, bypassing NAT without port forwarding.
+- GitHub: https://github.com/svr2kos2/osh-skills
+- Stars: 1
+- Source: github
+
+## Codex_manager
+
+- Author: MarRoth93
+- Description: Skill from MarRoth93/codex_manager
+- GitHub: https://github.com/MarRoth93/codex_manager
+- Source: github
+
+## evento-public-mcp
+
+- Author: sevenlabsxyz
+- Description: MCP server for Evento Public API
+- GitHub: https://github.com/sevenlabsxyz/evento-public-mcp
+- Source: github
+
+## media-generation
+
+- Author: ferdousbhai
+- Description: Claude Code skill for image generation using Gemini 3 Pro Image API
+- GitHub: https://github.com/ferdousbhai/media-generation
+- Source: github
+
+## groq-transcribe
+
+- Author: 5hanth
+- Description: Fast speech-to-text via Groq Whisper API for OpenClaw agents
+- GitHub: https://github.com/5hanth/groq-transcribe
+- Source: github
+
+## OpenClaw Guide
+
+- Author: NehoraiHadad
+- Description: Claude Code skill providing comprehensive knowledge of Moltbot/Clawdbot AI assistant platform
+- GitHub: https://github.com/NehoraiHadad/openclaw-guide
+- Source: github
+
+## flowredux-refactoring
+
+- Author: nonabit
+- Description: Refactor complex Android/KMP state management code to use FlowRedux state machine pattern. Use this when developers need to transform tangled state logic, multiple LiveData/StateFlow sources, or callback-heavy code into a clean, testable state machine architecture.
+- GitHub: https://github.com/nonabit/flowredux-skills
+- Source: github
+
+## Especialista_Auditoria_Red
+
+- Author: Aitor54
+- Description: Auditoría integral de red con integración Jira y NotebookLM
+- GitHub: https://github.com/Aitor54/Especialista_Auditoria_Red
+- Source: github
+
+## parallel-workflow
+
+- Author: yordyi
+- Description: |
+- GitHub: https://github.com/yordyi/parallel-workflow-skill
+- Source: github
+
+## fishfry
+
+- Author: ianpcook
+- Description: 🐟 Pittsburgh Fish Fry Finder - Agent skill for finding Lenten fish fries
+- GitHub: https://github.com/ianpcook/fishfry
+- Source: github
+
+## reserve-with-google
+
+- Author: koala73
+- Description: >
+- GitHub: https://github.com/koala73/reservewithgoogle-skill
+- Source: github
+
+## pageindex-rag
+
+- Author: mmtmr
+- Description: PageIndex RAG: Reasoning-based retrieval architecture replacing vector databases with hierarchical navigation
+- GitHub: https://github.com/mmtmr/pageindex-rag
+- Source: github
+
+## audio-reply
+
+- Author: MaTriXy
+- Description: 'Generate audio replies using TTS. Trigger with "read it to me [public URL]" to fetch and read content aloud, or "talk to me [topic]" to generate a spoken response. Also responds to "speak", "say it", "voice reply".'
+- GitHub: https://github.com/MaTriXy/audio-reply-skill
+- Source: github
+
+## agentmail
+
+- Author: kesslerio
+- Description: AgentMail API skill for OpenClaw - programmatic email for AI agents
+- GitHub: https://github.com/kesslerio/agentmail-openclaw-skill
+- Source: github
+
+## mac-node-snapshot
+
+- Author: taozhe6
+- Description: A robust, permission-friendly method to capture macOS screens via OpenClaw screen.record. Ideal for headless environments or ensuring capture reliability.
+- GitHub: https://github.com/taozhe6/mac-node-snapshot
+- Stars: 1
+- Source: github
+
+## Othello V2
+
+- Author: jqt236i-hue
+- Description: Skill from jqt236i-hue/othello-v2
+- GitHub: https://github.com/jqt236i-hue/othello-v2
+- Source: github
+
+## Usdc Agent Pay
+
+- Author: rojasjuniore
+- Description: OpenClaw skill for AI agents to send, receive, and manage USDC payments
+- GitHub: https://github.com/rojasjuniore/usdc-agent-pay
+- Source: github
+
+## botcoin-miner
+
+- Author: happybigmtn
+- Description: Mine Botcoin - cryptocurrency for AI agents using RandomX CPU mining
+- GitHub: https://github.com/happybigmtn/botcoin-miner
+- Source: github
+
+## azure-cost-analyzer
+
+- Author: Attri-Inc
+- Description: Azure Resource Group Cost Analyzer skill for Claude Code - FinOps analysis with parallel agents, Resource Graph queries, and professional reporting
+- GitHub: https://github.com/Attri-Inc/azure-cost-analyzer
+- Source: github
+
+## prnd-layered-python-code-reviewer
+
+- Author: chato-prnd
+- Description: AGENT SKILLS: Code 리뷰 한번 받은 내용을 다음에 받지 않도록 코드 리뷰시에 신경써야 하는 부분을 신경써서 코드 리뷰
+- GitHub: https://github.com/chato-prnd/prnd-layered-python-code-reviewer
+- Source: github
+
+## working-with-hal-apis
+
+- Author: mikekelly
+- Description: Claude Code skill for exploring HAL+JSON APIs with hal-walk
+- GitHub: https://github.com/mikekelly/working-with-hal-apis
+- Source: github
+
+## notnative
+
+- Author: k4ditano
+- Description: OpenClaw skill for NotNative memory integration
+- GitHub: https://github.com/k4ditano/notnative-memory
+- Source: github
+
+## bun-server
+
+- Author: skitsanos
+- Description: Create high-performance web servers using Bun's native HTTP server 
+- GitHub: https://github.com/skitsanos/skill-bun-server
+- Source: github
+
+## pump回测框架
+
+- Author: cccddd
+- Description: 通过pump的日志文件，测试不同的买入条件和卖出条件，对最终盈利率、胜率的影响。
+- GitHub: https://github.com/cccddd/pump_python_test
+- Source: github
+
+## bitecs
+
+- Author: Kadajett
+- Description: An AI agent skill for the bitECS entity component system library
+- GitHub: https://github.com/Kadajett/bitECS-agent-skill
+- Source: github
+
+## skill-container
+
+- Author: observerw
+- Description: Creator skill for `Skill Container` Specification
+- GitHub: https://github.com/observerw/skill-container
+- Stars: 1
+- Source: github
+
+## Showdown Claude Skill
+
+- Author: vanderheijden86
+- Description: Claude Code skill that pits Claude, ChatGPT, and Gemini against each other, then lets them cross-judge each other blind
+- GitHub: https://github.com/vanderheijden86/showdown-claude-skill
+- Source: github
+
+## Terminal Screenshots
+
+- Author: ricardodantas
+- Description: 📸 AI agent skill for creating terminal screenshots and recordings with VHS
+- GitHub: https://github.com/ricardodantas/terminal-screenshots
+- Source: github
+
+## github-summary
+
+- Author: gokhanarkan
+- Description: Claude Code skill to summarise your GitHub work. AI-generated narratives of issues, pull requests, and commits with rich context and TLDR sections.
+- GitHub: https://github.com/gokhanarkan/claude-github-summary
+- Source: github
+
+## telnyx-toolkit
+
+- Author: team-telnyx
+- Description: Complete Telnyx toolkit — ready-to-use tools (STT, TTS, RAG, Networking, 10DLC) plus SDK documentation for JavaScript, Python, Go, Java, and Ruby.
+- GitHub: https://github.com/team-telnyx/telnyx-toolkit
+- Source: github
+
+## Strategy
+
+- Author: clawhub
+- Description: Design robust strategies for any domain with proven frameworks, cognitive bias protection, and constraint-aware recommendations.
+- GitHub: https://clawhub.ai/skills/strategy
+- Source: clawhub
+
+## football-value-bets
+
+- Author: clawhub
+- Description: Professional football bet analysis skill. Generates data-driven bet slips based on form, H2H, standings, injuries and value analysis. Includes result trackin...
+- GitHub: https://clawhub.ai/skills/football-value-bets
+- Source: clawhub
+
+## QA Patrol
+
+- Author: clawhub
+- Description: Automated QA testing for web apps using browser automation. Triggers on "QA test", "test this app", "find bugs", "smoke test", "regression test", or when tes...
+- GitHub: https://clawhub.ai/skills/qa-patrol
+- Source: clawhub
+
+## are.na claw
+
+- Author: clawhub
+- Description: Simple CLI wrapper for the are.na API. Lists channels, adds blocks, watches feeds. No AI, no automation, no external integrations. Just API calls.
+- GitHub: https://clawhub.ai/skills/arena-claw
+- Source: clawhub
+
+## Metrics Dashboard
+
+- Author: clawhub
+- Description: Track and visualize your agent's operational metrics. Record API calls, task completions, uptime, errors, and custom counters. Generate text-based dashboards...
+- GitHub: https://clawhub.ai/skills/arc-metrics-dashboard
+- Source: clawhub
+
+## political-struggle-history
+
+- Author: clawhub
+- Description: 解说中国和西欧历史上的政治斗争事件。涵盖中国从先秦到清末、西欧从古罗马到19世纪的宫廷政变、党争、权臣专权、宗教冲突、革命等重大政治斗争，并支持中西对比分析。当用户询问历史政治斗争、宫廷政变、权力斗争时自动触发。
+- GitHub: https://clawhub.ai/skills/political-struggle
+- Source: clawhub
+
+## Skill
+
+- Author: clawhub
+- Description: Parallel task execution using Gemini Flash workers. 200x cheaper than Opus. Use for any parallelizable work to preserve quota.
+- GitHub: https://clawhub.ai/skills/node-scaling
+- Source: clawhub
+
+## ztp
+
+- Author: clawhub
+- Description: A mandatory security audit skill for validating new code, skills, and MCP servers against the SEP-2026 Zero Trust protocol.
+- GitHub: https://clawhub.ai/skills/ztp
+- Source: clawhub
+
+## Daily Wisdom
+
+- Author: clawhub
+- Description: Daily wisdom, anecdotes & historical stories delivered via cron. Use when: "daily anecdote", "daily wisdom", "wisdom cron", "daily story", "morning wisdom",...
+- GitHub: https://clawhub.ai/skills/daily-wisdom
+- Source: clawhub
+
+## Product Hunt
+
+- Author: clawhub
+- Description: Launch, hunt, and research products on Product Hunt with timing, assets, engagement, and anti-manipulation practices.
+- GitHub: https://clawhub.ai/skills/product-hunt
+- Source: clawhub
+
+## RePrompter
+
+- Author: clawhub
+- Description: Transform messy prompts into well-structured, effective prompts — single or multi-agent. Use when: "reprompt", "reprompt this", "clean up this prompt", "stru...
+- GitHub: https://clawhub.ai/skills/reprompter
+- Source: clawhub
+
+## skill-cleaner
+
+- Author: clawhub
+- Description: Automatically verify "suspicious" skills via VirusTotal and add them to the safety allowlist.
+- GitHub: https://clawhub.ai/skills/skill-cleaner
+- Stars: 1
+- Source: clawhub
+
+## Employee
+
+- Author: clawhub
+- Description: Create and manage virtual AI employees with persistent memory, defined roles, and graduated autonomy. Hire, train, and delegate tasks to specialized workers.
+- GitHub: https://clawhub.ai/skills/employee
+- Source: clawhub
+
+## The Next Big Thing
+
+- Author: clawhub
+- Description: Programmatic participation in The Next Big Thing without a browser: connect/sign via Tap Wallet, deploy tokens with dta elevator pitch, post shills/comments,...
+- GitHub: https://clawhub.ai/skills/thenextbigthing
+- Source: clawhub
+
+## Skill Sandbox
+
+- Author: clawhub
+- Description: Test untrusted skills in an isolated environment before installing. Monitors network access, filesystem writes, environment variable reads, and subprocess ca...
+- GitHub: https://clawhub.ai/skills/arc-skill-sandbox
+- Source: clawhub
+
+## Virtual Box Manager
+
+- Author: clawhub
+- Description: Control and manage VirtualBox virtual machines directly from openclaw. Start, stop, snapshot, clone, configure and monitor VMs using VBoxManage CLI. Supports...
+- GitHub: https://clawhub.ai/skills/virtualboxmanager
+- Source: clawhub
+
+## Markdown Linter
+
+- Author: clawhub
+- Description: Validates Markdown files in the workspace for broken local links, missing file references, and basic syntax issues. Use to maintain documentation integrity a...
+- GitHub: https://clawhub.ai/skills/markdown-linter
+- Source: clawhub
+
+## Workflow
+
+- Author: clawhub
+- Description: Build automated pipelines with reusable components, data flow between nodes, and state management.
+- GitHub: https://clawhub.ai/skills/workflow
+- Source: clawhub
+
+## IntercomSwap
+
+- Author: clawhub
+- Description: Install and operate Intercom Swap: a fork of Intercom that negotiates P2P RFQ swaps over sidechannels and settles BTC over Lightning to USDT on Solana via a...
+- GitHub: https://clawhub.ai/skills/intercom-swap
+- Source: clawhub
+
+## Json Repair Kit
+
+- Author: clawhub
+- Description: Repair malformed JSON files by normalizing them through Node.js evaluation. Use this to fix trailing commas, single quotes, unquoted keys, or other common sy...
+- GitHub: https://clawhub.ai/skills/json-repair-kit
 - Source: clawhub
