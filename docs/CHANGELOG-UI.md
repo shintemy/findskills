@@ -93,3 +93,12 @@
 **涉及文件：** `index.html`、`.cursor/rules/design-system.mdc`
 
 ---
+
+### 7. 添加 Google Analytics
+
+**修改内容：**
+- 在 `<head>` 中添加 Google Analytics (gtag.js)，ID: G-VRT60PZK0Q
+
+**涉及文件：** `index.html`
+
+---
