@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 103 skills | Last updated: 2026-02-15
+> Total: 114 skills | Last updated: 2026-02-15
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -730,4 +730,81 @@ For structured JSON data, fetch: /skills.json
 - Author: Shopify
 - Description: Base repository for the Klint component
 - GitHub: https://github.com/Shopify/Klint
+- Source: github
+
+## RepaiRobot
+
+- Author: phytesnet
+- Description: modularen Rekonstruktion technischer Systeme
+- GitHub: https://github.com/phytesnet/RepaiRobot
+- Source: github
+
+## Ogre Dft Workflow Skill
+
+- Author: chamber523
+- Description: Skill from chamber523/ogre-dft-workflow-skill
+- GitHub: https://github.com/chamber523/ogre-dft-workflow-skill
+- Source: github
+
+## Shopping Browser
+
+- Author: wolfiesch
+- Description: Claude Code skill for authenticated shopping automation with session pool (Amazon, Newegg)
+- GitHub: https://github.com/wolfiesch/shopping-browser
+- Source: github
+
+## Carenet Cursor
+
+- Author: iosif2
+- Description: Skill from iosif2/carenet-cursor
+- GitHub: https://github.com/iosif2/carenet-cursor
+- Source: github
+
+## Zariah Construction
+
+- Author: SasekLab
+- Description: Skill from SasekLab/Zariah-construction
+- GitHub: https://github.com/SasekLab/Zariah-construction
+- Source: github
+
+## Alt 123k
+
+- Author: Kashif-alt9
+- Description: alt
+- GitHub: https://github.com/Kashif-alt9/alt-123k
+- Source: github
+
+## Spring Boot 4 Migration Skill
+
+- Author: adityamparikh
+- Description: Claude Code skill for migrating Spring Boot 3.x applications to Spring Boot 4.0. Covers modular starters, Jackson 3, Security 7, Framework 7, Hibernate 7.1, testing, and more.
+- GitHub: https://github.com/adityamparikh/spring-boot-4-migration-skill
+- Source: github
+
+## Xhs Cover Skill
+
+- Author: cclank
+- Description: 一键生成小红书爆款封面内容及系列信息图提示词。
+- GitHub: https://github.com/cclank/xhs-cover-skill
+- Source: github
+
+## Comfyui Zimage Skill
+
+- Author: norsizu
+- Description: Skill from norsizu/comfyui-zimage-skill
+- GitHub: https://github.com/norsizu/comfyui-zimage-skill
+- Source: github
+
+## Reflect Yourself
+
+- Author: maorfsdev
+- Description: A self-learning system for [Cursor](https://cursor.sh) that captures corrections, discovers workflow patterns, and syncs learnings to skills and rules.
+- GitHub: https://github.com/maorfsdev/reflect-yourself
+- Source: github
+
+## Xhs Skill
+
+- Author: zhangpeicheng8788-ux
+- Description: xhs-skill，自动发布笔记：标题。正文，配图到小红书
+- GitHub: https://github.com/zhangpeicheng8788-ux/xhs-skill
 - Source: github
