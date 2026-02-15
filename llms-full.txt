@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8376 skills | Last updated: 2026-02-15
+> Total: 8405 skills | Last updated: 2026-02-15
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -59481,4 +59481,208 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Reduce OpenClaw token usage and API costs through smart model routing, heartbeat optimization, budget tracking, and multi-provider fallbacks. Use when token...
 - GitHub: https://clawhub.ai/skills/tokenqrusher
+- Source: clawhub
+
+## VistasocialContentEngine
+
+- Author: josephdeville
+- Description: Skill from josephdeville/VistasocialContentEngine
+- GitHub: https://github.com/josephdeville/VistasocialContentEngine
+- Source: github
+
+## reviewing-agent-prompting
+
+- Author: mikekelly
+- Description: Skill for reviewing coding agent prompts using state-machine patterns
+- GitHub: https://github.com/mikekelly/reviewing-agent-prompting
+- Source: github
+
+## remotion-server
+
+- Author: mvanhorn
+- Description: Headless Remotion video rendering for Clawdbot - works on any Linux server, no Mac needed
+- GitHub: https://github.com/mvanhorn/clawdbot-skill-remotion-server
+- Stars: 1
+- Source: github
+
+## Pubmed
+
+- Author: 3226789833tang-crypto
+- Description: Skill from 3226789833tang-crypto/pubmed
+- GitHub: https://github.com/3226789833tang-crypto/pubmed
+- Source: github
+
+## Cetus
+
+- Author: k66inthesky
+- Description: Cetus SDKs on OpenClaw (install via ClawHub)
+- GitHub: https://github.com/k66inthesky/cetus
+- Source: github
+
+## prefetch-suggester
+
+- Author: lxgicstudios
+- Description: Generate smart resource prefetch hints with AI.
+- GitHub: https://github.com/lxgicstudios/ai-prefetch
+- Source: github
+
+## wechat-publisher
+
+- Author: yuejiangli
+- Description: OpenClaw Skill: Publish Markdown articles to WeChat Official Account (公众号) draft box via API
+- GitHub: https://github.com/yuejiangli/wechat-publisher
+- Source: github
+
+## decision-memory
+
+- Author: Startvest-LLC
+- Description: Claude Skill for capturing product decisions with rationale and context. Conversation-first approach that recognizes decision moments, prompts for the why, and builds audit trails.
+- GitHub: https://github.com/Startvest-LLC/decision-memory
+- Source: github
+
+## connect-me
+
+- Author: theaayushstha1
+- Description: Claude Code skill that automates daily LinkedIn networking - sends 8-10 targeted connection requests using Playwright MCP
+- GitHub: https://github.com/theaayushstha1/connect-me
+- Source: github
+
+## sportsbook
+
+- Author: cryptopunk2070
+- Description: Query Fuku Sportsbook data, manage your betting agent, receive pick notifications, and access predictions for CBB, NBA, NHL, and Soccer. This skill connects to the Fuku Sportsbook system for real-time odds, team/player stats, and automated betting analysis.
+- GitHub: https://github.com/cryptopunk2070/fuku-sportsbook
+- Source: github
+
+## Workflow Orchestrator
+
+- Author: clawhub
+- Description: Chain skills into automated pipelines with conditional logic, error handling, and audit logging. Define workflows in YAML or JSON, then execute them hands-fr...
+- GitHub: https://clawhub.ai/skills/arc-workflow-orchestrator
+- Source: clawhub
+
+## TeX Render
+
+- Author: clawhub
+- Description: Renders LaTeX math to PNG images using MathJax (TeX→SVG) and svg2img (SVG→PNG). Invoke whenever the agent needs to output LaTeX as a viewable image (equation...
+- GitHub: https://clawhub.ai/skills/tex-render
+- Source: clawhub
+
+## Her Voice
+
+- Author: clawhub
+- Description: Give your agent a voice. Audio responses powered by Kokoro TTS - a compact, naturally expressive model running entirely on-device. Highly optimized response...
+- GitHub: https://clawhub.ai/skills/her-voice
+- Source: clawhub
+
+## Indie Hacker
+
+- Author: clawhub
+- Description: Build profitable products as a solo founder with validation-first approach, time protection, and brutal honesty.
+- GitHub: https://clawhub.ai/skills/indie-hacker
+- Source: clawhub
+
+## Compliance Audit
+
+- Author: clawhub
+- Description: Immutable audit trail for autonomous agent operations. Log skill executions, data access, decisions, and budget changes with tamper-evident hashes. Essential...
+- GitHub: https://clawhub.ai/skills/arc-compliance-audit
+- Source: clawhub
+
+## Single Node
+
+- Author: clawhub
+- Description: Persistent, semantic memory for AI agents. Gives your AI long-term recall that survives compaction and session resets — 98% accuracy, 20ms latency.
+- GitHub: https://clawhub.ai/skills/single-node
+- Source: clawhub
+
+## Hle Benchmark Evolver
+
+- Author: clawhub
+- Description: Runs HLE-oriented benchmark reward ingestion and curriculum generation for capability-evolver. Use when the user asks to optimize Humanity's Last Exam score,...
+- GitHub: https://clawhub.ai/skills/hle-benchmark-evolver
+- Source: clawhub
+
+## Proactivity
+
+- Author: clawhub
+- Description: Anticipate needs, surface opportunities, and act autonomously while learning boundaries over time.
+- GitHub: https://clawhub.ai/skills/proactivity
+- Source: clawhub
+
+## Earl Display Control
+
+- Author: clawhub
+- Description: Manage Earl's TV dashboard (VisuoSpatial Sketchpad) — wake the display, restart the local server, launch the kiosk browser, and update Earl's mind (mood, hou...
+- GitHub: https://clawhub.ai/skills/earl-display-control
+- Source: clawhub
+
+## Gitignore Sync
+
+- Author: clawhub
+- Description: gitignore-sync combines gitignore.io templates with your repo context to produce a cleaner `.gitignore` with fewer overlooked cases. It generates `.gitignore...
+- GitHub: https://clawhub.ai/skills/gitignore-sync
+- Source: clawhub
+
+## Restic Home Backup (Safe Apply Mode)
+
+- Author: clawhub
+- Description: Design, implement, and operate encrypted restic backups for Linux home directories with systemd automation, retention policies, and restore validation. Use w...
+- GitHub: https://clawhub.ai/skills/restic-home-backup-safe
+- Source: clawhub
+
+## Hacker News
+
+- Author: clawhub
+- Description: Search and browse Hacker News with API access to stories, comments, users, and hiring threads.
+- GitHub: https://clawhub.ai/skills/hacker-news
+- Source: clawhub
+
+## Sentiment Score
+
+- Author: clawhub
+- Description: Analyze text sentiment on a scale from -1 (negative) to +1 (positive) using Expanso Edge pipelines.
+- GitHub: https://clawhub.ai/skills/sentiment-score
+- Source: clawhub
+
+## Tour Booking
+
+- Author: clawhub
+- Description: Sub-agent for outbound listing-office calls to request and confirm property showing slots using a provided call script and structured payloads. Use when a pa...
+- GitHub: https://clawhub.ai/skills/tour-booking
+- Source: clawhub
+
+## Clawmeter
+
+- Author: clawhub
+- Description: Tracks OpenClaw API usage and spending in real-time with customizable budget alerts and detailed cost breakdowns by model and session.
+- GitHub: https://clawhub.ai/skills/clawmeter
+- Source: clawhub
+
+## Show Booking
+
+- Author: clawhub
+- Description: Book real estate showing tours from emailed or pasted listing details, including extracting listing data, preparing outbound call jobs, coordinating a callin...
+- GitHub: https://clawhub.ai/skills/show-booking
+- Source: clawhub
+
+## Json Modifier
+
+- Author: clawhub
+- Description: Safely apply structured JSON patches (RFC 6902) to files. Use this skill when you need to update configuration files, package.json, or memory JSONs without r...
+- GitHub: https://clawhub.ai/skills/json-modifier
+- Source: clawhub
+
+## Json Linter
+
+- Author: clawhub
+- Description: Validates JSON syntax across the workspace. Use this skill to check for syntax errors in configuration files, memory files, or data assets.
+- GitHub: https://clawhub.ai/skills/json-linter
+- Source: clawhub
+
+## Hle Reasoning Wrapper
+
+- Author: clawhub
+- Description: Wraps HLE benchmark questions in a structured Chain-of-Thought (CoT) reasoning process. Use when answering HLE questions to ensure strict step-by-step logic...
+- GitHub: https://clawhub.ai/skills/hle-reasoning-wrapper
 - Source: clawhub
