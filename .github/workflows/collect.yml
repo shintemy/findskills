@@ -2,7 +2,7 @@ name: Collect Skills
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Daily at 6:00 UTC
+    - cron: '0 * * * *'  # Every hour at :00
   workflow_dispatch:       # Manual trigger
 
 permissions:
