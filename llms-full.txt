@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8458 skills | Last updated: 2026-02-15
+> Total: 8471 skills | Last updated: 2026-02-15
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -60060,4 +60060,95 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Repair malformed JSON files by normalizing them through Node.js evaluation. Use this to fix trailing commas, single quotes, unquoted keys, or other common sy...
 - GitHub: https://clawhub.ai/skills/json-repair-kit
+- Source: clawhub
+
+## cognitive-debt-guard
+
+- Author: krishnan
+- Description: >
+- GitHub: https://github.com/krishnan/Cognitive-Debt-Guard
+- Source: github
+
+## middleware-gen
+
+- Author: lxgicstudios
+- Description: AI-powered middleware generator - Express/Fastify middleware with GPT
+- GitHub: https://github.com/lxgicstudios/ai-middleware
+- Source: github
+
+## Trend Radar
+
+- Author: clawhub
+- Description: Tech/market trend weekly auto-report
+- GitHub: https://clawhub.ai/skills/mupeng-trend-radar
+- Source: clawhub
+
+## OpenFleet
+
+- Author: clawhub
+- Description: Manage your OpenFleet multi-agent workspace — create tasks, assign agents, trigger pulse cycles, manage automations, and monitor activity. Full bidirectional...
+- GitHub: https://clawhub.ai/skills/openfleet
+- Source: clawhub
+
+## Agent Orchestrator
+
+- Author: clawhub
+- Description: Multi-agent orchestration with 5 proven patterns - Work Crew, Supervisor, Pipeline, Council, and Auto-Routing
+- GitHub: https://clawhub.ai/skills/agent-orchestrator-molter
+- Source: clawhub
+
+## Vincent - Brave Search
+
+- Author: clawhub
+- Description: Use this skill to search the web and news using Brave Search. Pay-per-call via Vincent credit system.
+- GitHub: https://clawhub.ai/skills/vincent-brave-search
+- Source: clawhub
+
+## Vincent - Twitter
+
+- Author: clawhub
+- Description: Use this skill to search tweets, look up user profiles, and retrieve recent tweets from X.com (Twitter). Pay-per-call via Vincent credit system.
+- GitHub: https://clawhub.ai/skills/vincent-twitter
+- Source: clawhub
+
+## Zettel Brainstormer
+
+- Author: clawhub
+- Description: It reads from your local zettelkasten notes, find a random idea, and find references by links or tags, then expand the idea with the references.
+- GitHub: https://clawhub.ai/skills/zettel-brainstormer
+- Source: clawhub
+
+## GatewayStack Governance
+
+- Author: clawhub
+- Description: Deny-by-default governance for every tool call — identity verification, scope enforcement, rate limiting, injection detection, and audit logging. Hooks into...
+- GitHub: https://clawhub.ai/skills/gatewaystack-governance
+- Source: clawhub
+
+## Yoinkit Openclaw Skill
+
+- Author: clawhub
+- Description: Research and retrieve transcripts, full content, metadata, trending posts, and search results from supported social media platforms using Yoinkit API.
+- GitHub: https://clawhub.ai/skills/yoinkit-openclaw-skill
+- Source: clawhub
+
+## Discord Context
+
+- Author: clawhub
+- Description: Sync and cache per-thread context for Discord Forum channels. Use when handling /discord-context commands to poll active threads, list cached context, inspec...
+- GitHub: https://clawhub.ai/skills/discord-context
+- Source: clawhub
+
+## Clawdhub 1.0.0
+
+- Author: clawhub
+- Description: Use the ClawdHub CLI to search, install, update, and publish agent skills from clawdhub.com. Use when you need to fetch new skills on the fly, sync installed...
+- GitHub: https://clawhub.ai/skills/clawdhub-1-0-0
+- Source: clawhub
+
+## Markdown Validator
+
+- Author: clawhub
+- Description: Validates Markdown files for broken local links.
+- GitHub: https://clawhub.ai/skills/markdown-validator
 - Source: clawhub
