@@ -102,3 +102,12 @@
 **涉及文件：** `index.html`
 
 ---
+
+### 8. Header Logo 放大 150%
+
+**修改内容：**
+- 将 `.header-logo img` 的 `height` 从 `4rem` 调整为 `6rem`（放大 150%）
+
+**涉及文件：** `index.html`
+
+---

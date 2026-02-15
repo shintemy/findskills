@@ -143,7 +143,7 @@
     .header-logo img {
       display: block;
       margin: 0 auto;
-      height: 4rem;
+      height: 9rem;
       width: auto;
     }
 
@@ -154,10 +154,11 @@
       margin-bottom: var(--space-2);
     }
 
-    .header .stats {
+    .main .stats {
       color: var(--text-tertiary);
       font-size: var(--text-body-sm);
       line-height: var(--text-body-sm-lh);
+      margin-bottom: var(--space-3);
     }
 
     /* Search trigger — design-system iconOnly */
@@ -472,6 +473,68 @@
     }
 
     .footer-links a:hover { color: var(--brand); }
+
+    .footer-credit {
+      margin-top: var(--space-1);
+      font-size: var(--text-caption);
+      line-height: var(--text-caption-lh);
+    }
+
+    .footer-credit a { color: var(--brand); }
+    .footer-credit a:hover { color: var(--brand-hover); }
+
+    /* Sticky nav — appears when header scrolls out of view */
+    .sticky-nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 50;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+      padding: 0 var(--space-3);
+      background: var(--bg-elevated);
+      border-bottom: 1px solid var(--border);
+      box-shadow: var(--shadow-sm);
+      transform: translateY(-100%);
+      transition: transform var(--duration-normal) var(--ease-standard);
+    }
+
+    .sticky-nav.is-visible {
+      transform: translateY(0);
+    }
+
+    .sticky-nav .sticky-logo img {
+      height: 2rem;
+      width: auto;
+      display: block;
+    }
+
+    .sticky-nav .sticky-search {
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      color: var(--text-tertiary);
+      cursor: pointer;
+      transition: color var(--duration-fast) var(--ease-standard),
+                  border-color var(--duration-fast) var(--ease-standard),
+                  background-color var(--duration-fast) var(--ease-standard);
+    }
+
+    .sticky-nav .sticky-search:hover {
+      color: var(--text-primary);
+      background: var(--bg);
+    }
+
+    .sticky-nav .sticky-search svg { width: 18px; height: 18px; }
   </style>
 </head>
 <body>
@@ -480,13 +543,23 @@
       <img src="assets/findskills_logo_light_background.svg" alt="FindSkills">
     </h1>
     <p class="tagline">AI-First Skills Directory</p>
-    <p class="stats" id="stats">Loading skills...</p>
     <button type="button" class="search-trigger" id="search-trigger" aria-label="Open search">
       <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
         <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd"/>
       </svg>
     </button>
   </header>
+
+  <nav class="sticky-nav" id="sticky-nav" aria-label="Sticky navigation">
+    <a href="/" class="sticky-logo">
+      <img src="assets/findskills_logo_light_background.svg" alt="FindSkills">
+    </a>
+    <button type="button" class="sticky-search" id="sticky-search-trigger" aria-label="Open search">
+      <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+        <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd"/>
+      </svg>
+    </button>
+  </nav>
 
   <div class="search-overlay" id="search-overlay">
     <button type="button" class="search-close" id="search-close" aria-label="Close search">&times;</button>
@@ -510,6 +583,7 @@
   </div>
 
   <main class="main">
+    <p class="stats" id="stats">Loading skills...</p>
     <div class="skills-grid" id="skills-grid">
       <p class="loading">Loading skills...</p>
     </div>
@@ -522,6 +596,7 @@
       <a href="https://github.com/shintemy/findskills" target="_blank" rel="noopener">GitHub</a>
     </div>
     <p>FindSkills - Open directory of AI Agent Skills</p>
+    <p class="footer-credit">Built by <a href="https://x.com/sean4269" target="_blank" rel="noopener">Sean</a></p>
   </footer>
 
   <script>
@@ -632,7 +707,24 @@
         searchOverlay.classList.remove('is-open');
       }
 
+      var stickyNav = document.getElementById('sticky-nav');
+      var stickySearchTrigger = document.getElementById('sticky-search-trigger');
+
+      // Show/hide sticky nav based on header visibility
+      var headerEl = document.querySelector('.header');
+      var observer = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            stickyNav.classList.remove('is-visible');
+          } else {
+            stickyNav.classList.add('is-visible');
+          }
+        });
+      }, { threshold: 0 });
+      observer.observe(headerEl);
+
       searchTrigger.addEventListener('click', openSearch);
+      stickySearchTrigger.addEventListener('click', openSearch);
       searchClose.addEventListener('click', closeSearch);
       searchOverlay.addEventListener('click', function (e) {
         if (e.target === searchOverlay) closeSearch();
