@@ -111,3 +111,72 @@
 **涉及文件：** `index.html`
 
 ---
+
+## 2026-02-16
+
+### 9. 搜索 Debounce 优化
+
+**问题描述：**
+- 实时搜索在每次按键时都触发完整的过滤 + DOM 渲染周期，随着数据量增长可能导致性能问题
+
+**修改内容：**
+- 为搜索输入添加 300ms debounce，用户连续打字时不再逐字触发渲染，等最后一次按键后 300ms 才执行过滤
+
+**涉及文件：** `index.html`（JS 部分）
+
+---
+
+### 10. 搜索状态指示条
+
+**问题描述：**
+- 用户在搜索浮层中输入关键词后关闭浮层，主页面仍显示过滤结果，但无任何提示告知当前列表基于什么搜索词过滤
+
+**修改内容：**
+- 在 stats 区域下方添加搜索状态条（`.search-status`），搜索时显示：Showing results for **"关键词"** (X of Y)
+- 附带 Clear 按钮，点击后清除搜索词、隐藏状态条、恢复完整列表
+- 使用品牌色系（coral 背景 `brand-tint10` + coral 边框 `brand`），与设计系统一致
+- 清空搜索框时自动隐藏
+
+**涉及文件：** `index.html`（HTML、CSS、JS）
+
+---
+
+### 11. 排序功能
+
+**修改内容：**
+- 在 stats 区域右侧添加排序下拉框（`.sort-select`），支持 4 种排序方式：
+  - **Recently Updated**：按 `updated_at` 降序（默认）
+  - **Recently Added**：按 `collected_at` 降序
+  - **Most Stars**：按 `stars` 降序
+  - **Name A–Z**：按名称字母升序
+- 排序与搜索过滤联动，通过统一的 `applyFilterAndSort()` 函数同时处理搜索 + 排序
+- 下拉框样式遵循设计系统：`--border`、`--radius-md`、hover `--brand`、focus `--shadow-focus-brand`
+
+**涉及文件：** `index.html`（HTML、CSS、JS）
+
+---
+
+### 12. 技能卡片展示 Stars 数量
+
+**修改内容：**
+- 在每张卡片的 footer 区域（GitHub 链接右侧）添加星标计数显示
+- 使用星形 SVG 图标（`--semantic-warning` 黄色）+ 数字
+- 仅当 `stars > 0` 时显示，避免无意义的 "0" 展示
+- card-footer 改为 flex 布局，左侧 GitHub 链接、右侧星标计数
+
+**涉及文件：** `index.html`（HTML、CSS、JS）
+
+---
+
+### 13. 采集增强：stars、downloads、created_at 字段
+
+**修改内容：**
+- **ClawHub**（`mapClawHubSkill`）：从 API 响应的 `stats` 对象中采集 `stars`、`downloads`，从 `createdAt` 采集 `created_at`
+- **GitHub**（`collectFromGitHub`）：在过滤阶段（逐个 fetch SKILL.md 时）额外调用 `GET /repos/{owner}/{name}` 获取 `stargazers_count`→`stars` 和 `created_at`
+- **Manual sources**（`collectFromSources`）：从已有的 repo API 响应中采集 `stargazers_count`→`stars` 和 `created_at`
+- **llms-full.txt**：当 skill 有 stars 时，输出中增加 `Stars: N` 行
+- 更新单元测试：`mapClawHubSkill` 测试断言新增 `stars`、`downloads`、`created_at` 字段
+
+**涉及文件：** `scripts/collect.js`、`scripts/generate.js`、`scripts/__tests__/collect.test.js`
+
+---

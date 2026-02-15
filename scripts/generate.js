@@ -30,6 +30,9 @@ export function generateLlmsFullTxt(data) {
     if (skill.category) {
       lines.push(`- Category: ${skill.category}`);
     }
+    if (skill.stars) {
+      lines.push(`- Stars: ${skill.stars}`);
+    }
     lines.push(`- Source: ${skill.source}`);
     lines.push('');
   }

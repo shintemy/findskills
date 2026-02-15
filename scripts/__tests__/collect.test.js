@@ -110,7 +110,7 @@ describe('isRelevantSkill', () => {
 });
 
 describe('mapClawHubSkill', () => {
-  it('maps ClawHub item to skill format', () => {
+  it('maps ClawHub item to skill format with stats', () => {
     const item = {
       slug: 'web-search',
       displayName: 'Web Search',
@@ -128,6 +128,9 @@ describe('mapClawHubSkill', () => {
     assert.equal(result.description, 'Search the web');
     assert.equal(result.source, 'clawhub');
     assert.equal(result.author, 'clawhub');
+    assert.equal(result.stars, 5);
+    assert.equal(result.downloads, 100);
+    assert.equal(result.created_at, '2023-11-14');
   });
 
   it('handles item without displayName', () => {
@@ -145,5 +148,7 @@ describe('mapClawHubSkill', () => {
     const result = mapClawHubSkill(item);
     assert.equal(result.name, 'My Tool');
     assert.equal(result.description, 'Skill from ClawHub: my-tool');
+    assert.equal(result.stars, 0);
+    assert.equal(result.downloads, 0);
   });
 });

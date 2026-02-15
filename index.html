@@ -158,7 +158,7 @@
       color: var(--text-tertiary);
       font-size: var(--text-body-sm);
       line-height: var(--text-body-sm-lh);
-      margin-bottom: var(--space-3);
+      margin-right: auto;
     }
 
     /* Search trigger — design-system iconOnly */
@@ -408,9 +408,24 @@
     }
 
     .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
       padding-top: var(--space-1);
       border-top: 1px solid var(--divider);
     }
+
+    .card-stars {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      font-size: var(--text-caption);
+      line-height: var(--text-caption-lh);
+      color: var(--text-tertiary);
+      font-weight: 500;
+    }
+
+    .card-stars svg { width: 14px; height: 14px; color: var(--semantic-warning); }
 
     /* GitHub link — design-system link */
     .github-link {
@@ -437,6 +452,84 @@
     .error-message .error-detail {
       font-size: var(--text-body-sm);
       color: var(--text-secondary);
+    }
+
+    /* Toolbar — sort controls above the grid */
+    .toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: var(--space-1);
+      margin-bottom: var(--space-3);
+    }
+
+    .sort-label {
+      font-size: var(--text-body-sm);
+      color: var(--text-tertiary);
+      white-space: nowrap;
+    }
+
+    .sort-select {
+      appearance: none;
+      -webkit-appearance: none;
+      padding: 6px 32px 6px 12px;
+      font-size: var(--text-body-sm);
+      line-height: var(--text-body-sm-lh);
+      font-family: var(--font-sans);
+      font-weight: 500;
+      color: var(--text-primary);
+      background: var(--bg-elevated) url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%236B7280' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right 12px center;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      transition: border-color var(--duration-fast) var(--ease-standard),
+                  box-shadow var(--duration-fast) var(--ease-standard);
+      outline: none;
+    }
+
+    .sort-select:hover { border-color: var(--brand); }
+    .sort-select:focus { box-shadow: var(--shadow-focus-brand); }
+
+    /* Active search indicator — shown on main page when filtered */
+    .search-status {
+      display: none;
+      align-items: center;
+      gap: var(--space-1);
+      margin-bottom: var(--space-3);
+      padding: var(--space-1-5) var(--space-2);
+      background: var(--brand-tint10);
+      border: 1px solid var(--brand);
+      border-radius: var(--radius-md);
+      font-size: var(--text-body-sm);
+      line-height: var(--text-body-sm-lh);
+      color: var(--text-secondary);
+    }
+
+    .search-status.is-active { display: flex; }
+
+    .search-status .search-term {
+      font-weight: 600;
+      color: var(--brand-deep);
+    }
+
+    .search-status .search-clear {
+      margin-left: auto;
+      padding: 2px 10px;
+      background: transparent;
+      border: 1px solid var(--brand);
+      border-radius: var(--radius-sm);
+      color: var(--brand-deep);
+      font-size: var(--text-caption);
+      font-weight: 500;
+      font-family: var(--font-sans);
+      cursor: pointer;
+      transition: background-color var(--duration-fast) var(--ease-standard),
+                  color var(--duration-fast) var(--ease-standard);
+    }
+
+    .search-status .search-clear:hover {
+      background: var(--brand);
+      color: #fff;
     }
 
     /* Loading / Empty — design-system emptyState */
@@ -583,7 +676,20 @@
   </div>
 
   <main class="main">
-    <p class="stats" id="stats">Loading skills...</p>
+    <div class="toolbar">
+      <p class="stats" id="stats">Loading skills...</p>
+      <span class="sort-label">Sort by</span>
+      <select class="sort-select" id="sort-select" aria-label="Sort skills">
+        <option value="updated">Recently Updated</option>
+        <option value="added">Recently Added</option>
+        <option value="stars">Most Stars</option>
+        <option value="name">Name A–Z</option>
+      </select>
+    </div>
+    <div class="search-status" id="search-status">
+      <span>Showing results for <span class="search-term" id="search-term-display"></span></span>
+      <button type="button" class="search-clear" id="search-clear">Clear</button>
+    </div>
     <div class="skills-grid" id="skills-grid">
       <p class="loading">Loading skills...</p>
     </div>
@@ -606,11 +712,17 @@
       var allSkills = [];
       var totalCount = 0;
       var sources = [];
+      var currentSort = 'updated';
+      var currentQuery = '';
 
       var gridEl = document.getElementById('skills-grid');
       var statsEl = document.getElementById('stats');
       var filterStatsEl = document.getElementById('filter-stats');
       var searchEl = document.getElementById('search');
+      var searchStatusEl = document.getElementById('search-status');
+      var searchTermDisplay = document.getElementById('search-term-display');
+      var searchClearBtn = document.getElementById('search-clear');
+      var sortSelectEl = document.getElementById('sort-select');
 
       function escapeHtml(str) {
         var div = document.createElement('div');
@@ -629,6 +741,18 @@
           .map(function (t) { return '<span class="tag">' + escapeHtml(t) + '</span>'; })
           .join('');
 
+        var starsHtml = '';
+        var stars = skill.stars || 0;
+        if (stars > 0) {
+          starsHtml =
+            '<span class="card-stars">' +
+              '<svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">' +
+                '<path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>' +
+              '</svg>' +
+              stars +
+            '</span>';
+        }
+
         return (
           '<article class="skill-card">' +
             '<div class="card-header">' +
@@ -645,6 +769,7 @@
                 '</svg>' +
                 'View on GitHub' +
               '</a>' +
+              starsHtml +
             '</div>' +
           '</article>'
         );
@@ -670,29 +795,72 @@
         statsEl.textContent = totalCount + ' Skills from ' + uniqueSources.length + ' source' + (uniqueSources.length !== 1 ? 's' : '');
       }
 
-      function filterSkills(query) {
-        if (!query) {
-          renderSkills(allSkills);
-          filterStatsEl.textContent = '';
-          return;
+      function sortSkills(skills, sortBy) {
+        var sorted = skills.slice();
+        switch (sortBy) {
+          case 'updated':
+            sorted.sort(function (a, b) { return (b.updated_at || '').localeCompare(a.updated_at || ''); });
+            break;
+          case 'added':
+            sorted.sort(function (a, b) { return (b.collected_at || '').localeCompare(a.collected_at || ''); });
+            break;
+          case 'stars':
+            sorted.sort(function (a, b) { return (b.stars || 0) - (a.stars || 0); });
+            break;
+          case 'name':
+            sorted.sort(function (a, b) { return (a.name || '').localeCompare(b.name || ''); });
+            break;
         }
-        var q = query.toLowerCase();
-        var filtered = allSkills.filter(function (skill) {
-          if (skill.name.toLowerCase().indexOf(q) !== -1) return true;
-          if (skill.description.toLowerCase().indexOf(q) !== -1) return true;
-          var tags = skill.tags || [];
-          for (var i = 0; i < tags.length; i++) {
-            if (tags[i].toLowerCase().indexOf(q) !== -1) return true;
-          }
-          return false;
-        });
-        renderSkills(filtered);
-        filterStatsEl.textContent = 'Showing ' + filtered.length + ' of ' + totalCount + ' skills';
+        return sorted;
       }
 
+      // Central render: applies current search filter + current sort, then renders
+      function applyFilterAndSort() {
+        var skills;
+        if (!currentQuery) {
+          skills = allSkills;
+          filterStatsEl.textContent = '';
+          searchStatusEl.classList.remove('is-active');
+        } else {
+          var q = currentQuery.toLowerCase();
+          skills = allSkills.filter(function (skill) {
+            if (skill.name.toLowerCase().indexOf(q) !== -1) return true;
+            if (skill.description.toLowerCase().indexOf(q) !== -1) return true;
+            var tags = skill.tags || [];
+            for (var i = 0; i < tags.length; i++) {
+              if (tags[i].toLowerCase().indexOf(q) !== -1) return true;
+            }
+            return false;
+          });
+          filterStatsEl.textContent = 'Showing ' + skills.length + ' of ' + totalCount + ' skills';
+          searchTermDisplay.textContent = '"' + currentQuery + '" (' + skills.length + ' of ' + totalCount + ')';
+          searchStatusEl.classList.add('is-active');
+        }
+        renderSkills(sortSkills(skills, currentSort));
+      }
+
+      function clearSearch() {
+        searchEl.value = '';
+        currentQuery = '';
+        applyFilterAndSort();
+      }
+
+      // Debounce: wait 300ms after last keystroke before filtering
+      var debounceTimer = null;
       searchEl.addEventListener('input', function () {
-        filterSkills(searchEl.value.trim());
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(function () {
+          currentQuery = searchEl.value.trim();
+          applyFilterAndSort();
+        }, 300);
       });
+
+      sortSelectEl.addEventListener('change', function () {
+        currentSort = sortSelectEl.value;
+        applyFilterAndSort();
+      });
+
+      searchClearBtn.addEventListener('click', clearSearch);
 
       var searchTrigger = document.getElementById('search-trigger');
       var searchOverlay = document.getElementById('search-overlay');
@@ -804,7 +972,7 @@
             totalCount = allSkills.length;
             sources = (data.meta && data.meta.sources) || [];
             updateStats();
-            renderSkills(allSkills);
+            applyFilterAndSort();
             registerWebMCPTools();
           })
           .catch(function (err) {

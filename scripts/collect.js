@@ -81,6 +81,10 @@ export function mapClawHubSkill(item) {
   const updatedDate = item.updatedAt
     ? new Date(item.updatedAt).toISOString().split('T')[0]
     : today;
+  const createdDate = item.createdAt
+    ? new Date(item.createdAt).toISOString().split('T')[0]
+    : today;
+  const stats = item.stats || {};
 
   return {
     id: `clawhub-${item.slug}`,
@@ -91,6 +95,9 @@ export function mapClawHubSkill(item) {
     source: 'clawhub',
     tags: [],
     category: '',
+    stars: stats.stars || 0,
+    downloads: stats.downloads || 0,
+    created_at: createdDate,
     updated_at: updatedDate,
     collected_at: today
   };
@@ -260,10 +267,35 @@ async function collectFromGitHub() {
           }
         }
       }
+
+      // Fetch repo details for stars and created_at
+      try {
+        const repoUrl = `https://api.github.com/repos/${owner}/${repo}`;
+        const repoRes = await fetch(repoUrl, {
+          headers: {
+            'Authorization': `token ${token}`,
+            'Accept': 'application/vnd.github.v3+json',
+            'User-Agent': 'FindSkills-Collector'
+          }
+        });
+        if (repoRes.ok) {
+          const repoData = await repoRes.json();
+          skill.stars = repoData.stargazers_count || 0;
+          skill.created_at = repoData.created_at
+            ? repoData.created_at.split('T')[0]
+            : today;
+        }
+      } catch {
+        // Non-critical: stars/created_at default to 0/today
+      }
+
+      if (!skill.stars) skill.stars = 0;
+      if (!skill.created_at) skill.created_at = today;
+
       filtered.push(skill);
     }
 
-    // Small delay to avoid rate limiting raw.githubusercontent.com
+    // Small delay to avoid rate limiting
     await new Promise(r => setTimeout(r, 200));
   }
 
@@ -310,6 +342,8 @@ async function collectFromSources() {
         source: 'manual',
         tags: [...(data.topics || []), ...(repo.tags || [])],
         category: '',
+        stars: data.stargazers_count || 0,
+        created_at: data.created_at ? data.created_at.split('T')[0] : today,
         updated_at: data.updated_at ? data.updated_at.split('T')[0] : today,
         collected_at: today
       });
