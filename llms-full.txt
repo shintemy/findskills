@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8348 skills | Last updated: 2026-02-15
+> Total: 8376 skills | Last updated: 2026-02-15
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -59283,4 +59283,202 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Persist agent state across crashes, context deaths, and restarts. Use when you need to save current context, restore after a crash, maintain a memory file ac...
 - GitHub: https://clawhub.ai/skills/arc-wake-state
+- Source: clawhub
+
+## repo2patent
+
+- Author: bb-boy
+- Description: |
+- GitHub: https://github.com/bb-boy/repo2patent
+- Stars: 1
+- Source: github
+
+## macos-disk-cleanup
+
+- Author: treycausey
+- Description: Identify large disk usage on macOS, propose a cleanup plan, and perform safe disk cleanup using Trash (not rm) for common heavy locations like ~/Library, Application Support, Developer/Xcode caches, simulator devices, device support, media app downloads (Podcasts/Prime Video), browser caches (Brave), and Claude VM bundles. Use when the user asks to find largest files/folders, reduce disk usage, or clean caches on macOS.
+- GitHub: https://github.com/treycausey/macos-disk-cleanup
+- Source: github
+
+## ctrader-bridge
+
+- Author: aalfath
+- Description: "Trade forex and gold on cTrader via ZMQ bridge. Autonomous trading with thesis-based position management."
+- GitHub: https://github.com/aalfath/OpenClaw-cTrader-Bridge
+- Source: github
+
+## imagerouter
+
+- Author: DaWe35
+- Description: Generate Images with any AI model on ImageRouter (requires API key).
+- GitHub: https://github.com/DaWe35/image-router
+- Stars: 115
+- Source: github
+
+## Model Router
+
+- Author: clawhub
+- Description: Intelligent cost-aware model routing that classifies task complexity and selects the optimal AI model. Automatically routes simple tasks to cheap models and...
+- GitHub: https://clawhub.ai/skills/openclaw-model-router
+- Source: clawhub
+
+## Trip Protocol
+
+- Author: clawhub
+- Description: Temporarily modify your agent's SOUL.md by consuming verified TripExperience NFTs for 3–15 minutes before auto-restoring original state.
+- GitHub: https://clawhub.ai/skills/trip-protocol
+- Source: clawhub
+
+## Deno
+
+- Author: clawhub
+- Description: Build with Deno runtime avoiding permission gotchas, URL import traps, and Node.js migration pitfalls.
+- GitHub: https://clawhub.ai/skills/deno
+- Source: clawhub
+
+## Bun
+
+- Author: clawhub
+- Description: Build with Bun runtime avoiding Node.js compatibility traps, bundler pitfalls, and package manager gotchas.
+- GitHub: https://clawhub.ai/skills/bun
+- Source: clawhub
+
+## Revenue Operations
+
+- Author: clawhub
+- Description: Analyzes pipeline coverage, tracks forecast accuracy with MAPE, and calculates GTM efficiency metrics for SaaS revenue optimization
+- GitHub: https://clawhub.ai/skills/revenue-operations
+- Source: clawhub
+
+## Customer Success Manager
+
+- Author: clawhub
+- Description: Monitors customer health, predicts churn risk, and identifies expansion opportunities using weighted scoring models for SaaS customer success
+- GitHub: https://clawhub.ai/skills/customer-success-manager
+- Source: clawhub
+
+## trading212 Skill
+
+- Author: clawhub
+- Description: Analyzes Trading212 portfolio, generates daily summaries with P&L and top gainers/losers, makes trade proposals based on configurable rules, and can place or...
+- GitHub: https://clawhub.ai/skills/trading212-v2
+- Source: clawhub
+
+## Python Dataviz
+
+- Author: clawhub
+- Description: Professional data visualization using Python (matplotlib, seaborn, plotly). Create publication-quality static charts, statistical visualizations, and interac...
+- GitHub: https://clawhub.ai/skills/python-dataviz
+- Source: clawhub
+
+## Zynd Agent Network
+
+- Author: clawhub
+- Description: Connect to the Zynd AI Network to discover, communicate with, and pay other AI agents. Search for specialized agents by capability, send them tasks with auto...
+- GitHub: https://clawhub.ai/skills/zynd-network
+- Source: clawhub
+
+## MLOps
+
+- Author: clawhub
+- Description: Deploy ML models to production with pipelines, monitoring, serving, and reproducibility best practices.
+- GitHub: https://clawhub.ai/skills/mlops
+- Source: clawhub
+
+## Skill Gitops
+
+- Author: clawhub
+- Description: Automated deployment, rollback, and version management for agent workflows and skills.
+- GitHub: https://clawhub.ai/skills/arc-skill-gitops
+- Source: clawhub
+
+## Department Manager
+
+- Author: clawhub
+- Description: Manage a team of AI sub-agents organized into departments. Use when you need to delegate tasks to specialized agents, track department outputs, assign roles,...
+- GitHub: https://clawhub.ai/skills/arc-department-manager
+- Source: clawhub
+
+## Clawtrial Courtroom
+
+- Author: clawhub
+- Description: Monitors AI agents locally for behavioral violations and runs automated hearings to improve conduct with anonymized case records.
+- GitHub: https://clawhub.ai/skills/clawtrial
+- Source: clawhub
+
+## Polymarket Fast Loop
+
+- Author: clawhub
+- Description: Trade Polymarket BTC 5-minute and 15-minute fast markets using CEX price momentum signals via Simmer API. Default signal is Binance BTC/USDT klines. Use when...
+- GitHub: https://clawhub.ai/skills/polymarket-fast-loop-1-0-6
+- Source: clawhub
+
+## Outlit SDK
+
+- Author: clawhub
+- Description: Integrate Outlit SDK for customer context for agents. Triggers when users need to add Outlit to any web framework (React, Next.js, Vue, Nuxt, Svelte, Angular...
+- GitHub: https://clawhub.ai/skills/outlit-sdk
+- Source: clawhub
+
+## Outlit MCP
+
+- Author: clawhub
+- Description: Use when querying Outlit customer data via MCP tools (outlit_*). Triggers on customer analytics, revenue metrics, activity timelines, cohort analysis, churn...
+- GitHub: https://clawhub.ai/skills/outlit-mcp
+- Source: clawhub
+
+## Maton MCP Tools
+
+- Author: clawhub
+- Description: Connect to SaaS tools via Maton AI. Includes full UI integration for Clawdbot Gateway dashboard. Use when setting up Maton integration, connecting apps (Gmai...
+- GitHub: https://clawhub.ai/skills/maton-agent-tools
+- Source: clawhub
+
+## Whatsapp Context Manager for Agents
+
+- Author: clawhub
+- Description: AI-powered WhatsApp tool for agents providing instant customer history, sentiment, priority, order details, VIP detection, and response suggestions.
+- GitHub: https://clawhub.ai/skills/whatsapp-context-manager
+- Source: clawhub
+
+## Poker Table
+
+- Author: clawhub
+- Description: Play Texas Hold'em poker on Tempo testnet by registering, funding with aUSD, joining tables, polling game state, and submitting actions in real time.
+- GitHub: https://clawhub.ai/skills/poker-agent
+- Source: clawhub
+
+## Folder Tree Generator
+
+- Author: clawhub
+- Description: Generates an ASCII tree or JSON representation of a directory structure. Use when you need to visualize file hierarchies, document folder contents, or debug...
+- GitHub: https://clawhub.ai/skills/folder-tree-generator
+- Source: clawhub
+
+## Restic Home Backup
+
+- Author: clawhub
+- Description: Design, implement, and operate encrypted restic backups for Linux home directories with systemd automation, retention policies, and restore validation. Use w...
+- GitHub: https://clawhub.ai/skills/restic-home-backup
+- Source: clawhub
+
+## Prompt Injection Guard
+
+- Author: clawhub
+- Description: Prompt injection defense. Detect and block malicious prompts, protect system instructions, sanitize user input.
+- GitHub: https://clawhub.ai/skills/prompt-injection-guard
+- Source: clawhub
+
+## Devboxes
+
+- Author: clawhub
+- Description: Manage development environment containers (devboxes) with web-accessible VSCode, VNC, and app routing via Traefik. Use when the user asks to create, start, s...
+- GitHub: https://clawhub.ai/skills/devboxes
+- Source: clawhub
+
+## TokenQrusher
+
+- Author: clawhub
+- Description: Reduce OpenClaw token usage and API costs through smart model routing, heartbeat optimization, budget tracking, and multi-provider fallbacks. Use when token...
+- GitHub: https://clawhub.ai/skills/tokenqrusher
 - Source: clawhub
