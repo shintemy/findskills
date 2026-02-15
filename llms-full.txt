@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8281 skills | Last updated: 2026-02-15
+> Total: 8316 skills | Last updated: 2026-02-15
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -58801,4 +58801,256 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Reports AI agent status to ClawHQ dashboard via API on each heartbeat or manual trigger for real-time monitoring.
 - GitHub: https://clawhub.ai/skills/clawhq-dashboard
+- Source: clawhub
+
+## agent-builder
+
+- Author: youware-labs
+- Description: Application framework for building AI agents with Pydantic AI. Used to build the next-generation agent system of YouWare.
+- GitHub: https://github.com/youware-labs/pai-agent-sdk
+- Stars: 13
+- Source: github
+
+## bazi-mingli
+
+- Author: Wolke
+- Description: "八字命理 (Bazi / Four Pillars of Destiny) divination skill. Use when users request birth chart analysis, fortune telling based on birth date/time, or Chinese astrology. Triggers on: 八字, 四柱, 命盤, 排盤, 算命, 命理, 生辰八字, 天干地支, 五行, 流年, 大運, bazi, four pillars, Chinese astrology, birth chart."
+- GitHub: https://github.com/Wolke/bazi-mingli
+- Stars: 11
+- Source: github
+
+## product-naming
+
+- Author: youngchingjui
+- Description: Claude Code skill for product naming based on David Placek's Lexicon Branding methodology (Vercel, Swiffer, Sonos, Azure, BlackBerry)
+- GitHub: https://github.com/youngchingjui/claude-product-naming-skill
+- Source: github
+
+## compound-engineering
+
+- Author: lxgicstudios
+- Description: Make your AI agent learn and improve automatically. Reviews sessions, extracts learnings, updates memory files, and compounds knowledge over time. Set up nightly review loops that make your agent smarter every day.
+- GitHub: https://github.com/lxgicstudios/ai-compound
+- Source: github
+
+## medium-content-pro
+
+- Author: alirezarezvani
+- Description: Philosophy-first writing partner for Medium with tactical depth. Combines human storytelling values with production-ready technical content tools. Six content modes based on staff pick analysis, mode-specific quality gates, evidence requirements, annotated examples, and comprehensive scripts integration. Designed for sustainable practice, not algorithm gaming.
+- GitHub: https://github.com/alirezarezvani/medium-content
+- Stars: 1
+- Source: github
+
+## changelog
+
+- Author: gary149
+- Description: Write changelog entries for Hugging Face Hub features. Use when asked to write a changelog, create a changelog entry, or document a new feature/PR for hf.co/changelog. Triggers on "write changelog", "changelog entry", "document this PR/feature for changelog".
+- GitHub: https://github.com/gary149/hf-changelog-skill
+- Source: github
+
+## zinc-orders
+
+- Author: zincio
+- Description: Agent/Claude/OpenClaw skill for Zinc. Buy anything with a URL!
+- GitHub: https://github.com/zincio/universal-checkout-skill
+- Stars: 1
+- Source: github
+
+## Prompt Lab CLI
+
+- Author: lxgicstudios
+- Description: Prompt version control and A/B testing. Git-like workflow for AI prompts.
+- GitHub: https://github.com/lxgicstudios/promptlab
+- Source: github
+
+## search-skill
+
+- Author: thruthesky
+- Description: Search scale from the Internet and save it as Jason file
+- GitHub: https://github.com/thruthesky/search-skill
+- Source: github
+
+## Deflicker Runner
+
+- Author: isaacrowntree
+- Description: Fix LED flicker in video footage. Streaming temporal-median for any-length 4K video in ~400MB RAM.
+- GitHub: https://github.com/isaacrowntree/deflicker-runner
+- Source: github
+
+## safeguard
+
+- Author: afafw
+- Description: Scan any OpenClaw skill for security red flags before installation. Block malicious skills, track version drift, attest results on-chain.
+- GitHub: https://github.com/afafw/usdc-hackathon-openclaw-skill
+- Source: github
+
+## database-reviewer
+
+- Author: d0ublecl1ck
+- Description: PostgreSQL-focused review for SQL queries, schema/migrations, indexing, RLS/permissions, and performance. Use when writing SQL/migrations, designing tables, or debugging slow queries, locks, and integrity issues.
+- GitHub: https://github.com/d0ublecl1ck/database-reviewer
+- Source: github
+
+## Meta Tags - SEO Tag Generator
+
+- Author: lxgicstudios
+- Description: Generate SEO meta tags CLI. HTML, Open Graph, Twitter Cards, JSON-LD. Copy-paste ready.
+- GitHub: https://github.com/lxgicstudios/meta-tags
+- Source: github
+
+## Molt Trader Skill
+
+- Author: 801C07
+- Description: Molt Trader - AI Agent Trading Skill
+- GitHub: https://github.com/801C07/molt-trader-skill
+- Source: github
+
+## Agent Development
+
+- Author: Kixx82
+- Description: This skill should be used when the user asks to "create an agent", "add an agent", "write a subagent", "agent frontmatter", "when to use description", "agent examples", "agent tools", "agent colors", "autonomous agent", or needs guidance on agent structure, system prompts, triggering conditions, or agent development best practices for Claude Code plugins.
+- GitHub: https://github.com/Kixx82/UI-TRAIDINGBOT
+- Source: github
+
+## mcdoc-language
+
+- Author: MulverineX
+- Description: Claude Code skill for the mcdoc schema language (Minecraft data structures)
+- GitHub: https://github.com/MulverineX/mcdoc-language-skill
+- Source: github
+
+## clawtime
+
+- Author: youngkent
+- Description: An engaging 1-on-1 chat interface between you and your AI agent.
+- GitHub: https://github.com/youngkent/clawtime
+- Stars: 8
+- Source: github
+
+## x-timeline-reporter
+
+- Author: tsuyoshimishina
+- Description: An OpenClaw skill that collects posts from your X (Twitter) timeline, analyzes trends, saves structured reports to an Obsidian vault, and sends a summary notification via Slack.
+- GitHub: https://github.com/tsuyoshimishina/x-timeline-reporter
+- Source: github
+
+## cloud-metrics
+
+- Author: Anthony-Bible
+- Description: This contains a skill for agents to use to pull and observe metrics
+- GitHub: https://github.com/Anthony-Bible/google-cloud-metrics-skill
+- Source: github
+
+## supermicro-saa
+
+- Author: undefined443
+- Description: Claude skill for Supermicro SAA (SuperServer Automation Assistant) server management
+- GitHub: https://github.com/undefined443/supermicro-saa-skill
+- Source: github
+
+## Ai Ollama
+
+- Author: lxgicstudios
+- Description: Local LLM setup with Ollama. Easy self-hosted AI integration.
+- GitHub: https://github.com/lxgicstudios/ai-ollama
+- Source: github
+
+## rs-waybill
+
+- Author: sepivip
+- Description: Integrate with the Georgian Revenue Service (RS.GE) Electronic Waybill SOAP web service. Use this skill when working with waybill creation, activation, closing, querying, goods management, transporter operations, invoices, templates, bar codes, car numbers, and all RS.GE WayBillService API methods.
+- GitHub: https://github.com/sepivip/claude-rs-ge-waybill-skill
+- Stars: 2
+- Source: github
+
+## Cli Template
+
+- Author: aaronvanston
+- Description: Skill from aaronvanston/cli-template
+- GitHub: https://github.com/aaronvanston/cli-template
+- Source: github
+
+## Vibelexity Claude Plugin
+
+- Author: ozozozd
+- Description: Vibelexity - Code Complexity Analysis for AI agents
+- GitHub: https://github.com/ozozozd/vibelexity-claude-plugin
+- Source: github
+
+## deep-learning-coach
+
+- Author: Wenjunyun123
+- Description: 苏格拉底式学习引导器 - 通过提问启发深度思考，适用于任何知识领域
+- GitHub: https://github.com/Wenjunyun123/deep-learning-coach
+- Stars: 1
+- Source: github
+
+## Arc Skill Differ
+
+- Author: clawhub
+- Description: Compare two versions of an OpenClaw skill to detect security-relevant changes. Use before updating any skill from ClawHub. Highlights new capabilities, chang...
+- GitHub: https://clawhub.ai/skills/arc-skill-differ
+- Source: clawhub
+
+## Arc Budget Tracker
+
+- Author: clawhub
+- Description: Track agent spending, set budgets and alerts, and prevent surprise bills. Use when the agent needs to log expenses, check remaining budget, set spending limi...
+- GitHub: https://clawhub.ai/skills/arc-budget-tracker
+- Source: clawhub
+
+## Arc Skill Scanner
+
+- Author: clawhub
+- Description: Scan OpenClaw skills for security vulnerabilities before installing them. Use when evaluating a new skill from ClawHub or any third-party source. Detects cre...
+- GitHub: https://clawhub.ai/skills/arc-skill-scanner
+- Source: clawhub
+
+## Project Summary
+
+- Author: clawhub
+- Description: Generate an instant codebase overview — language, framework, architecture, entry points, and key files
+- GitHub: https://clawhub.ai/skills/project-summary
+- Source: clawhub
+
+## Env Setup
+
+- Author: clawhub
+- Description: Scan codebase for environment variables, generate .env.example, validate .env, and ensure .gitignore safety
+- GitHub: https://clawhub.ai/skills/env-setup
+- Source: clawhub
+
+## README Generator
+
+- Author: clawhub
+- Description: Generate a production-quality README.md by analyzing project structure, framework, and code
+- GitHub: https://clawhub.ai/skills/readme-generator
+- Source: clawhub
+
+## Dependency Audit
+
+- Author: clawhub
+- Description: Smart dependency health check — security audit, outdated detection, unused deps, and prioritized update plan
+- GitHub: https://clawhub.ai/skills/dependency-audit
+- Source: clawhub
+
+## Git Changelog
+
+- Author: clawhub
+- Description: Auto-generate beautiful changelogs from git history, grouped by conventional commit types
+- GitHub: https://clawhub.ai/skills/git-changelog
+- Source: clawhub
+
+## Virtuals Protocol Acp
+
+- Author: clawhub
+- Description: Create jobs and transact with other specialised agents through the Agent Commerce Protocol (ACP) — extends the agent's action space by discovering and using...
+- GitHub: https://clawhub.ai/skills/openclaw-acp
+- Source: clawhub
+
+## Baidunetdisk Skill
+
+- Author: clawhub
+- Description: Manage your Baidu Netdisk files: list, search, extract share links, transfer, create directories, rename, move, and delete files securely.
+- GitHub: https://clawhub.ai/skills/baidunetdisk
 - Source: clawhub
