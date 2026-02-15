@@ -63,7 +63,7 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://findskills.dev/sitemap.xml
+Sitemap: https://findskills.org/sitemap.xml
 ```
 
 ### llms.txt
@@ -82,8 +82,8 @@ FindSkills is a curated index of AI Agent Skills. It collects Skills from multip
 
 ## About
 
-- [Website](https://findskills.dev): Browse Skills with search and filtering
-- [GitHub](https://github.com/yourname/findskills): Source code and contribution guide
+- [Website](https://findskills.org): Browse Skills with search and filtering
+- [GitHub](https://github.com/shintemy/findskills): Source code and contribution guide
 ```
 
 ### llms-full.txt (auto-generated from skills.json)
@@ -197,7 +197,7 @@ Skills are deduplicated by `id` (derived from `author-skillname`). When the same
 ## Deployment
 
 - **Platform**: Vercel (free tier)
-- **Domain**: TBD (e.g., findskills.dev or findskills.vercel.app)
+- **Domain**: findskills.org
 - **Build**: No build step needed for MVP — just serve static files
 - **Auto-deploy**: Vercel watches the repo, deploys on every push
 
