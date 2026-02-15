@@ -369,9 +369,11 @@
           type="search"
           class="search-input"
           id="search"
+          name="query"
           placeholder="Search skills by name, description, or tag..."
           aria-label="Search skills"
           autocomplete="off"
+          toolparamdescription="Search keyword to filter skills by name, description, or tags"
         >
       </div>
       <p class="filter-stats" id="filter-stats"></p>
@@ -488,6 +490,83 @@
         filterSkills(searchEl.value.trim());
       });
 
+      // WebMCP: Register tools for AI Agent browser interaction
+      function registerWebMCPTools() {
+        if (!navigator.modelContext) return;
+
+        navigator.modelContext.registerTool({
+          name: 'search_skills',
+          description: 'Search AI Agent skills by keyword. Returns matching skills with name, description, author, GitHub link, and tags.',
+          inputSchema: {
+            type: 'object',
+            properties: {
+              query: { type: 'string', description: 'Search keyword to match against skill name, description, or tags' }
+            },
+            required: ['query']
+          },
+          annotations: { readOnlyHint: true },
+          async execute({ query }) {
+            var q = query.toLowerCase();
+            var results = allSkills.filter(function (s) {
+              if (s.name.toLowerCase().indexOf(q) !== -1) return true;
+              if (s.description.toLowerCase().indexOf(q) !== -1) return true;
+              var tags = s.tags || [];
+              for (var i = 0; i < tags.length; i++) {
+                if (tags[i].toLowerCase().indexOf(q) !== -1) return true;
+              }
+              return false;
+            });
+            return { content: [{ type: 'text', text: JSON.stringify({ query: query, count: results.length, skills: results }) }] };
+          }
+        });
+
+        navigator.modelContext.registerTool({
+          name: 'list_skills',
+          description: 'List all available AI Agent skills. Returns the complete catalog with name, description, author, GitHub link, tags, and source for each skill.',
+          inputSchema: {
+            type: 'object',
+            properties: {
+              category: { type: 'string', description: 'Optional category filter (e.g. "tools", "core")' },
+              source: { type: 'string', description: 'Optional source filter (e.g. "clawhub", "github", "manual")' }
+            }
+          },
+          annotations: { readOnlyHint: true },
+          async execute({ category, source }) {
+            var results = allSkills;
+            if (category) {
+              results = results.filter(function (s) { return s.category === category; });
+            }
+            if (source) {
+              results = results.filter(function (s) { return s.source === source; });
+            }
+            return { content: [{ type: 'text', text: JSON.stringify({ count: results.length, skills: results }) }] };
+          }
+        });
+
+        navigator.modelContext.registerTool({
+          name: 'get_skill',
+          description: 'Get detailed information about a specific AI Agent skill by its ID or name.',
+          inputSchema: {
+            type: 'object',
+            properties: {
+              id: { type: 'string', description: 'Skill ID (e.g. "openclaw-web-search") or name (e.g. "Web Search")' }
+            },
+            required: ['id']
+          },
+          annotations: { readOnlyHint: true },
+          async execute({ id }) {
+            var q = id.toLowerCase();
+            var skill = allSkills.find(function (s) {
+              return s.id.toLowerCase() === q || s.name.toLowerCase() === q;
+            });
+            if (!skill) {
+              return { content: [{ type: 'text', text: JSON.stringify({ error: 'Skill not found', query: id }) }] };
+            }
+            return { content: [{ type: 'text', text: JSON.stringify(skill) }] };
+          }
+        });
+      }
+
       document.addEventListener('DOMContentLoaded', function () {
         fetch('skills.json')
           .then(function (res) {
@@ -502,6 +581,7 @@
             sources = (data.meta && data.meta.sources) || [];
             updateStats();
             renderSkills(allSkills);
+            registerWebMCPTools();
           })
           .catch(function (err) {
             gridEl.innerHTML =
