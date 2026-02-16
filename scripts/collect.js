@@ -76,7 +76,7 @@ export function mergeSkillsData(existing, newSkills) {
   };
 }
 
-export function mapClawHubSkill(item) {
+export function mapClawHubSkill(item, ownerHandle) {
   const today = new Date().toISOString().split('T')[0];
   const updatedDate = item.updatedAt
     ? new Date(item.updatedAt).toISOString().split('T')[0]
@@ -85,13 +85,17 @@ export function mapClawHubSkill(item) {
     ? new Date(item.createdAt).toISOString().split('T')[0]
     : today;
   const stats = item.stats || {};
+  const author = ownerHandle || 'clawhub';
+  const skillUrl = ownerHandle
+    ? `https://clawhub.ai/${ownerHandle}/${item.slug}`
+    : `https://clawhub.ai/skills/${item.slug}`;
 
   return {
     id: `clawhub-${item.slug}`,
     name: item.displayName || item.slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
     description: item.summary || `Skill from ClawHub: ${item.slug}`,
-    author: 'clawhub',
-    github: `https://clawhub.ai/skills/${item.slug}`,
+    author,
+    github: skillUrl,
     source: 'clawhub',
     tags: [],
     category: '',
@@ -104,10 +108,11 @@ export function mapClawHubSkill(item) {
 }
 
 async function collectFromClawHub() {
-  const skills = [];
+  const slugs = [];
   let cursor = undefined;
   let page = 0;
 
+  // Phase 1: Collect all slugs from list API
   while (page < 100) {
     page++;
     const params = new URLSearchParams({ limit: '200' });
@@ -132,17 +137,16 @@ async function collectFromClawHub() {
       const items = data.items || [];
 
       for (const item of items) {
-        skills.push(mapClawHubSkill(item));
+        slugs.push(item);
       }
 
-      console.log(`  ClawHub page ${page}: ${items.length} skills (total: ${skills.length})`);
+      console.log(`  ClawHub page ${page}: ${items.length} skills (total: ${slugs.length})`);
 
       if (items.length === 0) break;
 
       cursor = data.nextCursor;
       if (!cursor || typeof cursor !== 'string') break;
 
-      // Small delay between pages
       await new Promise(r => setTimeout(r, 500));
     } catch (err) {
       console.error('ClawHub collection failed:', err.message);
@@ -150,6 +154,35 @@ async function collectFromClawHub() {
     }
   }
 
+  // Phase 2: Fetch detail API for each skill to get owner handle
+  console.log(`  Fetching owner details for ${slugs.length} ClawHub skills...`);
+  const skills = [];
+
+  for (const item of slugs) {
+    let ownerHandle = null;
+
+    try {
+      const detailRes = await fetch(`https://clawhub.ai/api/v1/skills/${item.slug}`, {
+        headers: {
+          'User-Agent': 'FindSkills-Collector',
+          'Accept': 'application/json'
+        }
+      });
+      if (detailRes.ok) {
+        const detail = await detailRes.json();
+        ownerHandle = detail.owner?.handle || null;
+      }
+    } catch {
+      // Non-critical: fall back to 'clawhub' as author
+    }
+
+    skills.push(mapClawHubSkill(item, ownerHandle));
+
+    // Small delay between requests
+    await new Promise(r => setTimeout(r, 200));
+  }
+
+  console.log(`  Enriched ${skills.filter(s => s.author !== 'clawhub').length} of ${skills.length} skills with owner info`);
   return skills;
 }
 

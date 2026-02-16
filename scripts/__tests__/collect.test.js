@@ -110,7 +110,7 @@ describe('isRelevantSkill', () => {
 });
 
 describe('mapClawHubSkill', () => {
-  it('maps ClawHub item to skill format with stats', () => {
+  it('maps ClawHub item to skill format with owner and stats', () => {
     const item = {
       slug: 'web-search',
       displayName: 'Web Search',
@@ -122,18 +122,19 @@ describe('mapClawHubSkill', () => {
       latestVersion: { version: '1.0.0', createdAt: 1700000000000, changelog: '' }
     };
 
-    const result = mapClawHubSkill(item);
+    const result = mapClawHubSkill(item, 'alice');
     assert.equal(result.id, 'clawhub-web-search');
     assert.equal(result.name, 'Web Search');
     assert.equal(result.description, 'Search the web');
     assert.equal(result.source, 'clawhub');
-    assert.equal(result.author, 'clawhub');
+    assert.equal(result.author, 'alice');
+    assert.equal(result.github, 'https://clawhub.ai/alice/web-search');
     assert.equal(result.stars, 5);
     assert.equal(result.downloads, 100);
     assert.equal(result.created_at, '2023-11-14');
   });
 
-  it('handles item without displayName', () => {
+  it('falls back to clawhub when no owner', () => {
     const item = {
       slug: 'my-tool',
       displayName: null,
@@ -148,6 +149,8 @@ describe('mapClawHubSkill', () => {
     const result = mapClawHubSkill(item);
     assert.equal(result.name, 'My Tool');
     assert.equal(result.description, 'Skill from ClawHub: my-tool');
+    assert.equal(result.author, 'clawhub');
+    assert.equal(result.github, 'https://clawhub.ai/skills/my-tool');
     assert.equal(result.stars, 0);
     assert.equal(result.downloads, 0);
   });
