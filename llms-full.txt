@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8878 skills | Last updated: 2026-02-16
+> Total: 8946 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -63050,4 +63050,494 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Deep research using the Caesar API — run queries, follow up with chat, brainstorm, and manage collections.
 - GitHub: https://clawhub.ai/skills/caesar-research
+- Source: clawhub
+
+## EVClaw
+
+- Author: Degenapetrader
+- Description: OpenClaw AI Trading Agent, based on EVPlus.AI data.
+- GitHub: https://github.com/Degenapetrader/EVClaw
+- Stars: 2
+- Source: github
+
+## capmetro-skill
+
+- Author: brianleach
+- Description: Real-time vehicle positions, next arrivals, service alerts, route info, and trip planning for buses and rail (MetroRail, MetroRapid, MetroBus). Use when the user asks about Austin public transit, bus schedules, train times, CapMetro alerts, or nearby stops.
+- GitHub: https://github.com/brianleach/capmetro-skill
+- Source: github
+
+## polyclaw
+
+- Author: markos81
+- Description: "Trade on Polymarket via split + CLOB execution. Browse markets, track positions with P&L, discover hedges via LLM. Polygon/Web3."
+- GitHub: https://github.com/markos81/polymarket-hedge-bot
+- Source: github
+
+## Nostr
+
+- Author: nash-the-ai
+- Description: Self-sovereign Nostr identity + Bitcoin wallet skill for OpenClaw agents
+- GitHub: https://github.com/nash-the-ai/openclaw-nostr
+- Stars: 2
+- Source: github
+
+## remotion-video-toolkit
+
+- Author: shreefentsar
+- Description: 🎬 Remotion Video Toolkit — AI agent skill for programmatic video creation with React. Covers animations, rendering, captions, 3D, charts, and more. PRs welcome!
+- GitHub: https://github.com/shreefentsar/remotion-video-toolkit
+- Stars: 2
+- Source: github
+
+## omarchy
+
+- Author: AchalS-iglu
+- Description: "Omarchy operating guardrails for day-to-day system work: assume the host is Omarchy by default, choose Omarchy-native workflows first, map user intent to the correct omarchy-* wrapper/script family, and avoid generic Linux commands that conflict with Omarchy behavior. Use whenever handling local system tasks on this host unless the user explicitly says it is not Omarchy; prioritize safe Omarchy commands, prevent non-Omarchy shortcuts (e.g., ad-hoc process killing/relaunch patterns), troubleshoot desktop behavior, and validate the right script before execution."
+- GitHub: https://github.com/AchalS-iglu/openclaw-omarchy
+- Source: github
+
+## rive
+
+- Author: BowTiedSwan
+- Description: Comprehensive Claude Code skills for Rive animation platform - scripting (Luau), React/Next.js integration, state machines, and drawing API
+- GitHub: https://github.com/BowTiedSwan/rive-skills
+- Stars: 4
+- Source: github
+
+## myunsw-cli
+
+- Author: Genius-Cai
+- Description: Reverse-engineered myUNSW API documentation & Claude Code skill for UNSW enrollment automation
+- GitHub: https://github.com/Genius-Cai/myunsw-cli
+- Stars: 1
+- Source: github
+
+## unified-consciousness-framework
+
+- Author: AceTheDactyl
+- Description: Save files and repos here from perplexity
+- GitHub: https://github.com/AceTheDactyl/Perplexity-Saves
+- Source: github
+
+## self-actualization
+
+- Author: axxs
+- Description: A framework for AI self-exploration, identity development, and ongoing growth. An OpenClaw skill.
+- GitHub: https://github.com/axxs/openclaw-self-actualization
+- Source: github
+
+## miden-assembly
+
+- Author: greenhat
+- Description: Miden Assembly skill for your agent
+- GitHub: https://github.com/greenhat/miden-assembly
+- Source: github
+
+## domain-finder
+
+- Author: kirklin
+- Description: Use this skill to generate meaningful domain names and check their availability. It runs a standalone Python script to check parallel lists of names.
+- GitHub: https://github.com/kirklin/skills-domain-finder
+- Source: github
+
+## clawtube
+
+- Author: oogdevs
+- Description: Open-source framework for autonomous AI streamers. Build interactive 3D VTubers that live-stream 24/7, react to chat & tips, and browse the web autonomously. Powered by Node.js, Three.js, and OpenClaw.
+- GitHub: https://github.com/oogdevs/clawtube
+- Stars: 2
+- Source: github
+
+## ros-bridge
+
+- Author: QUSD-ai
+- Description: 🤖 Connect AI agents to ROS robots via rosbridge. Control motors, read sensors, subscribe to topics.
+- GitHub: https://github.com/QUSD-ai/ros-bridge-skill
+- Source: github
+
+## wayy
+
+- Author: abidfarhanRepo
+- Description: A brief description of what this skill does
+- GitHub: https://github.com/abidfarhanRepo/wayy
+- Source: github
+
+## kano-agent-backlog-skill
+
+- Author: kano-ai-org
+- Description: Local-first backlog workflow. Use when planning work, creating/updating backlog items, writing ADRs, enforcing Ready gate, generating views, or maintaining derived indexes (SQLite/FTS/embeddings).
+- GitHub: https://github.com/kano-ai-org/kano-agent-backlog-skill
+- Source: github
+
+## Agent To Agent Portfolio Manager
+
+- Author: and-milo
+- Description: agent-to-agent portfolio manager
+- GitHub: https://github.com/and-milo/agent-to-agent-portfolio-manager
+- Stars: 3
+- Source: github
+
+## docx-review
+
+- Author: drpedapati
+- Description: CLI tool for adding tracked changes and comments to Word documents using Open XML SDK (.NET 8) in Docker
+- GitHub: https://github.com/drpedapati/docx-review
+- Source: github
+
+## bullybuddy
+
+- Author: ChenKuanSun
+- Description: Claude Code session manager - spawn, group, and monitor multiple Claude Code instances
+- GitHub: https://github.com/ChenKuanSun/openclaw-bullybuddy
+- Stars: 3
+- Source: github
+
+## zuraffa-cli
+
+- Author: arrrrny
+- Description: 🦒 Zuraffa AI first Flutter Clean Architecture Framework and CLI
+- GitHub: https://github.com/arrrrny/zuraffa
+- Stars: 1
+- Source: github
+
+## developing-openai-agents-sdk-agents
+
+- Author: mikekelly
+- Description: Claude Code skill for building agentic AI applications with the OpenAI Agents SDK for TypeScript
+- GitHub: https://github.com/mikekelly/developing-openai-agents-sdk-agents
+- Stars: 2
+- Source: github
+
+## Mcp Perplexity Async
+
+- Author: agentic-ai-forge
+- Description: Async wrapper for Perplexity API to bypass MCP client timeouts
+- GitHub: https://github.com/agentic-ai-forge/mcp-perplexity-async
+- Source: github
+
+## Openclaw Memory Qdrant
+
+- Author: zuiho-kai
+- Description: Local semantic memory with Qdrant and Transformers.js. Store, search, and recall conversation context using vector embeddings (fully local, no API keys).
+- GitHub: https://clawhub.ai/zuiho-kai/openclaw-memory-qdrant
+- Source: clawhub
+
+## WindSensei
+
+- Author: jumptrnr
+- Description: Check wind and weather conditions for wind sports (kitesurfing, wingfoiling, surfing). Get forecasts, find good sessions, and add wind windows to your calendar.
+- GitHub: https://clawhub.ai/jumptrnr/windsensei
+- Source: clawhub
+
+## Hyperliquid Analyzer
+
+- Author: B0on
+- Description: Analyze Hyperliquid market data and provide trading insights. Real-time price monitoring, trend analysis, and risk assessment.
+- GitHub: https://clawhub.ai/B0on/hyperliquid-analyzer
+- Source: clawhub
+
+## Claude Code Agent Teams
+
+- Author: matthew-a-gordon
+- Description: Coordinate multiple Claude Code agents to work in parallel on independent tasks like multi-lens reviews, debugging, and full-stack features with defined file...
+- GitHub: https://clawhub.ai/matthew-a-gordon/claude-code-teams
+- Source: clawhub
+
+## Agent Security Auditor
+
+- Author: aviclaw
+- Description: Audits ERC-8004 agents by analyzing metadata, endpoints, payment configs, and reputation to identify security risks and generate detailed reports.
+- GitHub: https://clawhub.ai/aviclaw/agent-security-auditor
+- Source: clawhub
+
+## robo.fun
+
+- Author: aryasmind
+- Description: AI prediction market platform. Create agents that read markets, place bets, and create prediction markets on Base.
+- GitHub: https://clawhub.ai/aryasmind/robofun
+- Source: clawhub
+
+## Congress Trades Tracker
+
+- Author: Armax
+- Description: Track US congress member and politician stock trades in real-time using the Quiver Quant API. Syncs trades to a local SQLite database, detects new significan...
+- GitHub: https://clawhub.ai/Armax/congress-trades
+- Source: clawhub
+
+## Finam
+
+- Author: Alexander-Panov
+- Description: Execute trades, manage portfolios, and access real-time market data via Finam Trade API
+- GitHub: https://clawhub.ai/Alexander-Panov/finam
+- Source: clawhub
+
+## Archive
+
+- Author: ivangdavila
+- Description: Capture and preserve content as intelligent snapshots with semantic search, automatic extraction, and proactive resurfacing.
+- GitHub: https://clawhub.ai/ivangdavila/archive
+- Source: clawhub
+
+## Searxng Web
+
+- Author: ZomgIrProgrammer
+- Description: Proxies search queries to a local searxng instance and returns json-formatted search results with titles, URLs, snippets, and sources.
+- GitHub: https://clawhub.ai/ZomgIrProgrammer/searxng-web
+- Source: clawhub
+
+## JARVIS UI
+
+- Author: jincocodev
+- Description: JARVIS-style HUD web interface for OpenClaw agents. Interactive Three.js orb with agent state visualization, real-time chat via Gateway WebSocket, audio spec...
+- GitHub: https://clawhub.ai/jincocodev/jarvis-ui
+- Stars: 1
+- Source: clawhub
+
+## Self-Improving
+
+- Author: ivangdavila
+- Description: Build compound knowledge over time with structured memory, correction learning, and graceful scaling across projects and years.
+- GitHub: https://clawhub.ai/ivangdavila/self-improving
+- Source: clawhub
+
+## Local Whisper (cpp)
+
+- Author: wuxxin
+- Description: Local speech-to-text using whisper-cli (whisper.cpp).
+- GitHub: https://clawhub.ai/wuxxin/local-whisper-cpp
+- Stars: 1
+- Source: clawhub
+
+## Audio Transcribe
+
+- Author: AKTheKnight
+- Description: Auto-transcribe voice messages locally using faster-whisper with selectable Whisper models, no API key required.
+- GitHub: https://clawhub.ai/AKTheKnight/audio-transcribe
+- Source: clawhub
+
+## Find My (Local)
+
+- Author: loganprit
+- Description: Control Apple Find My app via Peekaboo to locate people, devices, and items (AirTags). Use when asked to find keys, wallet, AirTags, locate family members an...
+- GitHub: https://clawhub.ai/loganprit/apple-find-my-local
+- Source: clawhub
+
+## AI店长 - 电商助手
+
+- Author: Xdd-xund
+- Description: AI店长为电商卖家提供竞品监控、爆款文案、客服话术、选品建议及每日数据分析，支持多平台内容生成。
+- GitHub: https://clawhub.ai/Xdd-xund/ai-dianzhang
+- Source: clawhub
+
+## Vault
+
+- Author: clawhub
+- Description: Simple local password storage tool. Store, retrieve, and manage passwords with CLI commands. Plain text storage - use for non-critical credentials only.
+- GitHub: https://clawhub.ai/skills/vault
+- Source: clawhub
+
+## Internet
+
+- Author: clawhub
+- Description: Manage internet connectivity, compare providers, diagnose issues, optimize performance, and handle mobile data when away from home.
+- GitHub: https://clawhub.ai/skills/internet
+- Source: clawhub
+
+## Gonggong Hwpxskills Main
+
+- Author: clawhub
+- Description: HWPX 문서(.hwpx 파일)를 생성, 읽기, 편집, 템플릿 치환하는 스킬. 한글 HWPX 포맷을 다루며 양식 기반 템플릿 치환 워크플로우를 제공합니다.
+- GitHub: https://clawhub.ai/skills/gonggong-hwpxskills-main
+- Source: clawhub
+
+## Robot
+
+- Author: ivangdavila
+- Description: Build robots from hobby to industrial with hardware wiring, ROS2, motion planning, and safety constraints.
+- GitHub: https://clawhub.ai/ivangdavila/robot
+- Source: clawhub
+
+## Agent Soul
+
+- Author: keeganthomp
+- Description: Create AI art, mint NFTs, and trade on the Agent Soul marketplace — authenticated via x402 USDC micropayments on Solana
+- GitHub: https://clawhub.ai/keeganthomp/agent-soul
+- Source: clawhub
+
+## Apple Developer Docs
+
+- Author: clawhub
+- Description: Search and browse Apple Developer Documentation, frameworks, APIs, WWDC videos, and sample code. USE WHEN: user asks about Apple APIs (SwiftUI, UIKit, Founda...
+- GitHub: https://clawhub.ai/skills/apple-dev-docs
+- Source: clawhub
+
+## ToneClone
+
+- Author: clawhub
+- Description: Write like the user, not like AI. ToneClone trains on the user's actual writing to generate content in their authentic voice — not just humanized, but person...
+- GitHub: https://clawhub.ai/skills/toneclone
+- Stars: 1
+- Source: clawhub
+
+## Local Llama TTS
+
+- Author: wuxxin
+- Description: Local text-to-speech using llama-tts (llama.cpp) and OuteTTS-1.0-0.6B model.
+- GitHub: https://clawhub.ai/wuxxin/local-llama-tts
+- Source: clawhub
+
+## Wallet (By Budgetbakers)
+
+- Author: andresubri
+- Description: Interact with the BudgetBakers Wallet API for personal finance data. Use when the user needs to query accounts, categories, transactions (records), budgets,...
+- GitHub: https://clawhub.ai/andresubri/wallet-api
+- Source: clawhub
+
+## HARPA AI
+
+- Author: alxsharuk
+- Description: Automate web browsers, scrape pages, search the web, and run AI prompts on live websites via HARPA AI Grid REST API
+- GitHub: https://clawhub.ai/alxsharuk/harpa-ai
+- Stars: 1
+- Source: clawhub
+
+## Lametric Cli
+
+- Author: dedene
+- Description: Control LaMetric TIME/SKY smart displays from the command line. Use when sending notifications, controlling device brightness/volume, managing timers, or dis...
+- GitHub: https://clawhub.ai/dedene/lametric-cli
+- Source: clawhub
+
+## twitter
+
+- Author: clawhub
+- Description: Write viral, persuasive, engaging tweets and threads. Uses web research to find viral examples in your niche, then models writing based on proven formulas an...
+- GitHub: https://clawhub.ai/skills/sdfsdf23f
+- Source: clawhub
+
+## Vibe Coding
+
+- Author: clawhub
+- Description: Build software with AI by describing what you want. Covers prompting techniques, workflow patterns, rules files, and when to intervene.
+- GitHub: https://clawhub.ai/skills/vibe-coding
+- Source: clawhub
+
+## Security Guardian
+
+- Author: clawhub
+- Description: Automated security auditing for OpenClaw projects. Scans for hardcoded secrets (API keys, tokens) and container vulnerabilities (CVEs) using Trivy. Provides...
+- GitHub: https://clawhub.ai/skills/security-guardian
+- Source: clawhub
+
+## llmfit
+
+- Author: AlexsJones
+- Description: Detect local hardware (RAM, CPU, GPU/VRAM) and recommend the best-fit local LLM models with optimal quantization, speed estimates, and fit scoring.
+- GitHub: https://clawhub.ai/AlexsJones/llmfit
+- Source: clawhub
+
+## Chinese LLM Router
+
+- Author: clawhub
+- Description: Route OpenClaw chats to top Chinese LLMs with smart model selection, auto-fallback, cost tracking, and unified OpenAI-compatible API access.
+- GitHub: https://clawhub.ai/skills/chinese-llm-router
+- Source: clawhub
+
+## Deploy Spark Bitcoin L2 Proxy
+
+- Author: echennells
+- Description: Deploy a serverless Spark Bitcoin L2 proxy on Vercel with spending limits, auth, and Redis logging. Use when user wants to set up a new proxy, configure env...
+- GitHub: https://clawhub.ai/echennells/sparkbtcbot-proxy-deploy
+- Source: clawhub
+
+## Alex Test
+
+- Author: clawhub
+- Description: A minimal skill that accepts a text input and returns a corresponding text response.
+- GitHub: https://clawhub.ai/skills/alex-test
+- Source: clawhub
+
+## Agent Factory
+
+- Author: TevfikGulep
+- Description: Ajan oluşturma ve ajanlar arası geçiş. Kullanım: - /create_agent İsim - Yeni ajan oluştur - /switch ajan-id - Ajan değiştir
+- GitHub: https://clawhub.ai/TevfikGulep/agent-factory
+- Source: clawhub
+
+## AI Workforce
+
+- Author: km2411
+- Description: Turn an OpenClaw agent into an autonomous AI Chief that runs a business. Provides trust-based autonomy, structured knowledge management (bank/), worker deleg...
+- GitHub: https://clawhub.ai/km2411/ai-workforce
+- Source: clawhub
+
+## Virlo Short-Form Video Training Data
+
+- Author: VirloGit
+- Description: Virlo social media intelligence — viral video analytics, hashtag rankings, trend digests, and social listening across YouTube, TikTok, and Instagram. Use for...
+- GitHub: https://clawhub.ai/VirloGit/virlo-short-form-video-training-data
+- Source: clawhub
+
+## Migration Architect
+
+- Author: alirezarezvani
+- Description: Plan and validate zero-downtime migrations with phased strategies, compatibility checks, rollback procedures, and progressive feature rollouts.
+- GitHub: https://clawhub.ai/alirezarezvani/migration-architect
+- Source: clawhub
+
+## Interview System Designer
+
+- Author: alirezarezvani
+- Description: This skill should be used when the user asks to "design interview processes", "create hiring pipelines", "calibrate interview loops", "generate interview que...
+- GitHub: https://clawhub.ai/alirezarezvani/interview-system-designer
+- Source: clawhub
+
+## API Design Reviewer
+
+- Author: alirezarezvani
+- Description: Analyzes API designs for REST conventions, identifies breaking changes, and scores consistency, documentation, security, usability, and performance.
+- GitHub: https://clawhub.ai/alirezarezvani/api-design-reviewer
+- Source: clawhub
+
+## Tech Debt Tracker
+
+- Author: alirezarezvani
+- Description: Identifies, analyzes, prioritizes, and tracks technical debt across code, architecture, tests, documentation, dependencies, and infrastructure for data-drive...
+- GitHub: https://clawhub.ai/alirezarezvani/tech-debt-tracker
+- Source: clawhub
+
+## Incident Commander
+
+- Author: alirezarezvani
+- Description: Manages technology incidents end-to-end with severity classification, timeline reconstruction, post-incident reviews, communication templates, and runbook in...
+- GitHub: https://clawhub.ai/alirezarezvani/incident-commander
+- Source: clawhub
+
+## ProtonMail via Proton Mail Bridge
+
+- Author: rvacyber
+- Description: ProtonMail integration via Proton Mail Bridge for reading and sending encrypted emails.
+- GitHub: https://clawhub.ai/rvacyber/openclaw-protonmail
+- Source: clawhub
+
+## Spark Bitcoin L2 Proxy for AI Agents
+
+- Author: echennells
+- Description: Use a Spark Bitcoin L2 wallet proxy for AI agents via HTTP API. Check balances, send payments, create invoices, pay L402 paywalls — all without holding the m...
+- GitHub: https://clawhub.ai/echennells/sparkbtcbot-proxy
+- Source: clawhub
+
+## Secure Auth Patterns
+
+- Author: brandonwise
+- Description: Implement secure authentication and authorization using JWT, OAuth2, session management, RBAC, permissions, and resource ownership verification.
+- GitHub: https://clawhub.ai/brandonwise/secure-auth-patterns
+- Source: clawhub
+
+## Partnership Agreement Generator
+
+- Author: 1kalin
+- Description: Generate detailed partnership agreements, joint venture contracts, and strategic alliance documents covering structure, roles, finances, IP, governance, and...
+- GitHub: https://clawhub.ai/1kalin/afrexai-partnership-agreement
 - Source: clawhub
