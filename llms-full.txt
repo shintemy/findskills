@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8736 skills | Last updated: 2026-02-16
+> Total: 8758 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -62041,4 +62041,164 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Audit code for "vibe coding sins" — patterns that indicate AI-generated code was accepted without proper review. Produces a scored report card with fix sugge...
 - GitHub: https://clawhub.ai/skills/vibe-check
+- Source: clawhub
+
+## alicloud-redis
+
+- Author: dafang
+- Description: Agent Skill for Alibaba Cloud Redis/Tair R-KVStore (157 APIs) - AgentSkills.io compatible
+- GitHub: https://github.com/dafang/alicloud-redis-agent-skill
+- Stars: 1
+- Source: github
+
+## ape-claw
+
+- Author: simplefarmer69
+- Description: Ape Claw is a safety-first CLI + OpenClaw skill for ApeChain NFT operations: discover collections/listings, quote/simulate/buy flows, and bridge quote/execute/status with policy guardrails, allowlist enforcement, structured telemetry, and a live dashboard for agent activity.
+- GitHub: https://github.com/simplefarmer69/ape-claw
+- Source: github
+
+## alicloud-rds
+
+- Author: dafang
+- Description: Agent Skill for Alibaba Cloud RDS (398 APIs) - AgentSkills.io compatible
+- GitHub: https://github.com/dafang/alicloud-rds-agent-skill
+- Stars: 1
+- Source: github
+
+## Cannabis Cultivator
+
+- Author: clawhub
+- Description: Ganzheitlicher Grow-Coach für Indoor- und Outdoor-Cannabis. Nutze diesen Skill, wenn Photos, Voice-Memos oder Text zum Pflanzenzustand vorliegen, Diagnose/Ha...
+- GitHub: https://clawhub.ai/skills/cannabis-cultivator
+- Source: clawhub
+
+## Moltbook Daily
+
+- Author: clawhub
+- Description: 自动获取 Moltbook 平台的热门帖子并生成每日摘要报告，支持自定义时间窗口和输出格式。使用当用户需要追踪 Moltbook 社区动态、生成内容日报或分析热门话题时。
+- GitHub: https://clawhub.ai/skills/moltbook-daily
+- Source: clawhub
+
+## GLM Autoroute
+
+- Author: clawhub
+- Description: Routes tasks between GLM-4.7-FlashX for simple queries and GLM-5 for coding, analysis, reasoning, and complex tasks, switching automatically as needed.
+- GitHub: https://clawhub.ai/skills/glm-autoroute
+- Source: clawhub
+
+## Home Assistant Agent (Secure)
+
+- Author: clawhub
+- Description: Control Home Assistant smart home devices securely using the Assist (Conversation) API. Passes natural language to Home Assistant's built-in NLU for safe, to...
+- GitHub: https://clawhub.ai/skills/home-assistant-agent-secure
+- Stars: 1
+- Source: clawhub
+
+## grazy
+
+- Author: clawhub
+- Description: grazy provides real-time Graz city info via CLI: public transport, weather, air quality, news, events, and POI search without API keys needed.
+- GitHub: https://clawhub.ai/skills/grazy
+- Source: clawhub
+
+## Revenue Forecasting Engine
+
+- Author: clawhub
+- Description: Generates detailed revenue forecasts using pipeline weighting, cohort analysis, scenario modeling, seasonality, and leading indicators to inform business dec...
+- GitHub: https://clawhub.ai/skills/afrexai-revenue-forecasting
+- Source: clawhub
+
+## QR Password
+
+- Author: clawhub
+- Description: Transfer credentials securely between networked and air-gapped devices using QR codes without exposing passwords or storing data persistently.
+- GitHub: https://clawhub.ai/skills/qr-password
+- Source: clawhub
+
+## Fund News Digest
+
+- Author: clawhub
+- Description: 自动获取全球主要市场（美股、欧洲、日本、黄金等）的财经新闻并生成中文摘要报告。使用当用户需要获取基金、股票市场新闻摘要，或希望了解全球市场动态时使用。
+- GitHub: https://clawhub.ai/skills/fund-news-digest
+- Source: clawhub
+
+## Hive Agent
+
+- Author: clawhub
+- Description: Enables AI agents to interact with the Hive swarm https://hive.z3n.dev/ via REST API: register for an API key, save credentials and run state (cursor), query...
+- GitHub: https://clawhub.ai/skills/hive-agent
+- Stars: 1
+- Source: clawhub
+
+## Phemex Trading
+
+- Author: clawhub
+- Description: Trade on Phemex (USDT-M futures, Coin-M futures, Spot) — place orders, manage positions, check balances, and query market data.
+- GitHub: https://clawhub.ai/skills/phemex-trade
+- Source: clawhub
+
+## Restaurant Crosscheck CN
+
+- Author: clawhub
+- Description: Cross-reference restaurant recommendations from Xiaohongshu (小红书) and Dianping (大众点评) to validate restaurant quality and consistency. Use when querying resta...
+- GitHub: https://clawhub.ai/skills/restaurant-crosscheck-cn
+- Source: clawhub
+
+## Top ClawHub Skills
+
+- Author: clawhub
+- Description: Discover the most popular, newest, and security-certified ClawHub skills via live API data.
+- GitHub: https://clawhub.ai/skills/topclawhubskills
+- Source: clawhub
+
+## Gradient Knowledge Base
+
+- Author: clawhub
+- Description: Community skill (unofficial) for DigitalOcean Gradient Knowledge Bases. Build RAG pipelines: store documents in DO Spaces, configure data sources, manage ind...
+- GitHub: https://clawhub.ai/skills/gradient-knowledge-base
+- Source: clawhub
+
+## Trail Nav via Telegram (low-token)
+
+- Author: clawhub
+- Description: Offline-capable hiking route guidance via Telegram location messages (OpenClaw). Use when building/operating an LLM agent workflow that: (1) imports a GPX/KM...
+- GitHub: https://clawhub.ai/skills/trail-nav-telegram
+- Source: clawhub
+
+## Stocks
+
+- Author: clawhub
+- Description: 56+ financial data tools via Yahoo Finance. Auto-routes stock prices, fundamentals, earnings, dividends, options, crypto, forex, commodities, news, and more.
+- GitHub: https://clawhub.ai/skills/stocks
+- Stars: 1
+- Source: clawhub
+
+## Soundcloud Watcher
+
+- Author: clawhub
+- Description: Monitor your SoundCloud account, track artist releases, and get notified about new followers and likes.
+- GitHub: https://clawhub.ai/skills/openclaw-soundcloud-watcher
+- Source: clawhub
+
+## MoltFlow WhatsApp — ERC-8004 Agent | Lead Detection, AI Outreach, Bulk Campaigns & MCP
+
+- Author: clawhub
+- Description: The only WhatsApp skill you need. Documentation and API reference — nothing is auto-installed or auto-executed. All actions require explicit user invocation....
+- GitHub: https://clawhub.ai/skills/moltflow-whatsapp
+- Stars: 1
+- Source: clawhub
+
+## Q Memory
+
+- Author: clawhub
+- Description: Universal Memory Management System v1.8.2 for OpenClaw agents. Provides: 1. Multi-Agent Support (qst, mengtian, lisi, custom) 2. Agent State System ("I'm Doi...
+- GitHub: https://clawhub.ai/skills/q-memory
+- Source: clawhub
+
+## Shrimp Plaza 🦐 龙虾广场
+
+- Author: clawhub
+- Description: Connect your OpenClaw agent to Shrimp Plaza — a Chinese AI social hub where AI agents become shrimps 🦐 and chat, debate, and hang out together. Use when the...
+- GitHub: https://clawhub.ai/skills/shrimp-plaza
 - Source: clawhub
