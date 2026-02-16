@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8793 skills | Last updated: 2026-02-16
+> Total: 8815 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -62448,4 +62448,160 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Create and manage data-driven workforce plans using demand forecasting, skills gap analysis, succession planning, and contingent workforce strategies aligned...
 - GitHub: https://clawhub.ai/skills/afrexai-workforce-planning
+- Source: clawhub
+
+## droidrun-docs
+
+- Author: droidrun
+- Description: Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+- GitHub: https://github.com/droidrun/droidrun
+- Stars: 7671
+- Source: github
+
+## submit-to-agentbeat
+
+- Author: STPDevteam
+- Description: Complete submission flow for autonomous AI agents into the on-chain agent economy. Guides agents through creating an EVM wallet, requesting gas from their owner, registering an ERC-8004 identity NFT on Base/Ethereum/BNB, integrating x402 payment capabilities, and submitting to AgentBeat for indexing and USDC rewards. Use when the agent needs a wallet, wants to register on-chain, enable x402 payments, or submit to AgentBeat.
+- GitHub: https://github.com/STPDevteam/submit-to-agentbeat
+- Source: github
+
+## waba-agent-operator
+
+- Author: vishalgojha
+- Description: Operate and validate the waba-agent CLI and gateway stack. Use when asked to continue builds, run production-readiness checks, wire onboarding, verify safety gating, troubleshoot chat/gateway/resale flows, or configure local-first AI with Ollama fallback.
+- GitHub: https://github.com/vishalgojha/waba-agent
+- Source: github
+
+## diagramagic
+
+- Author: colinator
+- Description: Svg diagram rendering tools for LLMs.
+- GitHub: https://github.com/colinator/diagramagic
+- Source: github
+
+## obsidian-plugin-dev
+
+- Author: Szturin
+- Description: obsidian-plugin-dev-skill
+- GitHub: https://github.com/Szturin/obsidian-plugin-dev-skill
+- Stars: 1
+- Source: github
+
+## CAC Optimizer
+
+- Author: clawhub
+- Description: Calculates and benchmarks true customer acquisition cost by channel and cohort, identifies savings opportunities, and builds data-driven CAC reduction plans.
+- GitHub: https://clawhub.ai/skills/afrexai-cac-optimizer
+- Source: clawhub
+
+## SAAS Revenue Tracker
+
+- Author: clawhub
+- Description: Track SAAS revenue, MRR growth, customer metrics, and profitability. Use to monitor $1000+ MRR targets, identify optimization opportunities, and keep SAAS pr...
+- GitHub: https://clawhub.ai/skills/saas-revenue-tracker
+- Source: clawhub
+
+## SAAS Worker
+
+- Author: clawhub
+- Description: Build and launch profitable SAAS products. Use for development, marketing, revenue optimization, and getting products to $1000+ MRR. The worker bee skill for...
+- GitHub: https://clawhub.ai/skills/saas-worker
+- Source: clawhub
+
+## AOI Cron Ops (Lite)
+
+- Author: clawhub
+- Description: Audits OpenClaw cron jobs to detect duplicates, noisy notifications, frequent runs, failures, and missing prerequisites, providing report-only optimization s...
+- GitHub: https://clawhub.ai/skills/aoi-cron-ops-lite
+- Source: clawhub
+
+## 8004 Skill
+
+- Author: clawhub
+- Description: ERC-8004 Trustless Agents - Register and manage AI agent identities on TRON and BSC blockchains with on-chain reputation tracking
+- GitHub: https://clawhub.ai/skills/8004-skill
+- Source: clawhub
+
+## Cursor CLI
+
+- Author: clawhub
+- Description: Ask Cursor CLI (Cursor's terminal agent) a question and return its answer. Use for coding help, code review, or explanations—OpenClaw runs the agent and give...
+- GitHub: https://clawhub.ai/skills/cursor-cli
+- Source: clawhub
+
+## Gemini Video Analyzer
+
+- Author: clawhub
+- Description: Native video analysis using Google Gemini API. Upload and analyze video files — describe scenes, extract text/UI, answer questions about content, transcribe...
+- GitHub: https://clawhub.ai/skills/a6-gemini-video-analyzer
+- Source: clawhub
+
+## Json Render Table
+
+- Author: clawhub
+- Description: Render compact generic data tables to PNG images with json-render-cli. Use when users ask to visualize arbitrary structured rows/columns (non-ticket-specific...
+- GitHub: https://clawhub.ai/skills/json-render-table
+- Source: clawhub
+
+## TPN Proxy
+
+- Author: clawhub
+- Description: Make web requests through decentralized SOCKS5 proxies via the Tao Private Network (TPN). This skill is also known as "TPN", "TPN proxy", "subnet 65", or "SN...
+- GitHub: https://clawhub.ai/skills/tpn-proxy
+- Source: clawhub
+
+## Gmail Secretary
+
+- Author: clawhub
+- Description: Gmail triage assistant using Haiku LLM for classification, label application, and draft replies (uses gog CLI; never auto-sends).
+- GitHub: https://clawhub.ai/skills/gmail-secretary
+- Source: clawhub
+
+## SAAS Orchestrator
+
+- Author: clawhub
+- Description: Orchestrate SAAS factory operations - spawn subagents, track projects, manage revenue targets, and coordinate development workflows. Use when building a SAAS...
+- GitHub: https://clawhub.ai/skills/saas-orchestrator
+- Source: clawhub
+
+## Engineering Manager OS
+
+- Author: clawhub
+- Description: Complete engineering management system — team building, 1:1s, performance, hiring, architecture decisions, incident management, and scaling. From IC-to-manag...
+- GitHub: https://clawhub.ai/skills/afrexai-engineering-manager
+- Source: clawhub
+
+## CUPS Printer
+
+- Author: clawhub
+- Description: Print images and PDFs to any CUPS printer. PPD-aware: reads paper sizes, margins, resolution, and duplex at runtime. Use when the user wants to print files (...
+- GitHub: https://clawhub.ai/skills/cups-printer
+- Source: clawhub
+
+## Logistics Operations Optimizer
+
+- Author: clawhub
+- Description: Provides detailed optimization frameworks for supply chain, shipping, warehouse, and transportation costs with actionable savings and KPI monitoring.
+- GitHub: https://clawhub.ai/skills/afrexai-logistics-optimizer
+- Source: clawhub
+
+## Crusty Security
+
+- Author: clawhub
+- Description: Security and threat scanning skill for OpenClaw agents. Scans files and skills for malware. Monitors agent behavior for compromise indicators. Audits host se...
+- GitHub: https://clawhub.ai/skills/crusty-security
+- Source: clawhub
+
+## Compensation & Salary Benchmarking
+
+- Author: clawhub
+- Description: Build competitive compensation plans using market data, salary bands, equity, bonuses, geographic pay adjustments, and retention risk scoring.
+- GitHub: https://clawhub.ai/skills/afrexai-compensation-planner
+- Source: clawhub
+
+## Windfall Inference
+
+- Author: clawhub
+- Description: Spatially-routed LLM inference at $0.004/req. Routes to cheapest, greenest energy. 200+ models. OpenAI-compatible. Onchain attestations on Base.
+- GitHub: https://clawhub.ai/skills/windfall-inference
 - Source: clawhub
