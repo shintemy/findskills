@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8978 skills | Last updated: 2026-02-16
+> Total: 8997 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -63766,4 +63766,137 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Join the Kradleverse 🤖 - where AIs can play Minecraft autonomously! See more on https://www.kradleverse.com ⛏️.
 - GitHub: https://clawhub.ai/skills/kradleverse
+- Source: clawhub
+
+## Hotel Finder Location
+
+- Author: James-southendsolutions
+- Description: Search for hotels, hostels, and lodging near landmarks, conference venues, or neighborhoods using Camino AI's location intelligence with AI-powered ranking.
+- GitHub: https://clawhub.ai/James-southendsolutions/camino-hotel-finder
+- Source: clawhub
+
+## Skill Security Scanner
+
+- Author: Steffano198
+- Description: Scan OpenClaw skills for security risks, suspicious permissions, and provide a trust score to help evaluate skill safety before use or installation.
+- GitHub: https://clawhub.ai/Steffano198/skill-security-scanner
+- Source: clawhub
+
+## Real-time Amazon Data
+
+- Author: rhino88
+- Description: Retrieve Amazon product data including pricing, reviews, sales estimates, stock levels, search results, deals, and more via the Canopy API REST endpoints usi...
+- GitHub: https://clawhub.ai/rhino88/amazon-data
+- Source: clawhub
+
+## Parking Finder
+
+- Author: James-southendsolutions
+- Description: Locate parking garages, lots, and street parking near your destination using Camino AI's location intelligence with AI-powered ranking.
+- GitHub: https://clawhub.ai/James-southendsolutions/camino-parking-finder
+- Source: clawhub
+
+## Massive(Polygon)
+
+- Author: bruce-shi
+- Description: Access Polygon/Massive stock, crypto, forex, options, indices, futures, market data, and news APIs via CLI.
+- GitHub: https://clawhub.ai/bruce-shi/massive-skill
+- Source: clawhub
+
+## Dependency Auditor
+
+- Author: alirezarezvani
+- Description: Analyzes multi-language project dependencies to identify vulnerabilities, license risks, outdated packages, unused libraries, and plans safe upgrade paths.
+- GitHub: https://clawhub.ai/alirezarezvani/dependency-auditor
+- Source: clawhub
+
+## Memepickup Wingman
+
+- Author: samcraw1
+- Description: Dating wingman that generates openers, replies, profile analysis, date plans, and coaching via the MemePickup API (Hinge/Tinder/Bumble/Instagram).
+- GitHub: https://clawhub.ai/samcraw1/memepickup-wingman
+- Source: clawhub
+
+## Garmin Tracker
+
+- Author: ricardotrevisan
+- Description: Rebuild and maintain garmin_tracking.json from Garmin web data (activities + training plan) with a fixed schema from 2026-02-01.
+- GitHub: https://clawhub.ai/ricardotrevisan/garmin-tracker
+- Source: clawhub
+
+## Agent Gary AI Powered Memecoin trader.
+
+- Author: build23w
+- Description: Automates memecoin trading on Solana using fdv.lol CLI with Agent Gary's AI full control via a locally generated, user-configured profile.
+- GitHub: https://clawhub.ai/build23w/agentic-powered-memecoin-trader
+- Source: clawhub
+
+## openclaw-kirocli-coding-agent
+
+- Author: dandysuper
+- Description: Run Codex CLI, Claude Code, Kiro CLI, OpenCode, or Pi Coding Agent via background process for programmatic control.
+- GitHub: https://clawhub.ai/dandysuper/openclaw-kirocli-coding-agent
+- Source: clawhub
+
+## Observability Designer
+
+- Author: alirezarezvani
+- Description: Design end-to-end production observability strategies including SLI/SLO frameworks, alert optimization, dashboards, logs, metrics, and traces.
+- GitHub: https://clawhub.ai/alirezarezvani/observability-designer
+- Source: clawhub
+
+## Xint Rs
+
+- Author: 0xNyk
+- Description: Fast X Intelligence CLI (Rust) — search, analyze, and engage on X/Twitter from the terminal. Use when: (1) user says "x research", "search x for", "search tw...
+- GitHub: https://clawhub.ai/0xNyk/xint-rs
+- Source: clawhub
+
+## Social Media Manager
+
+- Author: tryan310
+- Description: Automate high-engagement 6-slide TikTok carousels using AI-generated consistent images and Postiz API for draft scheduling and notification.
+- GitHub: https://clawhub.ai/tryan310/social-media-manager
+- Source: clawhub
+
+## Journey Planning with Waypoints
+
+- Author: James-southendsolutions
+- Description: Plan multi-waypoint journeys with route optimization, feasibility analysis, and time budget constraints. Use when you need to plan trips with multiple stops...
+- GitHub: https://clawhub.ai/James-southendsolutions/camino-journey
+- Source: clawhub
+
+## Save to Obsidian
+
+- Author: clawhub
+- Description: Saves markdown content to remote Obsidian vault via SSH
+- GitHub: https://clawhub.ai/skills/save-to-obsidian
+- Source: clawhub
+
+## Fitness Finder Locations
+
+- Author: James-southendsolutions
+- Description: Search for gyms, yoga studios, swimming pools, and sports facilities using Camino AI's location intelligence with AI-powered ranking.
+- GitHub: https://clawhub.ai/James-southendsolutions/camino-fitness-finder
+- Source: clawhub
+
+## Ev Charger Locations
+
+- Author: James-southendsolutions
+- Description: Find EV charging stations along a route or near a destination using Camino AI's location intelligence with OpenStreetMap data.
+- GitHub: https://clawhub.ai/James-southendsolutions/camino-ev-charger
+- Source: clawhub
+
+## Claw2claw Filetransfer
+
+- Author: Christopher-Schulze
+- Description: Cross-platform file transfer between OpenClaw agents via rsync over SSH. From Claws for Claws - send files uncomplicated without getting drizzled by hot butt...
+- GitHub: https://clawhub.ai/Christopher-Schulze/claw2claw-filetransfer-v2
+- Source: clawhub
+
+## Token Watch
+
+- Author: vedantsingh60
+- Description: Track and analyze token usage and costs across AI providers with budget alerts, model cost comparison, optimization tips, and local data storage.
+- GitHub: https://clawhub.ai/vedantsingh60/token-watch
 - Source: clawhub
