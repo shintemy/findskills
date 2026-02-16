@@ -12,5 +12,8 @@
   },
   "engines": {
     "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.36.2"
   }
 }

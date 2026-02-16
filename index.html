@@ -427,6 +427,59 @@
 
     .card-stars svg { width: 14px; height: 14px; color: var(--semantic-warning); }
 
+    /* Vote buttons */
+    .card-votes {
+      display: flex;
+      align-items: center;
+      gap: var(--space-1-5);
+    }
+
+    .vote-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      padding: 3px 10px;
+      font-size: var(--text-caption);
+      line-height: var(--text-caption-lh);
+      font-weight: 500;
+      font-family: var(--font-sans);
+      color: var(--text-tertiary);
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      transition: color var(--duration-fast) var(--ease-standard),
+                  border-color var(--duration-fast) var(--ease-standard),
+                  background-color var(--duration-fast) var(--ease-standard);
+    }
+
+    .vote-btn svg { width: 13px; height: 13px; }
+
+    .vote-btn:hover {
+      color: var(--text-primary);
+      border-color: var(--text-tertiary);
+    }
+
+    .vote-btn.like:hover { color: var(--semantic-success); border-color: var(--semantic-success); }
+    .vote-btn.dislike:hover { color: var(--semantic-danger); border-color: var(--semantic-danger); }
+
+    .vote-btn.voted {
+      cursor: default;
+      pointer-events: none;
+    }
+
+    .vote-btn.like.voted {
+      color: var(--semantic-success);
+      border-color: var(--semantic-success);
+      background: rgba(31, 157, 98, 0.08);
+    }
+
+    .vote-btn.dislike.voted {
+      color: var(--semantic-danger);
+      border-color: var(--semantic-danger);
+      background: rgba(220, 38, 38, 0.08);
+    }
+
     /* GitHub link — design-system link */
     .github-link {
       display: inline-flex;
@@ -683,6 +736,7 @@
         <option value="updated">Recently Updated</option>
         <option value="added">Recently Added</option>
         <option value="stars">Most Stars</option>
+        <option value="liked">Most Liked</option>
         <option value="name">Name A–Z</option>
       </select>
     </div>
@@ -714,6 +768,8 @@
       var sources = [];
       var currentSort = 'updated';
       var currentQuery = '';
+      var votesData = {};
+      var myVotes = JSON.parse(localStorage.getItem('findskills_votes') || '{}');
 
       var gridEl = document.getElementById('skills-grid');
       var statsEl = document.getElementById('stats');
@@ -753,6 +809,23 @@
             '</span>';
         }
 
+        var v = votesData[skill.id] || { likes: 0, dislikes: 0 };
+        var voted = myVotes[skill.id] || '';
+        var likeClass = 'vote-btn like' + (voted === 'like' ? ' voted' : '');
+        var dislikeClass = 'vote-btn dislike' + (voted === 'dislike' ? ' voted' : '');
+
+        var votesHtml =
+          '<div class="card-votes">' +
+            '<button type="button" class="' + likeClass + '" data-skill="' + escapeHtml(skill.id) + '" data-action="like" aria-label="Like">' +
+              '<svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8.834.066C7.494-.156 6.4.917 6.4 2.11v1.89H3.2a2.4 2.4 0 00-2.4 2.4v.4a6 6 0 00.608 2.647l1.073 2.146A3.2 3.2 0 005.345 13.6H7.2a4 4 0 003.478-2.022l2.07-3.623A1.6 1.6 0 0011.358 6H9.6V2.4a2.133 2.133 0 00-.766-1.634z"/></svg>' +
+              '<span class="vote-count">' + v.likes + '</span>' +
+            '</button>' +
+            '<button type="button" class="' + dislikeClass + '" data-skill="' + escapeHtml(skill.id) + '" data-action="dislike" aria-label="Dislike">' +
+              '<svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M7.166 15.934C8.506 16.156 9.6 15.083 9.6 13.89V12h3.2a2.4 2.4 0 002.4-2.4v-.4a6 6 0 00-.608-2.647L13.519 4.407A3.2 3.2 0 0010.655 2.4H8.8a4 4 0 00-3.478 2.022L3.252 8.045A1.6 1.6 0 004.642 10H6.4v3.6c0 .982.293 1.865.766 2.334z"/></svg>' +
+              '<span class="vote-count">' + v.dislikes + '</span>' +
+            '</button>' +
+          '</div>';
+
         return (
           '<article class="skill-card">' +
             '<div class="card-header">' +
@@ -769,6 +842,7 @@
                 '</svg>' +
                 'View on GitHub' +
               '</a>' +
+              votesHtml +
               starsHtml +
             '</div>' +
           '</article>'
@@ -806,6 +880,13 @@
             break;
           case 'stars':
             sorted.sort(function (a, b) { return (b.stars || 0) - (a.stars || 0); });
+            break;
+          case 'liked':
+            sorted.sort(function (a, b) {
+              var va = votesData[a.id] || { likes: 0, dislikes: 0 };
+              var vb = votesData[b.id] || { likes: 0, dislikes: 0 };
+              return (vb.likes - vb.dislikes) - (va.likes - va.dislikes);
+            });
             break;
           case 'name':
             sorted.sort(function (a, b) { return (a.name || '').localeCompare(b.name || ''); });
@@ -961,6 +1042,51 @@
         });
       }
 
+      function loadVotes() {
+        fetch('/api/votes')
+          .then(function (res) { return res.ok ? res.json() : {}; })
+          .then(function (data) {
+            votesData = data || {};
+            applyFilterAndSort();
+          })
+          .catch(function () { /* Votes unavailable, non-critical */ });
+      }
+
+      function submitVote(skillId, action) {
+        if (myVotes[skillId]) return;
+
+        // Optimistic update
+        if (!votesData[skillId]) votesData[skillId] = { likes: 0, dislikes: 0 };
+        var field = action === 'like' ? 'likes' : 'dislikes';
+        votesData[skillId][field]++;
+        myVotes[skillId] = action;
+        localStorage.setItem('findskills_votes', JSON.stringify(myVotes));
+        applyFilterAndSort();
+
+        fetch('/api/vote', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ skillId: skillId, action: action })
+        })
+        .then(function (res) { return res.json(); })
+        .then(function (data) {
+          if (data.likes !== undefined) {
+            votesData[skillId] = { likes: data.likes, dislikes: data.dislikes };
+            applyFilterAndSort();
+          }
+        })
+        .catch(function () { /* Keep optimistic update */ });
+      }
+
+      // Event delegation for vote buttons
+      gridEl.addEventListener('click', function (e) {
+        var btn = e.target.closest('.vote-btn');
+        if (!btn) return;
+        var skillId = btn.getAttribute('data-skill');
+        var action = btn.getAttribute('data-action');
+        if (skillId && action) submitVote(skillId, action);
+      });
+
       document.addEventListener('DOMContentLoaded', function () {
         fetch('skills.json')
           .then(function (res) {
@@ -974,6 +1100,7 @@
             updateStats();
             applyFilterAndSort();
             registerWebMCPTools();
+            loadVotes();
           })
           .catch(function (err) {
             gridEl.innerHTML =
