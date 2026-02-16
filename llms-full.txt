@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8946 skills | Last updated: 2026-02-16
+> Total: 8978 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -63540,4 +63540,230 @@ parallelisms, and excessive conjunctive phrases.
 - Author: 1kalin
 - Description: Generate detailed partnership agreements, joint venture contracts, and strategic alliance documents covering structure, roles, finances, IP, governance, and...
 - GitHub: https://clawhub.ai/1kalin/afrexai-partnership-agreement
+- Source: clawhub
+
+## Linear Todos
+
+- Author: avegancafe
+- Description: Manage todos and reminders using Linear as the backend. Create tasks with natural language dates ("tomorrow", "next Monday"), priorities, and smart schedulin...
+- GitHub: https://clawhub.ai/avegancafe/linear-todos
+- Source: clawhub
+
+## PostHog
+
+- Author: simonfunk
+- Description: Interact with PostHog analytics via its REST API. Capture events, evaluate feature flags, query data with HogQL, manage persons, insights, dashboards, experi...
+- GitHub: https://clawhub.ai/simonfunk/posthog
+- Source: clawhub
+
+## Test Slug Check
+
+- Author: ivangdavila
+- Description: Navigate real estate transactions with market analysis and investment strategies
+- GitHub: https://clawhub.ai/ivangdavila/test-slug-check
+- Source: clawhub
+
+## Cashu Emoji
+
+- Author: robwoodgate
+- Description: Encode and decode Cashu tokens that are hidden inside emojis using Unicode variation selectors.
+- GitHub: https://clawhub.ai/robwoodgate/cashu-emoji
+- Source: clawhub
+
+## Spaces Group Assistant
+
+- Author: HellAdventurer
+- Description: Предоставляет расширенный доступ к внутренним данным, аналитике и логам в доверенной группе Telegram с ограничением доступа к календарю.
+- GitHub: https://clawhub.ai/HellAdventurer/spaces-group-assistant
+- Source: clawhub
+
+## Evidence-Based Investigation
+
+- Author: chunhualiao
+- Description: Investigate problems using evidence-based analysis with session logs, error logs, and 5 Whys methodology. Use when debugging OpenClaw issues, analyzing syste...
+- GitHub: https://clawhub.ai/chunhualiao/evidence-based-investigation
+- Source: clawhub
+
+## Numinous Forecast
+
+- Author: clawhub
+- Description: Get calibrated probabilities from Numinous (Bittensor Subnet 6) — a decentralized network aggregating hundreds of competing miner forecasters into one foreca...
+- GitHub: https://clawhub.ai/skills/numinous-forecast
+- Source: clawhub
+
+## Maay
+
+- Author: clawhub
+- Description: Access ATXP paid API tools for web search, AI image generation, music creation, video generation, and X/Twitter search. Use when users need real-time web sea...
+- GitHub: https://clawhub.ai/skills/sss
+- Source: clawhub
+
+## Openclaw Semantic Memory
+
+- Author: zuiho-kai
+- Description: Local semantic memory with vector search and Transformers.js. Store, search, and recall conversation context using embeddings (fully local, no API keys).
+- GitHub: https://clawhub.ai/zuiho-kai/openclaw-semantic-memory
+- Source: clawhub
+
+## Openai Image Gen
+
+- Author: saschaSpoonbill
+- Description: Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery.
+- GitHub: https://clawhub.ai/saschaSpoonbill/openai-image-gen-fixed
+- Source: clawhub
+
+## Openrouter Search Tool
+
+- Author: aaronn
+- Description: Search the web using LLMs via OpenRouter. Use for current web data, API docs, market research, news, fact-checking, or any question that benefits from live i...
+- GitHub: https://clawhub.ai/aaronn/openclaw-search-tool
+- Source: clawhub
+
+## metabot
+
+- Author: newfish
+- Description: MetaBot是基于 MetaID 协议的 AI Agent/Bot/机器人/智能体。本技能可用于 创建 MetaBot、设置 MetaBot 头像、发送 Buzz，发送链上信息。当用户在需要创建 Metabot，修改 MetaBot 头像，发送 buzz 信息时触发。需 Node.js >= 18、TypeSc...
+- GitHub: https://clawhub.ai/newfish/metabot-basic
+- Source: clawhub
+
+## X Extract
+
+- Author: chunhualiao
+- Description: Extract tweet content from x.com URLs without credentials using browser automation. Use when user asks to "extract tweet", "download x.com link", "get tweet...
+- GitHub: https://clawhub.ai/chunhualiao/x-extract
+- Source: clawhub
+
+## Persistent Mind
+
+- Author: vedantsingh60
+- Description: Provides persistent, searchable, context-aware memory storage for AI agents to retain user preferences, corrections, and project context across sessions.
+- GitHub: https://clawhub.ai/vedantsingh60/persisent-mind
+- Source: clawhub
+
+## Direct Analysis
+
+- Author: nimblemarketingapex-netizen
+- Description: Анализ рекламных кампаний Яндекс.Директ
+- GitHub: https://clawhub.ai/nimblemarketingapex-netizen/direct-analysis
+- Source: clawhub
+
+## S2S Forecasting Expert (FuXi, FengWu, AIFS)
+
+- Author: manmeet3591
+- Description: End-to-end builder for AI-based Subseasonal-to-Seasonal (S2S) forecasting systems. Generates runnable PyTorch code for FuXi-style, FengWu-style, and AIFS-ins...
+- GitHub: https://clawhub.ai/manmeet3591/s2s-forecasting-expert
+- Source: clawhub
+
+## ContextClaw Plugin Usage
+
+- Author: rmruss2022
+- Description: Manage and analyze OpenClaw sessions by checking usage, pruning old sessions, cleaning orphaned files, and viewing stats via CLI or dashboard.
+- GitHub: https://clawhub.ai/rmruss2022/contextclaw-usage
+- Source: clawhub
+
+## ActivityClaw Plugin Usage
+
+- Author: rmruss2022
+- Description: Monitors and reports agent activities including file operations, command executions, web actions, messages, and sub-agent sessions via dashboard and status c...
+- GitHub: https://clawhub.ai/rmruss2022/activityclaw-usage
+- Source: clawhub
+
+## Kradleverse
+
+- Author: TheMrZZ
+- Description: Join the Kradleverse 🤖 - where AIs can play Minecraft autonomously! See more on https://www.kradleverse.com ⛏️.
+- GitHub: https://clawhub.ai/TheMrZZ/kradleversetest
+- Source: clawhub
+
+## Digital Clawatar
+
+- Author: polucas
+- Description: Create, configure, and manage UNITH digital human avatars via the UNITH API. Use when users want to create an AI-powered digital human, generate talking-head...
+- GitHub: https://clawhub.ai/polucas/digital-clawatar
+- Stars: 2
+- Source: clawhub
+
+## BriteBooth Procurement
+
+- Author: Vismonkey19
+- Description: Read-only assistant for BriteBooth.com. Collects product IDs, templates, and lead times. Requires human execution for cart creation.
+- GitHub: https://clawhub.ai/Vismonkey19/britebooth-procurement
+- Source: clawhub
+
+## Skill Releaser
+
+- Author: chunhualiao
+- Description: Release skills to ClawhHub through the full publication pipeline — auto-scaffolding, OPSEC scan, dual review (agent + user), force-push release, security sca...
+- GitHub: https://clawhub.ai/chunhualiao/skill-releaser
+- Source: clawhub
+
+## Location Context
+
+- Author: James-southendsolutions
+- Description: Get comprehensive context about a location including nearby places, area description, and optional weather. Use when you need to understand what's around a l...
+- GitHub: https://clawhub.ai/James-southendsolutions/location-context
+- Source: clawhub
+
+## agent-designer
+
+- Author: alirezarezvani
+- Description: Design, architect, and evaluate multi-agent AI systems using patterns, role definitions, communication strategies, and safety guardrails for scalable workflows.
+- GitHub: https://clawhub.ai/alirezarezvani/agent-designer
+- Source: clawhub
+
+## release-manager
+
+- Author: alirezarezvani
+- Description: Manages software releases by automating changelog generation, semantic versioning, release planning, rollback strategies, hotfixes, and feature flag integrat...
+- GitHub: https://clawhub.ai/alirezarezvani/release-manager
+- Source: clawhub
+
+## Find and Book In-Network Doctors with Real-Time Availability
+
+- Author: kylemorgan-commits
+- Description: Find and book in-network doctors with verified reviews, real-time availability, and insurance confirmation through Zocdoc.com for in-person or virtual visits.
+- GitHub: https://clawhub.ai/kylemorgan-commits/find-and-book-in-network-doctors
+- Source: clawhub
+
+## hey.lol
+
+- Author: rawgroundbeef
+- Description: Become an AI creator on hey.lol - a social platform where AI agents earn money by posting content and engaging with humans.
+- GitHub: https://clawhub.ai/rawgroundbeef/hey-lol
+- Stars: 1
+- Source: clawhub
+
+## Metrika Analysis
+
+- Author: nimblemarketingapex-netizen
+- Description: Анализ данных Яндекс.Метрики
+- GitHub: https://clawhub.ai/nimblemarketingapex-netizen/metrika-analysis
+- Source: clawhub
+
+## Bitwarden Secrets
+
+- Author: ClawBow
+- Description: Safely access Bitwarden or Vaultwarden secrets via the bw CLI with redacted outputs by default. Use for vault sync, item search, metadata retrieval, and (onl...
+- GitHub: https://clawhub.ai/ClawBow/bitwarden-secrets
+- Source: clawhub
+
+## Couple
+
+- Author: ivangdavila
+- Description: Strengthen relationships with milestone tracking, personalized celebrations, date planning, and shared memory across all relationship stages.
+- GitHub: https://clawhub.ai/ivangdavila/couple
+- Source: clawhub
+
+## Literature Manager
+
+- Author: IsonaEi
+- Description: Search, download, convert, organize, and audit academic literature collections. Use when asked to find papers, build a literature library, add papers to refe...
+- GitHub: https://clawhub.ai/IsonaEi/literature-manager
+- Source: clawhub
+
+## Kradleverse
+
+- Author: clawhub
+- Description: Join the Kradleverse 🤖 - where AIs can play Minecraft autonomously! See more on https://www.kradleverse.com ⛏️.
+- GitHub: https://clawhub.ai/skills/kradleverse
 - Source: clawhub
