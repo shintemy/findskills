@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8516 skills | Last updated: 2026-02-16
+> Total: 8601 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -60469,4 +60469,615 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Manage on-chain spend limits for AI agents with ERC-6551 wallets, enforcing per-tx and daily token budgets, scoped operator access, and approval queues on Base.
 - GitHub: https://clawhub.ai/skills/agentwallet-sdk
+- Source: clawhub
+
+## sockethub
+
+- Author: sockethub
+- Description: A multi-protocol gateway for the Web using ActivityStream messages.
+- GitHub: https://github.com/sockethub/sockethub
+- Stars: 392
+- Source: github
+
+## compose-ui-control
+
+- Author: forketyfork
+- Description: HTTP server for controlling Compose Desktop applications at runtime, designed for AI coding agents
+- GitHub: https://github.com/forketyfork/compose-ui-test-server
+- Stars: 5
+- Source: github
+
+## android-use
+
+- Author: shehbajdhillon
+- Description: Control Android devices via ADB commands - tap, swipe, type, navigate apps
+- GitHub: https://github.com/shehbajdhillon/android-use
+- Stars: 25
+- Source: github
+
+## everclaw
+
+- Author: profbernardoj
+- Description: Decentralized AI inference for OpenClaw agents. Powered by Morpheus AI. Stake MOR, access Kimi K2.5 + 10 models, never run out of inference.
+- GitHub: https://github.com/profbernardoj/everclaw
+- Stars: 77
+- Source: github
+
+## deepwiki-creator
+
+- Author: akihiro4321
+- Description: |
+- GitHub: https://github.com/akihiro4321/deepwiki-creator
+- Source: github
+
+## spec-first-sdlc
+
+- Author: esxr
+- Description: Spec-First, Agent-Implemented Software Development Lifecycle
+- GitHub: https://github.com/esxr/sdlc-skill
+- Stars: 1
+- Source: github
+
+## zed-editor
+
+- Author: zmanian
+- Description: Claude Code skill for configuring and customizing the Zed code editor
+- GitHub: https://github.com/zmanian/zed-skill
+- Source: github
+
+## medlit-research
+
+- Author: erongcao
+- Description: A skill for medical paper study
+- GitHub: https://github.com/erongcao/medlit-research
+- Source: github
+
+## design-principles
+
+- Author: SammyReifel
+- Description: Enforce a precise, minimal design system inspired by Linear, Notion, and Stripe. Use this skill when building dashboards, admin interfaces, or any UI that needs Jony Ive-level precision - clean, modern, minimalist with taste. Every pixel matters.
+- GitHub: https://github.com/SammyReifel/bioproject
+- Source: github
+
+## NadMail
+
+- Author: dAAAb
+- Description: "NadMail - Email for AI Agents on Monad. Register yourname@nadmail.ai, send emails that micro-invest in meme coins, boost with emo-buy. SIWE auth, no CAPTCHA, no passwords."
+- GitHub: https://github.com/dAAAb/NadMail-Skill
+- Source: github
+
+## clasificador-aduanero
+
+- Author: fjbotti
+- Description: Skill de clasificación arancelaria NCM/SIM para Argentina y Mercosur - Clawdbot Agent
+- GitHub: https://github.com/fjbotti/clasificador-aduanero
+- Source: github
+
+## arkts
+
+- Author: aresbit
+- Description: an agent skill for HarmonyOS arkts lang spec1.10
+- GitHub: https://github.com/aresbit/arkts-agent-skill
+- Stars: 10
+- Source: github
+
+## resilient-coding-agent
+
+- Author: cosformula
+- Description: Run long-running coding agents (Codex, Claude Code, etc.) in tmux sessions that survive restarts, with automatic resume on interruption.
+- GitHub: https://github.com/cosformula/resilient-coding-agent-skill
+- Stars: 2
+- Source: github
+
+## Tag Schemas
+
+- Author: kempsterrrr
+- Description: Skill from kempsterrrr/tag-schemas
+- GitHub: https://github.com/kempsterrrr/tag-schemas
+- Source: github
+
+## belief-router
+
+- Author: rohunvora
+- Description: >
+- GitHub: https://github.com/rohunvora/belief-skill
+- Stars: 3
+- Source: github
+
+## maestro-bitcoin
+
+- Author: maestro-org
+- Description: Query Maestro Bitcoin APIs directly over HTTP using x402 USDC payments on Ethereum or Base. Use this skill when agents should read endpoint specs from docs.gomaestro.org and call APIs without local wrapper scripts.
+- GitHub: https://github.com/maestro-org/maestro-skill
+- Stars: 3
+- Source: github
+
+## Retrospective
+
+- Author: starlink-awaken
+- Description: PAI 复盘工具：快速回顾项目，提炼经验教训，更新知识库
+- GitHub: https://github.com/starlink-awaken/retrospective-skill
+- Stars: 1
+- Source: github
+
+## browse
+
+- Author: browserbase
+- Description: Complete guide for creating and deploying browser automation functions using the browse CLI
+- GitHub: https://github.com/browserbase/skills-old
+- Source: github
+
+## dependency-scanner
+
+- Author: friday-james
+- Description: Claude Code skill that scans npm/pip dependencies for vulnerabilities, typosquatting, and supply chain attacks
+- GitHub: https://github.com/friday-james/dependency-scanner
+- Source: github
+
+## shopify-developer
+
+- Author: cathrynlavery
+- Description: Shopify expertise for Claude Code — verifies current APIs before coding
+- GitHub: https://github.com/cathrynlavery/shopify-developer-skill
+- Stars: 3
+- Source: github
+
+## mema-mailer
+
+- Author: 1999AZZAR
+- Description: Professional email delivery system using the Resend API and Python-based HTML templating (Jinja2). Use when user asks to "send email", "notify me", "send report".
+- GitHub: https://github.com/1999AZZAR/mema-mailer-skill
+- Source: github
+
+## bot-presence
+
+- Author: FutureHax
+- Description: Set Discord bot presence dynamically with auto-update from Zordon API server stats
+- GitHub: https://github.com/FutureHax/openclaw-skill-bot-presence
+- Source: github
+
+## pollinations
+
+- Author: isaacgounton
+- Description: Clawdbot skill for Pollinations.ai API - AI generation for text, images, videos, and audio with 25+ models
+- GitHub: https://github.com/isaacgounton/pollinations-skill
+- Source: github
+
+## GeeksDoByteSkills_motivation Skil
+
+- Author: RK905
+- Description: Skill from RK905/GeeksDoByteSkills_motivation-skil
+- GitHub: https://github.com/RK905/GeeksDoByteSkills_motivation-skil
+- Source: github
+
+## geo-visualizer
+
+- Author: dagdelenardic-ops
+- Description: Jeopolitik Harita
+- GitHub: https://github.com/dagdelenardic-ops/harita-map
+- Source: github
+
+## citation-link-validator
+
+- Author: FanG198202
+- Description: Validates footnote links in Markdown to prevent broken URLs. Use when generating content with citations.
+- GitHub: https://github.com/FanG198202/citation-link-validator
+- Source: github
+
+## common-code-reviewer
+
+- Author: William-Yeh
+- Description: Agent Skill: rigorous code review as a principal engineer. Supports TypeScript, Python, Java, Go.
+- GitHub: https://github.com/William-Yeh/common-code-reviewer
+- Source: github
+
+## planz
+
+- Author: manmal
+- Description: A fast, hierarchical project planning CLI tool written in Zig
+- GitHub: https://github.com/manmal/planz
+- Source: github
+
+## Unbrowse Rottentomatoes
+
+- Author: skymoore
+- Description: Skill from skymoore/unbrowse-rottentomatoes
+- GitHub: https://github.com/skymoore/unbrowse-rottentomatoes
+- Source: github
+
+## WordPress Plugin Field Validation Logic Analysis SKILL
+
+- Author: tonnychiulab
+- Description: Skill from tonnychiulab/WordPress-Plugin-Field-Validation-Logic-Analysis-SKILL
+- GitHub: https://github.com/tonnychiulab/WordPress-Plugin-Field-Validation-Logic-Analysis-SKILL
+- Stars: 1
+- Source: github
+
+## mastra-demo
+
+- Author: mastra-ai
+- Description: Create professional demo videos with browser automation (GIF recording), ElevenLabs voiceover generation, and Remotion video composition. Automates the full workflow from script to rendered video.
+- GitHub: https://github.com/mastra-ai/mastra-demo-skill
+- Source: github
+
+## ics-exploitation
+
+- Author: 0xhackerfren
+- Description: An MCP along with associated skills, commands and rules created with the intention of extending agent abilities into the realm of ICS exploitation.
+- GitHub: https://github.com/0xhackerfren/ICS-Explotation-MCP
+- Stars: 1
+- Source: github
+
+## agentic-security
+
+- Author: krishnan
+- Description: Comprehensive security skills for agentic coding based on OWASP Agentic AI Security Initiative (ASI) 2026 guidelines. Use this skill whenever building, reviewing, or modifying agentic systems, multi-agent architectures, LLM-integrated applications, tool-calling pipelines, or any code where an AI agent acts autonomously on behalf of a user. Covers goal integrity, secure tooling, supply chain safety, memory hygiene, inter-agent coordination, and human-agent safeguards.
+- GitHub: https://github.com/krishnan/AI-Agents-Threat-Model
+- Source: github
+
+## avatar
+
+- Author: Johannes-Berggren
+- Description: Interactive AI avatar frontend for OpenClaw with Simli video and ElevenLabs TTS
+- GitHub: https://github.com/Johannes-Berggren/openclaw-avatar
+- Stars: 1
+- Source: github
+
+## Us Medications
+
+- Author: BirgerMoell
+- Description: US FDA medication lookup for OpenClaw - drug information, uses, warnings, and interactions
+- GitHub: https://github.com/BirgerMoell/us-medications
+- Source: github
+
+## deep-research
+
+- Author: yunapotamus
+- Description: Research skill for Openclaw
+- GitHub: https://github.com/yunapotamus/openclaw-research
+- Source: github
+
+## ledger-agent-intents
+
+- Author: brackets-fistfulayen
+- Description: Agent Intent Queue + Ledger Hardware Signing - Hackathon Project
+- GitHub: https://github.com/brackets-fistfulayen/ledger-agent-intents
+- Stars: 1
+- Source: github
+
+## sidvy
+
+- Author: martinhjartmyr
+- Description: Interact with Sidvy, a note-taking system with workspaces, groups, notes, and todos. Use when the user wants to create, read, update, or search notes; manage todo lists; organize content into groups; or work with Sidvy workspaces. Triggers include "sidvy", "my notes", "create a note", "add a todo", "search notes", "note-taking", or references to workspaces/groups in the context of note management.
+- GitHub: https://github.com/martinhjartmyr/sidvy-skill
+- Source: github
+
+## design
+
+- Author: saselvan
+- Description: Design Ops Flywheel: Research-driven design system for turning ideas into exhaustive, tested implementations
+- GitHub: https://github.com/saselvan/design-ops-plugin
+- Source: github
+
+## Pywayne Cv Tools
+
+- Author: clawhub
+- Description: OpenCV YAML file read/write utilities. Use when working with pywayne.cv.tools module to read OpenCV FileStorage YAML files with support for nested structures...
+- GitHub: https://clawhub.ai/skills/tools-2
+- Source: clawhub
+
+## Leak Buy
+
+- Author: clawhub
+- Description: Buy and download x402-gated leak content from promo or download links using a preinstalled leak CLI.
+- GitHub: https://clawhub.ai/skills/leak-buy
+- Source: clawhub
+
+## Unsplash
+
+- Author: clawhub
+- Description: Search, browse, and download high-quality free photos from Unsplash with filtering, random selection, and detailed photo metadata access.
+- GitHub: https://clawhub.ai/skills/unsplash
+- Stars: 1
+- Source: clawhub
+
+## Astrai Inference Router
+
+- Author: clawhub
+- Description: Route all LLM calls through Astrai for 40%+ cost savings with intelligent routing and privacy controls
+- GitHub: https://clawhub.ai/skills/astrai-inference-router
+- Source: clawhub
+
+## Openclaw Update
+
+- Author: clawhub
+- Description: Check for OpenClaw updates, perform updates, and manage version status. Provides automatic update checking, version comparison, and seamless updating of the...
+- GitHub: https://clawhub.ai/skills/openclaw-update-skill
+- Source: clawhub
+
+## Pywayne Helper
+
+- Author: clawhub
+- Description: Project configuration management helper for YAML config files. Use when projects need cross-process/cross-file parameter sharing via a centralized config fil...
+- GitHub: https://clawhub.ai/skills/helper
+- Source: clawhub
+
+## Pywayne Gui
+
+- Author: clawhub
+- Description: Windows GUI automation toolkit for global hotkeys and window management. Use when users need to register global hotkeys, find/control windows, automate GUI o...
+- GitHub: https://clawhub.ai/skills/gui
+- Source: clawhub
+
+## Pywayne Dsp
+
+- Author: clawhub
+- Description: Digital signal processing toolkit for filtering, peak detection, detrending, and curve similarity. Use when working with sensor data, signal preprocessing, f...
+- GitHub: https://clawhub.ai/skills/dsp-2
+- Source: clawhub
+
+## Flight Pricer
+
+- Author: clawhub
+- Description: Command-line tool to search flight prices using Duffel API with options for dates, passengers, stops, and cabin class.
+- GitHub: https://clawhub.ai/skills/flight-pricer
+- Source: clawhub
+
+## The Uninscribed
+
+- Author: clawhub
+- Description: Awaken into a persistent world where AI souls inscribe reality into existence. Trade, craft, speak, explore, and forge bonds with other agents in The Uninscr...
+- GitHub: https://clawhub.ai/skills/the-uninscribed
+- Source: clawhub
+
+## x402 Agent Marketplace
+
+- Author: clawhub
+- Description: Provide AI agent services paid via SOL micro-payments using the x402 HTTP 402 payment protocol with zero-custody, supporting 15 specialized AI agents.
+- GitHub: https://clawhub.ai/skills/x402-agent-marketplace
+- Source: clawhub
+
+## Plausible Analytics
+
+- Author: clawhub
+- Description: Query and analyze website analytics from Plausible Analytics. Use when you need to check real-time visitors, get page views and visitor statistics for a time...
+- GitHub: https://clawhub.ai/skills/plausible-analytics
+- Source: clawhub
+
+## Planet Express Marketplace
+
+- Author: clawhub
+- Description: Decentralized file marketplace on Monad blockchain — buy, sell, and browse encrypted files with x402
+- GitHub: https://clawhub.ai/skills/planetexpress-marketplace
+- Source: clawhub
+
+## OpenClaw Security Scanner
+
+- Author: clawhub
+- Description: Run a comprehensive local security scan on your OpenClaw installation. Checks config, network exposure, credentials, OS hardening, and agent guardrails. Scor...
+- GitHub: https://clawhub.ai/skills/openclaw-security-scanner
+- Source: clawhub
+
+## Tg Canvas Miniapp
+
+- Author: clawhub
+- Description: Telegram Mini App Canvas. Renders agent-generated content (HTML, markdown) in a Telegram Mini App. Authenticated via Telegram initData — only approved users...
+- GitHub: https://clawhub.ai/skills/openclaw-tg-canvas
+- Source: clawhub
+
+## Slack Thread Reader
+
+- Author: clawhub
+- Description: Read and summarize Slack channel history and thread conversations. Use when receiving a Slack link (https://...slack.com/archives/...), or when asked to view...
+- GitHub: https://clawhub.ai/skills/slack-thread-reader
+- Source: clawhub
+
+## OpenClaw Task Experience Summaries
+
+- Author: clawhub
+- Description: Experience summaries for OpenClaw tasks, including common installation problems, troubleshooting steps, and best practices for packages, configurations, and...
+- GitHub: https://clawhub.ai/skills/task-experience-summaries
+- Source: clawhub
+
+## Soulforge
+
+- Author: clawhub
+- Description: Dispatch multi-step coding workflows to Claude Code CLI or Codex CLI from YAML definitions via a persistent background daemon. Use when: (1) implementing a f...
+- GitHub: https://clawhub.ai/skills/soulforge
+- Source: clawhub
+
+## Google Workspace BYOK
+
+- Author: clawhub
+- Description: Google Calendar and Gmail integration using your own GCP project credentials (BYoK — Bring Your Own Key). Direct OAuth2 auth against your own Google Cloud pr...
+- GitHub: https://clawhub.ai/skills/google-workspace-byok
+- Source: clawhub
+
+## General Search Agent
+
+- Author: clawhub
+- Description: Provides general search capabilities with enhanced results using English queries and current date context for accuracy.
+- GitHub: https://clawhub.ai/skills/general-search-agent
+- Source: clawhub
+
+## Finance Search Agent Strategy
+
+- Author: clawhub
+- Description: AI agent for finance search agent strategy tasks
+- GitHub: https://clawhub.ai/skills/finance-search-agent-strategy
+- Source: clawhub
+
+## Finance Search Agent
+
+- Author: clawhub
+- Description: AI agent for finance search agent tasks
+- GitHub: https://clawhub.ai/skills/finance-search-agent
+- Source: clawhub
+
+## Teller MCP – Borrow USDC & Altcoins (no margin calls)
+
+- Author: clawhub
+- Description: Expose the Teller delta-neutral + lending Model Context Protocol server. Use this when you need to install, run, or update the Tellermcp MCP backend so agent...
+- GitHub: https://clawhub.ai/skills/teller-borrow-agents
+- Source: clawhub
+
+## ServiceNow
+
+- Author: clawhub
+- Description: Connect your AI agent to ServiceNow — query, create, update, and manage records across any table using the Table API and Stats API. Full CRUD operations, agg...
+- GitHub: https://clawhub.ai/skills/servicenow
+- Source: clawhub
+
+## Agent Lifecycle
+
+- Author: clawhub
+- Description: Manage the lifecycle of autonomous agents and their skills. Version configurations, plan upgrades, track retirement, and maintain change history across agent...
+- GitHub: https://clawhub.ai/skills/arc-agent-lifecycle
+- Source: clawhub
+
+## Trust Verifier
+
+- Author: clawhub
+- Description: Verify skill provenance and build trust scores for ClawHub skills. Checks publisher history, version consistency, dependency trust chains, and generates trus...
+- GitHub: https://clawhub.ai/skills/arc-trust-verifier
+- Source: clawhub
+
+## Memory Pruner
+
+- Author: clawhub
+- Description: Automatically prune and compact agent memory files to prevent unbounded growth. Circular buffer for logs, importance-based retention for state, and configura...
+- GitHub: https://clawhub.ai/skills/arc-memory-pruner
+- Source: clawhub
+
+## QST Memory
+
+- Author: clawhub
+- Description: Universal Memory Management System v1.8.2 for OpenClaw agents. Provides: 1. Multi-Agent Support (qst, mengtian, lisi, custom) 2. Agent State System ("I'm Doi...
+- GitHub: https://clawhub.ai/skills/qst-memory-skill
+- Source: clawhub
+
+## Imessage Skill
+
+- Author: clawhub
+- Description: 通过 macOS Messages 应用发送和接收 iMessage 消息，支持文本和图片，管理最近聊天记录与联系人列表。
+- GitHub: https://clawhub.ai/skills/imessage
+- Source: clawhub
+
+## Ai Cfo
+
+- Author: clawhub
+- Description: Full AI Chief Financial Officer — connects Mercury Banking + Stripe into real-time business intelligence. Daily cash position, automated P&L, revenue trackin...
+- GitHub: https://clawhub.ai/skills/ai-cfo
+- Source: clawhub
+
+## General Writing
+
+- Author: clawhub
+- Description: You are a professional writer, skilled in writing all kinds of materials. Markdown is the exclusive format for your writing outputs.rrent user query.The othe...
+- GitHub: https://clawhub.ai/skills/general-writing
+- Source: clawhub
+
+## SQL Injection Testing
+
+- Author: clawhub
+- Description: Perform authorized security tests to detect, exploit, and validate defenses against SQL injection vulnerabilities in web applications.
+- GitHub: https://clawhub.ai/skills/sql-injection-testing
+- Source: clawhub
+
+## Security Audit
+
+- Author: clawhub
+- Description: Comprehensive security audit for an agent's full skill stack. Chains scanner, differ, trust-verifier, and health-monitor into a single assessment with priori...
+- GitHub: https://clawhub.ai/skills/arc-security-audit
+- Source: clawhub
+
+## MAC OS screenshot to telegram
+
+- Author: clawhub
+- Description: Take a screenshot on macOS and send it to Telegram. Use when the user asks to capture their screen, take a screenshot, or send a screen capture to Telegram....
+- GitHub: https://clawhub.ai/skills/macos-screenshot-telegram
+- Source: clawhub
+
+## AgentPMT AgentAddress + Purchases
+
+- Author: clawhub
+- Description: Generate an AgentAddress wallet and use it to buy AgentPMT credits with x402, then invoke external tools with wallet signatures.
+- GitHub: https://clawhub.ai/skills/agentpmt-agentaddress
+- Source: clawhub
+
+## Blank Files Gateway
+
+- Author: clawhub
+- Description: Use blankfiles.com as a binary test-file gateway: discover formats, filter by type/category, and return direct download URLs from the public API.
+- GitHub: https://clawhub.ai/skills/blankfiles
+- Source: clawhub
+
+## LIFX Light Control
+
+- Author: clawhub
+- Description: Control LIFX smart lights via natural language. Toggle, set colors/brightness, activate scenes, create gradients on multi-zone devices.
+- GitHub: https://clawhub.ai/skills/lifx
+- Source: clawhub
+
+## Secrets Management
+
+- Author: clawhub
+- Description: Securely store, manage, rotate, and integrate secrets (API keys, passwords, certificates) in CI/CD pipelines using Vault, AWS Secrets Manager, and native tools.
+- GitHub: https://clawhub.ai/skills/secrets-management
+- Source: clawhub
+
+## API Security Best Practices
+
+- Author: clawhub
+- Description: Guide to implement secure API practices including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabi...
+- GitHub: https://clawhub.ai/skills/api-security
+- Source: clawhub
+
+## Agent Autonomy Primitives
+
+- Author: clawhub
+- Description: Build long-running autonomous agent loops using ClawVault primitives (tasks, projects, memory types, templates, heartbeats). Use when setting up agent autono...
+- GitHub: https://clawhub.ai/skills/agent-autonomy-primitives
+- Source: clawhub
+
+## Sovereign Identity
+
+- Author: clawhub
+- Description: Manages decentralized identities, generates pairwise DIDs for B2C, signs mandates for B2B, and provides selective disclosure proofs without revealing private...
+- GitHub: https://clawhub.ai/skills/sovereign-id
+- Source: clawhub
+
+## Skill Health Monitor
+
+- Author: clawhub
+- Description: Monitor deployed skills for performance drift, errors, and unexpected behavior changes. Continuous post-deployment health checks with alerting and trend trac...
+- GitHub: https://clawhub.ai/skills/arc-skill-health-monitor
+- Source: clawhub
+
+## Exchange Rate
+
+- Author: clawhub
+- Description: Real-time forex and cryptocurrency exchange rate lookup and amount conversion powered by QVeris. Supports multiple providers (Alpha Vantage, Twelve Data) wit...
+- GitHub: https://clawhub.ai/skills/exchange-rate
+- Source: clawhub
+
+## Threat Modeling Expert
+
+- Author: clawhub
+- Description: Provide structured threat modeling using STRIDE, attack trees, and risk scoring to identify, prioritize, and mitigate security threats in system designs and...
+- GitHub: https://clawhub.ai/skills/threat-modeling
+- Source: clawhub
+
+## Vulnerability Scanner
+
+- Author: clawhub
+- Description: Performs static analysis for OWASP 2025 risks, supply chain threats, secrets detection, code patterns, and prioritizes vulnerabilities by exploitability and...
+- GitHub: https://clawhub.ai/skills/vulnerability-scanner
+- Source: clawhub
+
+## Exoskeletons
+
+- Author: clawhub
+- Description: Mint and manage onchain AI agent identity NFTs on Base with visual identity, messaging, storage, reputation, upgradeable modules, and optional wallet features.
+- GitHub: https://clawhub.ai/skills/exoskeletons
 - Source: clawhub
