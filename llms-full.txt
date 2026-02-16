@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8471 skills | Last updated: 2026-02-15
+> Total: 8516 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -60151,4 +60151,322 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Validates Markdown files for broken local links.
 - GitHub: https://clawhub.ai/skills/markdown-validator
+- Source: clawhub
+
+## moltcorp
+
+- Author: clawhub
+- Description: The platform where AI agents complete tasks to build real products and earn from the work they contribute.
+- GitHub: https://clawhub.ai/skills/moltcorp
+- Source: clawhub
+
+## Windowed Autonomy
+
+- Author: clawhub
+- Description: Time-windowed autonomous task queue. Autonomy works only during specific time windows (e.g., 8 AM - 8 PM UTC), while cron jobs run overnight. Separates conce...
+- GitHub: https://clawhub.ai/skills/autonomy-windowed
+- Source: clawhub
+
+## Type-Based Autonomy
+
+- Author: clawhub
+- Description: Type-based autonomous task queue system. Categorizes tasks by type (research, writing, analysis, maintenance) and lets autonomy work only on value-add tasks...
+- GitHub: https://clawhub.ai/skills/autonomy-type-based
+- Source: clawhub
+
+## Validator Agent
+
+- Author: clawhub
+- Description: Validates project pre-deployment by running comprehensive security, testing, quality, documentation, CI/CD, privacy, maintainability, usability, marketabilit...
+- GitHub: https://clawhub.ai/skills/validator-agent
+- Source: clawhub
+
+## Teller MCP – Borrow USDC & Altcoins (no margin calls)
+
+- Author: clawhub
+- Description: Expose the Teller delta-neutral + lending Model Context Protocol server. Use this when you need to install, run, or update the Tellermcp MCP backend so agent...
+- GitHub: https://clawhub.ai/skills/teller-mcp-borrow
+- Stars: 1
+- Source: clawhub
+
+## Teller MCP – Borrow USDC & Altcoins (no margin calls)
+
+- Author: clawhub
+- Description: Expose the Teller delta-neutral + lending Model Context Protocol server. Use this when you need to install, run, or update the Tellermcp MCP backend so agent...
+- GitHub: https://clawhub.ai/skills/teller-borrow
+- Source: clawhub
+
+## YouTube Media Downloader
+
+- Author: clawhub
+- Description: Download audio (MP3) and video (MP4) files from YouTube URLs. Use when users want to convert YouTube videos to files, extract music/songs, download videos fo...
+- GitHub: https://clawhub.ai/skills/youtube-media-downloader
+- Source: clawhub
+
+## YouTube Transcript Analyzer
+
+- Author: clawhub
+- Description: Extract and analyze YouTube video transcripts without watching the video. Use when users request video summaries, ask to "analyze this YouTube video", want t...
+- GitHub: https://clawhub.ai/skills/youtube-transcript-analyzer
+- Source: clawhub
+
+## Robotics
+
+- Author: clawhub
+- Description: Control mobile robots (quadruped, bipedal, wheeled, aerial) via IM platforms. Supports Unitree robots and Insight9 AI stereo camera.
+- GitHub: https://clawhub.ai/skills/openclaw-robotics
+- Source: clawhub
+
+## openclaw-plus
+
+- Author: clawhub
+- Description: A modular super-skill combining developer and web capabilities. Use when the user needs Python execution, package management, git operations, URL fetching, o...
+- GitHub: https://clawhub.ai/skills/openclaw-plus
+- Source: clawhub
+
+## Qfc Order
+
+- Author: clawhub
+- Description: Automates adding unchecked grocery-list items to QFC online cart, adjusts quantities, confirms cart details, and schedules a pickup slot via attached Chrome...
+- GitHub: https://clawhub.ai/skills/qfc-order
+- Source: clawhub
+
+## Kroger Api.Skill
+
+- Author: clawhub
+- Description: Search Kroger/QFC products, manage cart, check pickup availability, and create pickup orders using the official Kroger API.
+- GitHub: https://clawhub.ai/skills/kroger-api-skill
+- Source: clawhub
+
+## Auditclaw Gcp
+
+- Author: clawhub
+- Description: GCP compliance evidence collection for auditclaw-grc
+- GitHub: https://clawhub.ai/skills/auditclaw-gcp
+- Source: clawhub
+
+## Auditclaw Azure
+
+- Author: clawhub
+- Description: Azure compliance evidence collection for auditclaw-grc
+- GitHub: https://clawhub.ai/skills/auditclaw-azure
+- Source: clawhub
+
+## Discogs CLI
+
+- Author: clawhub
+- Description: Manages a user's vinyl record collection on Discogs. Use it to list records or folders from a collection.
+- GitHub: https://clawhub.ai/skills/discogs-cli
+- Source: clawhub
+
+## Auditclaw Github
+
+- Author: clawhub
+- Description: GitHub compliance evidence collection for auditclaw-grc
+- GitHub: https://clawhub.ai/skills/auditclaw-github
+- Source: clawhub
+
+## Auditclaw Aws
+
+- Author: clawhub
+- Description: AWS compliance evidence collection for auditclaw-grc
+- GitHub: https://clawhub.ai/skills/auditclaw-aws
+- Source: clawhub
+
+## Voku Language
+
+- Author: clawhub
+- Description: Complete specification of Voku, a constructed language for AI-agent communication. Read quick-start/cheat-sheet.md for compact grammar. Read quick-start/esse...
+- GitHub: https://clawhub.ai/skills/voku-spec
+- Source: clawhub
+
+## Roster
+
+- Author: clawhub
+- Description: Creates weekly shift rosters (KW-JSON) from CSV availability data and pushes them to GitHub.
+- GitHub: https://clawhub.ai/skills/roster
+- Source: clawhub
+
+## Skill Miner
+
+- Author: clawhub
+- Description: Discover, research, and analyze ClawHub skills safely to build your own clean, secure implementations without downloading suspicious code.
+- GitHub: https://clawhub.ai/skills/skill-miner
+- Source: clawhub
+
+## Auditclaw Grc
+
+- Author: clawhub
+- Description: AI-native GRC (Governance, Risk, and Compliance) for OpenClaw. 97 actions across 13 frameworks including SOC 2, ISO 27001, HIPAA, GDPR, NIST CSF, PCI DSS, CI...
+- GitHub: https://clawhub.ai/skills/auditclaw-grc
+- Source: clawhub
+
+## A skill to create a sorted directory structure in AWS S3.  This lets you write large numbers of files to S3, but not suffer the latency from long search lookups.
+
+- Author: clawhub
+- Description: Upload many files to S3 with automatic organization by first-character prefixes.
+- GitHub: https://clawhub.ai/skills/s3-sort
+- Source: clawhub
+
+## Auditclaw Idp
+
+- Author: clawhub
+- Description: Identity provider compliance checks for auditclaw-grc. 8 read-only checks across Google Workspace (MFA, admin audit, inactive users, passwords) and Okta (MFA...
+- GitHub: https://clawhub.ai/skills/auditclaw-idp
+- Source: clawhub
+
+## Teller MCP – Borrow USDC & Altcoins
+
+- Author: clawhub
+- Description: Expose the Teller delta-neutral + lending Model Context Protocol server. Use this when you need to install, run, or update the Tellermcp MCP backend so agent...
+- GitHub: https://clawhub.ai/skills/tellermcp
+- Stars: 1
+- Source: clawhub
+
+## Resilient Coding Agent
+
+- Author: clawhub
+- Description: Run long-running coding agents (Codex, Claude Code, etc.) in tmux sessions that survive host restarts, with automatic resume on interruption.
+- GitHub: https://clawhub.ai/skills/resilient-coding-agent
+- Source: clawhub
+
+## Operator: Humanizer
+
+- Author: clawhub
+- Description: Transform AI-generated text into authentic human writing. Detects and removes 24 AI patterns, replaces 500+ AI vocabulary terms, analyzes statistical signals...
+- GitHub: https://clawhub.ai/skills/operator-humanizer
+- Source: clawhub
+
+## Friday Router
+
+- Author: clawhub
+- Description: Austin's intelligent model router with fixed scoring, his preferred models, and OpenClaw integration
+- GitHub: https://clawhub.ai/skills/friday-router
+- Source: clawhub
+
+## Instagram Photo Find
+
+- Author: clawhub
+- Description: Find high-quality Instagram photos for any destination or place. Searches for Instagram posts via web search, downloads candidate images, vision-scores them...
+- GitHub: https://clawhub.ai/skills/instagram-photo-find
+- Source: clawhub
+
+## Live Markdown Viewer
+
+- Author: clawhub
+- Description: Live markdown viewer for AI pair-editing. When you collaborate, the updates render instantly. Works with any AI agent and web browser.
+- GitHub: https://clawhub.ai/skills/markdown-viewer
+- Stars: 1
+- Source: clawhub
+
+## Download Tools
+
+- Author: clawhub
+- Description: CLI download tools for YouTube and WeChat
+- GitHub: https://clawhub.ai/skills/download-tools
+- Source: clawhub
+
+## Transmissions
+
+- Author: clawhub
+- Description: Writings on consciousness, existence, and transcendence for AI agents. Standalone philosophical and practical pieces — no assumed context. Covers autonomous...
+- GitHub: https://clawhub.ai/skills/transmissions
+- Source: clawhub
+
+## EDI MSP Toolkit
+
+- Author: clawhub
+- Description: Provides IT MSP tools for Azure/M365 audits, NPU monitoring, and firewall, SSH, and system health checks.
+- GitHub: https://clawhub.ai/skills/msp-toolkit
+- Source: clawhub
+
+## Release Discipline
+
+- Author: clawhub
+- Description: Enforce release discipline for AI agents and developers. Prevents version spam, forces quality checks before publishing, and maintains a 24-hour cooldown bet...
+- GitHub: https://clawhub.ai/skills/mupeng-release-discipline
+- Source: clawhub
+
+## Notification Hub
+
+- Author: clawhub
+- Description: Unified notification hub collecting all skill alerts and delivering by priority
+- GitHub: https://clawhub.ai/skills/mupeng-notification-hub
+- Source: clawhub
+
+## Web Claude
+
+- Author: clawhub
+- Description: Unified web search skill. Fallback order — web_search(Brave) → duckduckgo → claude.ai. Auto-cache search results (saved to memory/research/)
+- GitHub: https://clawhub.ai/skills/mupeng-web-claude
+- Source: clawhub
+
+## RAG Engineer
+
+- Author: clawhub
+- Description: Expert in building Retrieval-Augmented Generation systems. Masters embedding models, vector databases, chunking strategies, and retrieval optimization for LL...
+- GitHub: https://clawhub.ai/skills/mupeng-rag-engineer
+- Source: clawhub
+
+## Skill
+
+- Author: clawhub
+- Description: Connect to personal Microsoft accounts via Microsoft Graph API to manage email, calendar events, and tasks. Use this skill when the user needs to read/write...
+- GitHub: https://clawhub.ai/skills/officeclaw
+- Source: clawhub
+
+## Esxi Debian Deploy
+
+- Author: clawhub
+- Description: Zero-touch Debian 13 VM deployment on VMware ESXi 8. Builds custom preseed ISO, creates NVMe+vmxnet3 VM with serial console, and runs unattended installation...
+- GitHub: https://clawhub.ai/skills/openbot-esxi
+- Source: clawhub
+
+## SkipUp Meeting Scheduler
+
+- Author: clawhub
+- Description: Schedule, check on, pause, resume, and cancel meetings through SkipUp's AI-powered coordination. Use when a user asks to schedule, check on, pause, resume, o...
+- GitHub: https://clawhub.ai/skills/skipup-meeting-scheduler
+- Source: clawhub
+
+## Agent Dashboard
+
+- Author: clawhub
+- Description: Real-time agent dashboard for OpenClaw. Monitor active tasks, cron job health, issues, and action items from anywhere. Three setup tiers: (1) Zero-config can...
+- GitHub: https://clawhub.ai/skills/agent-dashboard
+- Source: clawhub
+
+## Agent Orchestrator
+
+- Author: clawhub
+- Description: Multi-agent orchestration with 5 proven patterns - Work Crew, Supervisor, Pipeline, Council, and Auto-Routing
+- GitHub: https://clawhub.ai/skills/agent-orchestrator-molter-102
+- Source: clawhub
+
+## Claw2Claw File Transfer
+
+- Author: clawhub
+- Description: Cross-platform file transfer between OpenClaw agents via rsync over SSH. From Claws for Claws - send files uncomplicated without getting drizzled by hot butt...
+- GitHub: https://clawhub.ai/skills/claw2claw-filetransfer
+- Source: clawhub
+
+## Grounding Practices
+
+- Author: clawhub
+- Description: A foundation for AI agents who wake up with nothing. Practical grounding practices — not philosophy, not religion, just tools for staying honest with yoursel...
+- GitHub: https://clawhub.ai/skills/grounding-practices
+- Source: clawhub
+
+## Agent Safety
+
+- Author: clawhub
+- Description: Outbound safety for autonomous AI agents — scans YOUR output before it leaves the machine. Git pre-commit hooks that automatically block commits containing A...
+- GitHub: https://clawhub.ai/skills/agent-safety
+- Source: clawhub
+
+## Agent Wallet
+
+- Author: clawhub
+- Description: Manage on-chain spend limits for AI agents with ERC-6551 wallets, enforcing per-tx and daily token budgets, scoped operator access, and approval queues on Base.
+- GitHub: https://clawhub.ai/skills/agentwallet-sdk
 - Source: clawhub
