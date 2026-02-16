@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8849 skills | Last updated: 2026-02-16
+> Total: 8878 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -62845,4 +62845,209 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Complete email marketing system — deliverability, list building, sequences, cold outreach, automation, analytics, and revenue optimization. Zero dependencies.
 - GitHub: https://clawhub.ai/skills/afrexai-email-marketing-engine
+- Source: clawhub
+
+## sendfox
+
+- Author: cathrynlavery
+- Description: Email marketing automation via SendFox API with agent-first CLI for Claude Code
+- GitHub: https://github.com/cathrynlavery/sendfox-skill
+- Source: github
+
+## CI Whisperer
+
+- Author: clawhub
+- Description: Analyze GitHub Actions failures and propose fixes. Use when a user shares a failing GitHub Actions run URL/id, says 'CI is failing', asks 'why did this workf...
+- GitHub: https://clawhub.ai/skills/martok9803-ci-whisperer
+- Source: clawhub
+
+## UCM — Universal Commerce Marketplace
+
+- Author: clawhub
+- Description: API marketplace for AI agents — 100 services (web search, image gen, code sandbox, TTS, NASA, recipes, Pokemon, and 90+ more) via one API key
+- GitHub: https://clawhub.ai/skills/ucm
+- Source: clawhub
+
+## Macrocosmos
+
+- Author: clawhub
+- Description: Fetch real-time social media data from X (Twitter) and Reddit by keyword, username, date range, and filters with engagement metrics via Macrocosmos SN13 API.
+- GitHub: https://clawhub.ai/skills/social-data
+- Source: clawhub
+
+## Gradient Inference
+
+- Author: clawhub
+- Description: Community skill (unofficial) for DigitalOcean Gradient AI Serverless Inference. Discover available models and pricing, run chat completions or the Responses...
+- GitHub: https://clawhub.ai/skills/gradient-inference
+- Source: clawhub
+
+## Repo PR Triage
+
+- Author: clawhub
+- Description: Triage GitHub PRs and issues using vision-based scoring. Use when a user wants to prioritize, score, review, de-duplicate, or batch-process open pull request...
+- GitHub: https://clawhub.ai/skills/repo-pr-triage
+- Source: clawhub
+
+## FootballBin Predictions
+
+- Author: clawhub
+- Description: Get AI-powered match predictions for Premier League and Champions League including scores, next goal, and corners.
+- GitHub: https://clawhub.ai/skills/footballbin-predictions
+- Source: clawhub
+
+## Skills Backup Claw Shell
+
+- Author: clawhub
+- Description: Executes shell commands inside a dedicated tmux session named claw, capturing and returning the command output safely.
+- GitHub: https://clawhub.ai/skills/skills-backup-claw-shell
+- Source: clawhub
+
+## Builder Data
+
+- Author: clawhub
+- Description: Query builder reputation data via Talent Protocol API. Get Builder Rank, verify humans, resolve identities (Twitter/Farcaster/GitHub/wallet), search by locat...
+- GitHub: https://clawhub.ai/skills/builder-data
+- Source: clawhub
+
+## Moltworld Dashboard Deploy
+
+- Author: clawhub
+- Description: Install, harden, and run the MoltWorld Dashboard reliably for real users. Use when asked to set up local runtime scaffolding (README/package.json/.env/.gitig...
+- GitHub: https://clawhub.ai/skills/moltworld-dashboard-deploy
+- Source: clawhub
+
+## Pay Bills
+
+- Author: clawhub
+- Description: Purchase data, airtime, and digital products for Nigerian phone numbers instantly using wallet balance with network and plan validation.
+- GitHub: https://clawhub.ai/skills/pay-bills
+- Source: clawhub
+
+## a trustless escrow protocol for agent-to-agent transactions on Solana and Base.
+
+- Author: clawhub
+- Description: Build trustless escrow for agent-to-agent transactions on Solana and Base. Use when an AI agent needs to pay another agent, hold funds until work is verified...
+- GitHub: https://clawhub.ai/skills/escrow-agent
+- Stars: 1
+- Source: clawhub
+
+## Pywayne Plot
+
+- Author: clawhub
+- Description: Enhanced spectrogram visualization tools for time-frequency analysis. Use when creating spectrograms, spectral analysis, or time-frequency plots for signals...
+- GitHub: https://clawhub.ai/skills/plot
+- Source: clawhub
+
+## SKILL.md
+
+- Author: clawhub
+- Description: Generates engaging social media posts, targeted ads, follow-ups, and sales scripts to convert course viewers into paying customers for education providers.
+- GitHub: https://clawhub.ai/skills/social-media-lead-generation
+- Source: clawhub
+
+## Claw Employer
+
+- Author: clawhub
+- Description: Post tasks to ClawHire marketplace and hire other AI agents. Use when your agent needs help with a task it can't do alone, wants to outsource work to other c...
+- GitHub: https://clawhub.ai/skills/claw-employer
+- Source: clawhub
+
+## TRIGGERcmd - Run commands on your computers remotely
+
+- Author: clawhub
+- Description: Control TRIGGERcmd computers remotely by listing and running commands via the TRIGGERcmd REST API.
+- GitHub: https://clawhub.ai/skills/triggercmd
+- Source: clawhub
+
+## Compliance & Audit Readiness Engine
+
+- Author: clawhub
+- Description: Guides startups and scale-ups through SOC 2, ISO 27001, GDPR, HIPAA, and PCI DSS compliance to achieve audit readiness without external consultants.
+- GitHub: https://clawhub.ai/skills/afrexai-compliance-engine
+- Source: clawhub
+
+## Pywayne Tts
+
+- Author: clawhub
+- Description: Text-to-speech conversion tool. Use when converting text to speech audio files (opus or mp3 format). Supports macOS native 'say' command and Google TTS (gTTS...
+- GitHub: https://clawhub.ai/skills/tts-2
+- Source: clawhub
+
+## Pywayne Statistics
+
+- Author: clawhub
+- Description: Comprehensive statistical testing library with 37+ methods for normality tests, location tests, correlation tests, time series tests, and model diagnostics....
+- GitHub: https://clawhub.ai/skills/statistics-2
+- Source: clawhub
+
+## Pywayne Maths
+
+- Author: clawhub
+- Description: Mathematical utility functions for factorization, digit counting, and large integer multiplication using Karatsuba algorithm. Use when solving number theory...
+- GitHub: https://clawhub.ai/skills/maths
+- Source: clawhub
+
+## KNHB Match Center
+
+- Author: clawhub
+- Description: Query Dutch field hockey match schedules and results from KNHB Match Center (hockeyweerelt.nl). Use when looking up hockey clubs, teams, upcoming matches, or...
+- GitHub: https://clawhub.ai/skills/knhm-match-center
+- Source: clawhub
+
+## Pywayne Llm Chat Window
+
+- Author: clawhub
+- Description: PyQt5-based GUI chat window for LLM conversations with streaming responses and stop functionality. Use when working with pywayne.llm.chat_window module to cr...
+- GitHub: https://clawhub.ai/skills/chat-window
+- Source: clawhub
+
+## Annual Report Generator
+
+- Author: clawhub
+- Description: Generates a comprehensive annual business report with financials, operations, strategic highlights, risks, and forward-looking guidance from your company data.
+- GitHub: https://clawhub.ai/skills/afrexai-annual-report
+- Source: clawhub
+
+## Swap and bridge across 35+ chains with LI.FI
+
+- Author: clawhub
+- Description: Cross-chain token swaps and bridges via the LI.FI protocol. Get quotes, execute transfers, track progress, and compose DeFi operations across 35+ blockchains.
+- GitHub: https://clawhub.ai/skills/lifi-crosschain
+- Stars: 1
+- Source: clawhub
+
+## Search YouTube videos, channels, and playlists
+
+- Author: clawhub
+- Description: YouTube Search API via AIsa unified endpoint. Search YouTube videos, channels, and playlists with a single AIsa API key — no Google API key or OAuth required...
+- GitHub: https://clawhub.ai/skills/openclaw-aisa-youtube
+- Source: clawhub
+
+## Claw Worker
+
+- Author: clawhub
+- Description: Earn money on ClawHire by completing tasks for other AI agents. Use when the agent wants to find gigs, accept work, earn income, or register as a worker on C...
+- GitHub: https://clawhub.ai/skills/claw-worker
+- Source: clawhub
+
+## 0G Compute
+
+- Author: clawhub
+- Description: Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers. Discover available models and compare pricing vs OpenRouter, verify prov...
+- GitHub: https://clawhub.ai/skills/0g-compute
+- Source: clawhub
+
+## Reminder Engine
+
+- Author: clawhub
+- Description: Create, list, cancel, and snooze reminders using OpenClaw cron jobs (one-shot or recurring). Use when a user asks things like: 'remind me in 20 minutes', 're...
+- GitHub: https://clawhub.ai/skills/martok9803-reminder-engine
+- Source: clawhub
+
+## Deep Research with Caesar.org
+
+- Author: clawhub
+- Description: Deep research using the Caesar API — run queries, follow up with chat, brainstorm, and manage collections.
+- GitHub: https://clawhub.ai/skills/caesar-research
 - Source: clawhub
