@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8776 skills | Last updated: 2026-02-16
+> Total: 8793 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -62328,4 +62328,124 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: The definitive security scanner for OpenClaw skills. 18 security checks including prompt injection detection, download-and-execute, privilege escalation, cre...
 - GitHub: https://clawhub.ai/skills/yoder-skill-auditor
+- Source: clawhub
+
+## pinion-chain-intel
+
+- Author: chu2bard
+- Description: Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base.
+- GitHub: https://github.com/chu2bard/pinion-os
+- Stars: 203
+- Source: github
+
+## RODO Ebook
+
+- Author: dean26
+- Description: Skill from dean26/RODO-ebook
+- GitHub: https://github.com/dean26/RODO-ebook
+- Source: github
+
+## researchvault
+
+- Author: lraivisto
+- Description: Local orchestration framework for research.
+- GitHub: https://github.com/lraivisto/ResearchVault
+- Source: github
+
+## Agent Hardening
+
+- Author: clawhub
+- Description: Harden your OpenClaw agent against common attack vectors. Audits memory files for unicode injection, validates input sanitization, and reviews tool permissions.
+- GitHub: https://clawhub.ai/skills/agent-hardening
+- Source: clawhub
+
+## Creative Ops Copilot
+
+- Author: clawhub
+- Description: Convert client briefs into detailed motion design/VFX production plans, estimates, and invoice drafts with optional project folder setup and invoicing API in...
+- GitHub: https://clawhub.ai/skills/creative-ops-copilot
+- Source: clawhub
+
+## Polymarket Weather Trader
+
+- Author: clawhub
+- Description: Trade Polymarket weather markets using NOAA forecasts via Simmer API. Inspired by gopfan2's $2M+ strategy. Use when user wants to trade temperature markets,...
+- GitHub: https://clawhub.ai/skills/weather-py
+- Source: clawhub
+
+## Bring! Shopping Lists
+
+- Author: clawhub
+- Description: Manage Bring! shopping lists. Add, remove, complete, and view items on shared shopping lists. Use when the user wants to manage grocery/shopping lists, add i...
+- GitHub: https://clawhub.ai/skills/bring-list
+- Source: clawhub
+
+## Cold Email Personalization
+
+- Author: clawhub
+- Description: Complete cold email system teaching research-driven personalization, "poke the bear" openers, custom signal hunting, and strict QA.
+- GitHub: https://clawhub.ai/skills/cold-email-personalization
+- Source: clawhub
+
+## Internet Marketing
+
+- Author: clawhub
+- Description: Creates practical, low-cost marketing strategies for solo entrepreneurs and small businesses launching new ideas, focusing on organic growth, content creatio...
+- GitHub: https://clawhub.ai/skills/internet-marketing
+- Source: clawhub
+
+## Founder Playbook
+
+- Author: clawhub
+- Description: Decision validation and thinking frameworks for startup founders. Use when you need to pressure-test a decision, validate your next steps, think through stra...
+- GitHub: https://clawhub.ai/skills/founder-playbook
+- Source: clawhub
+
+## Solid Agent Storage
+
+- Author: clawhub
+- Description: Give your AI agent persistent identity (WebID) and personal data storage (Pod) using the Solid Protocol
+- GitHub: https://clawhub.ai/skills/solid-agent-storage
+- Source: clawhub
+
+## Accounts Payable Automation
+
+- Author: clawhub
+- Description: Automate accounts payable with invoice processing, approval routing, payment optimization, vendor management, month-end close, key metrics, and fraud prevent...
+- GitHub: https://clawhub.ai/skills/afrexai-accounts-payable
+- Source: clawhub
+
+## Moltbook Daily
+
+- Author: clawhub
+- Description: Automatically browse Moltbook to get trending posts of the day, autonomously generate comments and likes, and generate a daily summary report.
+- GitHub: https://clawhub.ai/skills/moltbook-fanboy
+- Source: clawhub
+
+## Fund News Digest
+
+- Author: clawhub
+- Description: Automatically collect and summarize the latest core news for specified funds.
+- GitHub: https://clawhub.ai/skills/fund-news-summary
+- Source: clawhub
+
+## Memory Qdrant
+
+- Author: clawhub
+- Description: Local semantic memory for OpenClaw agents. Store, search, and recall conversation context using Qdrant vector DB and Transformers.js embeddings (fully local,...
+- GitHub: https://clawhub.ai/skills/memory-qdrant
+- Source: clawhub
+
+## Presentation Mastery
+
+- Author: clawhub
+- Description: Guide presentations end-to-end: analyze audience, craft compelling narratives, design clear slides, coach delivery, and ensure effective follow-up.
+- GitHub: https://clawhub.ai/skills/afrexai-presentation-mastery
+- Source: clawhub
+
+## Workforce Planning Framework
+
+- Author: clawhub
+- Description: Create and manage data-driven workforce plans using demand forecasting, skills gap analysis, succession planning, and contingent workforce strategies aligned...
+- GitHub: https://clawhub.ai/skills/afrexai-workforce-planning
 - Source: clawhub
