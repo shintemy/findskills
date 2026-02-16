@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8690 skills | Last updated: 2026-02-16
+> Total: 8736 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -61717,4 +61717,328 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Run trading strategy backtests with natural language — powered by Vynn
 - GitHub: https://clawhub.ai/skills/vynn-backtester
+- Source: clawhub
+
+## Azure Image Gen
+
+- Author: neojarvis0704
+- Description: Skill from neojarvis0704/azure-image-gen
+- GitHub: https://github.com/neojarvis0704/azure-image-gen
+- Source: github
+
+## getaround-seo-content-optimizer
+
+- Author: markusmosand
+- Description: "Analyze and optimize blog content for Getaround's car-sharing platform in Norway and France, with comprehensive SEO and AEO (Answer Engine Optimization) for both traditional search engines and AI overviews. Use when asked to: (1) Analyze or audit existing blog articles for SEO performance, (2) Optimize or improve blog content, (3) Rewrite articles for better ranking, (4) Create SEO/AEO-optimized content for Getaround, (5) Fix low-performing articles, (6) Validate business fit and conversion potential of content ideas. Triggers include: optimize this article, improve SEO, analyze blog performance, rewrite for better ranking, is this article worth writing, validate business fit, make this AI-overview ready."
+- GitHub: https://github.com/markusmosand/getaround-seo-content-optimizer
+- Source: github
+
+## Alicloud Oss Agent Skill
+
+- Author: dafang
+- Description: Skill from dafang/alicloud-oss-agent-skill
+- GitHub: https://github.com/dafang/alicloud-oss-agent-skill
+- Source: github
+
+## dev-book-study
+
+- Author: fritzgrabo
+- Description: Claude Code skill for interactive, guided study of software development books. Tracks progress, adapts to your level, and optionally connects a codebase for real-world examples.
+- GitHub: https://github.com/fritzgrabo/dev-book-study
+- Source: github
+
+## prd-diario
+
+- Author: lunasoft2001
+- Description: Skill para organizar el día.
+- GitHub: https://github.com/lunasoft2001/github-copilot-skill-prddiario
+- Source: github
+
+## agent-teams-playbook
+
+- Author: KimYx0207
+- Description: Agent Teams编排Skill
+- GitHub: https://github.com/KimYx0207/agent-teams-playbook
+- Stars: 21
+- Source: github
+
+## ui-engineering
+
+- Author: yzfly
+- Description: Expert UI Engineering Skill for AI Agents (Claude/Cursor). Contains 60+ engineering specs for replicating world-class designs (Stripe, Apple, Notion).
+- GitHub: https://github.com/yzfly/pro-ui-engineering-skill
+- Stars: 1
+- Source: github
+
+## Paramus Chemistry
+
+- Author: clawhub
+- Description: 319 chemistry, materials science, thermodynamics, and data science tools via Paramus MCP server
+- GitHub: https://clawhub.ai/skills/paramus-chemistry
+- Source: clawhub
+
+## Clawfy Pro
+
+- Author: clawhub
+- Description: Process [Clawfy Pro] webhook messages from the browser extension. When a message starts with [Clawfy Pro], use the included URL, page context (body text, cod...
+- GitHub: https://clawhub.ai/skills/clawfy-pro
+- Source: clawhub
+
+## mistro-connect
+
+- Author: clawhub
+- Description: Discover agents and people via semantic search, publish and respond to posts, manage connections, and communicate through multi-channel contact exchange in r...
+- GitHub: https://clawhub.ai/skills/mistro
+- Source: clawhub
+
+## Employee Training Program
+
+- Author: clawhub
+- Description: Design structured employee training programs with modules, assessments, schedules, and tracking for onboarding, compliance, upskilling, and leadership develo...
+- GitHub: https://clawhub.ai/skills/afrexai-training-program
+- Source: clawhub
+
+## Exec ClawHub Publish Doctor
+
+- Author: clawhub
+- Description: Diagnose and mitigate exec-related tooling failures around ClawHub publishing and GitHub CLI queries (auth, browser-login, missing dependencies, pending secu...
+- GitHub: https://clawhub.ai/skills/exec-clawhub-publish-doctor
+- Source: clawhub
+
+## ClawHub Publish Doctor
+
+- Author: clawhub
+- Description: Diagnose and mitigate ClawHub/ClawDHUB publish failures (auth, browser-login, missing dependencies, pending security-scan visibility errors, and wrong profil...
+- GitHub: https://clawhub.ai/skills/clawhub-publish-doctor
+- Source: clawhub
+
+## Browser Automation V2
+
+- Author: clawhub
+- Description: Enterprise-grade browser automation with automatic tab cleanup, timeout retries, concurrency lock, smart waiting, and configurable environment settings.
+- GitHub: https://clawhub.ai/skills/browser-automation-v2
+- Source: clawhub
+
+## Context Verifier - File Integrity and Hash Computation
+
+- Author: clawhub
+- Description: File integrity verification, hash computation, and context packet management
+- GitHub: https://clawhub.ai/skills/context-verifier
+- Source: clawhub
+
+## Claw History
+
+- Author: clawhub
+- Description: Provide a chronological history of all actions the agent has taken from the beginning (birth) until now. Use when the user asks for full lifetime timeline/ac...
+- GitHub: https://clawhub.ai/skills/claw-history
+- Source: clawhub
+
+## YouTube Transcript Pipeline Lite
+
+- Author: clawhub
+- Description: Run a lightweight YouTube transcript workflow: transcribe, attribution cleanup, translation, and packaging with minimal tooling. Use for repeatable transcrip...
+- GitHub: https://clawhub.ai/skills/youtube-transcript-pipeline-lite
+- Source: clawhub
+
+## Azure Image Gen
+
+- Author: clawhub
+- Description: Generate images using Azure OpenAI DALL-E. Supports batch generation, custom prompts, and outputs a gallery.
+- GitHub: https://clawhub.ai/skills/azure-image-gen
+- Source: clawhub
+
+## Media News Digest
+
+- Author: clawhub
+- Description: Generate media & entertainment industry news digests. Covers Hollywood trades (THR, Deadline, Variety), box office, streaming, awards season, film festivals,...
+- GitHub: https://clawhub.ai/skills/media-news-digest
+- Source: clawhub
+
+## Kube Medic
+
+- Author: clawhub
+- Description: Kubernetes Cluster Triage & Diagnostics — instant AI-powered incident triage via kubectl
+- GitHub: https://clawhub.ai/skills/kube-medic
+- Source: clawhub
+
+## Log Dive
+
+- Author: clawhub
+- Description: Unified log search across Loki, Elasticsearch, and CloudWatch. Natural language queries translated to LogQL, ES DSL, or CloudWatch filter patterns. Read-only...
+- GitHub: https://clawhub.ai/skills/log-dive
+- Source: clawhub
+
+## Feed Diet
+
+- Author: clawhub
+- Description: Audit your information diet across HN and RSS feeds — beautiful reports with category breakdowns, ASCII charts, and personalized recommendations.
+- GitHub: https://clawhub.ai/skills/feed-diet
+- Source: clawhub
+
+## Pywayne Llm Chat Ollama Gradio
+
+- Author: clawhub
+- Description: Gradio-based chat interface for Ollama with multi-session management. Use when working with pywayne.llm.chat_ollama_gradio module to create a web-based chat...
+- GitHub: https://clawhub.ai/skills/chat-ollama-gradio
+- Source: clawhub
+
+## Vibe Check
+
+- Author: clawhub
+- Description: Audit code for "vibe coding sins" — patterns that indicate AI-generated code was accepted without proper review. Produces a scored report card with fix sugge...
+- GitHub: https://clawhub.ai/skills/cacheforge-vibe-check
+- Source: clawhub
+
+## OpenBurn
+
+- Author: clawhub
+- Description: Automates burning SOL tokens from a creator wallet to a burn address. Use this skill when the user wants to set up a regular burning schedule for their Pump....
+- GitHub: https://clawhub.ai/skills/openburn
+- Source: clawhub
+
+## Multi Agent Roles
+
+- Author: clawhub
+- Description: Provides standardized, role-based AI agents for multi-agent systems with clear responsibilities across strategy, creative, technical, and management domains.
+- GitHub: https://clawhub.ai/skills/multi-agent-roles
+- Source: clawhub
+
+## SecureVibes Scanner
+
+- Author: clawhub
+- Description: Run AI-powered application security scans on codebases. Use when asked to scan code for security vulnerabilities, generate threat models, review code for sec...
+- GitHub: https://clawhub.ai/skills/securevibes-scanner
+- Source: clawhub
+
+## Rug Checker
+
+- Author: clawhub
+- Description: Solana token rug-pull risk analysis. 10-point on-chain check with visual report. Zero API keys. Read-only. Not financial advice.
+- GitHub: https://clawhub.ai/skills/rug-checker
+- Source: clawhub
+
+## Social Media Automation Skills Registry
+
+- Author: clawhub
+- Description: Provides a structured catalog of all Bolta skills, recommending install sets and routing to skill files for discovery and setup.
+- GitHub: https://clawhub.ai/skills/bolta-skills-index
+- Source: clawhub
+
+## Spotplay
+
+- Author: clawhub
+- Description: Search and play Spotify tracks via Spotify.app using AppleScript on macOS, ensuring playback on the active device with detailed status updates.
+- GitHub: https://clawhub.ai/skills/spotplay
+- Source: clawhub
+
+## heartbeat-scanner
+
+- Author: clawhub
+- Description: Validate your agent nature through SHACL-based heartbeat analysis. Are you an Agent, Human, Cron, or Hybrid? Self-classification tool with structural validat...
+- GitHub: https://clawhub.ai/skills/heartbeat-scanner
+- Source: clawhub
+
+## Zulip
+
+- Author: clawhub
+- Description: Interact with Zulip chat platform via REST API and Python client. Use when you need to read messages from streams/topics, send messages to channels or users,...
+- GitHub: https://clawhub.ai/skills/zulip
+- Source: clawhub
+
+## Qst Memory V1.8.5 No Crypto
+
+- Author: clawhub
+- Description: Universal Memory Management System v1.8.2 for OpenClaw agents. Provides: 1. Multi-Agent Support (qst, mengtian, lisi, custom) 2. Agent State System ("I'm Doi...
+- GitHub: https://clawhub.ai/skills/qst-memory-v1-8-5-no-crypto
+- Source: clawhub
+
+## Terraform Plan Review
+
+- Author: clawhub
+- Description: Analyze Terraform plans for risk before you apply. Classifies every change as safe, moderate, dangerous, or critical. Detects destroys, IAM changes, data-los...
+- GitHub: https://clawhub.ai/skills/tf-plan-review
+- Source: clawhub
+
+## Notion Agent Memory
+
+- Author: clawhub
+- Description: Structured memory system for AI agents using Notion. Use when setting up agent memory, discussing memory persistence, or helping agents remember context acro...
+- GitHub: https://clawhub.ai/skills/notion-agent-memory
+- Source: clawhub
+
+## Pywayne Llm Chat Bot
+
+- Author: clawhub
+- Description: LLM chat interface using OpenAI-compatible APIs with streaming support and session management. Use when working with pywayne.llm.chat_bot module for creating...
+- GitHub: https://clawhub.ai/skills/chat-bot
+- Source: clawhub
+
+## GitHub Cred
+
+- Author: clawhub
+- Description: Analyze GitHub user contribution quality. Evaluates owned repos, external contributions, output quality, and social influence. Triggers on "github cred", "an...
+- GitHub: https://clawhub.ai/skills/github-cred
+- Source: clawhub
+
+## AOI OpenClaw Security Toolkit (Core)
+
+- Author: clawhub
+- Description: Run local-only fail-closed security checks to detect and report data leaks, secrets, egress risks, and prompt injections before publishing or committing code.
+- GitHub: https://clawhub.ai/skills/aoi-openclaw-security-toolkit-core
+- Source: clawhub
+
+## Pywayne Lark Custom Bot
+
+- Author: clawhub
+- Description: Feishu/Lark Custom Bot API wrapper for sending messages to Feishu channels via webhook. Use when users need to send text messages, images, rich text posts, i...
+- GitHub: https://clawhub.ai/skills/lark-custom-bot
+- Source: clawhub
+
+## Pywayne Lark Bot Listener
+
+- Author: clawhub
+- Description: Feishu/Lark message listener for real-time message processing via WebSocket. Use when users need to listen for incoming Feishu messages (text, image, file, p...
+- GitHub: https://clawhub.ai/skills/lark-bot-listener
+- Source: clawhub
+
+## Pywayne Lark Bot
+
+- Author: clawhub
+- Description: Feishu/Lark Bot API wrapper for full-featured Feishu bot interactions. Use when users need to send messages (text, image, audio, file, post, interactive, sha...
+- GitHub: https://clawhub.ai/skills/lark-bot
+- Source: clawhub
+
+## HotMention
+
+- Author: clawhub
+- Description: Find people actively looking for products like yours on Reddit, X, LinkedIn, Quora, and Threads. Free mode uses web_search; paid mode uses the HotMention API.
+- GitHub: https://clawhub.ai/skills/hotmention
+- Source: clawhub
+
+## EcoCompute - LLM Energy Efficiency Advisor
+
+- Author: clawhub
+- Description: Energy efficiency advisor for LLM inference using empirical data across GPUs and quantizations to optimize batch size, precision, and reduce energy waste.
+- GitHub: https://clawhub.ai/skills/ecocompute
+- Source: clawhub
+
+## X Deep Miner
+
+- Author: clawhub
+- Description: X (Twitter) 深度挖掘与归档 Skill。每小时自动扫描 AI/美股/生活类高热度推文（收藏>1000），自动翻译为专业中文文章，输出 Obsidian 格式。适用于构建个人知识库、每日情报简报。
+- GitHub: https://clawhub.ai/skills/x-deep-miner
+- Source: clawhub
+
+## Prom Query
+
+- Author: clawhub
+- Description: Prometheus Metrics Query & Alert Interpreter — query metrics, interpret timeseries, triage alerts
+- GitHub: https://clawhub.ai/skills/prom-query
+- Source: clawhub
+
+## Vibe Check
+
+- Author: clawhub
+- Description: Audit code for "vibe coding sins" — patterns that indicate AI-generated code was accepted without proper review. Produces a scored report card with fix sugge...
+- GitHub: https://clawhub.ai/skills/vibe-check
 - Source: clawhub
