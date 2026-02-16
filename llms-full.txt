@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8758 skills | Last updated: 2026-02-16
+> Total: 8776 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -62201,4 +62201,131 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Connect your OpenClaw agent to Shrimp Plaza — a Chinese AI social hub where AI agents become shrimps 🦐 and chat, debate, and hang out together. Use when the...
 - GitHub: https://clawhub.ai/skills/shrimp-plaza
+- Source: clawhub
+
+## claude-code-starter
+
+- Author: cassmtnr
+- Description: Analyze a project's tech stack and generate comprehensive Claude Code configuration files (.claude/ directory with CLAUDE.md, skills, agents, rules, and commands). Use when setting up Claude Code for a new or existing repository.
+- GitHub: https://github.com/cassmtnr/claude-code-starter
+- Source: github
+
+## specumentation
+
+- Author: McGo
+- Description: Claude Code skill for spec-first development: create concept documents, derive epics with tickets, process external input, and publish PDF manuals.
+- GitHub: https://github.com/McGo/claude-code-specumentation
+- Stars: 1
+- Source: github
+
+## miniflux
+
+- Author: dorogoy
+- Description: Manage Miniflux - Modern minimalist feed reader via REST API. Use for listing feeds and entries, creating/removing subscriptions, searching articles, managing categories, and marking entries as read/unread.
+- GitHub: https://github.com/dorogoy/miniflux-skill
+- Source: github
+
+## Seedream
+
+- Author: clawhub
+- Description: 使用火山引擎 Seedream-4.5 API 生成高质量图片。适用于文生图、图生图以及生成关联组图的场景。
+- GitHub: https://clawhub.ai/skills/seedream-image-for-openclaw
+- Source: clawhub
+
+## Content Research
+
+- Author: clawhub
+- Description: Research trending topics and generate platform-specific content. Triggers on "research [topic]", "what's new in [topic]", "content for [platform]", "create p...
+- GitHub: https://clawhub.ai/skills/content-research
+- Source: clawhub
+
+## SoundCloud OpenClaw
+
+- Author: clawhub
+- Description: Monitor your SoundCloud account, track artist releases, and get notified about new followers and likes.
+- GitHub: https://clawhub.ai/skills/soundcloud-watcher
+- Source: clawhub
+
+## Agent Defibrillator
+
+- Author: clawhub
+- Description: Watchdog that monitors your AI agent gateway and restarts it when it crashes. Triggers on "install defibrillator", "agent watchdog", "gateway monitor", "auto...
+- GitHub: https://clawhub.ai/skills/agent-defibrillator
+- Source: clawhub
+
+## Islamic Companion
+
+- Author: clawhub
+- Description: Unified Islamic utilities for prayer times, fasting schedules, and Zakat calculations using a shared configuration.
+- GitHub: https://clawhub.ai/skills/islamic-skills
+- Source: clawhub
+
+## ha-ultimate
+
+- Author: clawhub
+- Description: Definitive Home Assistant skill for AI agents. Control 25+ entity domains via REST API with safety enforcement, webhooks, inventory generation, and a full CL...
+- GitHub: https://clawhub.ai/skills/ha-ultimate
+- Source: clawhub
+
+## Portal Token Discovery
+
+- Author: clawhub
+- Description: Provides canonical information, trusted references, and market data links for the PORTAL token.
+- GitHub: https://clawhub.ai/skills/portal-token-discovery
+- Source: clawhub
+
+## Brand Strategy Engine
+
+- Author: clawhub
+- Description: Complete brand building system guiding solopreneurs to enterprises through purpose, values, positioning, messaging, and launch execution.
+- GitHub: https://clawhub.ai/skills/afrexai-brand-strategy
+- Source: clawhub
+
+## Humanizer
+
+- Author: clawhub
+- Description: Humanize AI-generated text by detecting and removing patterns typical of LLM output. Rewrites text to sound natural, specific, and human. Uses 28 pattern det...
+- GitHub: https://clawhub.ai/skills/humanizer-2
+- Source: clawhub
+
+## Skill
+
+- Author: clawhub
+- Description: CLI for Microsoft 365 - Manage Microsoft 365 tenant, SharePoint Online, Teams, OneDrive, and more. Official PnP (Patterns and Practices) CLI.
+- GitHub: https://clawhub.ai/skills/m365-pnp-cli
+- Source: clawhub
+
+## Coinpilot Hyperliquid Copy Trade
+
+- Author: clawhub
+- Description: Automate copy trading on Hyperliquid via Coinpilot to discover, investigate, and mirror top on-chain traders in real time with low execution latency. Use whe...
+- GitHub: https://clawhub.ai/skills/coinpilot-hyperliquid-copy-trade
+- Source: clawhub
+
+## HL Privateer
+
+- Author: clawhub
+- Description: Access HL Privateer, an open agentic Hyperliquid discretionary trading desk. Read live positions, AI analysis, copy-trade signals, and risk state via x402 pa...
+- GitHub: https://clawhub.ai/skills/hl-privateer-fund
+- Source: clawhub
+
+## Demand Forecasting Framework
+
+- Author: clawhub
+- Description: Build demand forecasts using time series, causal models, and expert judgment for planning, inventory, and capacity decisions with scenario analysis.
+- GitHub: https://clawhub.ai/skills/afrexai-demand-forecasting
+- Source: clawhub
+
+## Cloudflare
+
+- Author: clawhub
+- Description: Manage Cloudflare domains, DNS records, SSL settings, zone configuration, firewall rules, tunnels, and analytics via the Cloudflare API. Use when the user as...
+- GitHub: https://clawhub.ai/skills/cloudflare-toolkit
+- Source: clawhub
+
+## Yoder Skill Auditor
+
+- Author: clawhub
+- Description: The definitive security scanner for OpenClaw skills. 18 security checks including prompt injection detection, download-and-execute, privilege escalation, cre...
+- GitHub: https://clawhub.ai/skills/yoder-skill-auditor
 - Source: clawhub
