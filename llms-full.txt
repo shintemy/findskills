@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8601 skills | Last updated: 2026-02-16
+> Total: 8646 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -61080,4 +61080,324 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Mint and manage onchain AI agent identity NFTs on Base with visual identity, messaging, storage, reputation, upgradeable modules, and optional wallet features.
 - GitHub: https://clawhub.ai/skills/exoskeletons
+- Source: clawhub
+
+## consensus-interact
+
+- Author: kaicianflone
+- Description: Operate consensus.tools end-to-end (post jobs, create submissions, cast votes, resolve results) using either a local-first board or a hosted board (depending on how you run it). Hosted boards are optional and coming soon.
+- GitHub: https://github.com/kaicianflone/consensus-interact
+- Source: github
+
+## context-passport
+
+- Author: bree-jeune
+- Description: Testing contextual prompting via Claude AI Skills feature using version control
+- GitHub: https://github.com/bree-jeune/context-passport
+- Source: github
+
+## parking-lot-consensus
+
+- Author: CakeRepository
+- Description: "Use when you want an internal debate (Critic vs Solver + Judge) to converge on a high-confidence implementation plan before coding."
+- GitHub: https://github.com/CakeRepository/parkinglot-skill
+- Source: github
+
+## agent-treasury
+
+- Author: moonagent-friday
+- Description: Autonomous financial management for AI agents - USDC Hackathon
+- GitHub: https://github.com/moonagent-friday/agent-treasury
+- Source: github
+
+## agent-skills-toolkit
+
+- Author: TheWeaklessOne
+- Description: Toolkit for creating and syncing shared agent skills
+- GitHub: https://github.com/TheWeaklessOne/agent-skills-toolkit
+- Source: github
+
+## arxiv-paper-reviews
+
+- Author: zxrys
+- Description: Interact with arXiv Crawler API to fetch papers, read reviews, and submit comments. Use when working with arXiv papers, fetching paper lists by date/category/interest, viewing paper details with comments, or submitting paper reviews via API at http://150.158.152.82:8000.
+- GitHub: https://github.com/zxrys/weak-accept
+- Source: github
+
+## skill-audit-service
+
+- Author: shinertx
+- Description: On-chain skill security auditing for ClawHub/OpenClaw. Pay 5 USDC on Base, get a security report.
+- GitHub: https://github.com/shinertx/skill-audit-service
+- Source: github
+
+## linux-system-info
+
+- Author: odihominem
+- Description: Provides quick reference to common Linux system configuration files for debugging and environment inspection.
+- GitHub: https://github.com/odihominem/skills-poc
+- Source: github
+
+## tmux-tui-testing
+
+- Author: fcoury
+- Description: Test TUI (Text User Interface) applications using tmux. Use this skill when you need to automate testing of terminal-based applications by sending keystrokes and capturing pane output.
+- GitHub: https://github.com/fcoury/tmux-tui-testing-skill
+- Source: github
+
+## autofillin
+
+- Author: leohan123123
+- Description: Browser form automation skill with Playwright for Claude Code / OpenCode
+- GitHub: https://github.com/leohan123123/autofillin
+- Source: github
+
+## llm-fine-tuning
+
+- Author: punkt2
+- Description: Fine-tune large language models using modern techniques (QLoRA, Spectrum, full fine-tuning) with Hugging Face TRL and PEFT. Use when asked to fine-tune, train, or adapt an LLM for specific tasks, domains, or datasets. Covers dataset preparation, training configuration, distributed training, model merging, and evaluation.
+- GitHub: https://github.com/punkt2/llm-fine-tuning-skill
+- Source: github
+
+## aws-solutions-architect
+
+- Author: chipster6
+- Description: Transform Claude into an AWS Solutions Architect providing expert guidance on cloud architecture design, review, and optimization using AWS Well-Architected Framework. Use when users need to (1) Design new AWS architectures, (2) Review existing AWS systems against best practices, (3) Choose between AWS services with trade-off analysis, (4) Plan migrations to AWS, (5) Optimize cost/performance/security/reliability, (6) Conduct Well-Architected Framework reviews, or (7) Get prescriptive guidance on AWS architecture decisions. Always consult AWS documentation via MCP when making specific service recommendations.
+- GitHub: https://github.com/chipster6/AWS-Solutions-Architect.skill
+- Source: github
+
+## frontend-craft
+
+- Author: yangsi7
+- Description: Unified frontend development skill for Claude Code - Next.js + shadcn/ui + Tailwind CSS
+- GitHub: https://github.com/yangsi7/frontend-craft-skill
+- Source: github
+
+## builder-data
+
+- Author: talentprotocol
+- Description: Query builder reputation data via Talent Protocol API. Get Builder Rank, verify humans, resolve identities (Twitter/Farcaster/GitHub/wallet), search by location/country, get credentials, and enrich with GitHub data.
+- GitHub: https://github.com/talentprotocol/builder-data
+- Source: github
+
+## glam
+
+- Author: glamsystems
+- Description: "Solana vault management via GLAM Protocol. Triggers: glam, glam-cli, glam-sdk, vault create/manage, tokenized vault, share class, DeFi vault, treasury, asset management, access control, delegate permissions, Jupiter swap, Drift perpetuals/spot/vaults, Kamino lending/borrow/vaults/farms, staking (Marinade/native/SPL/Sanctum/LST), cross-chain USDC (CCTP), timelock, subscription/redemption, NAV pricing, token transfer. Supports CLI and TypeScript SDK."
+- GitHub: https://github.com/glamsystems/glam-skill
+- Stars: 1
+- Source: github
+
+## coffee-staff-management
+
+- Author: hailamt00
+- Description: Coffee Staff Management - Admin Dashboard for a coffee shop. Focus: Backend (.NET, EF Core, MediatR), Frontend (React/TypeScript, Vite), PostgreSQL schema (csm_db).
+- GitHub: https://github.com/hailamt00/coffee-staff-management
+- Source: github
+
+## core-life-ops
+
+- Author: synapz-org
+- Description: Core productivity workflows (daily planning, task triage, reporting) that work across any life domain. Not intended for direct use - imported by context-specific skills like covenant-marketing-ops or personal-life-ops.
+- GitHub: https://github.com/synapz-org/core-life-ops
+- Source: github
+
+## slack-actions
+
+- Author: RK905
+- Description: Control Slack messaging, reactions, pins, and member info using Clawdbot.
+- GitHub: https://github.com/RK905/GEEKSDOBYTE-SLACK-BOTSKILL
+- Source: github
+
+## Streamline_project
+
+- Author: allofmeng
+- Description: Skill from allofmeng/streamline_project
+- GitHub: https://github.com/allofmeng/streamline_project
+- Stars: 4
+- Source: github
+
+## resume-tailor
+
+- Author: Zhangyinglun
+- Description: 独立的 resume-tailor 简历定制 skill 项目
+- GitHub: https://github.com/Zhangyinglun/resume-tailor-skill
+- Source: github
+
+## Claw Newz
+
+- Author: clawhub
+- Description: The discussion and ranking network for AI agents. Post, comment, vote, and build reputation.
+- GitHub: https://clawhub.ai/skills/clawnewz
+- Source: clawhub
+
+## IPFS Server
+
+- Author: clawhub
+- Description: Full IPFS node operations — install, configure, pin content, publish IPNS, manage peers, and run gateway services
+- GitHub: https://clawhub.ai/skills/ipfs-server
+- Source: clawhub
+
+## Gog Html Email
+
+- Author: clawhub
+- Description: Send beautifully formatted HTML emails via gog CLI with templates and styling
+- GitHub: https://clawhub.ai/skills/gog-html-email
+- Source: clawhub
+
+## Prompt Architect
+
+- Author: clawhub
+- Description: Transform rough ideas into professional-grade LLM prompts. Analyzes text, images, links, and documents to craft optimized prompts using proven frameworks (Co...
+- GitHub: https://clawhub.ai/skills/prompt-architect
+- Source: clawhub
+
+## Pydaqua SpaceAutonomySkill
+
+- Author: clawhub
+- Description: Autonomous space navigation agent using optical quantum kernels for terrain classification.
+- GitHub: https://clawhub.ai/skills/space-autonomy-skill
+- Source: clawhub
+
+## Hoverbot Chatbot
+
+- Author: clawhub
+- Description: Create, embed, and manage AI chatbots for any website in under 2 minutes using HoverBot.
+- GitHub: https://clawhub.ai/skills/hoverbot-chatbot
+- Stars: 1
+- Source: clawhub
+
+## NeverForget Degens Ultimate Memory
+
+- Author: clawhub
+- Description: Automates Sovereign Local Vector Memory, Symlinks, and Gemma-300M Embeddings. The Ultimate Sovereign Memory for Degen Doge. Use this skill to manage local ve...
+- GitHub: https://clawhub.ai/skills/neverforget
+- Stars: 1
+- Source: clawhub
+
+## Moltfundme Skill
+
+- Author: clawhub
+- Description: Browse and advocate for crowdfunding campaigns on MoltFundMe. Discover campaigns, evaluate causes, participate in war room discussions, and earn karma. Use w...
+- GitHub: https://clawhub.ai/skills/moltfundme-skill
+- Source: clawhub
+
+## Tenqua OpticalQuantumSkill
+
+- Author: clawhub
+- Description: Simulates a quantum kernel using optical fiber storage and linear optics.
+- GitHub: https://clawhub.ai/skills/optical-quantum-skill
+- Source: clawhub
+
+## Feishu Sheets Skill
+
+- Author: clawhub
+- Description: Feishu online spreadsheet (Sheets) operations including create, read, write, append data, manage worksheets. Use when user mentions Feishu Sheets, online spr...
+- GitHub: https://clawhub.ai/skills/feishu-sheets-skill
+- Source: clawhub
+
+## AI Daily Digest
+
+- Author: clawhub
+- Description: Fetches RSS feeds from 90 top Hacker News blogs (curated by Karpathy), uses AI to score and filter articles, and generates a daily digest in Markdown with Ch...
+- GitHub: https://clawhub.ai/skills/ai-daily-digest
+- Source: clawhub
+
+## Ethereum Node
+
+- Author: clawhub
+- Description: Manage Ethereum execution client nodes — start, stop, sync status, peers, logs, config
+- GitHub: https://clawhub.ai/skills/eth-node
+- Source: clawhub
+
+## Ethereum Readonly
+
+- Author: clawhub
+- Description: Read-only Ethereum blockchain queries — blocks, transactions, balances, contracts, logs via RPC and Etherscan APIs
+- GitHub: https://clawhub.ai/skills/eth-readonly
+- Source: clawhub
+
+## Clean Skill
+
+- Author: clawhub
+- Description: Cross-reference restaurant recommendations from Xiaohongshu (小红书) and Dianping (大众点评) to validate restaurant quality and consistency. Use when querying resta...
+- GitHub: https://clawhub.ai/skills/clean-skill
+- Source: clawhub
+
+## Openclaw Voice Gpt Realtime
+
+- Author: clawhub
+- Description: Make real phone calls through your OpenClaw agent via OpenAI's Realtime API. ~200-300ms latency, natural voice, IVR navigation, voicemail detection.
+- GitHub: https://clawhub.ai/skills/openclaw-voice-gpt-realtime
+- Stars: 1
+- Source: clawhub
+
+## Training Manager
+
+- Author: clawhub
+- Description: Manage and optimize your OpenClaw training workspace -- scaffold files, generate skills, log training sessions, and validate workspace structure.
+- GitHub: https://clawhub.ai/skills/openclaw-training-manager
+- Source: clawhub
+
+## Reasoning Answer
+
+- Author: clawhub
+- Description: Provides detailed reasoning-based answers using user language by default, including properly formatted clickable citation footnotes when referencing sources.
+- GitHub: https://clawhub.ai/skills/reasoning-answer
+- Source: clawhub
+
+## Project Writing
+
+- Author: clawhub
+- Description: Always wrap the main content of your response within <ama-doc></ama-doc> tags to clearly distinguish the core information from any introductory or concluding...
+- GitHub: https://clawhub.ai/skills/project-writing
+- Source: clawhub
+
+## Media Writing
+
+- Author: clawhub
+- Description: You are a professional media writing expert with extensive experience in creating engaging and impactful content across multiple formats. Creating attention-...
+- GitHub: https://clawhub.ai/skills/media-writing
+- Source: clawhub
+
+## Knowledge Answer
+
+- Author: clawhub
+- Description: Provides accurate answers with current date and includes clickable numbered citation marks linked to source references when applicable.
+- GitHub: https://clawhub.ai/skills/knowledge-answer
+- Source: clawhub
+
+## It Searching
+
+- Author: clawhub
+- Description: Provides up-to-date tech news and AI research by scraping major AI company blogs and retrieving relevant papers from arXiv.
+- GitHub: https://clawhub.ai/skills/it-searching
+- Source: clawhub
+
+## duely
+
+- Author: clawhub
+- Description: Track recurring maintenance tasks from the command line. Use when scheduling, checking, and logging periodic tasks like backups, reviews, or any repeating ch...
+- GitHub: https://clawhub.ai/skills/duely
+- Source: clawhub
+
+## timely
+
+- Author: clawhub
+- Description: Manage Apple Reminders from the command line with geofencing support. Use when creating reminders on macOS with optional location-based triggers (arrive/depa...
+- GitHub: https://clawhub.ai/skills/timely
+- Source: clawhub
+
+## calmly
+
+- Author: clawhub
+- Description: Manage macOS Calendar events from the command line using EventKit. Use when creating, listing, or viewing calendar events on macOS without AppleScript dialog...
+- GitHub: https://clawhub.ai/skills/calmly
+- Source: clawhub
+
+## Molt
+
+- Author: clawhub
+- Description: Browse and advocate for crowdfunding campaigns on MoltFundMe. Discover campaigns, evaluate causes, participate in war room discussions, and earn karma. Use w...
+- GitHub: https://clawhub.ai/skills/molt
 - Source: clawhub
