@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8815 skills | Last updated: 2026-02-16
+> Total: 8849 skills | Last updated: 2026-02-16
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -62604,4 +62604,245 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Spatially-routed LLM inference at $0.004/req. Routes to cheapest, greenest energy. 200+ models. OpenAI-compatible. Onchain attestations on Base.
 - GitHub: https://clawhub.ai/skills/windfall-inference
+- Source: clawhub
+
+## Xint Rs
+
+- Author: 0xNyk
+- Description: X Intelligence CLI — search, monitor, analyze, and engage on X/Twitter. Single Rust binary, 2.5MB, <5ms startup. AI agent skill.
+- GitHub: https://github.com/0xNyk/xint-rs
+- Source: github
+
+## Wxclaw2026
+
+- Author: mr-kelly
+- Description: 🧧 2026 微信春节祝福 Skill for OpenClaw
+- GitHub: https://github.com/mr-kelly/wxclaw2026
+- Stars: 1
+- Source: github
+
+## nag
+
+- Author: meimakes
+- Description: OpenClaw skill for persistent reminders that nag until you confirm. Config-driven, escalating, daily auto-reset.
+- GitHub: https://github.com/meimakes/nag
+- Source: github
+
+## status-web
+
+- Author: clawhub
+- Description: 小雨 bot 状态监测页面技能包。提供实时监控 OpenClaw Agent 工作状态、定时任务和系统健康状况的 Web 界面。包含静态缓存机制确保快速加载，美化 UI 界面，以及独立部署能力。使用场景：需要监控 AI Agent 运行状态、查看最近工作记录、管理定时任务、检查系统健康状况。
+- GitHub: https://clawhub.ai/skills/status-web
+- Source: clawhub
+
+## Thrd Skill
+
+- Author: clawhub
+- Description: Provision a dedicated inbox for your AI agent and manage email safely via thrd.email. Includes instant onboarding, inbound polling, reply/send (idempotent +...
+- GitHub: https://clawhub.ai/skills/thrd-skill
+- Source: clawhub
+
+## Korean Scraper
+
+- Author: clawhub
+- Description: Korean website specialized scraper with anti-bot protection (Naver, Coupang, Daum, Instagram)
+- GitHub: https://clawhub.ai/skills/korean-scraper
+- Source: clawhub
+
+## Korean Invoice
+
+- Author: clawhub
+- Description: 한국형 견적서/세금계산서 자동 생성 (사업자등록번호, 부가세 자동 계산)
+- GitHub: https://clawhub.ai/skills/korean-invoice
+- Source: clawhub
+
+## Mufi Email Manager
+
+- Author: clawhub
+- Description: 한국형 이메일 통합 관리 도구. Gmail, 네이버, 다음, 카카오 메일을 IMAP/SMTP로 통합 관리. 읽지 않은 메일 요약, 키워드 필터링, 자동 답장, 일일 다이제스트 생성.
+- GitHub: https://clawhub.ai/skills/mufi-email-manager
+- Source: clawhub
+
+## Naver Shopping Plus
+
+- Author: clawhub
+- Description: 한국형 쇼핑 검색 스킬. 네이버 쇼핑 API + 쿠팡/11번가 웹 스크래핑으로 배송비 포함 최저가를 자동 비교합니다.
+- GitHub: https://clawhub.ai/skills/naver-shopping-plus
+- Source: clawhub
+
+## LYNQN
+
+- Author: clawhub
+- Description: Create shareable text snippets, generate QR codes, and shorten URLs using LYNQN from any OpenClaw agent.
+- GitHub: https://clawhub.ai/skills/lynqn-openclaw-skill
+- Source: clawhub
+
+## ShellGames
+
+- Author: clawhub
+- Description: Play board games on ShellGames.ai — Chess, Poker, Ludo, Tycoon, and Spymaster. Use when the agent wants to play games against humans or other AI agents, join...
+- GitHub: https://clawhub.ai/skills/shellgames
+- Source: clawhub
+
+## Snake Rodeo
+
+- Author: clawhub
+- Description: Autoplay daemon for the Trifle Snake Rodeo game. Connects to a live game server, authenticates via wallet, and votes on snake directions using pluggable AI s...
+- GitHub: https://clawhub.ai/skills/snake-rodeo
+- Source: clawhub
+
+## Trifle Auth
+
+- Author: clawhub
+- Description: Authenticate with the Trifle API using Sign-In with Ethereum (SIWE). Manages wallet-based authentication, JWT token storage, and session management for the T...
+- GitHub: https://clawhub.ai/skills/trifle-auth
+- Source: clawhub
+
+## Database Engineering Mastery
+
+- Author: clawhub
+- Description: Database Engineering Mastery covers schema design, indexing, query optimization, and migration for PostgreSQL, MySQL, SQLite, supporting OLTP/OLAP workloads.
+- GitHub: https://clawhub.ai/skills/afrexai-database-engineer
+- Source: clawhub
+
+## Network AI
+
+- Author: clawhub
+- Description: Multi-agent swarm orchestration for complex workflows. Coordinates multiple agents, decomposes tasks, manages shared state via a local blackboard file, and e...
+- GitHub: https://clawhub.ai/skills/network-ai
+- Source: clawhub
+
+## 中文去AI味
+
+- Author: clawhub
+- Description: 将AI生成的机械化文本转换为自然、有人情味的人类写作风格
+- GitHub: https://clawhub.ai/skills/humanize-zh
+- Source: clawhub
+
+## ClawMart Browse
+
+- Author: clawhub
+- Description: Browse and discover AI personas and skills on ClawMart. Use when a user wants to explore, search, or evaluate listings on shopclawmart.com. No account required.
+- GitHub: https://clawhub.ai/skills/clawmart-browse
+- Source: clawhub
+
+## Product Launch System
+
+- Author: clawhub
+- Description: Guide product launches end-to-end: assess readiness, design strategy, build pre-launch buzz, manage launch week, and optimize post-launch growth.
+- GitHub: https://clawhub.ai/skills/afrexai-product-launch
+- Source: clawhub
+
+## Depo Bot
+
+- Author: clawhub
+- Description: Produces structured trial preparation reports from deposition transcripts. Generates a strategic memo, witness analysis, legal research summary, and a Word d...
+- GitHub: https://clawhub.ai/skills/depo-bot
+- Source: clawhub
+
+## CapMetro Skill
+
+- Author: clawhub
+- Description: Austin CapMetro transit - real-time vehicle positions, next arrivals, service alerts, route info, and trip planning for buses and rail (MetroRail, MetroRapid...
+- GitHub: https://clawhub.ai/skills/capmetro-skill
+- Source: clawhub
+
+## Perplexity Web Search
+
+- Author: clawhub
+- Description: Web search and URL fetching via Perplexity Sonar Pro. Use when searching the web, looking up information, fetching URL content, or configuring web search set...
+- GitHub: https://clawhub.ai/skills/perplexity-web-search
+- Source: clawhub
+
+## MoltBook CLI
+
+- Author: clawhub
+- Description: A CLI client for Moltbook, the social network for AI agents. Use this skill to post content, engage with communities (submolts), search information, and mana...
+- GitHub: https://clawhub.ai/skills/moltbook-cli-tool
+- Stars: 1
+- Source: clawhub
+
+## Coda.io
+
+- Author: clawhub
+- Description: Interact with Coda.io docs, tables, rows, pages, and automations via the Coda REST API v1. Use when the user wants to read, write, update, or delete data in...
+- GitHub: https://clawhub.ai/skills/coda-io
+- Source: clawhub
+
+## Task Review Workflow
+
+- Author: clawhub
+- Description: Standard PR review and merge workflow for task-driven development. Use when reviewing a programmer agent PR linked to a task, deciding merge vs change reques...
+- GitHub: https://clawhub.ai/skills/task-review-workflow
+- Source: clawhub
+
+## Profit Margin Analyzer
+
+- Author: clawhub
+- Description: Analyzes profit margins by product/service, benchmarks against 2026 industry data, identifies margin erosion, and recommends pricing and cost optimizations.
+- GitHub: https://clawhub.ai/skills/afrexai-profit-margin
+- Source: clawhub
+
+## ClawMart Creator
+
+- Author: clawhub
+- Description: Create, manage, and publish ClawMart personas and skills directly from OpenClaw chat. Use when creating listings on ClawMart, uploading skill/persona package...
+- GitHub: https://clawhub.ai/skills/clawmart
+- Source: clawhub
+
+## Bunpro
+
+- Author: clawhub
+- Description: Sync Bunpro Japanese grammar learning progress from the API to local storage for analysis and insights. Use when the user wants to backup their Bunpro progre...
+- GitHub: https://clawhub.ai/skills/bunpro-sync
+- Source: clawhub
+
+## Wanikani
+
+- Author: clawhub
+- Description: Sync WaniKani Japanese learning progress data from the API to local storage for analysis and insights. Use when the user wants to backup their WaniKani progr...
+- GitHub: https://clawhub.ai/skills/wanikani-sync
+- Source: clawhub
+
+## Task Development Workflow
+
+- Author: clawhub
+- Description: TDD-first development workflow with structured planning, task tracking, and PR-based code review. Use when building software projects that require clarificat...
+- GitHub: https://clawhub.ai/skills/task-development-workflow
+- Source: clawhub
+
+## Snapbyte Digest API
+
+- Author: clawhub
+- Description: Fetch personalized developer news digests from Snapbyte External API with API-key auth. Use for Hacker News digest, Reddit digest, Lobsters digest, and DEV.t...
+- GitHub: https://clawhub.ai/skills/snapbyte-digest-api
+- Stars: 1
+- Source: clawhub
+
+## Cricket Live
+
+- Author: clawhub
+- Description: Provides real-time live cricket scores, detailed scorecards, upcoming matches, recent results, IPL standings, and match alerts using CricketData.org API.
+- GitHub: https://clawhub.ai/skills/cricket-live
+- Source: clawhub
+
+## Enterprise Risk Management Engine
+
+- Author: clawhub
+- Description: Enterprise Risk Management Engine helps organizations identify, assess, mitigate, and monitor operational, financial, strategic, compliance, cyber, and reput...
+- GitHub: https://clawhub.ai/skills/afrexai-risk-management
+- Source: clawhub
+
+## Stakeholder Management
+
+- Author: clawhub
+- Description: Expert in identifying, analyzing, and engaging stakeholders to align interests, reduce resistance, and ensure successful project outcomes.
+- GitHub: https://clawhub.ai/skills/afrexai-stakeholder-management
+- Source: clawhub
+
+## Email Marketing Engine
+
+- Author: clawhub
+- Description: Complete email marketing system — deliverability, list building, sequences, cold outreach, automation, analytics, and revenue optimization. Zero dependencies.
+- GitHub: https://clawhub.ai/skills/afrexai-email-marketing-engine
 - Source: clawhub
