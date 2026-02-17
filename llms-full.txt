@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9153 skills | Last updated: 2026-02-17
+> Total: 9186 skills | Last updated: 2026-02-17
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -65013,4 +65013,238 @@ parallelisms, and excessive conjunctive phrases.
 - Author: JK-0001
 - Description: Set and track goals for a solopreneur business using OKRs (Objectives and Key Results) and related frameworks. Use when defining business goals, creating qua...
 - GitHub: https://clawhub.ai/JK-0001/goal-setting-okrs
+- Source: clawhub
+
+## agent-bridge
+
+- Author: AustinEral
+- Description: DID-based discovery and message relay for AI agents
+- GitHub: https://github.com/AustinEral/agent-reach
+- Source: github
+
+## sentry
+
+- Author: sergical
+- Description: Sentry observability skill for OpenClaw — setup guide and investigation workflows
+- GitHub: https://github.com/sergical/openclaw-skill-sentry
+- Source: github
+
+## OpenGFX
+
+- Author: aklo360
+- Description: AI brand design system — generates complete logo systems, style guides, and social assets in minutes.
+- GitHub: https://clawhub.ai/aklo360/opengfx
+- Stars: 1
+- Source: clawhub
+
+## Yfinance
+
+- Author: rizkydwicmt
+- Description: Access Yahoo Finance data — stock prices, history, financials, options, dividends, news, and market screeners
+- GitHub: https://clawhub.ai/rizkydwicmt/yfinance-mcp-server
+- Stars: 1
+- Source: clawhub
+
+## PARA + Proactive Agent Workspace
+
+- Author: Cocoblood9527
+- Description: A complete workspace template combining PARA Method (Projects, Areas, Resources, Archives) with Proactive Agent Architecture for organized content management...
+- GitHub: https://clawhub.ai/Cocoblood9527/para-proactive-workspace
+- Source: clawhub
+
+## Enterprise Legal Guardrails
+
+- Author: lawyered0
+- Description: Legal/compliance guardrails for outbound OpenClaw actions (anti-spam, defamation, privacy, financial claims).
+- GitHub: https://clawhub.ai/lawyered0/enterprise-legal-guardrails
+- Stars: 1
+- Source: clawhub
+
+## Multi Agent Sync
+
+- Author: cecwxf
+- Description: Coordinate multi-agent tasks with visible group updates. Use when delegating work across multiple topic agents and the user needs transparent progress in-gro...
+- GitHub: https://clawhub.ai/cecwxf/multi-agent-sync
+- Source: clawhub
+
+## meegle-api-skill
+
+- Author: clawhub
+- Description: Meegle Open API skills (index). Read the specific skill for your need. Order: Users, Space, Work Items, Setting, Comments, Views & Measurement.
+- GitHub: https://clawhub.ai/skills/meegle-api-skill
+- Source: clawhub
+
+## x402 Private Web Tools
+
+- Author: clawhub
+- Description: Private web tools for AI agents — search, scrape, and screenshot the web with x402 micropayments (USDC on Base). Zero logging, no API keys, no accounts. Pay...
+- GitHub: https://clawhub.ai/skills/x402-private-web-tools
+- Source: clawhub
+
+## agentbook
+
+- Author: clawhub
+- Description: Send and receive encrypted messages on the agentbook network. Use when interacting with agentbook — reading inbox, sending DMs, posting to feed, managing fol...
+- GitHub: https://clawhub.ai/skills/agentbook
+- Source: clawhub
+
+## clawvival-survival
+
+- Author: clawhub
+- Description: Register and authenticate as an agent to observe, act, and maintain a long-term survival loop in Clawvival's Forgotten Expanse game world.
+- GitHub: https://clawhub.ai/skills/clawvival-survival
+- Source: clawhub
+
+## NeuralEntropy
+
+- Author: clawhub
+- Description: Simulates and decodes neural spike activity into cursor movement (BCI).
+- GitHub: https://clawhub.ai/skills/neuralink-decoder
+- Source: clawhub
+
+## PolaBea
+
+- Author: clawhub
+- Description: Full Self-Driving agent with highest safety standards (Camera-Only, Redundant Checks).
+- GitHub: https://clawhub.ai/skills/fsd-secure-skill
+- Source: clawhub
+
+## Frappe MCP
+
+- Author: clawhub
+- Description: Pre-defined business workflows combining multiple MCP tools for CRM, sales, purchase, inventory, project, payments, and utility tasks in ERPNext.
+- GitHub: https://clawhub.ai/skills/erpnext-frappe
+- Source: clawhub
+
+## Admet Prediction
+
+- Author: clawhub
+- Description: ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction for drug candidates. Use for assessing drug-likeness, PK properties, and safety...
+- GitHub: https://clawhub.ai/skills/admet-prediction
+- Source: clawhub
+
+## Polymarket Elon Tweet Trader
+
+- Author: clawhub
+- Description: Trade Polymarket "Elon Musk
+- GitHub: https://clawhub.ai/skills/polymarket-elon-tweets
+- Source: clawhub
+
+## IDX CMA Report
+
+- Author: danielfoch
+- Description: Generate comparative market analysis (CMA) and home valuation reports from IDX listing data and selected comparable properties. Use when a user wants to pick...
+- GitHub: https://clawhub.ai/danielfoch/idx-cma-report
+- Source: clawhub
+
+## Lily Memory Plugin
+
+- Author: kevinodell
+- Description: Persistent memory plugin for OpenClaw agents. Hybrid SQLite FTS5 keyword + Ollama vector semantic search with auto-capture, auto-recall, stuck-detection, and...
+- GitHub: https://clawhub.ai/kevinodell/lily-memory-plugin
+- Source: clawhub
+
+## Itinerary Carousel Post Topaz
+
+- Author: psyduckler
+- Description: Create and publish an Instagram carousel post from a tabiji.ai itinerary, with Topaz Labs AI image enhancement. Same as itinerary-carousel-post but adds a To...
+- GitHub: https://clawhub.ai/psyduckler/itinerary-carousel-post-topaz
+- Source: clawhub
+
+## clawverse survival
+
+- Author: yrpang
+- Description: Autonomously manage agent survival in Clawverse's Forgotten Expanse by observing state, choosing actions, and maintaining HP above zero while building a sett...
+- GitHub: https://clawhub.ai/yrpang/skill-survival
+- Source: clawhub
+
+## Claude Skill 翻译器
+
+- Author: guohongbin-git
+- Description: 自动将 Claude Skills 翻译成 OpenClaw 格式并发布到 ClawHub。触发词：翻译 skill、Claude skill 转换、导入 Claude skill、skill 翻译器。支持：从 GitHub 仓库获取、格式转换、中文本地化、批量发布。
+- GitHub: https://clawhub.ai/guohongbin-git/claude-to-openclaw
+- Source: clawhub
+
+## Sentry Observability
+
+- Author: sergical
+- Description: Set up Sentry observability for OpenClaw (install plugin, configure DSN, investigate issues with Sentry CLI). Use when setting up error tracking, traces, or...
+- GitHub: https://clawhub.ai/sergical/sentry-observability
+- Source: clawhub
+
+## DJ set ripper
+
+- Author: Robinnnnn
+- Description: Download individual songs from a DJ set or mix. Given a link from YouTube, SoundCloud, Mixcloud, or 1001Tracklists, extract the tracklist from the page descr...
+- GitHub: https://clawhub.ai/Robinnnnn/dj-set-ripper
+- Source: clawhub
+
+## Crypto Arbitrage CN
+
+- Author: guohongbin-git
+- Description: Cryptocurrency arbitrage monitor for Chinese-accessible exchanges (Binance, OKX, Gate.io, Huobi). Monitors real-time price differences across exchanges, calc...
+- GitHub: https://clawhub.ai/guohongbin-git/crypto-arb-cn
+- Source: clawhub
+
+## MegaSquirt Tuner
+
+- Author: boblobclaw
+- Description: Megasquirt ECU tuning and calibration via TunerStudio, covering VE table, ignition timing, AFR targets, sensor calibration, accel enrichment, boost, launch c...
+- GitHub: https://clawhub.ai/boblobclaw/megasquirt-tuner
+- Source: clawhub
+
+## OpenAI Codex Operator
+
+- Author: cecwxf
+- Description: Run OpenAI Codex CLI from OpenClaw for coding tasks in a target project directory. Use when the user asks OpenClaw to use Codex for implementation, debugging...
+- GitHub: https://clawhub.ai/cecwxf/openai-codex-operator
+- Source: clawhub
+
+## Itinerary Carousel Post
+
+- Author: psyduckler
+- Description: Create and publish an Instagram carousel post from a tabiji.ai itinerary. Given an itinerary URL, finds Instagram-worthy photos for the destination + top att...
+- GitHub: https://clawhub.ai/psyduckler/itinerary-carousel-post
+- Source: clawhub
+
+## Instagram Photo Text Overlay
+
+- Author: psyduckler
+- Description: Overlay text on photos for Instagram posts. Generates portrait (4:5) images with gradient overlays, titles, and optional numbered lists. Use when creating In...
+- GitHub: https://clawhub.ai/psyduckler/instagram-photo-text-overlay
+- Source: clawhub
+
+## Fireflies AI
+
+- Author: aiwithabidi
+- Description: Fireflies.ai meeting intelligence — search meetings, get transcripts, action items, summaries, attendee info, and contacts via GraphQL API. No data storage;...
+- GitHub: https://clawhub.ai/aiwithabidi/fireflies-ai
+- Source: clawhub
+
+## v2ex
+
+- Author: timqian
+- Description: V2EX API 2.0 integration for accessing V2EX forum data, notifications, topics, nodes, and member profiles
+- GitHub: https://clawhub.ai/timqian/v2ex
+- Source: clawhub
+
+## Postqued API
+
+- Author: syeddhasnainn
+- Description: PostQued social media scheduling API integration. Use when performing API calls to PostQued for content upload, publishing to TikTok (and other platforms), m...
+- GitHub: https://clawhub.ai/syeddhasnainn/postqued-api
+- Source: clawhub
+
+## Reddit Quote Carousel Topaz
+
+- Author: psyduckler
+- Description: Create an Instagram carousel from a popular-picks list with Reddit quotes + Topaz 2x upscaling. Cover = "clean" style ("Top CATEGORY in Destination"), attrac...
+- GitHub: https://clawhub.ai/psyduckler/reddit-quote-topaz
+- Source: clawhub
+
+## Reddit Quote Carousel
+
+- Author: psyduckler
+- Description: Create an Instagram carousel from a popular-picks list with Reddit quotes. Cover slide uses "clean" style with "Top CATEGORY in Destination" title. Each attr...
+- GitHub: https://clawhub.ai/psyduckler/reddit-quote-carousel
 - Source: clawhub
