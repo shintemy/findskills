@@ -180,3 +180,71 @@
 **涉及文件：** `scripts/collect.js`、`scripts/generate.js`、`scripts/__tests__/collect.test.js`
 
 ---
+
+### 14. Like / Dislike 投票系统（Phase 3）
+
+**修改内容：**
+- 新增 `api/vote.js`：POST 端点，接收 `{ skillId, action }` 提交投票，IP 防刷（同一 IP + skill 24 小时内只能投一次），使用 Redis `HINCRBY` 原子递增
+- 新增 `api/votes.js`：GET 端点，使用 Redis `SCAN` + pipeline 批量读取所有投票数据，30 秒 CDN 缓存
+- 卡片新增 thumbs-up / thumbs-down 按钮 + 计数，支持乐观更新（点击立即更新 UI，异步提交后端）
+- localStorage 记录已投票状态，灰掉已投过的按钮
+- 排序新增 **"Most Liked"** 选项（按 likes - dislikes 降序）
+- `vercel.json` 新增 `/api/*` CORS headers
+- 使用 `@upstash/redis` 连接 Vercel Marketplace 的 Upstash Redis
+
+**涉及文件：** `api/vote.js`（新增）、`api/votes.js`（新增）、`index.html`（HTML、CSS、JS）、`vercel.json`、`package.json`
+
+---
+
+### 15. ClawHub 卡片链接文案区分
+
+**修改内容：**
+- 来源为 ClawHub 的 skill 卡片底部链接显示 "View on ClawHub"（附 ClawHub 图标），其他来源显示 "View on GitHub"（附 GitHub 图标）
+
+**涉及文件：** `index.html`（JS 部分）
+
+---
+
+### 16. 隐藏 Manual 来源的 Skills
+
+**修改内容：**
+- 前端加载 `skills.json` 后过滤掉 `source === 'manual'` 的 skills，不在页面展示
+
+**涉及文件：** `index.html`（JS 部分）
+
+---
+
+### 17. ClawHub 采集作者信息
+
+**修改内容：**
+- 采集阶段新增 Phase 2：对每个 ClawHub skill 调用详情 API（`/api/v1/skills/{slug}`）获取 `owner.handle`
+- 卡片显示真实作者名（如 `stugreen13`）而非通用的 `clawhub`
+- 链接 URL 使用正确格式：`clawhub.ai/{owner}/{slug}`（如 `clawhub.ai/stugreen13/moltcorp`）
+- 无 owner 信息时 fallback 为 `clawhub` 和 `/skills/{slug}` 格式
+
+**涉及文件：** `scripts/collect.js`、`scripts/__tests__/collect.test.js`
+
+---
+
+### 18. 来源筛选功能
+
+**修改内容：**
+- 工具栏左侧新增 Source 下拉框（All Sources / Clawhub / Github），筛选对应来源的 skills
+- 筛选后 stats 文本动态更新为 "X Skills from github (reset)"，点击 `(reset)` 可清除筛选
+- 来源筛选与搜索、排序完全联动
+- 修复 sources 计数 bug：从实际展示的 skills 中动态提取来源列表，不再包含已隐藏的 `manual`
+
+**涉及文件：** `index.html`（HTML、CSS、JS）
+
+---
+
+### 19. 工具栏悬浮吸顶
+
+**修改内容：**
+- 工具栏（source 筛选 + sort 排序）使用 `position: sticky` 固定在页面顶部，滚动时始终可见
+- 当 sticky-nav（顶部导航条）出现时，工具栏自动下移 56px 避免重叠
+- 布局调整：左侧为 stats + source 下拉，右侧为 Sort by 下拉，中间弹性间隔
+
+**涉及文件：** `index.html`（HTML、CSS、JS）
+
+---
