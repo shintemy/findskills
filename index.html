@@ -839,6 +839,11 @@
         return 'manual';
       }
 
+      var SOURCE_DISPLAY = { clawhub: 'ClawHub', github: 'GitHub', manual: 'Manual' };
+      function sourceDisplayName(source) {
+        return SOURCE_DISPLAY[source] || source;
+      }
+
       function renderCard(skill) {
         var tagsHtml = (skill.tags || [])
           .map(function (t) { return '<span class="tag">' + escapeHtml(t) + '</span>'; })
@@ -877,7 +882,7 @@
           '<article class="skill-card">' +
             '<div class="card-header">' +
               '<span class="card-name" title="' + escapeHtml(skill.name) + '">' + escapeHtml(skill.name) + '</span>' +
-              '<span class="source-badge ' + badgeClass(skill.source) + '">' + escapeHtml(skill.source) + '</span>' +
+              '<span class="source-badge ' + badgeClass(skill.source) + '">' + escapeHtml(sourceDisplayName(skill.source)) + '</span>' +
             '</div>' +
             '<p class="card-description">' + escapeHtml(skill.description) + '</p>' +
             '<p class="card-author">by <span>' + escapeHtml(skill.author) + '</span></p>' +
@@ -906,7 +911,7 @@
       function updateStats() {
         if (currentSource !== 'all') {
           var count = allSkills.filter(function (s) { return s.source === currentSource; }).length;
-          statsEl.innerHTML = count + ' Skills from ' + escapeHtml(currentSource) + ' <button type="button" class="stats-reset" id="stats-reset">(reset)</button>';
+          statsEl.innerHTML = count + ' Skills from ' + escapeHtml(sourceDisplayName(currentSource)) + ' <button type="button" class="stats-reset" id="stats-reset">(reset)</button>';
           var resetBtn = document.getElementById('stats-reset');
           if (resetBtn) {
             resetBtn.addEventListener('click', function () {
@@ -1180,7 +1185,7 @@
             for (var j = 0; j < sources.length; j++) {
               var opt = document.createElement('option');
               opt.value = sources[j];
-              opt.textContent = sources[j].charAt(0).toUpperCase() + sources[j].slice(1);
+              opt.textContent = sourceDisplayName(sources[j]);
               sourceSelectEl.appendChild(opt);
             }
 
