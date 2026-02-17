@@ -158,7 +158,6 @@
       color: var(--text-tertiary);
       font-size: var(--text-body-sm);
       line-height: var(--text-body-sm-lh);
-      margin-right: auto;
     }
 
     /* Search trigger — design-system iconOnly */
@@ -542,47 +541,21 @@
     .source-select:hover { border-color: var(--brand); }
     .source-select:focus { box-shadow: var(--shadow-focus-brand); }
 
-    /* Active source filter indicator */
-    .source-status {
-      display: none;
-      align-items: center;
-      gap: var(--space-1);
-      margin-bottom: var(--space-3);
-      padding: var(--space-1-5) var(--space-2);
-      background: rgba(37, 99, 235, 0.06);
-      border: 1px solid var(--semantic-info);
-      border-radius: var(--radius-md);
-      font-size: var(--text-body-sm);
-      line-height: var(--text-body-sm-lh);
-      color: var(--text-secondary);
-    }
-
-    .source-status.is-active { display: flex; }
-
-    .source-status .source-name {
-      font-weight: 600;
-      color: var(--semantic-info);
-    }
-
-    .source-status .source-clear {
-      margin-left: auto;
-      padding: 2px 10px;
-      background: transparent;
-      border: 1px solid var(--semantic-info);
-      border-radius: var(--radius-sm);
-      color: var(--semantic-info);
-      font-size: var(--text-caption);
+    .stats-reset {
+      color: var(--brand);
       font-weight: 500;
-      font-family: var(--font-sans);
       cursor: pointer;
-      transition: background-color var(--duration-fast) var(--ease-standard),
-                  color var(--duration-fast) var(--ease-standard);
+      border: none;
+      background: none;
+      font-size: inherit;
+      font-family: inherit;
+      padding: 0;
+      transition: color var(--duration-fast) var(--ease-standard);
     }
 
-    .source-status .source-clear:hover {
-      background: var(--semantic-info);
-      color: #fff;
-    }
+    .stats-reset:hover { color: var(--brand-hover); text-decoration: underline; }
+
+    .toolbar-spacer { flex: 1; }
 
     .sort-label {
       font-size: var(--text-body-sm);
@@ -799,10 +772,10 @@
   <main class="main">
     <div class="toolbar" id="toolbar">
       <p class="stats" id="stats">Loading skills...</p>
-      <span class="sort-label">Source</span>
       <select class="source-select" id="source-select" aria-label="Filter by source">
-        <option value="all">All</option>
+        <option value="all">All Sources</option>
       </select>
+      <span class="toolbar-spacer"></span>
       <span class="sort-label">Sort by</span>
       <select class="sort-select" id="sort-select" aria-label="Sort skills">
         <option value="updated">Recently Updated</option>
@@ -811,10 +784,6 @@
         <option value="liked">Most Liked</option>
         <option value="name">Name A–Z</option>
       </select>
-    </div>
-    <div class="source-status" id="source-status">
-      <span>Filtered by source: <span class="source-name" id="source-name-display"></span></span>
-      <button type="button" class="source-clear" id="source-clear">Clear</button>
     </div>
     <div class="search-status" id="search-status">
       <span>Showing results for <span class="search-term" id="search-term-display"></span></span>
@@ -857,9 +826,6 @@
       var searchClearBtn = document.getElementById('search-clear');
       var sortSelectEl = document.getElementById('sort-select');
       var sourceSelectEl = document.getElementById('source-select');
-      var sourceStatusEl = document.getElementById('source-status');
-      var sourceNameDisplay = document.getElementById('source-name-display');
-      var sourceClearBtn = document.getElementById('source-clear');
 
       function escapeHtml(str) {
         var div = document.createElement('div');
@@ -938,15 +904,21 @@
       }
 
       function updateStats() {
-        var uniqueSources = [];
-        var seen = {};
-        for (var i = 0; i < sources.length; i++) {
-          if (!seen[sources[i]]) {
-            seen[sources[i]] = true;
-            uniqueSources.push(sources[i]);
+        if (currentSource !== 'all') {
+          var count = allSkills.filter(function (s) { return s.source === currentSource; }).length;
+          statsEl.innerHTML = count + ' Skills from ' + escapeHtml(currentSource) + ' <button type="button" class="stats-reset" id="stats-reset">(reset)</button>';
+          var resetBtn = document.getElementById('stats-reset');
+          if (resetBtn) {
+            resetBtn.addEventListener('click', function () {
+              currentSource = 'all';
+              sourceSelectEl.value = 'all';
+              updateStats();
+              applyFilterAndSort();
+            });
           }
+        } else {
+          statsEl.textContent = totalCount + ' Skills from ' + sources.length + ' source' + (sources.length !== 1 ? 's' : '');
         }
-        statsEl.textContent = totalCount + ' Skills from ' + uniqueSources.length + ' source' + (uniqueSources.length !== 1 ? 's' : '');
       }
 
       function sortSkills(skills, sortBy) {
@@ -982,10 +954,6 @@
         // Source filter
         if (currentSource !== 'all') {
           skills = skills.filter(function (s) { return s.source === currentSource; });
-          sourceNameDisplay.textContent = currentSource;
-          sourceStatusEl.classList.add('is-active');
-        } else {
-          sourceStatusEl.classList.remove('is-active');
         }
 
         // Search filter
@@ -1034,12 +1002,7 @@
 
       sourceSelectEl.addEventListener('change', function () {
         currentSource = sourceSelectEl.value;
-        applyFilterAndSort();
-      });
-
-      sourceClearBtn.addEventListener('click', function () {
-        currentSource = 'all';
-        sourceSelectEl.value = 'all';
+        updateStats();
         applyFilterAndSort();
       });
 
