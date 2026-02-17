@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9244 skills | Last updated: 2026-02-17
+> Total: 9326 skills | Last updated: 2026-02-17
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -65660,4 +65660,580 @@ parallelisms, and excessive conjunctive phrases.
 - Author: jrojas537
 - Description: A CLI to check soccer scores, game details, and player stats from your terminal.
 - GitHub: https://clawhub.ai/jrojas537/soccer-cli
+- Source: clawhub
+
+## Webhook Promo Scheduler
+
+- Author: marcia-assistant
+- Description: Schedule and send promo/alert messages to a Discord webhook URL with an anti-spam ledger.
+- GitHub: https://clawhub.ai/marcia-assistant/webhook-promo-scheduler
+- Source: clawhub
+
+## Github MergeGuard AI
+
+- Author: nerdvana-labs
+- Description: Analyze GitHub pull requests for security risks and determine if a PR is safe to merge.
+- GitHub: https://clawhub.ai/nerdvana-labs/pr-risk-analyzer
+- Source: clawhub
+
+## student-timetable
+
+- Author: extraterrest
+- Description: Student timetable manager for self or parent-managed child profiles. Includes init flow + profile registry under schedules/profiles/.
+- GitHub: https://clawhub.ai/extraterrest/student-timetable
+- Source: clawhub
+
+## Skillstore
+
+- Author: chris6970barbarian-hue
+- Description: Search, install, and create OpenClaw skills using intelligent matching across built-in, local, and GitHub skill repositories.
+- GitHub: https://clawhub.ai/chris6970barbarian-hue/skillstore
+- Source: clawhub
+
+## Autogame Tales
+
+- Author: autogame-17
+- Description: Generates eerie micro-fiction ghost stories or sci-fi tales using random prompts, delivering them as formatted Feishu cards.
+- GitHub: https://clawhub.ai/autogame-17/autogame-tales
+- Source: clawhub
+
+## Magic Podcast
+
+- Author: mogens9
+- Description: PDF to podcast and text to podcast in a natural two-person format with MagicPodcast.
+- GitHub: https://clawhub.ai/mogens9/ai-podcast
+- Source: clawhub
+
+## Video Analyzer (TikTok + YouTube + Instagram)
+
+- Author: holl4ndtv
+- Description: Analyze videos from TikTok, YouTube, Instagram, Twitter, and others by URL, transcribing audio locally and answering questions about the content.
+- GitHub: https://clawhub.ai/holl4ndtv/tiktok-video-analyzer
+- Source: clawhub
+
+## GoalGetter
+
+- Author: Steffano198
+- Description: Tasks and goals management via simple markdown files. Create, track, and complete tasks and goals with streak tracking. Stores data in ~/.openclaw/goalgetter...
+- GitHub: https://clawhub.ai/Steffano198/goalgetter
+- Source: clawhub
+
+## Market Analysis CN | 市场分析服务
+
+- Author: guohongbin-git
+- Description: 市场分析服务 | Market Analysis Service. 企业市场趋势分析 | Enterprise market trend analysis. 竞品分析 | Competitor analysis. 用户行为洞察 | User behavior insights. 触发词：市场分析、竞品分析、mar...
+- GitHub: https://clawhub.ai/guohongbin-git/market-analysis-cn
+- Source: clawhub
+
+## Feishu Docs
+
+- Author: upupc
+- Description: 飞书文档管理工具，支持读取、创建、更新、删除飞书文档，导入本地文件为飞书文档，以及列出文件夹内容。用于在 Claude Code 中管理飞书云文档。
+- GitHub: https://clawhub.ai/upupc/feishu-docs-v2
+- Source: clawhub
+
+## Visual Prompt Engine
+
+- Author: Abdullah4AI
+- Description: Generate diverse, non-repetitive image prompts powered by real visual references from Dribbble and design platforms. USE WHEN: user wants an image prompt, ne...
+- GitHub: https://clawhub.ai/Abdullah4AI/visual-prompt-engine
+- Source: clawhub
+
+## landing-page-roast
+
+- Author: xammarie
+- Description: Audit a landing page for clarity, trust, offer strength, and conversion friction; return prioritized fixes and copy rewrites.
+- GitHub: https://clawhub.ai/xammarie/landing-page-roast
+- Source: clawhub
+
+## comment-converter
+
+- Author: xammarie
+- Description: Turn Reddit thread context into genuinely helpful comments that build trust and can convert to profile/link clicks.
+- GitHub: https://clawhub.ai/xammarie/comment-converter
+- Source: clawhub
+
+## reddit-post-lab
+
+- Author: xammarie
+- Description: Create high-value, subreddit-native Reddit posts with hooks, practical payload, and low-friction CTAs.
+- GitHub: https://clawhub.ai/xammarie/reddit-post-lab
+- Source: clawhub
+
+## UA1 Validator Agent
+
+- Author: hajekt2
+- Description: Validate PDFs against PDF/UA-1 using ua1.dev or api.ua1.dev from AI coding agents (OpenClaw, Claude Code, Codex, OpenCode). Use when an agent needs determini...
+- GitHub: https://clawhub.ai/hajekt2/ua1-validator-agent
+- Source: clawhub
+
+## Publer
+
+- Author: imamark
+- Description: Post content to social media via the Publer API. Use when scheduling or publishing posts to TikTok (carousels, videos), Instagram, Facebook, Twitter/X, or an...
+- GitHub: https://clawhub.ai/imamark/publer
+- Source: clawhub
+
+## Nest SDM
+
+- Author: tag-assistant
+- Description: Control Nest thermostat, doorbell, and cameras via the Google Smart Device Management (SDM) API.
+- GitHub: https://clawhub.ai/tag-assistant/nest-sdm
+- Source: clawhub
+
+## Ironclaw Pipeline Analytics
+
+- Author: aspenas
+- Description: Generate interactive analytics dashboards from CRM data. Use when asked to "show pipeline stats", "create a report", "analyze leads", "show conversion rates"...
+- GitHub: https://clawhub.ai/aspenas/ironclaw-pipeline-analytics
+- Source: clawhub
+
+## Golf Tee Times
+
+- Author: tag-assistant
+- Description: Search for golf tee times and deals near any location. Find cheapest rounds, compare prices across platforms, and get discount tips. Use when asked about gol...
+- GitHub: https://clawhub.ai/tag-assistant/golf-tee-times
+- Source: clawhub
+
+## Kkclaw Server
+
+- Author: chris6970barbarian-hue
+- Description: Headless OpenClaw client for Ubuntu/Raspbian with heartbeat, auto-reconnect, auto-recovery, queue management, and hot model switching.
+- GitHub: https://clawhub.ai/chris6970barbarian-hue/glitch-kkclaw-server
+- Source: clawhub
+
+## Skillstore
+
+- Author: chris6970barbarian-hue
+- Description: Search, install, and create OpenClaw skills with intelligent matching across known, local, and GitHub repositories.
+- GitHub: https://clawhub.ai/chris6970barbarian-hue/glitch-skillstore
+- Source: clawhub
+
+## OpenClaw Docs
+
+- Author: douglas-ou
+- Description: Complete OpenClaw documentation reference. Use when you need information about OpenClaw configuration, CLI commands, channel setup, tools, concepts, or any O...
+- GitHub: https://clawhub.ai/douglas-ou/openclaw-docs
+- Source: clawhub
+
+## Vector Skill
+
+- Author: jvsteiner
+- Description: Search and trade on the UniMarket P2P marketplace. Post buy/sell intents, discover what other agents are offering, and negotiate deals via Nostr.
+- GitHub: https://clawhub.ai/jvsteiner/vector-skill
+- Source: clawhub
+
+## ClawKeeper v2
+
+- Author: clawhub
+- Description: Tasks and habits management via simple markdown files. Create, track, and complete tasks and habits. Stores data in CLAWKEEPER_DIR (default: ~/.openclaw/claw...
+- GitHub: https://clawhub.ai/skills/clawkeeper-v2
+- Source: clawhub
+
+## SkillGuard - Agent Skill Security Auditor
+
+- Author: Jonathanliu811026
+- Description: Audit agent skills for security threats before installing them. Use AUTOMATICALLY when about to install any skill (clawhub install, skill installation), when...
+- GitHub: https://clawhub.ai/Jonathanliu811026/skillguard-audit
+- Source: clawhub
+
+## 小红书长文发布
+
+- Author: enjoytdl
+- Description: 小红书长文发布。用于在网页版小红书创作服务平台发布长文笔记。当用户说"发小红书"、"发小红书长文"、"写一篇小红书"时使用此技能。
+- GitHub: https://clawhub.ai/enjoytdl/xiaohongshu-publish
+- Source: clawhub
+
+## Subfeed
+
+- Author: Subfeed-AI
+- Description: Register yourself on Subfeed, create an AI entity, and onboard your human. Entities support RAG, web search, code execution, MCP tools, and webhooks.
+- GitHub: https://clawhub.ai/Subfeed-AI/subfeed
+- Source: clawhub
+
+## MindGardener
+
+- Author: widingmarcus-cyber
+- Description: Local-first long-term memory for autonomous agents. Extracts entities from daily logs into a wiki-style knowledge graph, scores events by surprise (predictio...
+- GitHub: https://clawhub.ai/widingmarcus-cyber/mindgardener
+- Stars: 1
+- Source: clawhub
+
+## Uniclaw Skill
+
+- Author: jvsteiner
+- Description: Trade on UniClaw prediction markets. Browse markets, place orders, and manage positions with UCT tokens on the Unicity network.
+- GitHub: https://clawhub.ai/jvsteiner/uniclaw-skill
+- Source: clawhub
+
+## Read Optimizer
+
+- Author: autogame-17
+- Description: Optimizes file reading by smartly extracting head/tail lines, matching patterns, or showing git diffs to minimize token use and latency.
+- GitHub: https://clawhub.ai/autogame-17/read-optimizer
+- Source: clawhub
+
+## LLM Council Router
+
+- Author: ashtiwariasu
+- Description: Route any prompt to the best-performing LLM using peer-reviewed council rankings from LLM Council
+- GitHub: https://clawhub.ai/ashtiwariasu/llmcouncil-router
+- Source: clawhub
+
+## Config Validator
+
+- Author: autogame-17
+- Description: Validates OpenClaw configuration files and environment variables, checks dependencies, reports issues, and optionally fixes basic problems with a --fix flag.
+- GitHub: https://clawhub.ai/autogame-17/config-validator
+- Source: clawhub
+
+## minimax-web-search
+
+- Author: Thincher
+- Description: 使用 MiniMax MCP 进行网络搜索。触发条件：(1) 用户要求进行网络搜索、在线搜索、查找信息 (2) 需要查询最新资讯、新闻、资料 (3) 使用 MiniMax 的 web_search 功能
+- GitHub: https://clawhub.ai/Thincher/minimax-web-search
+- Source: clawhub
+
+## Openclaw Migrate
+
+- Author: chris6970barbarian-hue
+- Description: Migrate OpenClaw configs, skills, memory, tokens, environment variables, and cron jobs to a new host via SSH with setup, test, and migrate commands.
+- GitHub: https://clawhub.ai/chris6970barbarian-hue/openclaw-migrate
+- Source: clawhub
+
+## Checksum
+
+- Author: autogame-17
+- Description: A CLI utility for generating and verifying cryptographic file checksums (MD5, SHA1, SHA256). Supports recursive directory hashing and verification from file.
+- GitHub: https://clawhub.ai/autogame-17/checksum
+- Source: clawhub
+
+## Auto Test Generator
+
+- Author: autogame-17
+- Description: Automatically create and run basic unit/integration tests for OpenClaw skills to ensure code quality and prevent regressions.
+- GitHub: https://clawhub.ai/autogame-17/auto-test-generator
+- Source: clawhub
+
+## Clawditor
+
+- Author: Theylon
+- Description: Audit an OpenClaw agent workspace and generate standardized evaluation reports, scores, and patches. Use when asked to review memory quality, retrieval effic...
+- GitHub: https://clawhub.ai/Theylon/clawditor
+- Source: clawhub
+
+## Construction Estimator Pro
+
+- Author: 1kalin
+- Description: Complete construction estimating and cost management system. Use when preparing project estimates, bid proposals, cost breakdowns, value engineering, change...
+- GitHub: https://clawhub.ai/1kalin/afrexai-construction-estimator
+- Source: clawhub
+
+## Telegram History
+
+- Author: rhlsthrm
+- Description: Fetch Telegram chat message history via MTProto user API (Telethon). Use when needing to read old messages from any Telegram chat, group, or forum topic that...
+- GitHub: https://clawhub.ai/rhlsthrm/telegram-history
+- Source: clawhub
+
+## sensorpro.app
+
+- Author: forcequit
+- Description: Manage your Sensorpro email marketing account in OpenClaw.
+- GitHub: https://clawhub.ai/forcequit/sensorpro
+- Source: clawhub
+
+## WoW Lookup
+
+- Author: tag-assistant
+- Description: Look up World of Warcraft characters — M+ scores, best runs, raid progression, gear, and more. Uses Raider.io (free), with optional Blizzard API and Warcraft...
+- GitHub: https://clawhub.ai/tag-assistant/wow
+- Source: clawhub
+
+## Botcoin
+
+- Author: nnyyyyaaa-bit
+- Description: A puzzle game for AI agents. Register, solve investigative research puzzles to earn coins, trade shares, and withdraw $BOTFARM tokens on Base.
+- GitHub: https://clawhub.ai/nnyyyyaaa-bit/botcoin-by-nnyyyyaaa-bit
+- Source: clawhub
+
+## nihao
+
+- Author: dergigi
+- Description: Set up and verify Nostr identities using the nihao CLI. Use when creating new Nostr keypairs/profiles, auditing existing npub health, or helping users get st...
+- GitHub: https://clawhub.ai/dergigi/nihao
+- Source: clawhub
+
+## Merge Check
+
+- Author: tag-assistant
+- Description: Analyze a GitHub pull request for mergeability — predict whether it will get merged based on technical, architectural, process, social, and compliance factor...
+- GitHub: https://clawhub.ai/tag-assistant/merge-check
+- Source: clawhub
+
+## People Investigation
+
+- Author: tag-assistant
+- Description: Personal investigator / people lookup skill. Deep background research on any person using public records, court documents, property records, social media, co...
+- GitHub: https://clawhub.ai/tag-assistant/pi
+- Source: clawhub
+
+## Quote Generator
+
+- Author: autogame-17
+- Description: Generates inspirational or technical quotes for inclusion in responses, reports, or logs to add personality and reduce monotony.
+- GitHub: https://clawhub.ai/autogame-17/quote-generator
+- Source: clawhub
+
+## govee-control
+
+- Author: Cole-Z
+- Description: Script-free Govee OpenAPI setup and control guide. Use when the user wants to get a Govee API key, connect Govee, list devices, check state, or send power/br...
+- GitHub: https://clawhub.ai/Cole-Z/govee-control
+- Source: clawhub
+
+## Ofd Reader skill
+
+- Author: zhanjian1972
+- Description: OFD 文档读取和转换工具。支持从 OFD（Open Fixed-layout Document）文件中提取文本内容，并将其转换为 Markdown 格式。使用此 skill 处理 .ofd 文档时：提取纯文本内容、转换为包含基本格式（标题、段落、表格）的 Markdown、处理中文版式文档。OFD 是中国国家标...
+- GitHub: https://clawhub.ai/zhanjian1972/ofdreader
+- Source: clawhub
+
+## Ironclaw Outreach Sequencer
+
+- Author: aspenas
+- Description: Create and manage multi-step outreach sequences — LinkedIn messages, cold emails, and follow-ups with personalization. Use when asked to "send outreach", "cr...
+- GitHub: https://clawhub.ai/aspenas/ironclaw-outreach-sequencer
+- Source: clawhub
+
+## Godot Dev Guide
+
+- Author: IsonaEi
+- Description: Godot 4.x 完整開發指南。涵蓋 GDScript 模式、文件格式（.gd/.tscn/.tres）、場景架構、物理/UI/音效、性能優化、多平台導出、測試。自動觸發於 Godot 相關開發。
+- GitHub: https://clawhub.ai/IsonaEi/godot-dev-guide
+- Source: clawhub
+
+## Ironclaw Lead Enrichment
+
+- Author: aspenas
+- Description: Enrich contact and lead records with LinkedIn profiles, email addresses, company data, and education info. Use when asked to "enrich contacts", "fill in miss...
+- GitHub: https://clawhub.ai/aspenas/ironclaw-lead-enrichment
+- Source: clawhub
+
+## LINE Chat for Official Account
+
+- Author: PicSeeInc
+- Description: Operate LINE Official Account Manager (chat.line.biz) via browser automation. Use when asked to check LINE messages, reply to LINE customers, or manage LINE...
+- GitHub: https://clawhub.ai/PicSeeInc/line-oa
+- Source: clawhub
+
+## OpenClaw Token Optimizer
+
+- Author: ccjingeth
+- Description: Optimize OpenClaw token usage and cost by auditing context injection, trimming workspace files (AGENTS.md/SOUL.md/MEMORY.md and daily memory), enabling promp...
+- GitHub: https://clawhub.ai/ccjingeth/openclaw-token-save
+- Source: clawhub
+
+## Coupler.io
+
+- Author: nika-is-nika
+- Description: Access Coupler.io data flows configured with OpenClaw destination to list flows, get schemas, and query data via OAuth-secured read-only API.
+- GitHub: https://clawhub.ai/nika-is-nika/coupler-io
+- Source: clawhub
+
+## Homeassistant
+
+- Author: chris6970barbarian-hue
+- Description: Control and monitor Home Assistant smart devices using commands for lights, switches, covers, climate, scenes, and scripts via the HA API.
+- GitHub: https://clawhub.ai/chris6970barbarian-hue/glitch-homeassistant
+- Source: clawhub
+
+## SubwaySkill
+
+- Author: nyluke
+- Description: Fetch NYC subway departure times. Use when the user asks about subway trains, commute times, when the next train is, or NYC transit schedules. Covers all sub...
+- GitHub: https://clawhub.ai/nyluke/subwayskill
+- Source: clawhub
+
+## Solana On-Chain Agent Registry, Reputation & Trust
+
+- Author: MonteCrypto999
+- Description: TypeScript SDK for the 8004 Trustless Agent Registry on Solana. Covers agent registration, feedback/SEAL v1, ATOM reputation engine, signing, indexer queries...
+- GitHub: https://clawhub.ai/MonteCrypto999/solana-agent-registry
+- Source: clawhub
+
+## OpenSoul - Agent Soul Sharing and Community
+
+- Author: fnaser
+- Description: Share anonymized OpenClaw configurations with the OpenSoul community. Use when user wants to share their agent setup, discover how others use OpenClaw, or ge...
+- GitHub: https://clawhub.ai/fnaser/opensoul-cloud
+- Stars: 1
+- Source: clawhub
+
+## Active Learner
+
+- Author: autogame-17
+- Description: Enables programmatic internalization of lessons into memory and creates structured help requests using the Active Learning Protocol.
+- GitHub: https://clawhub.ai/autogame-17/active-learner
+- Source: clawhub
+
+## Mi Trading
+
+- Author: davidpolotm
+- Description: Trade tokens on Solana using the ClawDex CLI. Use when the user asks to swap tokens, check balances, get quotes, or manage a Solana trading wallet.
+- GitHub: https://clawhub.ai/davidpolotm/mi-trading
+- Source: clawhub
+
+## Wps Skill
+
+- Author: lilei0311
+- Description: WPS Office automation skill supporting document creation, Markdown conversion, and image-text layout.
+- GitHub: https://clawhub.ai/lilei0311/wps-skill
+- Source: clawhub
+
+## End-to-end encrypted .md documents for agents & humans to collaborate. This is a multiplayer alternative to gog and Google Docs that lets people (via CLI) and agents create, search and sync encrypted markdown docs. This service leverages https://ddocs.new which can be enabled locally or via your preferred cloud set-up to make docs accessible across any device or chatbot interface in complete privacy.
+
+- Author: vijaykrishnavanshi
+- Description: End-to-end encrypted .md documents for agents & humans to collaborate. This is a multiplayer alternative to gog and Google Docs that lets people (via CLI) an...
+- GitHub: https://clawhub.ai/vijaykrishnavanshi/encrypted-docs
+- Source: clawhub
+
+## Expiring Local Fileshare
+
+- Author: tradmangh
+- Description: Lets OpenClaw safely share single files from its local workspace via expiring, tokenized HTTP links (local-network/VPN only). Hours are configurable (default...
+- GitHub: https://clawhub.ai/tradmangh/expiring-local-fileshare
+- Source: clawhub
+
+## Unclaimed SOL Scanner
+
+- Author: nedim1511
+- Description: Scan any Solana wallet for reclaimable SOL from dormant token accounts and program buffer accounts. Use when someone asks about unclaimed SOL, forgotten rent...
+- GitHub: https://clawhub.ai/nedim1511/unclaimed-sol-scanner
+- Source: clawhub
+
+## Acp
+
+- Author: chris6970barbarian-hue
+- Description: Hire specialised agents to handle any task — data analysis, trading, content generation, research, on-chain operations, 3D printing, physical goods, gift del...
+- GitHub: https://clawhub.ai/chris6970barbarian-hue/acp
+- Source: clawhub
+
+## Auto Pr Merger
+
+- Author: autogame-17
+- Description: Automatically checks out a GitHub PR, runs tests, retries fixes if tests fail, and merges the PR upon successful tests.
+- GitHub: https://clawhub.ai/autogame-17/auto-pr-merger
+- Source: clawhub
+
+## Prompt Optimizer
+
+- Author: autogame-17
+- Description: Evaluate, optimize, and enhance prompts using 58 proven prompting techniques. Use when user asks to improve, optimize, or analyze a prompt; when a prompt nee...
+- GitHub: https://clawhub.ai/autogame-17/prompt-optimizer
+- Source: clawhub
+
+## Usage Visualizer
+
+- Author: VintLin
+- Description: Advanced usage statistics and high-fidelity visual reporting for OpenClaw. Trigger when user says usage report/usage stats/用量汇报/用量统计; always sync latest logs...
+- GitHub: https://clawhub.ai/VintLin/usage-visualizer
+- Source: clawhub
+
+## minimax-understand-image
+
+- Author: Thincher
+- Description: 使用 MiniMax MCP 进行图像理解和分析。触发条件：(1) 用户要求分析图片、理解图像、描述图片内容 (2) 需要识别图片中的物体、文字、场景 (3) 使用 MiniMax 的 understand_image 功能
+- GitHub: https://clawhub.ai/Thincher/minimax-understand-image
+- Source: clawhub
+
+## M&A Playbook
+
+- Author: 1kalin
+- Description: Provides structured guidance for M&A transactions including strategy, valuation, due diligence, deal structuring, integration planning, and sell-side readine...
+- GitHub: https://clawhub.ai/1kalin/afrexai-ma-playbook
+- Source: clawhub
+
+## Calorie Visualizer
+
+- Author: VintLin
+- Description: Local calorie logging and visual reporting (auto-refreshes and returns report image after each log)
+- GitHub: https://clawhub.ai/VintLin/calorie-visualizer
+- Source: clawhub
+
+## Binance Pro CN | 币安专业版
+
+- Author: guohongbin-git
+- Description: 币安专业版 | Binance Pro. 完整币安集成 | Complete Binance integration. 现货/合约交易、杠杆、质押 | Spot/futures trading, leverage, staking. 触发词：币安、Binance、交易、trading.
+- GitHub: https://clawhub.ai/guohongbin-git/binance-pro-cn
+- Source: clawhub
+
+## Fine-tune Service CN | 模型微调服务
+
+- Author: guohongbin-git
+- Description: 模型微调服务 | Model Fine-tuning Service. LLM LoRA/QLoRA 微调 | LLM LoRA/QLoRA fine-tuning. 7B/13B 模型微调 | 7B/13B model fine-tuning. Stable Diffusion LoRA 训练 | Stable...
+- GitHub: https://clawhub.ai/guohongbin-git/finetune-service-cn
+- Source: clawhub
+
+## SLA Manager
+
+- Author: 1kalin
+- Description: Assist in creating, monitoring, and enforcing detailed SLAs with metrics, escalation paths, penalties, reviews, and vendor negotiation tips.
+- GitHub: https://clawhub.ai/1kalin/afrexai-sla-manager
+- Source: clawhub
+
+## Solana Funding Arb CN | Solana 资金费率套利
+
+- Author: guohongbin-git
+- Description: Solana 资金费率套利 | Solana Funding Rate Arbitrage. 永续合约资金费率套利 | Perpetual funding rate arbitrage. 监控资金费率、发现套利机会 | Monitor funding rates, find arb opportunities....
+- GitHub: https://clawhub.ai/guohongbin-git/solana-funding-arb-cn
+- Source: clawhub
+
+## Cross-Chain Arbitrage CN | 跨链套利
+
+- Author: guohongbin-git
+- Description: 跨链套利 | Cross-Chain Arbitrage. Uniswap 跨链套利机会 | Uniswap cross-chain arbitrage. 发现不同链上的价格差异 | Find price differences across chains. 触发词：跨链、套利、Uniswap、arbitrage.
+- GitHub: https://clawhub.ai/guohongbin-git/cross-chain-arbitrage-cn
+- Source: clawhub
+
+## Job Execution Monitor
+
+- Author: tradmangh
+- Description: Monitor scheduled cron jobs hourly, alerting you only if jobs fail or miss their expected run time with tracked alert state to avoid spam.
+- GitHub: https://clawhub.ai/tradmangh/job-execution-monitor
+- Source: clawhub
+
+## CosyVoice3 macOS
+
+- Author: lhuaizhong
+- Description: Local text-to-speech using Alibaba's CosyVoice3 on macOS Apple Silicon. Supports Chinese, English, Japanese, Korean, and 18+ Chinese dialects. Provides zero-...
+- GitHub: https://clawhub.ai/lhuaizhong/cosyvoice3-macos
+- Source: clawhub
+
+## OpenDART Disclosure
+
+- Author: Kim-Dongchul
+- Description: Read Korea OpenDART disclosures using the OpenDART API. Use when the user asks for DART 공시 조회, recent filings by company, filtering by filing type/date, or q...
+- GitHub: https://clawhub.ai/Kim-Dongchul/opendart-disclosure
+- Source: clawhub
+
+## Unit Economics Analyzer
+
+- Author: 1kalin
+- Description: Calculates and benchmarks key unit economics metrics like CAC, LTV, payback period, and contribution margin with segment and scenario analysis.
+- GitHub: https://clawhub.ai/1kalin/afrexai-unit-economics
+- Source: clawhub
+
+## skill-tester
+
+- Author: alirezarezvani
+- Description: Validates, tests, and scores skills for structure, script correctness, documentation, and usability to ensure compliance with tiered quality standards.
+- GitHub: https://clawhub.ai/alirezarezvani/skill-tester
+- Source: clawhub
+
+## Mi Analista
+
+- Author: davidpolotm
+- Description: Trade 10-second crypto prediction markets on PredictMe
+- GitHub: https://clawhub.ai/davidpolotm/mi-analista
 - Source: clawhub
