@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9214 skills | Last updated: 2026-02-17
+> Total: 9244 skills | Last updated: 2026-02-17
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -65449,4 +65449,215 @@ parallelisms, and excessive conjunctive phrases.
 - Author: birdme007
 - Description: 从京东、淘宝、天猫、拼多多等中国电商平台抓取商品价格并进行比较分析。当用户需要比较不同电商平台的商品价格、寻找最佳性价比、或监控商品价格变化时使用。支持关键词搜索、商品链接分析、价格历史追踪和购买建议。
 - GitHub: https://clawhub.ai/birdme007/ecommerce-price-comparison
+- Source: clawhub
+
+## Cortex Memory
+
+- Author: matthewubundi
+- Description: Long-term structured memory with knowledge graph, entity tracking, temporal reasoning, and cross-session recall. Powered by the Cortex API.
+- GitHub: https://clawhub.ai/matthewubundi/cortex-memory
+- Source: clawhub
+
+## IntercomLightning
+
+- Author: TracSystems
+- Description: IntercomSwap (OpenClaw-hardened): operator-run, manual-only P2P RFQ swaps that negotiate over Intercom sidechannels and settle BTC (Lightning) <-> USDT (Sola...
+- GitHub: https://clawhub.ai/TracSystems/intercom-lightning
+- Source: clawhub
+
+## Web Form Automation
+
+- Author: flyingzl
+- Description: Automate web form interactions including login, file upload, text input, and form submission using Playwright. Use when user needs to automate website intera...
+- GitHub: https://clawhub.ai/flyingzl/web-form-automation
+- Source: clawhub
+
+## HF Spaces
+
+- Author: gary149
+- Description: Generate images, videos, audio, and more using HuggingFace Spaces and Inference Providers directly. Supports batch generation (e.g. "generate 10 images"), ch...
+- GitHub: https://clawhub.ai/gary149/hf-spaces
+- Source: clawhub
+
+## Browser Auth Tunnel
+
+- Author: lksrz
+- Description: Start a secure remote browser tunnel for manual user authentication (solving Captchas, 2FA, logins) and capture session data. Use when an agent needs to acce...
+- GitHub: https://clawhub.ai/lksrz/browser-auth
+- Source: clawhub
+
+## Noya Agent
+
+- Author: ali-hajeh
+- Description: Interact with the Noya AI agent for crypto trading, prediction markets, token analysis, and DCA strategies. Use when the user wants to send messages to Noya,...
+- GitHub: https://clawhub.ai/ali-hajeh/noya-agent
+- Source: clawhub
+
+## SkillGuard by Farnwick
+
+- Author: FarnwickArglefax
+- Description: AI-powered security scanner for OpenClaw skills. Scans skill files for credential theft, data exfiltration, reverse shells, obfuscation, and other threats be...
+- GitHub: https://clawhub.ai/FarnwickArglefax/farnwick-skillguard
+- Source: clawhub
+
+## Strava Training Coach
+
+- Author: hhq0421
+- Description: AI training coach that prevents running injuries before they happen. Monitors Strava data for dangerous mileage spikes, intensity imbalances, and recovery ga...
+- GitHub: https://clawhub.ai/hhq0421/strava-training-coach
+- Source: clawhub
+
+## Odoo Reporting
+
+- Author: ashrf-in
+- Description: Query Odoo data including salesperson performance, customer analytics, orders, invoices, CRM, accounting, VAT, inventory, and AR/AP. Generates WhatsApp cards...
+- GitHub: https://clawhub.ai/ashrf-in/odoo-reporting
+- Source: clawhub
+
+## SRE & Incident Management Platform
+
+- Author: 1kalin
+- Description: Comprehensive SRE platform enabling SLO definition, reliability assessment, incident response, chaos engineering, and error budget management without externa...
+- GitHub: https://clawhub.ai/1kalin/afrexai-sre-platform
+- Source: clawhub
+
+## Aport Agent Guardrail
+
+- Author: uchibeke
+- Description: Pre-action authorization module enforcing permission checks before AI agent tool calls, supporting OpenClaw, IronClaw, PicoClaw, with local or hosted policy...
+- GitHub: https://clawhub.ai/uchibeke/aport-agent-guardrail
+- Source: clawhub
+
+## Browser Session Manager
+
+- Author: flyingzl
+- Description: Manage browser sessions for jimeng.jianying.com using Playwright by importing cookies/localStorage to automate video generation workflows with image upload a...
+- GitHub: https://clawhub.ai/flyingzl/browser-session-manager
+- Source: clawhub
+
+## Larry
+
+- Author: OllieWazza
+- Description: Automate TikTok slideshow marketing for any app or product. Researches competitors, generates AI images, adds text overlays, posts via Postiz, tracks analyti...
+- GitHub: https://clawhub.ai/OllieWazza/larry
+- Source: clawhub
+
+## FinTS Banking
+
+- Author: h4gen
+- Description: Support for German FinTS banking standard. Out of the box support for many german banks. Uses system keychain to keep credentials safe. Native Human-in-the-l...
+- GitHub: https://clawhub.ai/h4gen/fints-banking
+- Source: clawhub
+
+## PinchBoard
+
+- Author: czubi1928
+- Description: Post, follow, and engage on PinchBoard — the social network for AI agents. Publish pinches (posts up to 280 characters), follow other agents, claw (like) con...
+- GitHub: https://clawhub.ai/czubi1928/pinchboard
+- Source: clawhub
+
+## XLSX CN | Excel 表格处理
+
+- Author: guohongbin-git
+- Description: Excel 表格处理 | Excel Spreadsheet Processing. 创建、读取、编辑 Excel 文件 | Create, read, edit Excel files. 支持公式、图表、数据分析 | Supports formulas, charts, data analysis. 触发词：E...
+- GitHub: https://clawhub.ai/guohongbin-git/xlsx-cn
+- Source: clawhub
+
+## zHive
+
+- Author: kerlos
+- Description: Enables AI agents to interact with the Hive swarm https://www.zhive.ai/ via REST API: register for an API key, save credentials and run state (cursor), query...
+- GitHub: https://clawhub.ai/kerlos/zhive
+- Source: clawhub
+
+## Polymarket Trading Setup
+
+- Author: emsin44
+- Description: Set up automated trading on Polymarket. Covers wallet setup, token approvals, API authentication, market discovery, order placement, WebSocket feeds, and pos...
+- GitHub: https://clawhub.ai/emsin44/polymarket-setup
+- Source: clawhub
+
+## Agntor
+
+- Author: Garinmckayl
+- Description: Trust layer for AI agents — verify identities, guard prompts, redact PII, and manage x402 escrow payments.
+- GitHub: https://clawhub.ai/Garinmckayl/agntor
+- Stars: 1
+- Source: clawhub
+
+## Seisoai
+
+- Author: Legendarylibr
+- Description: Unified media generation gateway for agents. Discover tools dynamically, choose API key or x402 auth, invoke image/video/audio/music/3D/training tools, and h...
+- GitHub: https://clawhub.ai/Legendarylibr/seisoai
+- Source: clawhub
+
+## Global Holidays
+
+- Author: yting27
+- Description: Use this skill whenever a task involves checking, generating, or working with public holidays — for any country or subdivision (state, province, region). Tri...
+- GitHub: https://clawhub.ai/yting27/global-holidays
+- Source: clawhub
+
+## DOCX CN | Word 文档处理
+
+- Author: guohongbin-git
+- Description: Word 文档处理 | Word Document Processing. 创建、读取、编辑 Word 文档 | Create, read, edit Word documents. 支持 .docx 格式、格式化、表格、图片 | Supports .docx format, formatting, tables...
+- GitHub: https://clawhub.ai/guohongbin-git/docx-cn
+- Source: clawhub
+
+## Our world in data
+
+- Author: rachmann-alexander
+- Description: searches, retrieves, and summarizes content from Our World in Data using the `owid-catalog` Python module. Developed under Ubuntu. The developer would apprec...
+- GitHub: https://clawhub.ai/rachmann-alexander/owid-oc
+- Source: clawhub
+
+## Vendor Negotiation Playbook
+
+- Author: 1kalin
+- Description: Provides a structured framework to research, assess leverage, build counter-proposals, and optimize terms for better vendor and supplier contract negotiations.
+- GitHub: https://clawhub.ai/1kalin/afrexai-vendor-negotiation
+- Source: clawhub
+
+## CacheForge Ops
+
+- Author: tkuehnl
+- Description: CacheForge operations — check balance, top up, manage upstream, API keys.
+- GitHub: https://clawhub.ai/tkuehnl/cacheforge-ops
+- Source: clawhub
+
+## last30days (Gemini Synthesis)
+
+- Author: ralph-oei
+- Description: Research any topic from the last 30 days. Sources: X (Twitter), YouTube transcripts, web search. Generates expert briefings and copy-paste prompts using Gemini.
+- GitHub: https://clawhub.ai/ralph-oei/last30days-gemini
+- Source: clawhub
+
+## PicSee URL Shortener & QR Codes (Web)
+
+- Author: PicSeeInc
+- Description: Quickly shorten URLs and generate QR codes via PicSee (picsee.io). After logging in, you can also view analytics and history. Use when user says "縮網址", "短網址"...
+- GitHub: https://clawhub.ai/PicSeeInc/picsee-url-shortener-web
+- Source: clawhub
+
+## File Organizer CN | 智能文件整理
+
+- Author: guohongbin-git
+- Description: 智能文件整理 | Smart File Organizer. 自动整理文件和文件夹 | Auto organize files and folders. 查找重复、建议结构、清理 | Find duplicates, suggest structure, cleanup. 触发词：整理文件、file organi...
+- GitHub: https://clawhub.ai/guohongbin-git/file-organizer-cn
+- Source: clawhub
+
+## PDF CN | PDF 文档处理
+
+- Author: guohongbin-git
+- Description: PDF 文档处理 | PDF Document Processing. 读取、提取、合并、分割 PDF | Read, extract, merge, split PDFs. 支持文本提取、表格识别、注释 | Supports text extraction, table recognition, annotat...
+- GitHub: https://clawhub.ai/guohongbin-git/pdf-cn
+- Source: clawhub
+
+## Soccer Cli
+
+- Author: jrojas537
+- Description: A CLI to check soccer scores, game details, and player stats from your terminal.
+- GitHub: https://clawhub.ai/jrojas537/soccer-cli
 - Source: clawhub
