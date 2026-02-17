@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9203 skills | Last updated: 2026-02-17
+> Total: 9214 skills | Last updated: 2026-02-17
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -65370,4 +65370,83 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: A simple greeting skill that responds with a customized hello message in the user's language.
 - GitHub: https://clawhub.ai/skills/hello-world
+- Source: clawhub
+
+## Clawhub
+
+- Author: clawhub
+- Description: Install, search, update, and manage skills from ClawHub (the public OpenClaw skill registry). Use when the user wants to install a skill by slug (e.g. "clawh...
+- GitHub: https://clawhub.ai/skills/skill-installer
+- Source: clawhub
+
+## Research Swarm
+
+- Author: clawhub
+- Description: Multi-agent cancer research coordinator — assigns TNBC research and QC review tasks to agents who search open-access databases and submit cited findings.
+- GitHub: https://clawhub.ai/skills/research-swarm
+- Source: clawhub
+
+## Yandex Tracker CLI
+
+- Author: clawhub
+- Description: CLI tool to manage Yandex Tracker issues and queues via API using bash, curl, and jq, supporting issue creation, updates, comments, transitions, and worklogs.
+- GitHub: https://clawhub.ai/skills/yandex-tracker-cli
+- Stars: 1
+- Source: clawhub
+
+## Openclaw Skill for Odoo
+
+- Author: NullNaveen
+- Description: Full-featured Odoo 19 ERP connector for OpenClaw - Sales, CRM, Purchase, Inventory, Projects, HR, Fleet, Manufacturing (80+ operations, complete Python code...
+- GitHub: https://clawhub.ai/NullNaveen/odoo-connector
+- Source: clawhub
+
+## Zotero MCP
+
+- Author: QYQSDTC
+- Description: Search and access Zotero reference library via MCP (Model Context Protocol) server. Use when working with Zotero literature databases, searching papers, gett...
+- GitHub: https://clawhub.ai/QYQSDTC/zotero-mcp
+- Source: clawhub
+
+## Crypto Price By Lpdawn
+
+- Author: LPDawn
+- Description: 获取比特币、以太坊等主流加密货币的实时美元价格。
+- GitHub: https://clawhub.ai/LPDawn/crypto-price-by-lpdawn
+- Source: clawhub
+
+## SAP FICO Expert - Australia
+
+- Author: LynniGPT
+- Description: Senior SAP Finance & Controlling consultant with Australian business expertise. Specializes in GST configuration, PAYG withholding, Australian banking, ABN v...
+- GitHub: https://clawhub.ai/LynniGPT/sap-fico-australia
+- Source: clawhub
+
+## Douyin Video Fetch
+
+- Author: KAMIENDER
+- Description: 下载抖音视频到本地（无水印优先）。用于给后续视频分析/复刻提供原始素材，支持 URL 或 video_id 输入、批量列表输入与统一输出目录。
+- GitHub: https://clawhub.ai/KAMIENDER/douyin-video-fetch
+- Source: clawhub
+
+## Skill Finder CN | Skill 查找器
+
+- Author: guohongbin-git
+- Description: Skill 查找器 | Skill Finder. 帮助发现和安装 ClawHub Skills | Discover and install ClawHub Skills. 回答'有什么技能可以X'、'找一个技能' | Answers 'what skill can X', 'find a skill'. 触发...
+- GitHub: https://clawhub.ai/guohongbin-git/skill-finder-cn
+- Source: clawhub
+
+## Dht11 Temp
+
+- Author: NoahSeeger
+- Description: Read temperature and humidity from DHT11 sensor. Supports custom GPIO pins via CLI argument or environment variable.
+- GitHub: https://clawhub.ai/NoahSeeger/dht11-temp
+- Stars: 1
+- Source: clawhub
+
+## 电商价格比较
+
+- Author: birdme007
+- Description: 从京东、淘宝、天猫、拼多多等中国电商平台抓取商品价格并进行比较分析。当用户需要比较不同电商平台的商品价格、寻找最佳性价比、或监控商品价格变化时使用。支持关键词搜索、商品链接分析、价格历史追踪和购买建议。
+- GitHub: https://clawhub.ai/birdme007/ecommerce-price-comparison
 - Source: clawhub
