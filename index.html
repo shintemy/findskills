@@ -507,13 +507,81 @@
       color: var(--text-secondary);
     }
 
-    /* Toolbar — sort controls above the grid */
+    /* Toolbar — sort & filter controls, sticky */
     .toolbar {
+      position: sticky;
+      top: 0;
+      z-index: 40;
       display: flex;
       align-items: center;
       justify-content: flex-end;
       gap: var(--space-1);
       margin-bottom: var(--space-3);
+      padding: var(--space-1-5) 0;
+      background: var(--bg);
+    }
+
+    .source-select {
+      appearance: none;
+      -webkit-appearance: none;
+      padding: 6px 32px 6px 12px;
+      font-size: var(--text-body-sm);
+      line-height: var(--text-body-sm-lh);
+      font-family: var(--font-sans);
+      font-weight: 500;
+      color: var(--text-primary);
+      background: var(--bg-elevated) url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%236B7280' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right 12px center;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      transition: border-color var(--duration-fast) var(--ease-standard),
+                  box-shadow var(--duration-fast) var(--ease-standard);
+      outline: none;
+    }
+
+    .source-select:hover { border-color: var(--brand); }
+    .source-select:focus { box-shadow: var(--shadow-focus-brand); }
+
+    /* Active source filter indicator */
+    .source-status {
+      display: none;
+      align-items: center;
+      gap: var(--space-1);
+      margin-bottom: var(--space-3);
+      padding: var(--space-1-5) var(--space-2);
+      background: rgba(37, 99, 235, 0.06);
+      border: 1px solid var(--semantic-info);
+      border-radius: var(--radius-md);
+      font-size: var(--text-body-sm);
+      line-height: var(--text-body-sm-lh);
+      color: var(--text-secondary);
+    }
+
+    .source-status.is-active { display: flex; }
+
+    .source-status .source-name {
+      font-weight: 600;
+      color: var(--semantic-info);
+    }
+
+    .source-status .source-clear {
+      margin-left: auto;
+      padding: 2px 10px;
+      background: transparent;
+      border: 1px solid var(--semantic-info);
+      border-radius: var(--radius-sm);
+      color: var(--semantic-info);
+      font-size: var(--text-caption);
+      font-weight: 500;
+      font-family: var(--font-sans);
+      cursor: pointer;
+      transition: background-color var(--duration-fast) var(--ease-standard),
+                  color var(--duration-fast) var(--ease-standard);
+    }
+
+    .source-status .source-clear:hover {
+      background: var(--semantic-info);
+      color: #fff;
     }
 
     .sort-label {
@@ -729,8 +797,12 @@
   </div>
 
   <main class="main">
-    <div class="toolbar">
+    <div class="toolbar" id="toolbar">
       <p class="stats" id="stats">Loading skills...</p>
+      <span class="sort-label">Source</span>
+      <select class="source-select" id="source-select" aria-label="Filter by source">
+        <option value="all">All</option>
+      </select>
       <span class="sort-label">Sort by</span>
       <select class="sort-select" id="sort-select" aria-label="Sort skills">
         <option value="updated">Recently Updated</option>
@@ -739,6 +811,10 @@
         <option value="liked">Most Liked</option>
         <option value="name">Name A–Z</option>
       </select>
+    </div>
+    <div class="source-status" id="source-status">
+      <span>Filtered by source: <span class="source-name" id="source-name-display"></span></span>
+      <button type="button" class="source-clear" id="source-clear">Clear</button>
     </div>
     <div class="search-status" id="search-status">
       <span>Showing results for <span class="search-term" id="search-term-display"></span></span>
@@ -768,6 +844,7 @@
       var sources = [];
       var currentSort = 'updated';
       var currentQuery = '';
+      var currentSource = 'all';
       var votesData = {};
       var myVotes = JSON.parse(localStorage.getItem('findskills_votes') || '{}');
 
@@ -779,6 +856,10 @@
       var searchTermDisplay = document.getElementById('search-term-display');
       var searchClearBtn = document.getElementById('search-clear');
       var sortSelectEl = document.getElementById('sort-select');
+      var sourceSelectEl = document.getElementById('source-select');
+      var sourceStatusEl = document.getElementById('source-status');
+      var sourceNameDisplay = document.getElementById('source-name-display');
+      var sourceClearBtn = document.getElementById('source-clear');
 
       function escapeHtml(str) {
         var div = document.createElement('div');
@@ -894,16 +975,26 @@
         return sorted;
       }
 
-      // Central render: applies current search filter + current sort, then renders
+      // Central render: applies source filter + search filter + sort, then renders
       function applyFilterAndSort() {
-        var skills;
+        var skills = allSkills;
+
+        // Source filter
+        if (currentSource !== 'all') {
+          skills = skills.filter(function (s) { return s.source === currentSource; });
+          sourceNameDisplay.textContent = currentSource;
+          sourceStatusEl.classList.add('is-active');
+        } else {
+          sourceStatusEl.classList.remove('is-active');
+        }
+
+        // Search filter
         if (!currentQuery) {
-          skills = allSkills;
           filterStatsEl.textContent = '';
           searchStatusEl.classList.remove('is-active');
         } else {
           var q = currentQuery.toLowerCase();
-          skills = allSkills.filter(function (skill) {
+          skills = skills.filter(function (skill) {
             if (skill.name.toLowerCase().indexOf(q) !== -1) return true;
             if (skill.description.toLowerCase().indexOf(q) !== -1) return true;
             var tags = skill.tags || [];
@@ -916,6 +1007,7 @@
           searchTermDisplay.textContent = '"' + currentQuery + '" (' + skills.length + ' of ' + totalCount + ')';
           searchStatusEl.classList.add('is-active');
         }
+
         renderSkills(sortSkills(skills, currentSort));
       }
 
@@ -940,6 +1032,17 @@
         applyFilterAndSort();
       });
 
+      sourceSelectEl.addEventListener('change', function () {
+        currentSource = sourceSelectEl.value;
+        applyFilterAndSort();
+      });
+
+      sourceClearBtn.addEventListener('click', function () {
+        currentSource = 'all';
+        sourceSelectEl.value = 'all';
+        applyFilterAndSort();
+      });
+
       searchClearBtn.addEventListener('click', clearSearch);
 
       var searchTrigger = document.getElementById('search-trigger');
@@ -957,15 +1060,18 @@
 
       var stickyNav = document.getElementById('sticky-nav');
       var stickySearchTrigger = document.getElementById('sticky-search-trigger');
+      var toolbarEl = document.getElementById('toolbar');
 
-      // Show/hide sticky nav based on header visibility
+      // Show/hide sticky nav based on header visibility + adjust toolbar top
       var headerEl = document.querySelector('.header');
       var observer = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry) {
           if (entry.isIntersecting) {
             stickyNav.classList.remove('is-visible');
+            toolbarEl.style.top = '0';
           } else {
             stickyNav.classList.add('is-visible');
+            toolbarEl.style.top = '56px';
           }
         });
       }, { threshold: 0 });
@@ -1095,7 +1201,26 @@
           .then(function (data) {
             allSkills = (data.skills || []).filter(function (s) { return s.source !== 'manual'; });
             totalCount = allSkills.length;
-            sources = (data.meta && data.meta.sources) || [];
+
+            // Derive sources from actual displayed skills
+            var seen = {};
+            sources = [];
+            for (var i = 0; i < allSkills.length; i++) {
+              var src = allSkills[i].source;
+              if (src && !seen[src]) {
+                seen[src] = true;
+                sources.push(src);
+              }
+            }
+
+            // Populate source filter dropdown
+            for (var j = 0; j < sources.length; j++) {
+              var opt = document.createElement('option');
+              opt.value = sources[j];
+              opt.textContent = sources[j].charAt(0).toUpperCase() + sources[j].slice(1);
+              sourceSelectEl.appendChild(opt);
+            }
+
             updateStats();
             applyFilterAndSort();
             registerWebMCPTools();
