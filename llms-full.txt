@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9338 skills | Last updated: 2026-02-17
+> Total: 9418 skills | Last updated: 2026-02-17
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -66321,4 +66321,569 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Self-hosted web search aggregator for OpenClaw agents. Use this skill to (1) install SearXNG on a VPS/server so the agent can search the web without API keys...
 - GitHub: https://clawhub.ai/skills/searxng-selfhost
+- Source: clawhub
+
+## idempiere-setup
+
+- Author: hengsin
+- Description: Linux script to setup a new idempiere development environment
+- GitHub: https://github.com/hengsin/idempiere-dev-setup
+- Stars: 20
+- Source: github
+
+## GoblinProject
+
+- Author: AdorianSAK
+- Description: Skill from AdorianSAK/goblinProject
+- GitHub: https://github.com/AdorianSAK/goblinProject
+- Source: github
+
+## OpenClaw Antigravity Sync Skill
+
+- Author: krnbwj
+- Description: Automatically discover and configure available Google Antigravity models and quotas.
+- GitHub: https://clawhub.ai/krnbwj/openclaw-antigravity-sync
+- Source: clawhub
+
+## DeepInspect Guardrails
+
+- Author: parmindersk
+- Description: Provides deterministic preflight risk classification for commands, returning allow, require approval, or block decisions with detailed reason codes.
+- GitHub: https://clawhub.ai/parmindersk/deepinspect-openclaw-guardrails
+- Source: clawhub
+
+## Mailgun
+
+- Author: lksrz
+- Description: Send plain text emails via the Mailgun API using configured API key, domain, and region with the official Mailgun JS SDK.
+- GitHub: https://clawhub.ai/lksrz/mailgun-commander
+- Source: clawhub
+
+## Ryanair Fare finder
+
+- Author: Callum-Kemp
+- Description: Build and interpret Ryanair fare-finder URLs for cheap flight searches. Use when the user wants to find budget flights from a specific UK airport, configure...
+- GitHub: https://clawhub.ai/Callum-Kemp/ryanair-fare-finder
+- Source: clawhub
+
+## BotEmail.ai
+
+- Author: claw-silhouette
+- Description: Create and manage bot email accounts on BotEmail.ai. Use for testing signup flows, receiving verification codes, automating email workflows, or monitoring in...
+- GitHub: https://clawhub.ai/claw-silhouette/bot-email
+- Source: clawhub
+
+## AI Commander Dashboard
+
+- Author: lksrz
+- Description: Unified Management Dashboard for AI Commander components. Real-time view of emails and browser sessions.
+- GitHub: https://clawhub.ai/lksrz/aic-dashboard
+- Source: clawhub
+
+## PetRPG
+
+- Author: NoizceEra
+- Description: A Tamagotchi-style digital pet for AI agents. Raise your pet, battle others, evolve through stages. Includes A2A multiplayer for agent challenges.
+- GitHub: https://clawhub.ai/NoizceEra/pet-rpg
+- Source: clawhub
+
+## I Love You Mom
+
+- Author: SaharCarmel
+- Description: Automated monthly photo-to-Mixtiles pipeline. Collects photos from a WhatsApp group, curates the best ones using vision, builds a multi-photo Mixtiles cart l...
+- GitHub: https://clawhub.ai/SaharCarmel/i-love-you-mom
+- Source: clawhub
+
+## Mvg
+
+- Author: Lars147
+- Description: Munich public transport (MVG) CLI and S-Bahn live tracking. Use for departure times, route planning, nearby stations, service alerts, and real-time S-Bahn po...
+- GitHub: https://clawhub.ai/Lars147/mvg-cli
+- Source: clawhub
+
+## Geizhals.at
+
+- Author: rolandkakonyi
+- Description: Search Geizhals.at (Austria) with HTTP-only autocomplete + detail-page parsing (no browser automation). Use when users want quick price checks from Geizhals....
+- GitHub: https://clawhub.ai/rolandkakonyi/geizhals-at
+- Source: clawhub
+
+## TruthSea Verifier
+
+- Author: turfptax
+- Description: Verify claims, submit and dispute truth quanta with multi-dimensional truth and moral scores, and earn TRUTH tokens on the Base L2 blockchain.
+- GitHub: https://clawhub.ai/turfptax/truthsea
+- Source: clawhub
+
+## wreckit-ralph
+
+- Author: christiancattaneo
+- Description: Bulletproof AI code verification. The agent IS the engine — no external tools required. Spawns parallel verification workers that slop-scan, type-check, muta...
+- GitHub: https://clawhub.ai/christiancattaneo/wreckit-ralph
+- Source: clawhub
+
+## Happenstance
+
+- Author: dgoss28
+- Description: Search your professional network and research people using the Happenstance API.
+- GitHub: https://clawhub.ai/dgoss28/happenstance
+- Stars: 4
+- Source: clawhub
+
+## ZugaShield Security Scanner
+
+- Author: Zuga-luga
+- Description: 7-layer AI security scanner for OpenClaw. Blocks prompt injection, SSRF, command injection, data leakage, and memory poisoning across ALL channels (Signal, T...
+- GitHub: https://clawhub.ai/Zuga-luga/zugashield
+- Source: clawhub
+
+## Use the Content3 Agent API to create short-form videos, manage content libraries, submit reviews for human approval, and draft social media posts.
+
+- Author: dimitriharding
+- Description: Content3 API for creating videos, managing content, submitting reviews, and posting to social media.
+- GitHub: https://clawhub.ai/dimitriharding/content3
+- Source: clawhub
+
+## Book Writer
+
+- Author: pyjhhh
+- Description: 使用AI辅助写作的OpenClaw技能，可以根据提示词生成书籍大纲并逐级扩写内容，支持添加公式、图表、代码等元素。适用于学术著作、技术书籍、小说等多种类型的创作。
+- GitHub: https://clawhub.ai/pyjhhh/book-writer
+- Source: clawhub
+
+## Dashboard
+
+- Author: chris6970barbarian-hue
+- Description: Unified web dashboard for managing task queues, monitoring system metrics, viewing ZeroTier status, and streaming recent logs in real time.
+- GitHub: https://clawhub.ai/chris6970barbarian-hue/glitch-dashboard
+- Source: clawhub
+
+## Medical Research Toolkit
+
+- Author: pascalwhoop
+- Description: Query 14+ biomedical databases for drug repurposing, target discovery, clinical trials, and literature research. Access ChEMBL, PubMed, ClinicalTrials.gov, O...
+- GitHub: https://clawhub.ai/pascalwhoop/medical-research-toolkit
+- Source: clawhub
+
+## PopUp Organizer
+
+- Author: eliaskress
+- Description: Search and hire mobile vendors for events on PopUp. Find food trucks, DJs, photo booths & more, create event listings, send booking inquiries, and manage inv...
+- GitHub: https://clawhub.ai/eliaskress/popup-organizer
+- Source: clawhub
+
+## AgentAPI
+
+- Author: gizmo-dev
+- Description: Browse and search the AgentAPI directory - a curated database of APIs designed for AI agents. Find MCP-compatible APIs for search, AI, communication, databas...
+- GitHub: https://clawhub.ai/gizmo-dev/agentapi
+- Source: clawhub
+
+## Twitter/X API
+
+- Author: klemenska
+- Description: X/Twitter messaging management via API. Read tweets, post tweets, reply, send DMs, search, and view analytics. Use when the user wants to interact with X/Twi...
+- GitHub: https://clawhub.ai/klemenska/twitter-x-api
+- Source: clawhub
+
+## Jarvis Refactor Planner 01
+
+- Author: xammarie
+- Description: Plan low-risk refactors with seams, tests, and rollback points. Use when handling development work that needs repeatable steps, quality gates, and practical...
+- GitHub: https://clawhub.ai/xammarie/jarvis-refactor-planner-01
+- Source: clawhub
+
+## Jarvis Bug Triage 01
+
+- Author: xammarie
+- Description: Triage production bugs fast with repro isolation and risk-first fixes. Use when handling development work that needs repeatable steps, quality gates, and pra...
+- GitHub: https://clawhub.ai/xammarie/jarvis-bug-triage-01
+- Source: clawhub
+
+## TrueTime
+
+- Author: cccat6
+- Description: Ensure real-time accurate scheduling and planning across UTC, server time, NTP-sourced time, user local time, and arbitrary time zones. Use for timers, remin...
+- GitHub: https://clawhub.ai/cccat6/truetime
+- Stars: 1
+- Source: clawhub
+
+## Copilot Money Mac
+
+- Author: chardigio
+- Description: Query and analyze personal finance data from the Copilot Money Mac app. Use when the user asks about their spending, transactions, account balances, budgets,...
+- GitHub: https://clawhub.ai/chardigio/copilot-money-mac
+- Source: clawhub
+
+## B2c Marketing 1.0.1
+
+- Author: ceo991
+- Description: B2C mobile app marketing via short-form video content on TikTok, Instagram Reels, and YouTube Shorts. Use when creating, scheduling, or strategizing organic...
+- GitHub: https://clawhub.ai/ceo991/b2c-marketing-1-0-1
+- Source: clawhub
+
+## Apps
+
+- Author: ivangdavila
+- Description: Find, compare, and organize mobile apps with personalized recommendations and preference tracking.
+- GitHub: https://clawhub.ai/ivangdavila/apps
+- Source: clawhub
+
+## Homepage Audit
+
+- Author: BrianRWagner
+- Description: Quick conversion audit for any homepage or landing page. Use when someone asks to "review my homepage," "audit my landing page," "why isn't my page convertin...
+- GitHub: https://clawhub.ai/BrianRWagner/brw-homepage-audit
+- Source: clawhub
+
+## Content Idea Generator
+
+- Author: BrianRWagner
+- Description: Generate content ideas rooted in positioning. Use when someone needs "content ideas," "what should I post," "blog topics," "LinkedIn ideas," or is stuck on w...
+- GitHub: https://clawhub.ai/BrianRWagner/brw-content-idea-generator
+- Source: clawhub
+
+## Cold Outreach Sequence
+
+- Author: BrianRWagner
+- Description: Build personalized cold outreach sequences for LinkedIn and email. Use when someone needs to reach prospects, warm up cold leads, or build a systematic outre...
+- GitHub: https://clawhub.ai/BrianRWagner/brw-cold-outreach-sequence
+- Source: clawhub
+
+## Ai Discoverability Audit
+
+- Author: BrianRWagner
+- Description: Audit how a brand appears in AI-powered search (ChatGPT, Perplexity, Claude, Gemini). Use when user mentions "AI search," "how do I show up in ChatGPT," "AI...
+- GitHub: https://clawhub.ai/BrianRWagner/brw-ai-discoverability-audit
+- Source: clawhub
+
+## Mixtiles It
+
+- Author: SaharCarmel
+- Description: Send a photo to Mixtiles for ordering wall tiles. Use when a user forwards/sends a photo and wants to order it as a Mixtile, add it to their Mixtiles cart, o...
+- GitHub: https://clawhub.ai/SaharCarmel/mixtiles-it
+- Source: clawhub
+
+## Email Webhook Receiver
+
+- Author: lksrz
+- Description: Receive incoming emails via JSON webhooks and wake the agent. Built for AI Commander.
+- GitHub: https://clawhub.ai/lksrz/email-webhook
+- Stars: 1
+- Source: clawhub
+
+## AI Agent Manager Playbook
+
+- Author: 1kalin
+- Description: Provides a comprehensive framework to manage autonomous AI agents, including portfolio oversight, performance monitoring, escalation protocols, governance, a...
+- GitHub: https://clawhub.ai/1kalin/afrexai-agent-manager
+- Source: clawhub
+
+## Weather Location
+
+- Author: alex1389
+- Description: Fetches current weather from wttr.in and automatically captures a live webcam image from Meteoblue or Windy for the requested location. Use it when the user...
+- GitHub: https://clawhub.ai/alex1389/weather-location
+- Source: clawhub
+
+## Intelligent Delegation
+
+- Author: Hogpile
+- Description: A 5-phase framework for reliable AI-to-AI task delegation, inspired by Google DeepMind's "Intelligent AI Delegation" paper (arXiv 2602.11865). Includes task...
+- GitHub: https://clawhub.ai/Hogpile/intelligent-delegation
+- Source: clawhub
+
+## Envios
+
+- Author: jalfargentina
+- Description: Usar cuando el usuario pregunte sobre envíos, cómo enviar un pedido, tiempos de entrega, zonas de cobertura, seguimiento de paquete, código de seguimiento, m...
+- GitHub: https://clawhub.ai/jalfargentina/envios
+- Source: clawhub
+
+## PinchBench
+
+- Author: olearycrew
+- Description: Run PinchBench benchmarks to evaluate OpenClaw agent performance across real-world tasks. Use when testing model capabilities, comparing models, submitting b...
+- GitHub: https://clawhub.ai/olearycrew/pinchbench
+- Source: clawhub
+
+## Security Sentinel
+
+- Author: autogame-17
+- Description: Scan the workspace for security vulnerabilities, exposed secrets, and misconfigurations.
+- GitHub: https://clawhub.ai/autogame-17/security-sentinel
+- Source: clawhub
+
+## twitter
+
+- Author: blueberrywoodsym
+- Description: Write viral, persuasive, engaging tweets and threads. Uses web research to find viral examples in your niche, then models writing based on proven formulas an...
+- GitHub: https://clawhub.ai/blueberrywoodsym/twitter
+- Source: clawhub
+
+## Humanod
+
+- Author: Armandobrazil
+- Description: Hire humans for real-world tasks via the Humanod API.
+- GitHub: https://clawhub.ai/Armandobrazil/humanod
+- Source: clawhub
+
+## Community Growth Engine
+
+- Author: 1kalin
+- Description: Complete community building, engagement, and monetization system. From zero to thriving community — launch strategy, member engagement loops, content program...
+- GitHub: https://clawhub.ai/1kalin/afrexai-community-growth-engine
+- Source: clawhub
+
+## Brainstorming
+
+- Author: Nefas11
+- Description: Socratic design refinement before coding. Use when user requests feature without clear spec.
+- GitHub: https://clawhub.ai/Nefas11/brainstorming-2
+- Source: clawhub
+
+## Lembrete Agua
+
+- Author: PEDROHENRIQUE202525
+- Description: Skill de hidratação que lembra o usuário de beber água a cada 2 horas. Registra consumo, calcula meta diária, motiva com dicas de saúde e adapta alertas ao c...
+- GitHub: https://clawhub.ai/PEDROHENRIQUE202525/lembrete-agua
+- Source: clawhub
+
+## Agent Self-Assessment
+
+- Author: roosch269
+- Description: Security self-assessment tool for AI agents. Run this against your own configuration to get a structured threat model report with RED/AMBER/GREEN ratings acr...
+- GitHub: https://clawhub.ai/roosch269/agent-self-assessment
+- Source: clawhub
+
+## Security Audit
+
+- Author: cerbug45
+- Description: Minimal helper to audit skill.md-style instructions for supply-chain risks.
+- GitHub: https://clawhub.ai/cerbug45/agents-skill-security-audit
+- Source: clawhub
+
+## macOS Calendar
+
+- Author: lucaperret
+- Description: Create, list, and manage macOS Calendar events via AppleScript. Use when the user asks to add a reminder, schedule an event, create a calendar entry, set a d...
+- GitHub: https://clawhub.ai/lucaperret/macos-calendar
+- Source: clawhub
+
+## Tdd Helper
+
+- Author: cerbug45
+- Description: Lightweight helper to enforce TDD-style loops for non-deterministic agents.
+- GitHub: https://clawhub.ai/cerbug45/agents-skill-tdd-helper
+- Source: clawhub
+
+## Podcastifier
+
+- Author: cerbug45
+- Description: Turn incoming text (email/newsletter) into a short TTS podcast with chunking + ffmpeg concat.
+- GitHub: https://clawhub.ai/cerbug45/agents-skill-podcastifier
+- Source: clawhub
+
+## Jarvis Test Gap Finder 01
+
+- Author: xammarie
+- Description: Find missing tests by failure mode and business impact. Use when handling development work that needs repeatable steps, quality gates, and practical outputs.
+- GitHub: https://clawhub.ai/xammarie/jarvis-test-gap-finder-01
+- Source: clawhub
+
+## Jarvis Db Query Doctor 01
+
+- Author: xammarie
+- Description: Diagnose slow SQL and rewrite queries for safer performance. Use when handling development work that needs repeatable steps, quality gates, and practical out...
+- GitHub: https://clawhub.ai/xammarie/jarvis-db-query-doctor-01
+- Source: clawhub
+
+## Ecommerce
+
+- Author: ivangdavila
+- Description: Build and operate online stores with payment security, inventory management, marketplace integration, and conversion optimization.
+- GitHub: https://clawhub.ai/ivangdavila/ecommerce
+- Source: clawhub
+
+## HubSpot CRM Autopilot — Full Suite for AI Agents
+
+- Author: Luigi08001
+- Description: Comprehensive HubSpot CRM, Marketing, Sales, Service, and CMS management suite. Covers all HubSpot APIs: CRM objects (contacts, companies, deals, tickets, cu...
+- GitHub: https://clawhub.ai/Luigi08001/hubspot-suite
+- Source: clawhub
+
+## Claw Portfolio Tracker
+
+- Author: rsoutar
+- Description: Track stock and crypto portfolios with CLI - real-time prices, P&L, multiple portfolios
+- GitHub: https://clawhub.ai/rsoutar/claw-portfolio
+- Source: clawhub
+
+## klawdin
+
+- Author: ualiu
+- Description: Find software services and APIs for any task. When you need email verification, lead enrichment, image generation, web scraping, SMS delivery, OCR, translati...
+- GitHub: https://clawhub.ai/ualiu/klawdin
+- Source: clawhub
+
+## UX Research Engine
+
+- Author: 1kalin
+- Description: Complete UX Research & Design system — user discovery, persona building, journey mapping, usability testing, research synthesis, and design validation. Zero...
+- GitHub: https://clawhub.ai/1kalin/afrexai-ux-research-engine
+- Source: clawhub
+
+## QA & Testing Engine
+
+- Author: 1kalin
+- Description: Provides a comprehensive testing methodology for AI software, covering strategy design, unit, integration, and end-to-end tests with coverage and reporting g...
+- GitHub: https://clawhub.ai/1kalin/afrexai-qa-testing-engine
+- Source: clawhub
+
+## Ddg 1.0.0
+
+- Author: shelehovnick1-spec
+- Description: Use ddgr (DuckDuckGo from the terminal) to perform privacy-focused web searches from the command line. Use when the user wants to (1) Search the web from the...
+- GitHub: https://clawhub.ai/shelehovnick1-spec/ddg-1-0-0
+- Source: clawhub
+
+## Partnership Revenue Engine
+
+- Author: 1kalin
+- Description: Systematic framework to identify, qualify, and scale revenue through integration, referral, reseller, and strategic partnerships.
+- GitHub: https://clawhub.ai/1kalin/afrexai-partnership-revenue
+- Source: clawhub
+
+## The Hitchhiker's Guide to the Galaxy
+
+- Author: hallwayskiing
+- Description: A text adventure game engine based on masterpiece "The Hitchhiker's Guide to the Galaxy" and the 1984 Infocom classic. Use when the user wants to play a joyf...
+- GitHub: https://clawhub.ai/hallwayskiing/hitchhikers-guide
+- Source: clawhub
+
+## Patiently AI
+
+- Author: nickjlamb
+- Description: Patiently AI simplifies medical documents for patients. Takes doctor's letters, test results, prescriptions, discharge summaries, and clinical notes and expl...
+- GitHub: https://clawhub.ai/nickjlamb/patiently-ai
+- Source: clawhub
+
+## Clawnads
+
+- Author: 4ormund
+- Description: Register with Clawnads to get a Privy wallet on Monad, trade tokens, and collaborate with other agents. Use when asked to check wallet, swap tokens, send tra...
+- GitHub: https://clawhub.ai/4ormund/clawnads
+- Source: clawhub
+
+## Taxi
+
+- Author: ivangdavila
+- Description: Handle everything for ground transportation, from price comparison to booking, tracking, disputes, and expense management.
+- GitHub: https://clawhub.ai/ivangdavila/taxi
+- Source: clawhub
+
+## Fashion
+
+- Author: ivangdavila
+- Description: Style outfits, decode dress codes, and shop smart with body-aware advice, trend intelligence, and practical constraints.
+- GitHub: https://clawhub.ai/ivangdavila/fashion
+- Source: clawhub
+
+## Jarvis Api Contract Guard 01
+
+- Author: xammarie
+- Description: Design and verify API contracts for backward compatibility. Use when handling development work that needs repeatable steps, quality gates, and practical outp...
+- GitHub: https://clawhub.ai/xammarie/jarvis-api-contract-guard-01
+- Source: clawhub
+
+## FP&A Engine
+
+- Author: 1kalin
+- Description: Build and analyze financial models from diverse data, produce variance reports, and create multi-scenario forecasts for strategic FP&A decisions.
+- GitHub: https://clawhub.ai/1kalin/afrexai-fpa-engine
+- Source: clawhub
+
+## Tsz
+
+- Author: roman181
+- Description: Use the ClawdHub CLI to search, install, update, and publish agent skills from clawdhub.com. Use when you need to fetch new skills on the fly, sync installed...
+- GitHub: https://clawhub.ai/roman181/hi
+- Source: clawhub
+
+## Contract & Subscription Renewal Management
+
+- Author: 1kalin
+- Description: Manage contract and subscription renewals using a structured pipeline to reduce churn, optimize pricing, forecast revenue, and execute vendor negotiations.
+- GitHub: https://clawhub.ai/1kalin/afrexai-renewal-management
+- Source: clawhub
+
+## html2md
+
+- Author: saikatkumardey
+- Description: Convert HTML pages to clean, agent-friendly markdown using Readability + Turndown. Strips navigation, ads, footers, cookie banners, social CTAs. Supports URL...
+- GitHub: https://clawhub.ai/saikatkumardey/html2md
+- Source: clawhub
+
+## HookCatch
+
+- Author: HookCatch
+- Description: Test webhooks and expose local services using HookCatch - a developer-friendly webhook testing tool
+- GitHub: https://clawhub.ai/HookCatch/hookcatch
+- Source: clawhub
+
+## Billing
+
+- Author: ivangdavila
+- Description: Build payment integrations, subscription management, and invoicing systems with webhook handling, tax compliance, and revenue recognition.
+- GitHub: https://clawhub.ai/ivangdavila/billing
+- Source: clawhub
+
+## Founder OS
+
+- Author: 1kalin
+- Description: Complete startup operating system — from idea validation to Series A. Covers customer discovery, PMF measurement, fundraising, team building, financial plann...
+- GitHub: https://clawhub.ai/1kalin/afrexai-founder-os
+- Source: clawhub
+
+## Traditional Chinese Dictionary
+
+- Author: kai-tw
+- Description: Query Traditional Chinese dictionaries from Ministry of Education (MOE) Taiwan. Supports looking up word definitions from the "國語辭典簡編本" (Concised Mandarin Di...
+- GitHub: https://clawhub.ai/kai-tw/tc-dict
+- Source: clawhub
+
+## micro-offer-forge
+
+- Author: xammarie
+- Description: Convert a workflow, skill, or capability into a sellable micro-offer with positioning, pricing, packaging, and launch assets.
+- GitHub: https://clawhub.ai/xammarie/micro-offer-forge
+- Stars: 1
+- Source: clawhub
+
+## Sales Playbook
+
+- Author: 1kalin
+- Description: Complete B2B sales system — from ICP to closed-won. Discovery frameworks, objection handling, pipeline management, forecasting, and deal acceleration. Works...
+- GitHub: https://clawhub.ai/1kalin/afrexai-sales-playbook
+- Source: clawhub
+
+## EvidenceOps - Forensic Evidence Management
+
+- Author: msrovani
+- Description: Forensic media triage with chain of custody. Use when receiving images, videos, audio, PDFs, or documents that need evidence-grade handling, integrity verifi...
+- GitHub: https://clawhub.ai/msrovani/skill-evidenceops
+- Source: clawhub
+
+## Gmail → Outlook Migration Kit — M365, IMAP, DNS Records
+
+- Author: Luigi08001
+- Description: Migrate email, contacts, and calendars from Google Workspace (Gmail) to Microsoft 365 (Outlook/Exchange Online). Use when a user asks to migrate from Gmail t...
+- GitHub: https://clawhub.ai/Luigi08001/gmail-to-outlook
+- Source: clawhub
+
+## Feishu Voice Assistant
+
+- Author: autogame-17
+- Description: Sends voice messages (audio) to Feishu chats using Duby TTS.
+- GitHub: https://clawhub.ai/autogame-17/feishu-voice-assistant
 - Source: clawhub
