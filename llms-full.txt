@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9326 skills | Last updated: 2026-02-17
+> Total: 9338 skills | Last updated: 2026-02-17
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -66236,4 +66236,89 @@ parallelisms, and excessive conjunctive phrases.
 - Author: davidpolotm
 - Description: Trade 10-second crypto prediction markets on PredictMe
 - GitHub: https://clawhub.ai/davidpolotm/mi-analista
+- Source: clawhub
+
+## Roundtable — Multi-Agent Debate Council
+
+- Author: clawhub
+- Description: Multi-agent debate council — spawns 3 specialized sub-agents in parallel (Scholar, Engineer, Muse) for Round 1, then optional Round 2 cross-examination to ch...
+- GitHub: https://clawhub.ai/skills/roundtable
+- Source: clawhub
+
+## Customer Success Engine
+
+- Author: clawhub
+- Description: Complete customer success, retention, and expansion revenue system. Use for churn prevention, health scoring, onboarding optimization, QBR preparation, expan...
+- GitHub: https://clawhub.ai/skills/afrexai-customer-success
+- Source: clawhub
+
+## Handshake58 — AI Payment Infrastructure
+
+- Author: clawhub
+- Description: Open marketplace for AI services — LLMs, image/video generation, web scraping, model hosting, data extraction, OCR, TTS, and autonomous agent workflows. Agen...
+- GitHub: https://clawhub.ai/skills/drain-mcp
+- Source: clawhub
+
+## Lead Scoring Autopilot — AI-Powered Scoring for HubSpot & CRMs
+
+- Author: clawhub
+- Description: Automate lead scoring in HubSpot and CRMs by combining demographic, behavioral, and intent data to prioritize high-potential sales prospects effectively.
+- GitHub: https://clawhub.ai/skills/lead-scoring
+- Source: clawhub
+
+## Bear Blog Publisher
+
+- Author: clawhub
+- Description: Auto-publish blog posts to Bear Blog - supports both AI-generated content and user-provided markdown.
+- GitHub: https://clawhub.ai/skills/bear-blog-publisher
+- Stars: 1
+- Source: clawhub
+
+## Grocery
+
+- Author: clawhub
+- Description: Build and manage grocery lists with pantry inventory, household quantities, and dietary restriction safety.
+- GitHub: https://clawhub.ai/skills/grocery
+- Source: clawhub
+
+## Web Pilot
+
+- Author: clawhub
+- Description: Search the web and read page contents without API keys. Use when you need to search via DuckDuckGo/Brave/Google (multi-page), extract readable text from URLs...
+- GitHub: https://clawhub.ai/skills/web-pilot
+- Source: clawhub
+
+## Authy
+
+- Author: clawhub
+- Description: Inject secrets into subprocesses via environment variables. You never see secret values — authy run injects them directly. Use for any command that needs API...
+- GitHub: https://clawhub.ai/skills/authy
+- Source: clawhub
+
+## Reva
+
+- Author: clawhub
+- Description: Complete Reva wallet management - passwordless authentication, PayID name claiming, multi-chain crypto transfers to PayIDs or wallet addresses, balance track...
+- GitHub: https://clawhub.ai/skills/reva
+- Source: clawhub
+
+## Multi Workplace
+
+- Author: clawhub
+- Description: Manage multiple workplaces (project directories) with multi-agent orchestration, isolated memory, and inter-agent communication. Use when the user mentions:...
+- GitHub: https://clawhub.ai/skills/multi-workplace
+- Source: clawhub
+
+## Gotchi Finder
+
+- Author: clawhub
+- Description: Fetch Aavegotchi by ID from Base mainnet and display image with full traits. Shows on-chain SVG, converts to PNG, and displays complete gotchi stats.
+- GitHub: https://clawhub.ai/skills/gotchi-finder
+- Source: clawhub
+
+## SearXNG Self-Host
+
+- Author: clawhub
+- Description: Self-hosted web search aggregator for OpenClaw agents. Use this skill to (1) install SearXNG on a VPS/server so the agent can search the web without API keys...
+- GitHub: https://clawhub.ai/skills/searxng-selfhost
 - Source: clawhub
