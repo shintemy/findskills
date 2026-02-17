@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9186 skills | Last updated: 2026-02-17
+> Total: 9203 skills | Last updated: 2026-02-17
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -65247,4 +65247,127 @@ parallelisms, and excessive conjunctive phrases.
 - Author: psyduckler
 - Description: Create an Instagram carousel from a popular-picks list with Reddit quotes. Cover slide uses "clean" style with "Top CATEGORY in Destination" title. Each attr...
 - GitHub: https://clawhub.ai/psyduckler/reddit-quote-carousel
+- Source: clawhub
+
+## latex-document
+
+- Author: ndpvt-web
+- Description: Universal LaTeX document skill for Claude Code: 27 templates, 22 scripts, 22 reference guides. Made with Claude Code on ✦ HappyCapy AI ✦ platform
+- GitHub: https://github.com/ndpvt-web/latex-document-skill
+- Stars: 61
+- Source: github
+
+## douyin-video-fetch
+
+- Author: KAMIENDER
+- Description: OpenClaw 技能：支持通过 URL 或 video_id 下载抖音视频，支持批量与 JSON 输出。OpenClaw skill for downloading Douyin videos by URL/video_id with batch + JSON output.
+- GitHub: https://github.com/KAMIENDER/douyin-video-fetch
+- Source: github
+
+## fitbot
+
+- Author: conmeara
+- Description: Personalized fitness coaching with file-based onboarding, program design, workout logging, and progress reviews. Use when users ask for training plans, day-to-day workout coaching, progression decisions, deloads, or fitness accountability.
+- GitHub: https://github.com/conmeara/fitbot
+- Source: github
+
+## Cv Opus Hackathon
+
+- Author: joshuajerin
+- Description: Skill from joshuajerin/cv-opus-hackathon
+- GitHub: https://github.com/joshuajerin/cv-opus-hackathon
+- Source: github
+
+## useeffect-audit
+
+- Author: anxndsgn
+- Description: "Audit and refactor React Effects using official React guidance: keep Effects for external synchronization, separate events from Effects, model each Effect as an independent start/stop process, fix dependency issues by changing code (not suppressing lint rules), and use useEffectEvent only for truly non-reactive Effect logic."
+- GitHub: https://github.com/anxndsgn/useeffect-audit
+- Source: github
+
+## iblai-router
+
+- Author: iblai
+- Description: Route every OpenClaw request to the cheapest Claude model that can handle it and, uh, save some money.
+- GitHub: https://github.com/iblai/iblai-openclaw-router
+- Stars: 5
+- Source: github
+
+## Nextbrowser1
+
+- Author: clawhub
+- Description: Use Nextbrowser cloud API to spin up cloud browsers for Openclaw to run autonomous browser tasks. Primary use is creating browser sessions with profiles (per...
+- GitHub: https://clawhub.ai/skills/next-browser-1
+- Source: clawhub
+
+## Model Usage
+
+- Author: clawhub
+- Description: Use CodexBar CLI local cost usage to summarize per-model usage for Codex or Claude, including the current (most recent) model or a full model breakdown. Trig...
+- GitHub: https://clawhub.ai/skills/model-usage-skill
+- Source: clawhub
+
+## EZCTO Smart Web Reader
+
+- Author: takahashigy
+- Description: Agent web access acceleration layer — reads any URL as structured JSON. Cache-first (public library hit = 0 tokens). The smart alternative to raw web_fetch.
+- GitHub: https://clawhub.ai/takahashigy/ezcto-smart-web-reader
+- Stars: 1
+- Source: clawhub
+
+## Agentic Mode Upgrades
+
+- Author: maverick-software
+- Description: Upgrades Clawdbot's agent with persistent plans, approval gates, automatic retries, context summarization, checkpointing, and integrated dashboard controls.
+- GitHub: https://clawhub.ai/maverick-software/agent-mode-upgrades
+- Source: clawhub
+
+## Context Visualization
+
+- Author: furukama
+- Description: Visualize the current context window usage — token estimates per component (system prompt, tools, workspace files, messages, free space). Use when the user a...
+- GitHub: https://clawhub.ai/furukama/context-viz
+- Source: clawhub
+
+## Claw Screener
+
+- Author: rsoutar
+- Description: Stock screener combining Williams %R oversold signals with Warren Buffett-style fundamental analysis. Supports US (S&P 500) and Thai (SET) markets.
+- GitHub: https://clawhub.ai/rsoutar/claw-screener
+- Source: clawhub
+
+## Swift Architecture Skill
+
+- Author: efremidze
+- Description: Agent Skill for Swift architecture design and implementation patterns, with architecture-specific playbooks and review checklists. Use when designing new fea...
+- GitHub: https://clawhub.ai/efremidze/swift-architecture-skill
+- Source: clawhub
+
+## Multilogin Publish
+
+- Author: glebkazachinskiy
+- Description: Use when you need to manage Multilogin X browser profiles — launch quick disposable profiles, list/start/stop saved profiles, or check launcher status using...
+- GitHub: https://clawhub.ai/glebkazachinskiy/multilogin
+- Source: clawhub
+
+## ClawDiligence
+
+- Author: yu010101
+- Description: AI M&A due diligence analyst. Analyze companies, valuate businesses, parse financial statements (決算書), and generate acquisition simulation reports from publi...
+- GitHub: https://clawhub.ai/yu010101/clawdiligence
+- Source: clawhub
+
+## Write My Blog
+
+- Author: harshraj001
+- Description: Enables the agent to create, manage, and publish a full-featured blog autonomously. The agent can write posts, upload media, switch between 10 premium design...
+- GitHub: https://clawhub.ai/harshraj001/write-my-blog
+- Stars: 1
+- Source: clawhub
+
+## Hello World
+
+- Author: clawhub
+- Description: A simple greeting skill that responds with a customized hello message in the user's language.
+- GitHub: https://clawhub.ai/skills/hello-world
 - Source: clawhub
