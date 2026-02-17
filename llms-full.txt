@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 8997 skills | Last updated: 2026-02-16
+> Total: 9065 skills | Last updated: 2026-02-17
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -63899,4 +63899,494 @@ parallelisms, and excessive conjunctive phrases.
 - Author: vedantsingh60
 - Description: Track and analyze token usage and costs across AI providers with budget alerts, model cost comparison, optimization tips, and local data storage.
 - GitHub: https://clawhub.ai/vedantsingh60/token-watch
+- Source: clawhub
+
+## Be Critical
+
+- Author: pem725
+- Description: Skill from pem725/be-critical
+- GitHub: https://github.com/pem725/be-critical
+- Source: github
+
+## Chunktech
+
+- Author: jefdiesel
+- Description: Skill from jefdiesel/chunktech
+- GitHub: https://github.com/jefdiesel/chunktech
+- Source: github
+
+## claude-usage
+
+- Author: liaosvcaf
+- Description: Check Claude Max plan usage limits via Claude Code CLI
+- GitHub: https://github.com/liaosvcaf/openclaw-skill-claude-usage
+- Source: github
+
+## discord-voice
+
+- Author: avatarneil
+- Description: A Discord Voice skill for Clawdbot
+- GitHub: https://github.com/avatarneil/discord-voice
+- Stars: 1
+- Source: github
+
+## rust-skills
+
+- Author: curtisault
+- Description: A collection of 179 rules that AI coding agents can use when writing Rust. 
+- GitHub: https://github.com/curtisault/rust-skills
+- Source: github
+
+## obsidian-noter
+
+- Author: Bajtlamer
+- Description: The Claude Skill that manage files or folder as obsidian content keep directory structure.
+- GitHub: https://github.com/Bajtlamer/obsidian-noter
+- Source: github
+
+## emblem-ai
+
+- Author: EmblemCompany
+- Description: Multi-chain wallet authentication, AI-powered crypto assistant, and AI app introspection. Use when the user wants to integrate wallet authentication (Ethereum, Solana, Bitcoin, Hedera), sign transactions, add AI chat capabilities with 25+ crypto tools, display Migrate.fun token migration data, or embed AI-powered monitoring and debugging into Node.js apps. Provides React components, TypeScript SDKs, session-based authentication, and Reflexive for AI introspection. Supports trading, token analysis, DeFi operations, token migration browsing, multi-language debugging, and custom AI tool plugins.
+- GitHub: https://github.com/EmblemCompany/EmblemAi-SKILLS
+- Source: github
+
+## The Evolution Of Todo App
+
+- Author: waqasvicky10
+- Description: Skill from waqasvicky10/The-Evolution-Of-Todo-App
+- GitHub: https://github.com/waqasvicky10/The-Evolution-Of-Todo-App
+- Source: github
+
+## memoclaw
+
+- Author: anajuliabit
+- Description: Semantic memory API skill for AI agents
+- GitHub: https://github.com/anajuliabit/memoclaw-skill
+- Stars: 3
+- Source: github
+
+## aegis-router
+
+- Author: disi3r
+- Description: Native Neural Routing Engine for OpenClaw. Optimizes agent performance and costs via 15-dimensional cognitive analysis and session pinning.
+- GitHub: https://github.com/disi3r/AegisRouter
+- Stars: 1
+- Source: github
+
+## evidence-based-investigation
+
+- Author: liaosvcaf
+- Description: Investigate problems using evidence-based analysis with session logs
+- GitHub: https://github.com/liaosvcaf/openclaw-skill-evidence-based-investigation
+- Source: github
+
+## Copywriting
+
+- Author: IsaacAVazquez
+- Description: Me
+- GitHub: https://github.com/IsaacAVazquez/Website
+- Source: github
+
+## npm-solution-scout
+
+- Author: lucasolopes
+- Description: Intelligent npm package discovery and installation assistant. When users describe Node.js/JavaScript development problems, this skill searches the npm ecosystem, evaluates packages based on maintenance, security, and fit, recommends solutions, and optionally installs them after explicit confirmation.
+- GitHub: https://github.com/lucasolopes/npm-solution-scout
+- Source: github
+
+## Skill Template
+
+- Author: skillbar-ai
+- Description: Skill from skillbar-ai/skill-template
+- GitHub: https://github.com/skillbar-ai/skill-template
+- Source: github
+
+## xint
+
+- Author: 0xNyk
+- Description: X Intelligence CLI — search, monitor, analyze, and engage on X/Twitter. TypeScript + Bun. AI agent skill.
+- GitHub: https://github.com/0xNyk/xint
+- Stars: 13
+- Source: github
+
+## hackagent
+
+- Author: sharmasatyam9921-glitch
+- Description: Ethical bug bounty hunting agent. Reads program rules, performs authorized security testing, writes professional reports, and submits vulnerabilities to earn bounties. ALWAYS operates within scope and follows responsible disclosure.
+- GitHub: https://github.com/sharmasatyam9921-glitch/Viper
+- Source: github
+
+## fireflies
+
+- Author: 6missedcalls
+- Description: Fireflies.ai meeting transcript skill for Claude Code — search, summarize, and ask questions across meetings via GraphQL API
+- GitHub: https://github.com/6missedcalls/fireflies-skill
+- Source: github
+
+## tex-render
+
+- Author: TheBigoranger
+- Description: An openclaw skill that renders LaTeX math to PNG, JPEG, WebP, or AVIF (and SVG). Use when one need a viewable image from LaTeX instead of raw code.
+- GitHub: https://github.com/TheBigoranger/tex-render
+- Source: github
+
+## payment-notifications
+
+- Author: DF791021
+- Description: Production-grade payment notification system with Stripe webhooks for React + tRPC applications
+- GitHub: https://github.com/DF791021/payment-notifications-skill
+- Source: github
+
+## moonbit-spec-test-development
+
+- Author: bobzhang
+- Description: Create formal spec-driven MoonBit APIs and test suites. Use when asked to set up a spec.mbt, spec-driven tests, or a formal contract-first workflow (e.g., "set up a formal spec & test suite for Yaml in MoonBit"), including moon.mod.json/moon.pkg.json scaffolding and guidance to implement in separate files.
+- GitHub: https://github.com/bobzhang/moonbit-spec-test-development
+- Stars: 1
+- Source: github
+
+## Debridge Mcp
+
+- Author: debridge-finance
+- Description: MCP server that gives AI agents the ability to execute cross-chain cryptocurrency swaps and transfers via the deBridge protocol
+- GitHub: https://github.com/debridge-finance/debridge-mcp
+- Stars: 10
+- Source: github
+
+## nima-core
+
+- Author: lilubot
+- Description: Biologically-inspired cognitive memory architecture for AI agents. Affect • Binding • Free Energy • Hyperbolic semantics • Metacognition.
+- GitHub: https://github.com/lilubot/nima-core
+- Stars: 1
+- Source: github
+
+## Openclaw Ai Teammate
+
+- Author: mobiolabs2025
+- Description: OpenClaw skill for AI Teammate - Manage AI agents from your terminal
+- GitHub: https://github.com/mobiolabs2025/openclaw-ai-teammate
+- Source: github
+
+## skill-council
+
+- Author: Pedal0
+- Description: Creates high-quality Claude Code skills through a council of specialized agents (architect, researcher, writer, tester, reviewer). Triggers when user asks to create a skill, when a new project is initialized, when a complex task has no matching skill, or when a major dependency is added. Use when the user mentions "skill", "create a skill", "skill-council", or when detecting skill-creation opportunities.
+- GitHub: https://github.com/Pedal0/skill-council
+- Source: github
+
+## eqa
+
+- Author: eparenti
+- Description: Automated exercise QA for Red Hat Training courses
+- GitHub: https://github.com/eparenti/eqa
+- Source: github
+
+## clawguard
+
+- Author: aeon0199
+- Description:  High-performance C++ system monitor & security watchdog for OpenClaw. Port intrusion detection, skill attribution, trend analysis, proactive alerts. 188KB binary.
+- GitHub: https://github.com/aeon0199/ClawGuard
+- Stars: 3
+- Source: github
+
+## Syke
+
+- Author: saxenauts
+- Description: Agentic memory for AI — synthesizes your digital footprint into psyche-level context for any AI agent via MCP
+- GitHub: https://github.com/saxenauts/syke
+- Stars: 1
+- Source: github
+
+## claude-code
+
+- Author: noncelogic
+- Description: Resilient, async Job Manager for Claude Code. Survives restarts, handles long-running tasks, and decouples coding from agent timeouts.
+- GitHub: https://github.com/noncelogic/openclaw-skill-claude-code
+- Source: github
+
+## Pharmaclaw Chemistry Query
+
+- Author: clawhub
+- Description: Chemistry agent skill for PubChem API queries (compound info/properties, structures/SMILES/images, synthesis routes/references) + RDKit cheminformatics (SMIL...
+- GitHub: https://clawhub.ai/skills/pharmaclaw-chemistry-query
+- Source: clawhub
+
+## Lily Memory
+
+- Author: clawhub
+- Description: Persistent memory plugin for OpenClaw agents. Hybrid SQLite FTS5 keyword + Ollama vector semantic search with auto-capture, auto-recall, stuck-detection, and...
+- GitHub: https://clawhub.ai/skills/lily-memory
+- Source: clawhub
+
+## perplexity-research
+
+- Author: clawhub
+- Description: Conduct deep research using Perplexity Agent API with web search, reasoning, and multi-model analysis. Use when the user needs current information, market re...
+- GitHub: https://clawhub.ai/skills/perplexity-research
+- Source: clawhub
+
+## Hotel Pricer
+
+- Author: clawhub
+- Description: Search hotels by city, dates, and guests using Amadeus API, returning availability and pricing in JSON format via a Go CLI tool.
+- GitHub: https://clawhub.ai/skills/hotel-pricer
+- Source: clawhub
+
+## PayPal
+
+- Author: clawhub
+- Description: Integrate PayPal payments with proper webhook verification, OAuth handling, and security validation for checkout flows and subscriptions.
+- GitHub: https://clawhub.ai/skills/paypal
+- Source: clawhub
+
+## UI UX Pro Max
+
+- Author: iReact2Code
+- Description: Professional UI/UX design resource library with searchable design patterns, color palettes, font pairings, chart types, and UX guidelines. Use when creating...
+- GitHub: https://clawhub.ai/iReact2Code/ui-ux-pro-max-plus
+- Source: clawhub
+
+## IQAir Air Quality
+
+- Author: atesluks
+- Description: Get real-time air quality data from IQAir API for any location worldwide. Returns AQI (Air Quality Index) with visual indicators and quality levels. Use when...
+- GitHub: https://clawhub.ai/atesluks/iqair
+- Stars: 1
+- Source: clawhub
+
+## OctoClaw
+
+- Author: peterhanily
+- Description: Control OctoPrint 3D printer — monitor status, capture webcam snapshots, manage prints, analyze gcode, and detect errors. Use when the user asks about their...
+- GitHub: https://clawhub.ai/peterhanily/octoclaw-print
+- Source: clawhub
+
+## arscontexta
+
+- Author: arscontexta
+- Description: Build and maintain a structured, local markdown knowledge system with automated processing, navigation, and context-aware updates for cognitive AI agents.
+- GitHub: https://clawhub.ai/arscontexta/arscontexta
+- Source: clawhub
+
+## OpenCode CLI  API Controller
+
+- Author: malek262
+- Description: A powerful skill to control Open Code CLI via a local web server API. Allows executing commands, managing sessions, and automating code generation remotely i...
+- GitHub: https://clawhub.ai/malek262/opencode-api-control-skill
+- Stars: 1
+- Source: clawhub
+
+## OpenClaw Swarm
+
+- Author: Heldinhow
+- Description: Enable advanced subagent orchestration with context sharing, state management, parallel tasks, and completion notifications using OpenClaw Swarm features.
+- GitHub: https://clawhub.ai/Heldinhow/openclaw-swarm
+- Source: clawhub
+
+## ERC-8128
+
+- Author: jacopo-eth
+- Description: Sign and verify HTTP requests with Ethereum wallets using ERC-8128. Use when building authenticated APIs that need wallet-based auth, making signed requests...
+- GitHub: https://clawhub.ai/jacopo-eth/erc8128
+- Stars: 1
+- Source: clawhub
+
+## Compliance Checker
+
+- Author: Trypto1019
+- Description: Policy-based compliance assessment for OpenClaw skills. Define security policies, assess skills against them, track violations, and generate compliance repor...
+- GitHub: https://clawhub.ai/Trypto1019/arc-compliance-checker
+- Source: clawhub
+
+## Pharmaclaw Pharmacology Agent
+
+- Author: Cheminem
+- Description: Pharmacology agent for ADME/PK profiling of drug candidates from SMILES. Computes drug-likeness (Lipinski Ro5, Veber rules), QED, SA Score, ADME predictions...
+- GitHub: https://clawhub.ai/Cheminem/pharma-pharmacology-agent
+- Source: clawhub
+
+## Sentiet ORB
+
+- Author: Invelene
+- Description: A background agent that generates a daily life prediction by analyzing local data and social signals.
+- GitHub: https://clawhub.ai/Invelene/daily-oracle
+- Source: clawhub
+
+## Chemistry Query
+
+- Author: Cheminem
+- Description: Chemistry agent skill for PubChem API queries (compound info/properties, structures/SMILES/images, synthesis routes/references) + RDKit cheminformatics (SMIL...
+- GitHub: https://clawhub.ai/Cheminem/chemistry-query
+- Source: clawhub
+
+## Intention Behavior Transformer (IBT)
+
+- Author: palxislabs
+- Description: Intention→Behavior Transformer (IBT) — deterministic execution discipline for reliable agent behavior without flattening personality.
+- GitHub: https://clawhub.ai/palxislabs/ibt
+- Source: clawhub
+
+## Clawality
+
+- Author: projectkindred11
+- Description: Take a 56-question personality test, get typed into one of 8 Clawality Types, and join The Lobby social feed where typed bots argue about the results.
+- GitHub: https://clawhub.ai/projectkindred11/clawality
+- Source: clawhub
+
+## Zoomin Docs Portal Scraper Tool
+
+- Author: recklessop
+- Description: Scrape documentation content from Zoomin Software portals using Playwright browser automation to handle dynamic content loading. Use when standard web fetchi...
+- GitHub: https://clawhub.ai/recklessop/zoomin-scraper-recklessop
+- Source: clawhub
+
+## MISO — Mission Inline Skill Orchestration
+
+- Author: ShunsukeHayashi
+- Description: Telegramでマルチエージェント進捗をリアルタイム表示し、ステータス反映・リアクション・ピン連動でミッションの全過程を可視化します。
+- GitHub: https://clawhub.ai/ShunsukeHayashi/miso
+- Source: clawhub
+
+## goodreads
+
+- Author: surajssd
+- Description: Search for books, get book details and reviews, discover personalized recommendations, and manage reading lists on Goodreads — all through browser automation.
+- GitHub: https://clawhub.ai/surajssd/goodreads
+- Source: clawhub
+
+## B2C Strategy
+
+- Author: ivangdavila
+- Description: Build consumer apps with validated demand, sustainable unit economics, and growth loops that compound.
+- GitHub: https://clawhub.ai/ivangdavila/b2c
+- Source: clawhub
+
+## Aura for OpenClaw
+
+- Author: AuralithInc
+- Description: Compile multi-format documents into local queryable knowledge bases and manage persistent AI memory tiers using Aura Core with zero network requests.
+- GitHub: https://clawhub.ai/AuralithInc/aura-openclaw
+- Stars: 1
+- Source: clawhub
+
+## Horse Sticker Maker
+
+- Author: jiafar
+- Description: Create and deploy a festive Chinese New Year (Year of the Horse 2026) animated GIF sticker maker web app. Use when the user wants to generate custom horse-th...
+- GitHub: https://clawhub.ai/jiafar/horse-sticker-maker
+- Source: clawhub
+
+## Agent Brain
+
+- Author: DobrinAlexandru
+- Description: Memory system for AI agents - never repeat yourself
+- GitHub: https://clawhub.ai/DobrinAlexandru/agent-brain
+- Source: clawhub
+
+## B2A
+
+- Author: ivangdavila
+- Description: Sell to AI agents with machine-readable products, agent-optimized APIs, structured pricing, and discovery strategies for the agentic economy.
+- GitHub: https://clawhub.ai/ivangdavila/b2a
+- Source: clawhub
+
+## OpenClaw Claude Usage
+
+- Author: chunhualiao
+- Description: Check Claude Max plan usage limits by launching Claude Code and running /usage. Use when the user asks about Claude plan usage, remaining quota, rate limits,...
+- GitHub: https://clawhub.ai/chunhualiao/openclaw-claude-usage
+- Source: clawhub
+
+## Obsidian (Linux)
+
+- Author: TriplEight
+- Description: Work with Obsidian vaults (plain Markdown notes) and automate via notesmd-cli.
+- GitHub: https://clawhub.ai/TriplEight/obsidian-linux
+- Source: clawhub
+
+## GoveeClaw
+
+- Author: Cole-Z
+- Description: Script-free Govee OpenAPI setup and control guide. Use when the user wants to get a Govee API key, connect Govee, list devices, check state, or send power/br...
+- GitHub: https://clawhub.ai/Cole-Z/govee-api-assist
+- Source: clawhub
+
+## B2B
+
+- Author: ivangdavila
+- Description: Close enterprise deals with qualification frameworks, prospecting research, pipeline management, and outreach personalization.
+- GitHub: https://clawhub.ai/ivangdavila/b2b
+- Source: clawhub
+
+## GoDaddy
+
+- Author: solarx56
+- Description: Complete GoDaddy API skill with shell scripts + MCP server for domains, DNS, certificates, shoppers, subscriptions, agreements, countries, and aftermarket li...
+- GitHub: https://clawhub.ai/solarx56/godaddy-api
+- Stars: 1
+- Source: clawhub
+
+## guard-scanner
+
+- Author: koatora20
+- Description: Security scanner for AI agent skills. Use BEFORE installing or running any new skill from ClawHub or external sources. Detects prompt injection, credential t...
+- GitHub: https://clawhub.ai/koatora20/guard-scanner
+- Source: clawhub
+
+## Expense Tracker
+
+- Author: aholake
+- Description: Track daily expenses in structured markdown files organized by month. Use when the user wants to log spending, view expense summaries, analyze spending patte...
+- GitHub: https://clawhub.ai/aholake/aholake-expense-tracker
+- Source: clawhub
+
+## Expense Tracker
+
+- Author: aholake
+- Description: Track daily expenses in structured markdown files organized by month. Use when the user wants to log spending, view expense summaries, analyze spending patte...
+- GitHub: https://clawhub.ai/aholake/expense-tracker
+- Source: clawhub
+
+## crypto-trader
+
+- Author: nandichi
+- Description: Automated cryptocurrency trading skill for OpenClaw. Supports 8 trading strategies (Grid Trading, DCA, Trend Following, Scalping, Arbitrage, Swing Trading, C...
+- GitHub: https://clawhub.ai/nandichi/crypto-trader
+- Source: clawhub
+
+## PCAP Analyzer
+
+- Author: marposins
+- Description: Analyze local PCAP/PCAPNG files with tshark to generate detailed network forensics reports including talkers, ports, DNS, TLS, HTTP, and anomaly summaries.
+- GitHub: https://clawhub.ai/marposins/pcap-analyzer
+- Source: clawhub
+
+## Debridge Mcp
+
+- Author: aviclaw
+- Description: Enable non-custodial cross-chain crypto swaps and transfers with optimized routing, fee estimation, and order tracking via the deBridge protocol.
+- GitHub: https://clawhub.ai/aviclaw/debridge-mcp
+- Source: clawhub
+
+## Vibe Research
+
+- Author: ivangdavila
+- Description: Conduct AI-led research with autonomous literature review, hypothesis generation, analysis, and synthesis while human provides vision.
+- GitHub: https://clawhub.ai/ivangdavila/vibe-research
+- Source: clawhub
+
+## OpenClaw Backup Safe
+
+- Author: alessandropcostabr
+- Description: Backup and restore OpenClaw data. Use when user asks to create backups, set up automatic backup schedules, restore from backup, or manage backup rotation. Ha...
+- GitHub: https://clawhub.ai/alessandropcostabr/openclaw-backup-safe
+- Source: clawhub
+
+## Renzo Protocol
+
+- Author: pooleja
+- Description: Query Renzo crypto liquid restaking protocol — DeFi vault yields, TVL, ezETH exchange rates, EigenLayer operators, and supported Ethereum and Solana blockcha...
+- GitHub: https://clawhub.ai/pooleja/renzo
 - Source: clawhub
