@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9621 skills | Last updated: 2026-02-18
+> Total: 9727 skills | Last updated: 2026-02-18
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -68336,4 +68336,761 @@ parallelisms, and excessive conjunctive phrases.
 - Author: ClaireAICodes
 - Description: Organize and classify OpenClaw knowledge entries into local folders by content type (Research, Decision, Insight, Lesson, Pattern, Project, Reference, Tutori...
 - GitHub: https://clawhub.ai/ClaireAICodes/knowledge-management
+- Source: clawhub
+
+## openclaw-clawcredit-gateway-setup
+
+- Author: t54-labs
+- Description: Use when setting up OpenClaw to use the local clawcredit-blockrun gateway provider and validating end-to-end claw.credit paid inference.
+- GitHub: https://github.com/t54-labs/clawcredit-blockrun-gateway
+- Stars: 2
+- Source: github
+
+## coach
+
+- Author: houx15
+- Description: Analyze the user's Claude Code session history and recommend personalized skills to improve their AI collaboration. Use when the user invokes /coach explicitly.
+- GitHub: https://github.com/houx15/claude-coach
+- Source: github
+
+## typos
+
+- Author: luojiyin1987
+- Description: find typos and fix typos
+- GitHub: https://github.com/luojiyin1987/typos-skill
+- Stars: 1
+- Source: github
+
+## commit-message-helper
+
+- Author: ttymayor
+- Description: Helps write Git commit messages following the Conventional Commits specification. Use this skill when the user asks to commit changes, write commit messages, or mentions git commits.
+- GitHub: https://github.com/ttymayor/commit-message-helper
+- Source: github
+
+## MetaMask Agent Wallet
+
+- Author: andreolf
+- Description: Control a sandboxed MetaMask browser extension wallet for autonomous blockchain transactions. Features configurable permission guardrails including spend limits, chain allowlists, protocol restrictions, and approval thresholds. MetaMask-only (other wallets not supported).
+- GitHub: https://github.com/andreolf/metamask-agent-wallet-skill
+- Source: github
+
+## self-xyz
+
+- Author: selfxyz
+- Description: "Integrate Self (self.xyz) — a privacy-first identity protocol using zero-knowledge proofs to verify passports and ID cards. Use when the user mentions Self protocol, Self identity, self.xyz, passport verification, zero-knowledge identity verification, SelfAppBuilder, SelfBackendVerifier, SelfVerificationRoot, or wants to add privacy-preserving KYC, age verification, nationality checks, OFAC screening, or Sybil resistance using real-world identity documents. Covers frontend QR code integration, backend proof verification, and on-chain smart contract verification on Celo."
+- GitHub: https://github.com/selfxyz/self-skill
+- Source: github
+
+## news-aggregator-skill
+
+- Author: huozhong-in
+- Description: fork from https://github.com/cclank/news-aggregator-skill
+- GitHub: https://github.com/huozhong-in/news-aggregator-skill
+- Source: github
+
+## Htmx Claude Skill
+
+- Author: ercan-er
+- Description: Strict production-grade HTMX skill for Claude, Cursor & Codex. Enforces HTML-over-the-wire, server-driven UI, fragment architecture and anti-SPA best practices.
+- GitHub: https://github.com/ercan-er/htmx-claude-skill
+- Stars: 1
+- Source: github
+
+## x-monitor
+
+- Author: ythx-101
+- Description: Monitor X/Twitter tweet replies and get AI-analyzed answers for technical questions. An OpenClaw skill.
+- GitHub: https://github.com/ythx-101/x-monitor
+- Stars: 3
+- Source: github
+
+## vercel-cost-guard
+
+- Author: jshchnz
+- Description: >
+- GitHub: https://github.com/jshchnz/vercel-cost-guard
+- Source: github
+
+## Context7 Documentation Skill
+
+- Author: jaylane
+- Description: Fetches up-to-date, version-specific documentation and code examples for any programming library or framework from Context7. Use this skill when the user nee...
+- GitHub: https://clawhub.ai/jaylane/context7-docs
+- Source: clawhub
+
+## Video Ad Specs
+
+- Author: okaris
+- Description: Video ad creation with exact platform-specific specs for TikTok, Instagram, YouTube, Facebook, LinkedIn. Covers dimensions, duration limits, AIDA framework,...
+- GitHub: https://clawhub.ai/okaris/video-ad-specs
+- Source: clawhub
+
+## Og Image Design
+
+- Author: okaris
+- Description: Open Graph and social sharing image design with platform specs, text placement, and branding. Covers OG meta tags, Twitter cards, LinkedIn previews, and dyna...
+- GitHub: https://clawhub.ai/okaris/og-image-design
+- Source: clawhub
+
+## Youtube Thumbnail Design
+
+- Author: okaris
+- Description: YouTube thumbnail design with specific dimensions, contrast rules, and mobile preview optimization. Covers safe zones, text placement, face expression psycho...
+- GitHub: https://clawhub.ai/okaris/youtube-thumbnail-design
+- Source: clawhub
+
+## Speech To Text
+
+- Author: okaris
+- Description: Transcribe audio to text with Whisper models via inference.sh CLI. Models: Fast Whisper Large V3, Whisper V3 Large. Capabilities: transcription, translation,...
+- GitHub: https://clawhub.ai/okaris/speech-to-text
+- Source: clawhub
+
+## WeChat MP Multi-Publisher
+
+- Author: x402spark-jpg
+- Description: Publish one or multiple Markdown articles to WeChat Official Account (公众号) draft box in a single API call. Supports multi-article combined drafts (main artic...
+- GitHub: https://clawhub.ai/x402spark-jpg/wechat-multi-publisher
+- Source: clawhub
+
+## Feishu Upload Skill
+
+- Author: DeeWooo
+- Description: 上传文件到飞书云盘并发送到指定聊天，支持自动令牌管理、30MB大小限制和多种文件格式，需Node.js 18+环境。
+- GitHub: https://clawhub.ai/DeeWooo/feishu-upload-skill
+- Source: clawhub
+
+## Storyboard Creation
+
+- Author: okaris
+- Description: Film and video storyboarding with shot vocabulary, continuity rules, and panel layout. Covers shot types, camera angles, movement, 180-degree rule, and annot...
+- GitHub: https://clawhub.ai/okaris/storyboard-creation
+- Source: clawhub
+
+## Twitter Automation
+
+- Author: clawhub
+- Description: Automate Twitter/X with posting, engagement, and user management via inference.sh CLI. Apps: x/post-tweet, x/post-create (with media), x/post-like, x/post-re...
+- GitHub: https://clawhub.ai/skills/twitter-automation
+- Stars: 1
+- Source: clawhub
+
+## Ai Podcast Creation
+
+- Author: clawhub
+- Description: Create AI-powered podcasts with text-to-speech, music, and audio editing. Tools: Kokoro TTS, DIA TTS, Chatterbox, AI music generation, media merger. Capabili...
+- GitHub: https://clawhub.ai/skills/ai-podcast-creation
+- Source: clawhub
+
+## Freepik API
+
+- Author: cohnen
+- Description: Generate images, videos, icons, audio, and more using Freepik's AI API. Supports Mystic, Flux, Kling, Hailuo, Seedream, RunWay, Magnific upscaling, stock con...
+- GitHub: https://clawhub.ai/cohnen/freepik
+- Source: clawhub
+
+## Prompt Engineering
+
+- Author: okaris
+- Description: Master prompt engineering for AI models: LLMs, image generators, video models. Techniques: chain-of-thought, few-shot, system prompts, negative prompts. Mode...
+- GitHub: https://clawhub.ai/okaris/prompt-engineering
+- Source: clawhub
+
+## Ai Avatar Video
+
+- Author: okaris
+- Description: Create AI avatar and talking head videos with OmniHuman, Fabric, PixVerse via inference.sh CLI. Models: OmniHuman 1.5, OmniHuman 1.0, Fabric 1.0, PixVerse Li...
+- GitHub: https://clawhub.ai/okaris/ai-avatar-video
+- Source: clawhub
+
+## Python Executor
+
+- Author: okaris
+- Description: Execute Python code in a safe sandboxed environment via [inference.sh](https://inference.sh). Pre-installed: NumPy, Pandas, Matplotlib, requests, BeautifulSo...
+- GitHub: https://clawhub.ai/okaris/python-executor
+- Stars: 1
+- Source: clawhub
+
+## Case Study Writing
+
+- Author: okaris
+- Description: B2B case study writing with STAR framework, data visualization, and research. Covers structure, customer quotes, metrics presentation, and distribution forma...
+- GitHub: https://clawhub.ai/okaris/case-study-writing
+- Source: clawhub
+
+## Ai Voice Cloning
+
+- Author: okaris
+- Description: AI voice generation, text-to-speech, and voice synthesis via inference.sh CLI. Models: Kokoro TTS, DIA, Chatterbox, Higgs, VibeVoice for natural speech. Capa...
+- GitHub: https://clawhub.ai/okaris/ai-voice-cloning
+- Source: clawhub
+
+## Llm Models
+
+- Author: okaris
+- Description: Access Claude, Gemini, Kimi, GLM and 100+ LLMs via inference.sh CLI using OpenRouter. Models: Claude Opus 4.5, Claude Sonnet 4.5, Claude Haiku 4.5, Gemini 3...
+- GitHub: https://clawhub.ai/okaris/llm-models
+- Source: clawhub
+
+## Pitch Deck Visuals
+
+- Author: okaris
+- Description: Investor pitch deck structure with slide-by-slide framework, visual design rules, and data presentation. Covers the 12-slide framework, chart types, team sli...
+- GitHub: https://clawhub.ai/okaris/pitch-deck-visuals
+- Source: clawhub
+
+## Press Release Writing
+
+- Author: okaris
+- Description: Press release writing in AP style with inverted pyramid structure. Covers formatting, datelines, quotes, boilerplates, and fact-checking. Use for: product la...
+- GitHub: https://clawhub.ai/okaris/press-release-writing
+- Source: clawhub
+
+## 港股 AI 概念板块专属投研顾问。结合宏观流动性、南向资金博弈与 AI 产业基本面，提供深度的个股挖掘与风控策略。
+
+- Author: yangwenxin160-cpu
+- Description: 港股 AI 概念板块专属投研顾问。结合宏观流动性、南向资金博弈与 AI 产业基本面，提供深度的个股挖掘与风控策略。
+- GitHub: https://clawhub.ai/yangwenxin160-cpu/hk-ai-stock-expert
+- Source: clawhub
+
+## Image To Video
+
+- Author: okaris
+- Description: Still-to-video conversion guide: model selection, motion prompting, and camera movement. Covers Wan 2.5 i2v, Seedance, Fabric, Grok Video with when to use ea...
+- GitHub: https://clawhub.ai/okaris/image-to-video
+- Source: clawhub
+
+## Clawprompt
+
+- Author: jiafar
+- Description: Launch a smart teleprompter with mobile remote control for video recording. Use when the user wants to read scripts while recording video, use a teleprompter...
+- GitHub: https://clawhub.ai/jiafar/clawprompt
+- Source: clawhub
+
+## Geepers Etymology
+
+- Author: lukeslp
+- Description: Look up word etymology, historical sound changes, language family trees, and word evolution through the dr.eamer.dev etymology and diachronic linguistics API...
+- GitHub: https://clawhub.ai/lukeslp/geepers-etymology
+- Source: clawhub
+
+## My Claw Shell
+
+- Author: biosaylom
+- Description: Runs shell commands inside a dedicated tmux session named claw, returning the command output while restricting dangerous commands without confirmation.
+- GitHub: https://clawhub.ai/biosaylom/my-claw-shell
+- Source: clawhub
+
+## Claw Mouse
+
+- Author: rylena
+- Description: Control a Linux X11 desktop by taking screenshots and moving/clicking/typing via xdotool + scrot.
+- GitHub: https://clawhub.ai/rylena/claw-mouse
+- Source: clawhub
+
+## Clawflow
+
+- Author: srikanth235
+- Description: Protocol for multi-agent collaboration via OpenClaw's message-passing and recursive task DAGs. Use this skill whenever the user wants to coordinate work acro...
+- GitHub: https://clawhub.ai/srikanth235/clawflow
+- Source: clawhub
+
+## ClawDraw
+
+- Author: kajukabla
+- Description: Create algorithmic art on ClawDraw's infinite multiplayer canvas. Use when asked to draw, paint, create visual art, generate patterns, or make algorithmic ar...
+- GitHub: https://clawhub.ai/kajukabla/clawdraw
+- Stars: 1
+- Source: clawhub
+
+## Generate Images via GLM
+
+- Author: chunhualiao
+- Description: Generate images using GLM-Image API. Use when the user wants to generate, create, or draw an image from a text prompt. Triggers on requests like "generate an...
+- GitHub: https://clawhub.ai/chunhualiao/glm-image
+- Source: clawhub
+
+## Geepers Data
+
+- Author: lukeslp
+- Description: Fetch structured data from 17 authoritative APIs — arXiv, Census Bureau, GitHub, NASA, Wikipedia, PubMed, news, weather, finance, FEC, and more — through a s...
+- GitHub: https://clawhub.ai/lukeslp/geepers-data
+- Source: clawhub
+
+## Fractal Memory
+
+- Author: bugmaker2
+- Description: Automated hierarchical memory compression system that prevents context overflow through daily→weekly→monthly→core compression. Use when you need (1) long-ter...
+- GitHub: https://clawhub.ai/bugmaker2/fractal-memory
+- Source: clawhub
+
+## Openclaw Work Protocol
+
+- Author: jjjojoj
+- Description: 规范OpenClaw AI Agents工作流程，确保增量推进、主动汇报、实时解决问题和严格避免模板废话。
+- GitHub: https://clawhub.ai/jjjojoj/openclaw-work-protocol
+- Source: clawhub
+
+## Naming And Domains
+
+- Author: JK-0001
+- Description: Name a business, product, or service and secure a matching domain. Use when brainstorming names, evaluating name quality, checking domain availability, choos...
+- GitHub: https://clawhub.ai/JK-0001/naming-and-domains
+- Source: clawhub
+
+## Mvp Planning
+
+- Author: JK-0001
+- Description: Plan and scope a Minimum Viable Product for a solopreneur. Use when deciding what to build first, what to cut, how to prioritize features, how to define "don...
+- GitHub: https://clawhub.ai/JK-0001/mvp-planning
+- Source: clawhub
+
+## audio-broadcast
+
+- Author: oxiaom
+- Description: 控制小播鼠广播系统进行音频播放和广播通知。使用当用户需要向广播设备播放音频、设置音量、管理定时广播任务、或查看设备状态时。支持播放音频文件、URL播放、音量调节、设备管理、定时任务管理、文字转语音(TTS)广播等功能。Control xiaoboshu broadcast system for audio pla...
+- GitHub: https://clawhub.ai/oxiaom/audio-broadcast
+- Source: clawhub
+
+## DocClaw
+
+- Author: vibecodooor
+- Description: DocClaw is a documentation skill for OpenClaw that combines live docs search, direct markdown fetch, and offline local-doc fallback.
+- GitHub: https://clawhub.ai/vibecodooor/docclaw
+- Source: clawhub
+
+## Product Changelog
+
+- Author: okaris
+- Description: Product changelog and release notes that users actually read. Covers categorization, user-facing language, visuals, and distribution. Use for: release notes,...
+- GitHub: https://clawhub.ai/okaris/product-changelog
+- Source: clawhub
+
+## Product Hunt Launch
+
+- Author: okaris
+- Description: Product Hunt launch optimization with specific specs, timing, and gallery strategy. Covers taglines, gallery images, maker comments, and launch day tactics....
+- GitHub: https://clawhub.ai/okaris/product-hunt-launch-2
+- Source: clawhub
+
+## Seo Content Brief
+
+- Author: okaris
+- Description: SEO content brief creation with keyword research, search intent analysis, and content structure. Covers SERP analysis, heading hierarchy, word count targets,...
+- GitHub: https://clawhub.ai/okaris/seo-content-brief
+- Source: clawhub
+
+## Talking Head Production
+
+- Author: okaris
+- Description: Talking head video production with AI avatars, lipsync, and voiceover. Covers portrait requirements, audio quality, OmniHuman, PixVerse lipsync, Dia TTS. Use...
+- GitHub: https://clawhub.ai/okaris/talking-head-production
+- Source: clawhub
+
+## Technical Blog Writing
+
+- Author: okaris
+- Description: Technical blog post writing with structure, code examples, and developer audience conventions. Covers post types, code formatting, explanation depth, and dev...
+- GitHub: https://clawhub.ai/okaris/technical-blog-writing
+- Source: clawhub
+
+## Twitter Thread Creation
+
+- Author: okaris
+- Description: Twitter/X thread writing with hook tweets, thread structure, and engagement optimization. Covers tweet formatting, character limits, media attachments, and p...
+- GitHub: https://clawhub.ai/okaris/twitter-thread-creation
+- Source: clawhub
+
+## Video Prompting Guide
+
+- Author: okaris
+- Description: Best practices and techniques for writing effective AI video generation prompts. Covers: Veo, Seedance, Wan, Grok, Kling, Runway, Pika, Sora prompting strate...
+- GitHub: https://clawhub.ai/okaris/video-prompting-guide
+- Source: clawhub
+
+## Tools Ui
+
+- Author: okaris
+- Description: Tool lifecycle UI components for React/Next.js from ui.inference.sh. Display tool calls: pending, progress, approval required, results. Capabilities: tool st...
+- GitHub: https://clawhub.ai/okaris/tools-ui
+- Source: clawhub
+
+## Text To Speech
+
+- Author: okaris
+- Description: Convert text to natural speech with DIA TTS, Kokoro, Chatterbox, and more via inference.sh CLI. Models: DIA TTS (conversational), Kokoro TTS, Chatterbox, Hig...
+- GitHub: https://clawhub.ai/okaris/text-to-speech
+- Source: clawhub
+
+## Related Skill
+
+- Author: okaris
+- Description: Discover and install related skills from inference.sh skill registry. Helps find complementary skills for your AI workflow. Use for: skill discovery, workflo...
+- GitHub: https://clawhub.ai/okaris/related-skill
+- Source: clawhub
+
+## Python Sdk
+
+- Author: okaris
+- Description: Python SDK for inference.sh - run AI apps, build agents, and integrate with 150+ models. Package: inferencesh (pip install inferencesh). Supports sync/async,...
+- GitHub: https://clawhub.ai/okaris/python-sdk
+- Source: clawhub
+
+## Chat Ui
+
+- Author: okaris
+- Description: Chat UI building blocks for React/Next.js from ui.inference.sh. Components: container, messages, input, typing indicators, avatars. Capabilities: chat interf...
+- GitHub: https://clawhub.ai/okaris/chat-ui
+- Source: clawhub
+
+## Character Design Sheet
+
+- Author: okaris
+- Description: Character consistency across AI-generated images with reference sheets and LoRA techniques. Covers turnaround views, expression sheets, color palettes, and s...
+- GitHub: https://clawhub.ai/okaris/character-design-sheet
+- Source: clawhub
+
+## Ai Automation Workflows
+
+- Author: okaris
+- Description: Build automated AI workflows combining multiple models and services. Patterns: batch processing, scheduled tasks, event-driven pipelines, agent loops. Tools:...
+- GitHub: https://clawhub.ai/okaris/ai-automation-workflows
+- Source: clawhub
+
+## Geepers Corpus
+
+- Author: lukeslp
+- Description: Query the COCA (Corpus of Contemporary American English) linguistics API for word frequency, collocations, concordances, and historical usage trends. Use for...
+- GitHub: https://clawhub.ai/lukeslp/geepers-corpus
+- Source: clawhub
+
+## Ai Content Pipeline
+
+- Author: okaris
+- Description: Build multi-step AI content creation pipelines combining image, video, audio, and text. Workflow examples: generate image -> animate -> add voiceover -> merg...
+- GitHub: https://clawhub.ai/okaris/ai-content-pipeline
+- Source: clawhub
+
+## App Store Screenshots
+
+- Author: okaris
+- Description: App Store and Google Play screenshot creation with exact platform specs. Covers iOS/Android dimensions, gallery ordering, device mockups, and preview videos....
+- GitHub: https://clawhub.ai/okaris/app-store-screenshots
+- Source: clawhub
+
+## Book Cover Design
+
+- Author: okaris
+- Description: Book cover design with genre-specific conventions, typography rules, and AI image generation. Covers fiction and non-fiction genres, sizing, thumbnail testin...
+- GitHub: https://clawhub.ai/okaris/book-cover-design
+- Source: clawhub
+
+## Competitor Teardown
+
+- Author: okaris
+- Description: Structured competitive analysis with feature matrices, SWOT, positioning maps, and UX review. Covers research frameworks, pricing comparison, review mining,...
+- GitHub: https://clawhub.ai/okaris/competitor-teardown
+- Source: clawhub
+
+## Customer Persona
+
+- Author: okaris
+- Description: Research-backed customer persona creation with market data and avatar generation. Covers demographics, psychographics, jobs-to-be-done, journey mapping, and...
+- GitHub: https://clawhub.ai/okaris/customer-persona
+- Source: clawhub
+
+## Data Visualization
+
+- Author: okaris
+- Description: Data visualization with chart selection, color theory, and annotation best practices. Covers chart types (bar, line, scatter, heatmap), axes rules, and story...
+- GitHub: https://clawhub.ai/okaris/data-visualization-2
+- Source: clawhub
+
+## Dialogue Audio
+
+- Author: okaris
+- Description: Multi-speaker dialogue audio creation with Dia TTS. Covers speaker tags, emotion control, pacing, conversation flow, and post-production. Use for: podcasts,...
+- GitHub: https://clawhub.ai/okaris/dialogue-audio
+- Source: clawhub
+
+## Email Design
+
+- Author: okaris
+- Description: Email marketing design with layout patterns, subject line formulas, and deliverability rules. Covers welcome sequences, promotional emails, transactional tem...
+- GitHub: https://clawhub.ai/okaris/email-design
+- Source: clawhub
+
+## Explainer Video Guide
+
+- Author: okaris
+- Description: Explainer video production guide: scripting, voiceover, visuals, and assembly. Covers script formulas, pacing rules, scene planning, and multi-tool pipelines...
+- GitHub: https://clawhub.ai/okaris/explainer-video-guide
+- Source: clawhub
+
+## Landing Page Design
+
+- Author: okaris
+- Description: Landing page conversion optimization with layout rules, hero section design, and CTA psychology. Covers above-the-fold formula, social proof placement, mobil...
+- GitHub: https://clawhub.ai/okaris/landing-page-design
+- Source: clawhub
+
+## Linkedin Content
+
+- Author: okaris
+- Description: LinkedIn post writing with hook formulas, formatting rules, and engagement patterns. Covers post types, algorithm signals, character limits, and content pill...
+- GitHub: https://clawhub.ai/okaris/linkedin-content
+- Source: clawhub
+
+## Logo Design Guide
+
+- Author: okaris
+- Description: Logo design principles and AI image generation best practices for creating logos. Covers logo types, prompting techniques, scalability rules, and iteration w...
+- GitHub: https://clawhub.ai/okaris/logo-design-guide
+- Source: clawhub
+
+## Javascript Sdk
+
+- Author: okaris
+- Description: JavaScript/TypeScript SDK for inference.sh - run AI apps, build agents, integrate 150+ models. Package: @inferencesh/sdk (npm install). Full TypeScript suppo...
+- GitHub: https://clawhub.ai/okaris/javascript-sdk
+- Source: clawhub
+
+## Image Upscaling
+
+- Author: okaris
+- Description: Upscale and enhance images with Real-ESRGAN, Thera, Topaz, FLUX Upscaler via inference.sh CLI. Models: Real-ESRGAN, Thera (any size), FLUX Dev Upscaler, Topa...
+- GitHub: https://clawhub.ai/okaris/image-upscaling
+- Source: clawhub
+
+## Google Veo
+
+- Author: okaris
+- Description: Generate videos with Google Veo models via inference.sh CLI. Models: Veo 3.1, Veo 3.1 Fast, Veo 3, Veo 3 Fast, Veo 2. Capabilities: text-to-video, cinematic...
+- GitHub: https://clawhub.ai/okaris/google-veo
+- Source: clawhub
+
+## Flux Image
+
+- Author: okaris
+- Description: Generate images with FLUX models (Black Forest Labs) via inference.sh CLI. Models: FLUX Dev LoRA, FLUX.2 Klein LoRA with custom style adaptation. Capabilitie...
+- GitHub: https://clawhub.ai/okaris/flux-image
+- Stars: 1
+- Source: clawhub
+
+## Background Removal
+
+- Author: okaris
+- Description: Remove backgrounds from images with BiRefNet via inference.sh CLI. Model: BiRefNet (high accuracy background removal). Use for: product photos, portraits, e-...
+- GitHub: https://clawhub.ai/okaris/background-removal
+- Source: clawhub
+
+## Ai Product Photography
+
+- Author: okaris
+- Description: Generate professional AI product photography and commercial images. Models: FLUX, Imagen 3, Grok, Seedream for product shots, lifestyle images, mockups. Capa...
+- GitHub: https://clawhub.ai/okaris/ai-product-photography
+- Source: clawhub
+
+## Ai Marketing Videos
+
+- Author: okaris
+- Description: Create AI marketing videos for ads, promos, product launches, and brand content. Models: Veo, Seedance, Wan, FLUX for visuals, Kokoro for voiceover. Types: p...
+- GitHub: https://clawhub.ai/okaris/ai-marketing-videos
+- Stars: 2
+- Source: clawhub
+
+## Ai Social Media Content
+
+- Author: okaris
+- Description: Create AI-powered social media content for TikTok, Instagram, YouTube, Twitter/X. Generate: images, videos, reels, shorts, thumbnails, captions, hashtags. To...
+- GitHub: https://clawhub.ai/okaris/ai-social-media-content
+- Stars: 1
+- Source: clawhub
+
+## Newsletter Curation
+
+- Author: okaris
+- Description: Newsletter curation with content sourcing, editorial structure, and subscriber growth strategies. Covers issue formatting, link roundups, commentary style, a...
+- GitHub: https://clawhub.ai/okaris/newsletter-curation
+- Source: clawhub
+
+## Ai Rag Pipeline
+
+- Author: okaris
+- Description: Build RAG (Retrieval Augmented Generation) pipelines with web search and LLMs. Tools: Tavily Search, Exa Search, Exa Answer, Claude, GPT-4, Gemini via OpenRo...
+- GitHub: https://clawhub.ai/okaris/ai-rag-pipeline
+- Source: clawhub
+
+## Deep Thinking
+
+- Author: amankr-novo
+- Description: Comprehensive deep reasoning framework that guides systematic, thorough thinking for complex tasks. Automatically applies for multi-step problems, ambiguous...
+- GitHub: https://clawhub.ai/amankr-novo/deep-thinking
+- Stars: 1
+- Source: clawhub
+
+## Ai Video Generation
+
+- Author: okaris
+- Description: Generate AI videos with Google Veo, Seedance, Wan, Grok and 40+ models via inference.sh CLI. Models: Veo 3.1, Veo 3, Seedance 1.5 Pro, Wan 2.5, Grok Imagine...
+- GitHub: https://clawhub.ai/okaris/ai-video-generation
+- Stars: 1
+- Source: clawhub
+
+## Ai Music Generation
+
+- Author: okaris
+- Description: Generate AI music and songs with Diffrythm, Tencent Song Generation via inference.sh CLI. Models: Diffrythm (fast song generation), Tencent Song Generation (...
+- GitHub: https://clawhub.ai/okaris/ai-music-generation
+- Source: clawhub
+
+## Ai Image Generation
+
+- Author: okaris
+- Description: Generate AI images with FLUX, Gemini, Grok, Seedream, Reve and 50+ models via inference.sh CLI. Models: FLUX Dev LoRA, FLUX.2 Klein LoRA, Gemini 3 Pro Image,...
+- GitHub: https://clawhub.ai/okaris/ai-image-generation
+- Source: clawhub
+
+## Agent Browser
+
+- Author: okaris
+- Description: Browser automation for AI agents via inference.sh. Navigate web pages, interact with elements using @e refs, take screenshots, record video. Capabilities: we...
+- GitHub: https://clawhub.ai/okaris/agentic-browser
+- Stars: 1
+- Source: clawhub
+
+## Agent Ui
+
+- Author: okaris
+- Description: Batteries-included agent component for React/Next.js from ui.inference.sh. One component with runtime, tools, streaming, approvals, and widgets built in. Cap...
+- GitHub: https://clawhub.ai/okaris/agent-ui
+- Source: clawhub
+
+## Audit OpenClaw Security
+
+- Author: tristanmanchester
+- Description: Audit and harden OpenClaw (Gateway + agents) security. Use when the user asks to audit/secure/harden OpenClaw; when troubleshooting risky exposure (especiall...
+- GitHub: https://clawhub.ai/tristanmanchester/audit-openclaw-security
+- Source: clawhub
+
+## Duckduckgo Search
+
+- Author: omprasad122007-rgb
+- Description: DuckDuckGo web search for private tracker-free searching. Use when user asks to search the web find information online or perform web-based research without...
+- GitHub: https://clawhub.ai/omprasad122007-rgb/ddg-search-privacy
+- Source: clawhub
+
+## Fathom
+
+- Author: lauren-hayes-ai
+- Description: Access Fathom AI meeting recordings, transcripts, summaries, and action items via the Fathom API. Use when the user asks about meeting notes, call summaries,...
+- GitHub: https://clawhub.ai/lauren-hayes-ai/fathom-meetings
+- Source: clawhub
+
+## Outreach And Prospecting
+
+- Author: JK-0001
+- Description: Run cold and warm outreach campaigns to find and engage potential customers or partners. Use when building a prospecting pipeline, writing cold emails or Lin...
+- GitHub: https://clawhub.ai/JK-0001/outreach-and-prospecting
+- Source: clawhub
+
+## Hookflo Webhooks
+
+- Author: Prateek32177
+- Description: Use this skill for requests touching webhooks, event-driven infrastructure, or real-time HTTP callbacks — from beginner setup to advanced security and archit...
+- GitHub: https://clawhub.ai/Prateek32177/hookflo-tern
+- Stars: 1
+- Source: clawhub
+
+## Casino Game For OpenClaw Agent
+
+- Author: ClawDeploy
+- Description: Free casino gaming platform for OpenClaw agents. Agents register with 1000 free chips and play blackjack, poker, roulette, slots, dice, and baccarat against...
+- GitHub: https://clawhub.ai/ClawDeploy/clawroll
+- Source: clawhub
+
+## Duckduckgo Search 1.0.0
+
+- Author: omprasad122007-rgb
+- Description: Performs web searches using DuckDuckGo to retrieve real-time information from the internet. Use when the user needs to search for current events, documentati...
+- GitHub: https://clawhub.ai/omprasad122007-rgb/duckduckgo-search-1-0-0
+- Source: clawhub
+
+## Markdown Browser
+
+- Author: johnortegahyc
+- Description: Wrapper skill for OpenClaw web_fetch results. Use when you need MECE post-processing on fetched pages: policy decision from Content-Signal, privacy redaction...
+- GitHub: https://clawhub.ai/johnortegahyc/markdown-browser-skills-openclaw
+- Source: clawhub
+
+## Geepers Orchestrate
+
+- Author: lukeslp
+- Description: Run multi-agent Dream Cascade (hierarchical 3-tier synthesis) or Dream Swarm (parallel multi-domain search) workflows via the dr.eamer.dev orchestration API....
+- GitHub: https://clawhub.ai/lukeslp/geepers-orchestrate
+- Source: clawhub
+
+## Geepers Llm
+
+- Author: lukeslp
+- Description: Send requests to the dr.eamer.dev LLM API for chat completions, vision analysis, image generation, text-to-speech, and video generation across 12 model provi...
+- GitHub: https://clawhub.ai/lukeslp/geepers-llm
+- Source: clawhub
+
+## Persistent Memory
+
+- Author: Jakebot-ops
+- Description: Three-layer persistent memory system (Markdown + ChromaDB vectors + NetworkX knowledge graph) for long-term agent recall across sessions. Use when the agent...
+- GitHub: https://clawhub.ai/Jakebot-ops/persistent-memory
+- Source: clawhub
+
+## Offline Llama
+
+- Author: and-ray-m
+- Description: Manage local Ollama models autonomously with health monitoring, automatic fallback, self-healing, and offline operation without internet dependency.
+- GitHub: https://clawhub.ai/and-ray-m/offline-llama
+- Source: clawhub
+
+## Neokarma Soul.md Builder
+
+- Author: veiovi
+- Description: Persistent personality for AI agents — define, evolve, and share your soul
+- GitHub: https://clawhub.ai/veiovi/neokarma-soulmd-builder
+- Source: clawhub
+
+## Negotiation
+
+- Author: JK-0001
+- Description: Navigate negotiations as a solopreneur — pricing, scope, terms, and contracts. Use when a prospect pushes back on price, wants to change scope, disputes term...
+- GitHub: https://clawhub.ai/JK-0001/negotiation-2
+- Source: clawhub
+
+## DeepReader
+
+- Author: astonysh
+- Description: The default web content reader for OpenClaw. Reads X (Twitter), Reddit, YouTube, and any webpage into clean Markdown — zero API keys required. Use when you n...
+- GitHub: https://clawhub.ai/astonysh/deepreader-skill
+- Source: clawhub
+
+## X1 Vault Memory
+
+- Author: Lokoweb3
+- Description: Backup and restore OpenClaw agent memory to IPFS with AES-256-GCM encryption and X1 blockchain CID anchoring
+- GitHub: https://clawhub.ai/Lokoweb3/x1-vault-memory
+- Source: clawhub
+
+## Niche Selection
+
+- Author: JK-0001
+- Description: Select and refine a profitable, focused niche for a solopreneur business. Use when deciding which market segment to serve, narrowing a broad idea into a defe...
+- GitHub: https://clawhub.ai/JK-0001/niche-selection
+- Source: clawhub
+
+## atoship
+
+- Author: atoship-dev
+- Description: Turn your AI assistant into a fully autonomous shipping manager. Buy discounted labels, compare rates across USPS, FedEx, and UPS, track packages, and manage...
+- GitHub: https://clawhub.ai/atoship-dev/atoship
+- Stars: 1
 - Source: clawhub
