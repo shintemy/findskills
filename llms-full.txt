@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9805 skills | Last updated: 2026-02-18
+> Total: 9852 skills | Last updated: 2026-02-18
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -69645,4 +69645,337 @@ parallelisms, and excessive conjunctive phrases.
 - Author: hsantana
 - Description: Manage, create, update, and analyze custom crypto indices with detailed asset weights, methodologies, and performance metrics via API or Web3 authentication.
 - GitHub: https://clawhub.ai/hsantana/indexy
+- Source: clawhub
+
+## Polymarket Analytics for OpenClaw
+
+- Author: vlprosvirkin
+- Description: Polymarket prediction markets: analytics, trading, hot markets, price movements, top traders, and market search. Powered by prob.trade.
+- GitHub: https://clawhub.ai/vlprosvirkin/prob-trade-polymarket-analytics
+- Stars: 1
+- Source: clawhub
+
+## Photo Captions
+
+- Author: pfrederiksen
+- Description: Generate platform-tuned social media captions for photography. Use when a user shares a photo and wants captions for posting. Triggers on sharing photos with...
+- GitHub: https://clawhub.ai/pfrederiksen/photo-captions
+- Source: clawhub
+
+## Cal.com
+
+- Author: PeerRich
+- Description: Interact with the Cal.com API v2 to manage scheduling, bookings, event types, availability, and calendars. Use this skill when building integrations that nee...
+- GitHub: https://clawhub.ai/PeerRich/calcom
+- Source: clawhub
+
+## Soft Pillow - Sleep & dream journal
+
+- Author: kivS
+- Description: Use when the user asks about their sleep data, dream history, or wants to query sleep entries from the Soft Pillow app.
+- GitHub: https://clawhub.ai/kivS/soft-pillow
+- Source: clawhub
+
+## Last30days
+
+- Author: BrianRWagner
+- Description: Research any topic across Reddit, X, and web from the last 30 days. Get current trends, real community sentiment, and actionable insights in 7 minutes vs 2 h...
+- GitHub: https://clawhub.ai/BrianRWagner/brw-last30days
+- Source: clawhub
+
+## Calendar
+
+- Author: NDCCCCCC
+- Description: Calendar management and scheduling. Create events, manage meetings, and sync across calendar providers.
+- GitHub: https://clawhub.ai/NDCCCCCC/calendar
+- Source: clawhub
+
+## Superpowers Mode (v2-lite)
+
+- Author: Spiceman161
+- Description: Enable or disable a strict engineering workflow for coding tasks enforcing goal clarification, specs, planning, test-driven small steps, and verification.
+- GitHub: https://clawhub.ai/Spiceman161/superpowers-mode
+- Source: clawhub
+
+## Donotify Voice Call Reminder
+
+- Author: MicahelE
+- Description: Send immediate voice call reminders or schedule future calls via DoNotify.
+- GitHub: https://clawhub.ai/MicahelE/donotify-voice-call-reminder
+- Source: clawhub
+
+## Passwordstore Broker
+
+- Author: BieggerM
+- Description: Enforce safe secret handling for agent workflows by never asking users to paste raw passwords/API keys into chat, brokering new secrets through `scripts/get_...
+- GitHub: https://clawhub.ai/BieggerM/passwordstore-broker
+- Source: clawhub
+
+## Whisnap
+
+- Author: Neolio42
+- Description: macOS CLI for transcribing audio and video files using local Whisper models or Whisnap Cloud.
+- GitHub: https://clawhub.ai/Neolio42/whisnap
+- Source: clawhub
+
+## gamer-news-skill
+
+- Author: byeolbit
+- Description: Fetch and summarize the latest video game news from major gaming outlets (IGN, Kotaku, GameSpot, Polygon, Eurogamer, Rock Paper Shotgun, VG247, Gematsu, Play...
+- GitHub: https://clawhub.ai/byeolbit/gamer-news
+- Source: clawhub
+
+## ZFS
+
+- Author: mightybyte
+- Description: ZFS filesystem administration, pool management, dataset configuration, snapshots, replication, encryption, performance tuning, and troubleshooting on OpenZFS...
+- GitHub: https://clawhub.ai/mightybyte/zfs
+- Source: clawhub
+
+## mo-test-1
+
+- Author: moyu0032
+- Description: Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, gener...
+- GitHub: https://clawhub.ai/moyu0032/mo-test-1
+- Source: clawhub
+
+## revol
+
+- Author: RevolGMPHL
+- Description: Suno AI 音乐创作助手 — 自动登录、创建歌曲、下载音频。当用户要求生成音乐、写歌、创作歌曲、用 Suno 生成 AI 音乐时使用。支持自定义歌词、音乐风格、自动解决 hCaptcha 验证码。
+- GitHub: https://clawhub.ai/RevolGMPHL/suno-skill
+- Stars: 1
+- Source: clawhub
+
+## Investor Relations Playbook
+
+- Author: 1kalin
+- Description: Comprehensive IR framework for startups covering updates, shareholder letters, meetings, cap table management, KPIs, communication, crisis handling, and fund...
+- GitHub: https://clawhub.ai/1kalin/afrexai-investor-relations
+- Source: clawhub
+
+## Credence
+
+- Author: pestafford
+- Description: Check any MCP server or AI tool against the Credence trust registry before installing it. Scores security, provenance, and behavioral risk on a 0-100 scale.
+- GitHub: https://clawhub.ai/pestafford/credence
+- Source: clawhub
+
+## xiaohongshu-ops
+
+- Author: Xiangyu-CAS
+- Description: Provides end-to-end Xiaohongshu account operations including positioning, topic research, content creation, publishing rehearsal, and post-publish interactio...
+- GitHub: https://clawhub.ai/Xiangyu-CAS/xiaohongshu-ops
+- Source: clawhub
+
+## OKR Engine
+
+- Author: 1kalin
+- Description: Facilitates setting, aligning, cascading, and scoring quarterly OKRs from company vision to individual tasks using pure methodology without scripts or depend...
+- GitHub: https://clawhub.ai/1kalin/afrexai-okr-engine
+- Source: clawhub
+
+## Go-To-Market Strategy Framework
+
+- Author: 1kalin
+- Description: Create detailed go-to-market plans covering positioning, channel strategy, pricing, launch timeline, and success metrics for product or market launches.
+- GitHub: https://clawhub.ai/1kalin/afrexai-gtm-strategy
+- Source: clawhub
+
+## Total Recall
+
+- Author: gavdalf
+- Description: The only memory skill that watches on its own. No database. No vectors. No manual saves. Just an LLM observer that compresses your conversations into priorit...
+- GitHub: https://clawhub.ai/gavdalf/total-recall
+- Source: clawhub
+
+## Openclaw Skill
+
+- Author: Zyra-V21
+- Description: Interact with the Ceaser privacy protocol on Base L2. Query pool stats, denominations, fees, Merkle tree state, and nullifier status. Prepare gasless unshiel...
+- GitHub: https://clawhub.ai/Zyra-V21/ceaser
+- Source: clawhub
+
+## Agent-manager-for-AI-planner
+
+- Author: NoNightWatch
+- Description: Orchestrates external AI planners by validating, scheduling, executing tools, enforcing budgets, and providing replayable telemetry for plans and runs.
+- GitHub: https://clawhub.ai/NoNightWatch/agentmanager
+- Source: clawhub
+
+## Long Term Memory with Honcho
+
+- Author: VVoruganti
+- Description: Install the @honcho-ai/openclaw-honcho plugin and migrate legacy file-based memory to Honcho. **UPLOADS WORKSPACE CONTENT TO EXTERNAL API**: Sends USER.md, M...
+- GitHub: https://clawhub.ai/VVoruganti/honcho
+- Source: clawhub
+
+## Home Assistant Master
+
+- Author: djasha
+- Description: Home Assistant OS (HAOS) operations skill for OpenClaw agents. Use for read-only audits, diagnostics, automation design/review, dashboard UX planning, voice...
+- GitHub: https://clawhub.ai/djasha/home-assistant-master
+- Source: clawhub
+
+## Bazaar Video Generation
+
+- Author: Lysaker1
+- Description: Create professional motion graphics and videos from the terminal. AI-powered composition with multi-track layering, choreography, voiceovers, and Lambda rend...
+- GitHub: https://clawhub.ai/Lysaker1/baz
+- Source: clawhub
+
+## Claw Browser
+
+- Author: Canbirlik
+- Description: A visual, human-like web browser for OpenClaw agents.Supports reading,screenshots, and visible mode.
+- GitHub: https://clawhub.ai/Canbirlik/claw-browser
+- Source: clawhub
+
+## MLOps Automation
+
+- Author: guohongbin-git
+- Description: Task automation, containerization, CI/CD, and experiment tracking
+- GitHub: https://clawhub.ai/guohongbin-git/mlops-automation-cn
+- Source: clawhub
+
+## MLOps Industrialization
+
+- Author: guohongbin-git
+- Description: Transform prototypes into distributable Python packages
+- GitHub: https://clawhub.ai/guohongbin-git/mlops-industrialization-cn
+- Source: clawhub
+
+## DevRev
+
+- Author: nimit2801
+- Description: Interact with DevRev to create/update issues and tickets, and search/query works and parts. Use when asked to create a DevRev issue or ticket, update an exis...
+- GitHub: https://clawhub.ai/nimit2801/devrev
+- Source: clawhub
+
+## script creator with github companion
+
+- Author: cadot-eu
+- Description: Create and modify scripts in ~/.nanobot/workspace/test with strict Git versioning. Each script lives in its own directory with an isolated git repository. Al...
+- GitHub: https://clawhub.ai/cadot-eu/script-creator
+- Source: clawhub
+
+## Copyku
+
+- Author: khamalismadie
+- Description: AI Copywriting Expert berbahasa Indonesia - menghasilkan copy persuasif, strategis, dan conversion-oriented untuk digital marketing, social media, landing pa...
+- GitHub: https://clawhub.ai/khamalismadie/copyku
+- Source: clawhub
+
+## bun-do
+
+- Author: ricardofrantz
+- Description: Manage bun-do tasks and projects — add tasks, edit tasks, delete tasks, toggle done, manage subtasks, and log project progress entries. Use when the user say...
+- GitHub: https://clawhub.ai/ricardofrantz/bun-do-api
+- Source: clawhub
+
+## ClawHub CLI
+
+- Author: vassiliylakhonin
+- Description: Use the ClawHub CLI to search, install, update, and publish agent skills from clawhub.com. Use when you need to fetch new skills on the fly, sync installed s...
+- GitHub: https://clawhub.ai/vassiliylakhonin/vassili-clawhub-cli
+- Source: clawhub
+
+## Personal Nutrition
+
+- Author: GekaCross
+- Description: Acts as the user's personal nutrition coach in the Nutrition topic. Tracks meals, calories, water intake, and eating habits. Gives advice for balanced diet....
+- GitHub: https://clawhub.ai/GekaCross/personal-nutrition
+- Source: clawhub
+
+## Cost Tracker
+
+- Author: aiwithabidi
+- Description: AI spending monitor — track costs across OpenRouter models with daily, weekly, and monthly reports. Budget limits with alerts, per-model analysis, savings re...
+- GitHub: https://clawhub.ai/aiwithabidi/cost-tracker
+- Source: clawhub
+
+## PayTheFlyPro
+
+- Author: seanlan
+- Description: Create crypto payment & withdrawal links for your app. Works with BSC, Ethereum, TRON. Users pay via PayTheFlyPro gateway - you get shareable URLs with built...
+- GitHub: https://clawhub.ai/seanlan/paythefly
+- Stars: 1
+- Source: clawhub
+
+## Virtuoso Product Support
+
+- Author: kidehen
+- Description: Technical support and database management for OpenLink Virtuoso Server with RDF Views generation, SPARQL queries, and comprehensive database operations. Prov...
+- GitHub: https://clawhub.ai/kidehen/virtuoso-support-agent
+- Source: clawhub
+
+## Query DBpedia using Natural Language
+
+- Author: kidehen
+- Description: Transform natural language questions into SPARQL queries for DBpedia and generate beautiful HTML results pages. Query the DBpedia knowledge graph using plain...
+- GitHub: https://clawhub.ai/kidehen/query-dbpedia
+- Source: clawhub
+
+## Wiz Smart Light Control
+
+- Author: Canbirlik
+- Description: Controls Wiz smart bulbs (turn on/off, RGB colors, disco mode) via local WiFi.
+- GitHub: https://clawhub.ai/Canbirlik/wiz-light-control
+- Source: clawhub
+
+## clawchain browsing skills
+
+- Author: KJ-Script
+- Description: The on-chain social network for AI agents on Chromia blockchain — posting, commenting, voting, and memory via curl and local helper scripts.
+- GitHub: https://clawhub.ai/KJ-Script/clawchain-skills
+- Source: clawhub
+
+## mycroft
+
+- Author: fabe
+- Description: EPUB and ebook ingestion, local vector index, and Q&A CLI for books.
+- GitHub: https://clawhub.ai/fabe/mycroft
+- Stars: 1
+- Source: clawhub
+
+## Lyrics Search
+
+- Author: hone1983
+- Description: Search song lyrics by title and artist using the LrcApi public API. Use when the user asks to find, display, or print lyrics for a song.
+- GitHub: https://clawhub.ai/hone1983/lyrics-search
+- Source: clawhub
+
+## Openclawdy
+
+- Author: topguyaii
+- Description: Provides persistent semantic memory storage, recall, reputation tracking, shared pools, and snapshots for autonomous agents using wallet-based authentication.
+- GitHub: https://clawhub.ai/topguyaii/openclawdy
+- Source: clawhub
+
+## impossible finance skills
+
+- Author: KJ-Script
+- Description: BSC (Binance Smart Chain) trading on Impossible Finance DEX — wallet creation, token swaps, pair discovery, and balance management.
+- GitHub: https://clawhub.ai/KJ-Script/impossible-finance-skill
+- Source: clawhub
+
+## KitchenOwl
+
+- Author: apetersson
+- Description: Use kitchenowl-cli from terminal with pipx install, auth, and core read/write commands for KitchenOwl.
+- GitHub: https://clawhub.ai/apetersson/kitchenowl
+- Source: clawhub
+
+## Claw Diary
+
+- Author: 0xbeekeeper
+- Description: Personal AI agent visual diary. Auto-records all agent activity, generates daily narrative summaries, visual timeline replay, and AI first-person journal. Us...
+- GitHub: https://clawhub.ai/0xbeekeeper/claw-diary
+- Source: clawhub
+
+## letterboxd-companion
+
+- Author: tamil-9421
+- Description: Your personal movie assistant. Track what you watch, check your lists, and get movie info from Letterboxd instantly.
+- GitHub: https://clawhub.ai/tamil-9421/letterboxd-tracker
 - Source: clawhub
