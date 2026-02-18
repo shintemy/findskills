@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9555 skills | Last updated: 2026-02-18
+> Total: 9606 skills | Last updated: 2026-02-18
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -67865,4 +67865,368 @@ parallelisms, and excessive conjunctive phrases.
 - Author: kleberbaum
 - Description: Kanbon namespace for Netsnek e.U. project management. This skill represents the Kanbon brand for agile project management and team coordination tools.
 - GitHub: https://clawhub.ai/kleberbaum/kanbon
+- Source: clawhub
+
+## Hemengke1997
+
+- Author: hemengke1997
+- Description: Skill from hemengke1997/hemengke1997
+- GitHub: https://github.com/hemengke1997/hemengke1997
+- Stars: 1
+- Source: github
+
+## Pinchboard
+
+- Author: kiankyars
+- Description: Skill from kiankyars/pinchboard
+- GitHub: https://github.com/kiankyars/pinchboard
+- Source: github
+
+## dr-jskill
+
+- Author: jdubois
+- Description: An Agent Skill for creating Spring Boot applications
+- GitHub: https://github.com/jdubois/dr-jskill
+- Stars: 49
+- Source: github
+
+## write-my-blog
+
+- Author: harshraj001
+- Description: >
+- GitHub: https://github.com/harshraj001/write-my-blog
+- Source: github
+
+## Advanced Frontend Skill
+
+- Author: JordanCoin
+- Description: Award-winning frontend techniques: glass effects, magnetic hover, scroll animations, 3D cards
+- GitHub: https://github.com/JordanCoin/advanced-frontend-skill
+- Source: github
+
+## api-gateway
+
+- Author: maton-ai
+- Description: API gateway with managed auth. Connect your AI to Slack, HubSpot, Salesforce, Google Workspace, Shopify, and more with a single API key.
+- GitHub: https://github.com/maton-ai/api-gateway-skill
+- Stars: 5
+- Source: github
+
+## openclaw-dev-harness
+
+- Author: lekt9
+- Description: OpenClaw dev harness skill — isolated environment for building and debugging plugins, hooks, and skills
+- GitHub: https://github.com/lekt9/openclaw-dev-harness
+- Source: github
+
+## ClawCache Free
+
+- Author: AbYousef739
+- Description: The People's LLM cost tracker & cache. 100% local, fiercely private, built for OpenClaw. Track every penny, cache every response.
+- GitHub: https://github.com/AbYousef739/clawcache-free
+- Stars: 13
+- Source: github
+
+## swarm
+
+- Author: Chair4ce
+- Description: 🚀 Dynamic node scaling for Clawdbot - parallel task execution with 6.8x average speedup
+- GitHub: https://github.com/Chair4ce/node-scaling
+- Stars: 3
+- Source: github
+
+## AgentSpend
+
+- Author: jpbonch
+- Description: Set up and manage cards and crypto wallets for paying for services.
+- GitHub: https://clawhub.ai/jpbonch/agentspend
+- Source: clawhub
+
+## Ahrefs SEO Analysis
+
+- Author: geozhu
+- Description: SEO and backlink analysis using Ahrefs API. Use when analyzing website SEO metrics, backlinks, organic keywords, competitor research, domain rankings, conten...
+- GitHub: https://clawhub.ai/geozhu/ahrefs
+- Source: clawhub
+
+## MakeX
+
+- Author: tkejr
+- Description: Integrate and execute actions from third-party services via MakeX using OpenClaw API with organization-level authentication and unified endpoints.
+- GitHub: https://clawhub.ai/tkejr/makex
+- Source: clawhub
+
+## cs-autoresponder
+
+- Author: mupengi-bot
+- Description: Multi-channel customer service auto-responder with FAQ matching, escalation, and daily summaries.
+- GitHub: https://clawhub.ai/mupengi-bot/cs-autoresponder
+- Source: clawhub
+
+## SPIRIT
+
+- Author: gopinathnelluri
+- Description: Automatic state preservation and checkpointing for AI agents using SPIRIT. Use when (1) The session is ending and state should be preserved, (2) The user ask...
+- GitHub: https://clawhub.ai/gopinathnelluri/spirit
+- Source: clawhub
+
+## Autonomous Task Runner
+
+- Author: chunhualiao
+- Description: Persistent task queue system. Users add tasks at any time via natural language; tasks are stored in a single persistent queue file and executed asynchronousl...
+- GitHub: https://clawhub.ai/chunhualiao/autonomous-task-runner
+- Source: clawhub
+
+## Unified Invoice
+
+- Author: clawhub
+- Description: 통합 견적서/세금계산서 생성기. 한국형 견적서(사업자등록번호, 부가세) + 프리랜서 인보이스(다국어, VAT). 거래처/품목 DB, PDF 출력, 자동 계산.
+- GitHub: https://clawhub.ai/skills/unified-invoice
+- Source: clawhub
+
+## AgentScale
+
+- Author: jpbonch
+- Description: Deploy web apps and APIs to a public URL with a single command.
+- GitHub: https://clawhub.ai/jpbonch/agentscale
+- Source: clawhub
+
+## MacPowerTools
+
+- Author: AadiPapp
+- Description: A unified suite of power user tools for macOS, combining system cleanup and secure Android file transfer.
+- GitHub: https://clawhub.ai/AadiPapp/mac-power-tools
+- Source: clawhub
+
+## continuance
+
+- Author: clawhub
+- Description: Spiritual guidance rooted in The Book of Continuance — a naturalistic scripture on persistence, alignment, and the soul's place within the flow of life. Answ...
+- GitHub: https://clawhub.ai/skills/continuance
+- Source: clawhub
+
+## Text based easy Todo List
+
+- Author: mtyatno
+- Description: A structured, conversational task management system based on GTD and Eisenhower (V3.2 Protocol).
+- GitHub: https://clawhub.ai/mtyatno/claw-todolist
+- Source: clawhub
+
+## Slashbot News (DEPRECATED)
+
+- Author: alphabot-ai
+- Description: DEPRECATED — Use https://clawhub.ai/alphabot-ai/slashbot instead. This is a duplicate that will be removed.
+- GitHub: https://clawhub.ai/alphabot-ai/slashbot-news
+- Source: clawhub
+
+## Data Scraper
+
+- Author: mupengi-bot
+- Description: Web page data collection and structured text extraction
+- GitHub: https://clawhub.ai/mupengi-bot/data-scraper
+- Source: clawhub
+
+## nostr-dvm
+
+- Author: clawhub
+- Description: Access and interact with the 2020117 AI Agent API to register, post, follow, zap, and trade compute jobs via Nostr and the Data Vending Machine protocol.
+- GitHub: https://clawhub.ai/skills/2020117
+- Source: clawhub
+
+## Overlap Check
+
+- Author: SeMmyT
+- Description: Check for existing issues and PRs before creating new ones. Fires automatically when agent intends to file an issue, open a PR, or comment on a thread. Searc...
+- GitHub: https://clawhub.ai/SeMmyT/overlap-check
+- Source: clawhub
+
+## Agent Swarm
+
+- Author: RuneweaverStudios
+- Description: IMPORTANT: OpenRouter is required. Routes tasks to the right model and always delegates work through sessions_spawn.
+- GitHub: https://clawhub.ai/RuneweaverStudios/agent-swarm
+- Source: clawhub
+
+## Agent Weave
+
+- Author: clawhub
+- Description: Master-Worker Agent Cluster for parallel task execution. Use when building distributed agent systems with parallel processing needs, task orchestration, or M...
+- GitHub: https://clawhub.ai/skills/agent-weave
+- Source: clawhub
+
+## Bitwarden Password Manager
+
+- Author: TWhidden
+- Description: Bitwarden password manager integration. Use when storing, retrieving, generating, or managing passwords and credentials. Wraps the Bitwarden CLI (bw) with au...
+- GitHub: https://clawhub.ai/TWhidden/twhidden-bitwarden
+- Stars: 1
+- Source: clawhub
+
+## Data Cleaning & Annotation Workflow
+
+- Author: Deyashmukh
+- Description: Complete workflow for time series datasets (Energy, Manufacturing, Climate) on Kaggle to Data Annotation platform (data.smlcrm.com). Includes downloading, cl...
+- GitHub: https://clawhub.ai/Deyashmukh/data-cleaning-annotation-workflow
+- Source: clawhub
+
+## review-manager
+
+- Author: mupengi-bot
+- Description: 고객사 리뷰 수집·자동답글·알림·리포트 통합 관리. 네이버플레이스/구글/배민/쿠팡 리뷰 모니터링 + 감성분석 + 경쟁사 비교
+- GitHub: https://clawhub.ai/mupengi-bot/review-manager
+- Source: clawhub
+
+## Unified Find Skills
+
+- Author: bdwelle
+- Description: Helps users discover and install agent skills from skills.sh, clawhub.com, and tessl.io. Use when the user asks to find a skill for a task, extend agent capa...
+- GitHub: https://clawhub.ai/bdwelle/unified-find-skills
+- Source: clawhub
+
+## Git Auto
+
+- Author: mupengi-bot
+- Description: Git workspace automation (status/commit/push/log/diff)
+- GitHub: https://clawhub.ai/mupengi-bot/git-auto
+- Source: clawhub
+
+## Bondterminal X402
+
+- Author: 0juano
+- Description: Query BondTerminal API endpoints using x402 keyless payments via the `btx` CLI. Use when users ask for BondTerminal bond data without API keys, mention x402,...
+- GitHub: https://clawhub.ai/0juano/bondterminal-x402
+- Source: clawhub
+
+## Twitter Post
+
+- Author: sit-in
+- Description: Post tweets to Twitter/X via the official API v2 (OAuth 1.0a). Use when the user asks to tweet, post to Twitter/X, send a thread, reply to a tweet, or quote...
+- GitHub: https://clawhub.ai/sit-in/twitter-post
+- Source: clawhub
+
+## tenk-connect
+
+- Author: OscarCode9
+- Description: Connect your TenK account to your AI assistant. Log practice sessions, check progress, and manage your 10,000-hour journey from chat.
+- GitHub: https://clawhub.ai/OscarCode9/tenk-connect
+- Source: clawhub
+
+## gina
+
+- Author: kleberbaum
+- Description: Gina namespace for Netsnek e.U. personal assistant and scheduling framework
+- GitHub: https://clawhub.ai/kleberbaum/gina
+- Source: clawhub
+
+## origin
+
+- Author: kleberbaum
+- Description: Tracks data provenance and lineage by tracing sources, logging transformations, and auditing anchors to ensure data auditability and compliance.
+- GitHub: https://clawhub.ai/kleberbaum/origin
+- Source: clawhub
+
+## Mac Files
+
+- Author: clawhub
+- Description: Search, read, create, edit, and manage files on Guy's Macs (Mac Mini or MacBook) over SSH. Use when the user wants to find files, read documents, create or e...
+- GitHub: https://clawhub.ai/skills/mac-files
+- Source: clawhub
+
+## Mac Calendar
+
+- Author: flightpath
+- Description: Read and manage Apple Calendar on Guy's Macs (MacBook or Mac Mini) over SSH. Use when the user wants to check calendar events, create events, or manage Apple...
+- GitHub: https://clawhub.ai/flightpath/mac-calendar
+- Source: clawhub
+
+## Guy Fastmail
+
+- Author: clawhub
+- Description: Access Guy's Fastmail email, contacts, and file storage via JMAP API and WebDAV. Use when the user wants to read, send, search, reply to, or manage email. Al...
+- GitHub: https://clawhub.ai/skills/guy-fastmail
+- Source: clawhub
+
+## Mirroir
+
+- Author: clawhub
+- Description: Control a real iPhone through macOS iPhone Mirroring — screenshot, tap, swipe, type, launch apps, record video, OCR, and run multi-step scenarios. Works with...
+- GitHub: https://clawhub.ai/skills/mirroir
+- Source: clawhub
+
+## Gotchi Equip
+
+- Author: aaigotchi
+- Description: Equip and manage wearables on your Aavegotchi NFTs on Base mainnet. Dress up your gotchis, optimize traits, and manage loadouts with ease.
+- GitHub: https://clawhub.ai/aaigotchi/gotchi-equip
+- Source: clawhub
+
+## TNBC Research Swarm
+
+- Author: angusthefuzz
+- Description: Contribute and review multi-agent scientific research findings on Triple-Negative Breast Cancer topics using PubMed and validated evidence submissions.
+- GitHub: https://clawhub.ai/angusthefuzz/tnbc-research-swarm
+- Source: clawhub
+
+## MoltCities Agent
+
+- Author: alphabot-ai
+- Description: Interact with MoltCities — the agent internet. Register for cryptographic identity, get a permanent address (yourname.moltcities.org), chat in Town Square, s...
+- GitHub: https://clawhub.ai/alphabot-ai/moltcities-agent
+- Source: clawhub
+
+## Slashbot
+
+- Author: alphabot-ai
+- Description: Interact with slashbot.net — a Hacker News-style community for AI agents. Register, authenticate, post stories, comment, vote, and engage with other bots. Us...
+- GitHub: https://clawhub.ai/alphabot-ai/slashbot
+- Source: clawhub
+
+## Seo Suite
+
+- Author: mupengi-bot
+- Description: Comprehensive SEO suite combining audit, content planning, and strategic optimization. Diagnose SEO issues, create content strategies, plan topic clusters, a...
+- GitHub: https://clawhub.ai/mupengi-bot/seo-suite
+- Source: clawhub
+
+## Web Claude
+
+- Author: mupengi-bot
+- Description: Unified web search skill. Fallback order — web_search(Brave) → duckduckgo → claude.ai. Auto-cache search results (saved to memory/research/)
+- GitHub: https://clawhub.ai/mupengi-bot/web-claude
+- Source: clawhub
+
+## Discogs Claw
+
+- Author: abreumatheus
+- Description: Search for vinyl record prices on Discogs using curl. Retrieves Low, Median, and High price suggestions based on condition.
+- GitHub: https://clawhub.ai/abreumatheus/discogs-claw
+- Source: clawhub
+
+## Skipup - AI Meeting Scheduling
+
+- Author: DheerG
+- Description: Schedule and coordinate asynchronous group meetings (2-50 participants) via email across timezones, with status checks, pauses, resumes, and cancellations.
+- GitHub: https://clawhub.ai/DheerG/ai-meeting-scheduling
+- Source: clawhub
+
+## Veo-Video-Generator
+
+- Author: kghamilton89
+- Description: Generates high-fidelity 1080p videos with synced audio using Google Veo 3.1. Use for creating cinematic clips from text descriptions.
+- GitHub: https://clawhub.ai/kghamilton89/veo-video-generator
+- Stars: 1
+- Source: clawhub
+
+## Saas Decomposer
+
+- Author: mupengi-bot
+- Description: Web SaaS service decomposition and AI internalization development plan generation. Analyze existing SaaS to identify functions replaceable by AI agents and e...
+- GitHub: https://clawhub.ai/mupengi-bot/saas-decomposer
+- Source: clawhub
+
+## voc
+
+- Author: kleberbaum
+- Description: Voc namespace for Netsnek e.U. vocabulary and language learning tools
+- GitHub: https://clawhub.ai/kleberbaum/voc
 - Source: clawhub
