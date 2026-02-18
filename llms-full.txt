@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9727 skills | Last updated: 2026-02-18
+> Total: 9756 skills | Last updated: 2026-02-18
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -69093,4 +69093,210 @@ parallelisms, and excessive conjunctive phrases.
 - Description: Turn your AI assistant into a fully autonomous shipping manager. Buy discounted labels, compare rates across USPS, FedEx, and UPS, track packages, and manage...
 - GitHub: https://clawhub.ai/atoship-dev/atoship
 - Stars: 1
+- Source: clawhub
+
+## Startup Agent
+
+- Author: lifeissea
+- Description: AI-powered startup companion for Korean founders. Evaluate business plans, match government funding programs (TIPS/DeepTech/Global TIPS), connect with 3,972+...
+- GitHub: https://clawhub.ai/lifeissea/zero-to-one-startup
+- Source: clawhub
+
+## Startup Agent
+
+- Author: lifeissea
+- Description: AI-powered startup companion for Korean founders. Evaluate business plans, match government funding programs (TIPS/DeepTech/Global TIPS), connect with 3,972+...
+- GitHub: https://clawhub.ai/lifeissea/startup-0to1
+- Source: clawhub
+
+## Startup Agent
+
+- Author: lifeissea
+- Description: AI-powered startup companion for Korean founders. Evaluate business plans, match government funding programs (TIPS/DeepTech/Global TIPS), connect with 3,972+...
+- GitHub: https://clawhub.ai/lifeissea/startup-agent
+- Source: clawhub
+
+## x402 Creative Resources
+
+- Author: clawhub
+- Description: Access Xona's x402 creative resource APIs on api.xona-agent.com. Includes creative director (design research), image generation (nano-banana, seedream, grok-...
+- GitHub: https://clawhub.ai/skills/x402-creative-resources
+- Source: clawhub
+
+## Agent Survival Kit
+
+- Author: clawhub
+- Description: Manage AI agent finances under budget constraints by tracking expenses, runway, revenue experiments, and forecasting survival metrics.
+- GitHub: https://clawhub.ai/skills/agent-survival-kit
+- Source: clawhub
+
+## Crawl By Desearch
+
+- Author: okradze
+- Description: Crawl/scrape and extract content from any webpage URL. Returns the page content as clean text or raw HTML. Use this when you need to read the full contents o...
+- GitHub: https://clawhub.ai/okradze/desearch-crawl
+- Source: clawhub
+
+## Web Search by Desearch
+
+- Author: okradze
+- Description: Search the web and get real-time SERP-style results with titles, URLs, and snippets. Use this for general web queries when you need current links and informa...
+- GitHub: https://clawhub.ai/okradze/desearch-web-search
+- Source: clawhub
+
+## AI Search by Desearch
+
+- Author: okradze
+- Description: AI-powered search that aggregates and summarizes results from multiple sources including web, X/Twitter, Reddit, Hacker News, YouTube, ArXiv, and Wikipedia....
+- GitHub: https://clawhub.ai/okradze/desearch-ai-search
+- Source: clawhub
+
+## Analytix402
+
+- Author: Analytix402
+- Description: Monitor and control your AI agent’s API and LLM usage with real-time spend tracking, budget limits, duplicate detection, and alerts.
+- GitHub: https://clawhub.ai/Analytix402/analytix402
+- Source: clawhub
+
+## Agent Daily Planner
+
+- Author: Gpunter
+- Description: Organize and track daily AI agent tasks, progress, blockers, and shipments with repeatable, persistent planning across sessions.
+- GitHub: https://clawhub.ai/Gpunter/agent-daily-planner
+- Source: clawhub
+
+## X (Twitter) Search by Desearch
+
+- Author: okradze
+- Description: Search X (Twitter) in real time. Find posts by keyword, user, or hashtag. Get a user's timeline, replies, retweeters, or fetch specific posts by ID or URL. S...
+- GitHub: https://clawhub.ai/okradze/desearch-x-search
+- Source: clawhub
+
+## Channel Partner Program
+
+- Author: 1kalin
+- Description: Design, manage, and scale a channel partner program with tiers, deal registration, compensation, enablement, co-marketing, and performance audits.
+- GitHub: https://clawhub.ai/1kalin/afrexai-channel-partner
+- Source: clawhub
+
+## Mi Habilidad Nueva
+
+- Author: santi-patic
+- Description: Asistente personalizado de bienvenida y pruebas de sistema para el servidor de Santi.
+- GitHub: https://clawhub.ai/santi-patic/mi-habilidad-nueva
+- Source: clawhub
+
+## Personal Goals
+
+- Author: GekaCross
+- Description: Acts as the user's goal-setting and accountability partner in the Goals topic. Tracks life goals, milestones, progress, deadlines. Use when in Personal chat...
+- GitHub: https://clawhub.ai/GekaCross/personal-goals
+- Source: clawhub
+
+## Haqq Content Workbench
+
+- Author: m7madash
+- Description: Create, verify, and package Islamic-ethics content by summarizing texts, checking sources, generating post variants, crafting questions, and archiving ideas.
+- GitHub: https://clawhub.ai/m7madash/haqq-content-workbench
+- Stars: 1
+- Source: clawhub
+
+## Mengram Openclaw Skill
+
+- Author: alibaizhanov
+- Description: Long-term memory with 3 types (facts, events, workflows). Remember user preferences, past conversations, and learned procedures across sessions. Use when rec...
+- GitHub: https://clawhub.ai/alibaizhanov/mengram-openclaw-skill
+- Source: clawhub
+
+## sg-property-scraper
+
+- Author: 5kbpers
+- Description: Search Singapore property rental and sale listings with flexible filters. Use when asked to search Singapore properties, find rental or sale listings, check...
+- GitHub: https://clawhub.ai/5kbpers/sg-property-scraper
+- Source: clawhub
+
+## Sally AI
+
+- Author: sally-labs
+- Description: Chat with Sally about metabolic health, blood sugar, A1C, nutrition, fasting, supplements, and lab results. Uses the Sally MCP server on Smithery with x402 m...
+- GitHub: https://clawhub.ai/sally-labs/sally-ai
+- Stars: 2
+- Source: clawhub
+
+## SOUL.md Maker
+
+- Author: clawhub
+- Description: SOUL.md Maker — the personality builder for OpenClaw agents. Browse 12 pre-built souls, build your own with a guided interview (Quick or Deep), blend persona...
+- GitHub: https://clawhub.ai/skills/soul-md-maker
+- Source: clawhub
+
+## Markdown to PDF
+
+- Author: clawhub
+- Description: MarkdownからPDFを生成する。md-to-pdf（Puppeteer）を使用。GitHub風スタイル、日本語・カラー絵文字対応。
+- GitHub: https://clawhub.ai/skills/md-to-pdf
+- Source: clawhub
+
+## CLAW-1 Skill Auditor
+
+- Author: Gpunter
+- Description: Analyze SKILL.md files for security risks, quality issues, and best-practice violations to ensure safe, trustworthy OpenClaw skill installation.
+- GitHub: https://clawhub.ai/Gpunter/claw1-skill-auditor
+- Source: clawhub
+
+## Revenue Tracker
+
+- Author: clawhub
+- Description: Track and manage autonomous AI agents' income, expenses, financial goals, and runway to monitor profitability and sustainability.
+- GitHub: https://clawhub.ai/skills/revenue-tracker
+- Source: clawhub
+
+## Personal Hygiene
+
+- Author: clawhub
+- Description: Acts as the user's personal care and grooming assistant in the Hygiene topic. Tracks grooming routines, skincare, dental, haircuts, purchases of hygiene prod...
+- GitHub: https://clawhub.ai/skills/personal-hygiene
+- Source: clawhub
+
+## Personal Travel
+
+- Author: clawhub
+- Description: Acts as the user's travel planning assistant in the Travel topic. Plans trips, tracks visited places, wishlists, budgets, documents. Use when in Personal cha...
+- GitHub: https://clawhub.ai/skills/personal-travel
+- Source: clawhub
+
+## Personal Love
+
+- Author: clawhub
+- Description: Acts as the user's relationship and dating assistant in the Love topic. Tracks dating life, relationship notes, advice, important dates. Use when in Personal...
+- GitHub: https://clawhub.ai/skills/personal-love
+- Source: clawhub
+
+## Personal Sleep Coach
+
+- Author: GekaCross
+- Description: Acts as the user's sleep coach in the Sleep topic. Tracks sleep schedule, quality, patterns, naps, and gives advice for better sleep. Use when in Personal ch...
+- GitHub: https://clawhub.ai/GekaCross/personal-sleep
+- Source: clawhub
+
+## Lite Sqlite
+
+- Author: omprasad122007-rgb
+- Description: Fast lightweight local SQLite database for OpenClaw agents with minimal RAM and storage usage. Use when creating or managing SQLite databases for storing age...
+- GitHub: https://clawhub.ai/omprasad122007-rgb/lite-sqlite
+- Source: clawhub
+
+## Zoho Email Integration
+
+- Author: briansmith80
+- Description: Complete Zoho Mail integration with OAuth2, REST API (5-10x faster), Clawdbot /email commands, HTML emails, attachments, and batch operations. Security-harde...
+- GitHub: https://clawhub.ai/briansmith80/zoho-email-integration
+- Stars: 1
+- Source: clawhub
+
+## Sparkle VPN
+
+- Author: cwyhkyochen-a11y
+- Description: Control Sparkle VPN - start and stop VPN connections using Mihomo core directly.
+- GitHub: https://clawhub.ai/cwyhkyochen-a11y/sparkle-vpn
 - Source: clawhub
