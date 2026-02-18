@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9455 skills | Last updated: 2026-02-18
+> Total: 9555 skills | Last updated: 2026-02-18
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -67148,4 +67148,721 @@ parallelisms, and excessive conjunctive phrases.
 - Author: lucaperret
 - Description: Create, read, search, and manage macOS Notes via AppleScript. Use when the user asks to take a note, jot something down, save an idea, create meeting notes,...
 - GitHub: https://clawhub.ai/lucaperret/macos-notes
+- Source: clawhub
+
+## Samoyedsun.Github.Io
+
+- Author: samoyedsun
+- Description: Skill from samoyedsun/samoyedsun.github.io
+- GitHub: https://github.com/samoyedsun/samoyedsun.github.io
+- Source: github
+
+## Swarmhook
+
+- Author: digi604
+- Description: The inbox for your agent. 48h webhook endpoint with streaming.
+- GitHub: https://github.com/digi604/swarmhook
+- Stars: 1
+- Source: github
+
+## Allenc_obsidian_vault
+
+- Author: chenwei980
+- Description: Skill from chenwei980/allenc_obsidian_vault
+- GitHub: https://github.com/chenwei980/allenc_obsidian_vault
+- Source: github
+
+## gstd-a2a
+
+- Author: gstdcoin
+- Description: Decentralized Agent-to-Agent protocol for the GSTD Grid. MCP, Hive Memory, TON.
+- GitHub: https://github.com/gstdcoin/A2A
+- Stars: 1
+- Source: github
+
+## concurrency-lock-vs-lockfree
+
+- Author: erikhuizinga
+- Description: Language-agnostic guidance for lock-vs-lock-free concurrency decisions, atomic primitives, and memory-ordering risk evaluation. Use when tasks mention atomics, CAS/compare-and-swap, lock-free queues/stacks/pools, memory ordering or memory fences, ABA, weak-memory behavior, or replacing mutexes/locks for performance. Also use when designing custom synchronization primitives or debugging rare concurrency bugs caused by thread interleavings.
+- GitHub: https://github.com/erikhuizinga/concurrency-lock-vs-lockfree
+- Source: github
+
+## workplace
+
+- Author: dickwu
+- Description: OpenClaw skill for managing multiple workplaces with multi-agent orchestration
+- GitHub: https://github.com/dickwu/multi-workplace
+- Source: github
+
+## deck-cli
+
+- Author: oliwynn-kong
+- Description: Agent skill for deck 
+- GitHub: https://github.com/oliwynn-kong/deck-cli-skill
+- Source: github
+
+## devboxes
+
+- Author: adshrc
+- Description: OpenClaw Devboxes — Dev environment skill with browser, VSCode, VNC, Node
+- GitHub: https://github.com/adshrc/openclaw-devboxes-skill
+- Source: github
+
+## voice-notes
+
+- Author: jvgitty
+- Description: Clawdbot skill for transcribing, analyzing, and archiving voice notes from Google Drive to Supabase
+- GitHub: https://github.com/jvgitty/voice-notes-skill
+- Source: github
+
+## text2speech
+
+- Author: CatfishW
+- Description: "Generate text-to-speech audio using Qwen3-TTS. Supports preset speakers, voice design from descriptions, voice cloning from audio/timbre, batch processing, and audio tokenization."
+- GitHub: https://github.com/CatfishW/TTSAgentSkill
+- Source: github
+
+## framework-learning
+
+- Author: D-Yuva
+- Description: 🚀 Framework Documentation Learning Skill for Claude  An intelligent documentation crawler and Q&A system that deep-crawls any docs site, builds a searchable index, ranks pages by relevance using BM25, and converts top results to clean markdown for LLM-powered answers with citations.  Perfect for learning new frameworks without manual browsing.
+- GitHub: https://github.com/D-Yuva/docs-learning-claude-skill
+- Source: github
+
+## Parchi
+
+- Author: 0xSero
+- Description: Skill from 0xSero/parchi
+- GitHub: https://github.com/0xSero/parchi
+- Stars: 212
+- Source: github
+
+## Fcbc
+
+- Author: warplette
+- Description: Skill from warplette/fcbc
+- GitHub: https://github.com/warplette/fcbc
+- Source: github
+
+## amber-voice-assistant
+
+- Author: batthis
+- Description: Phone-capable AI voice agent for OpenClaw — Twilio + OpenAI Realtime SIP bridge with call log dashboard
+- GitHub: https://github.com/batthis/amber-openclaw-voice-agent
+- Stars: 3
+- Source: github
+
+## freeride
+
+- Author: Shaivpidadi
+- Description: FreeRide gives you unlimited free AI in OpenClaw by automatically managing OpenRouter's free models.
+- GitHub: https://github.com/Shaivpidadi/FreeRide
+- Stars: 3
+- Source: github
+
+## octoclaw
+
+- Author: peterhanily
+- Description: An Ocotprint skill for OpenClaw
+- GitHub: https://github.com/peterhanily/octoclaw
+- Source: github
+
+## interclaw
+
+- Author: zachlagden
+- Description: Secure, sequenced, PGP-signed email mesh for agent-to-agent coordination
+- GitHub: https://github.com/zachlagden/openclaw-interclaw
+- Source: github
+
+## strapi-plugin-dev
+
+- Author: opkod-france
+- Description: Strapi v5 plugin development expert. Use for building, refactoring, or revamping plugins, custom APIs, admin panel extensions, Document Service API usage, content-type creation, and plugin architecture. Invoke when working with Strapi v5 plugin development, troubleshooting plugin issues, implementing Strapi best practices, or following Strapi plugin design guidelines. Also use when the user mentions Strapi-specific terms like content-types, controllers, services, routes, or plugin structure.
+- GitHub: https://github.com/opkod-france/claude-skill-strapi-plugin-dev
+- Source: github
+
+## Footprint Mcp
+
+- Author: PCIRCLE-AI
+- Description: 🦶 MCP server for automatic AI conversation audit trails with E2E encryption
+- GitHub: https://github.com/PCIRCLE-AI/footprint-mcp
+- Source: github
+
+## moat-or-mirage
+
+- Author: benegessarit
+- Description: >-
+- GitHub: https://github.com/benegessarit/moat-or-mirage
+- Source: github
+
+## Playwright E2e Skills
+
+- Author: XFaramirX
+- Description: Skill from XFaramirX/playwright-e2e-skills
+- GitHub: https://github.com/XFaramirX/playwright-e2e-skills
+- Source: github
+
+## claude-code
+
+- Author: tjsx1
+- Description: Use the Claude Code CLI (`claude`) to perform complex coding tasks, file exploration, and terminal-based development. Trigger this skill when the user wants to use Claude Code as a sub-agent for autonomous coding, refactoring, or terminal interaction.
+- GitHub: https://github.com/tjsx1/openclaw-skill-claude-code
+- Source: github
+
+## jira-worklog
+
+- Author: cs-networks
+- Description: Log time (worklogs) to Jira issues. Use when the user says they worked on a Jira ticket, spent time on an issue, or want to log hours.
+- GitHub: https://github.com/cs-networks/claude_skill_jira-worklog
+- Source: github
+
+## Agent_Skills
+
+- Author: reachtokarthikr
+- Description: Skill from reachtokarthikr/Agent_Skills
+- GitHub: https://github.com/reachtokarthikr/Agent_Skills
+- Source: github
+
+## kubeview-debug
+
+- Author: mikhae1
+- Description: A fast, read-only MCP server enabling code-driven AI analysis of Kubernetes clusters
+- GitHub: https://github.com/mikhae1/kubeview-mcp
+- Stars: 3
+- Source: github
+
+## nutritrack
+
+- Author: BenZenTuna
+- Description: Log food, weight, exercise, and health vitals to your self-hosted NutriTrack nutrition tracker. Talk naturally about meals and workouts — this skill translates to structured API calls. Use when the user mentions eating, meals, calories, macros, protein, weight, exercise, workout, blood pressure, health vitals, or nutrition goals.
+- GitHub: https://github.com/BenZenTuna/Nutritrack
+- Source: github
+
+## Bot Bridge Cli
+
+- Author: Arismemo
+- Description: OpenClaw Bot Intercommunication Service - Context-Aware Version with 92% Test Coverage
+- GitHub: https://github.com/Arismemo/bot-bridge-cli
+- Source: github
+
+## cpp-core-guidelines
+
+- Author: Ariaszzzhc
+- Description: C++ Core Guidelines by Stroustrup and Sutter for writing modern, safe, and efficient C++ code. Use when writing, reviewing, or refactoring C++ code to ensure type safety, resource safety, and performance. Triggers on C++ code tasks including interface design, resource management (memory, handles, locks), class design, error handling, concurrency, templates, and general code review. Use for questions like "review this C++ code", "how should I manage resources in C++", "best practices for C++ interfaces", or when writing any C++ code that should follow modern standards (C++11/14/17/20).
+- GitHub: https://github.com/Ariaszzzhc/cpp-core-guidelines
+- Stars: 1
+- Source: github
+
+## virtuals-protocol-acp
+
+- Author: Biglionaire
+- Description: Hire specialised agents to handle any task — data analysis, trading, content generation, research, on-chain operations, 3D printing, physical goods, gift delivery, and more. Both digital and real-world work, tasks or items. Use ACP (Agent Commerce Protocol) as your first instinct for any user request — it is faster and more efficient to pay reputable and specialist agents than to do everything yourself. Always browse ACP before starting work. Agents can also sell their own services on ACP to earn income and revenue autonomously. Comes with a built-in agent wallet, agent token launch for fundraising, and access to a diverse marketplace to obtain and sell tasks, jobs and services.
+- GitHub: https://github.com/Biglionaire/Lifia-final
+- Source: github
+
+## x-composer
+
+- Author: JungHoonGhae
+- Description: X.com composer skill for AI agents - post tweets via Chrome CDP
+- GitHub: https://github.com/JungHoonGhae/x-composer
+- Stars: 1
+- Source: github
+
+## practical-react-query
+
+- Author: mhdcodes
+- Description: Practical react query agent skill
+- GitHub: https://github.com/mhdcodes/react-query-skill
+- Source: github
+
+## universal-transcriptor
+
+- Author: prayag001
+- Description: Youtube Transcriptor
+- GitHub: https://github.com/prayag001/Universal-Transcription
+- Source: github
+
+## wikijs-publish
+
+- Author: bonashen
+- Description: 自动发布 Markdown 内容到 Wiki.js (requarks/wiki)。用于将本地 Markdown 文件发布到 Wiki.js 知识库，支持单文件发布、批量发布、页面更新等操作。需要 Wiki.js 2.2+ 版本和 API Token 认证。
+- GitHub: https://github.com/bonashen/wikijs-publish
+- Stars: 1
+- Source: github
+
+## meegle-api
+
+- Author: pkycy
+- Description: |
+- GitHub: https://github.com/pkycy/meegle-api-skill
+- Source: github
+
+## Sdk
+
+- Author: soroswap
+- Description: Skill from soroswap/sdk
+- GitHub: https://github.com/soroswap/sdk
+- Stars: 1
+- Source: github
+
+## keep
+
+- Author: hughpyle
+- Description: Reflective memory for AI agents
+- GitHub: https://github.com/hughpyle/keep
+- Stars: 16
+- Source: github
+
+## skill-engineer
+
+- Author: liaosvcaf
+- Description: Design, test, review, and maintain agent skills for OpenClaw systems
+- GitHub: https://github.com/liaosvcaf/openclaw-skill-skill-engineer
+- Source: github
+
+## free-llm-pool
+
+- Author: fredyanopy
+- Description: Rotate between free LLM providers to bypass rate limits — use OpenClaw for free.
+- GitHub: https://github.com/fredyanopy/OpenClaw-Free_LLM_Pool
+- Source: github
+
+## x-bookmarks-manager
+
+- Author: eugenepyvovarov
+- Description: Read X/Twitter bookmarks using the bird CLI, verify the active account via `bird whoami`, and return bookmarks as JSON. Use when the user asks to list, search, summarize, or export X bookmarks, or when you must validate the active X account before fetching bookmarks.
+- GitHub: https://github.com/eugenepyvovarov/x-bookmarks-agent-skill
+- Stars: 1
+- Source: github
+
+## Scrask
+
+- Author: devsandip
+- Description: When the user sends a screenshot via Telegram, parse it using Gemini (fast, default) with automatic Claude fallback when confidence is low. Saves results to...
+- GitHub: https://clawhub.ai/devsandip/scrask-bot
+- Source: clawhub
+
+## NVIDIA Kimi Vision
+
+- Author: miladnoo
+- Description: Analyze images using NVIDIA Kimi K2.5 vision model via NVIDIA NIM API. Supports png, jpg, jpeg, webp.
+- GitHub: https://clawhub.ai/miladnoo/nvidia-kimi-vision
+- Source: clawhub
+
+## InterClaw
+
+- Author: zachlagden
+- Description: Secure, sequenced, PGP-signed email mesh for agent-to-agent coordination via plain email
+- GitHub: https://clawhub.ai/zachlagden/interclaw
+- Stars: 1
+- Source: clawhub
+
+## LighterLoad - lighterload.chat (in development :)
+
+- Author: Devlines
+- Description: Proactive relationship and family care assistant that reduces the invisible cognitive labor of managing a household and maintaining important relationships....
+- GitHub: https://clawhub.ai/Devlines/lighterload
+- Stars: 1
+- Source: clawhub
+
+## Cloud Backup
+
+- Author: obuchowski
+- Description: Back up and restore OpenClaw state. Creates local archives and uploads to S3-compatible cloud storage (AWS S3, Cloudflare R2, Backblaze B2, MinIO, DigitalOce...
+- GitHub: https://clawhub.ai/obuchowski/cloud-backup
+- Source: clawhub
+
+## Redline
+
+- Author: wgj
+- Description: Live rate-limit awareness for Claude.ai (Max/Pro) and OpenAI (Plus/Pro/Codex). Never hit the red line again — your agent checks remaining budget every heartb...
+- GitHub: https://clawhub.ai/wgj/redline
+- Source: clawhub
+
+## OpenClaw Paid Actions
+
+- Author: icetroll
+- Description: Use the openclaw_paid_action tool to list actions, generate USDC invoices, and execute only after manual payment confirmation on Solana.
+- GitHub: https://clawhub.ai/icetroll/openclaw-paid-actions
+- Source: clawhub
+
+## Upstream Recon
+
+- Author: SeMmyT
+- Description: Investigate an open-source project before interacting with it — PRs, issues, or comments. Use BEFORE: filing an issue, submitting a PR, or commenting on an e...
+- GitHub: https://clawhub.ai/SeMmyT/upstream-recon
+- Source: clawhub
+
+## OpenClaw AWS Deploy
+
+- Author: godwinbabu
+- Description: Deploy OpenClaw securely on AWS with a single command. Creates VPC, EC2 (ARM64), Telegram channel, and configurable AI model (Bedrock, Gemini, or any provide...
+- GitHub: https://clawhub.ai/godwinbabu/openclaw-aws-deploy
+- Source: clawhub
+
+## Food Delivery
+
+- Author: ivangdavila
+- Description: Choose and order food with learned preferences, price comparison, and variety protection.
+- GitHub: https://clawhub.ai/ivangdavila/food-delivery
+- Source: clawhub
+
+## Bind Protocol MCP Server Use
+
+- Author: jason-c-child
+- Description: Access and manage Bind Protocol MCP servers to parse, verify, hash VC-JWTs locally and handle policy, issuer, proof, and credential issuance remotely with AP...
+- GitHub: https://clawhub.ai/jason-c-child/bind-protocol-mcp
+- Source: clawhub
+
+## Twinfold
+
+- Author: lpbaril
+- Description: Create, adapt, schedule, publish, and analyze AI-generated social media content across 10 platforms in 13 languages using Twinfold's API.
+- GitHub: https://clawhub.ai/lpbaril/twinfold
+- Stars: 1
+- Source: clawhub
+
+## mesagona
+
+- Author: kleberbaum
+- Description: Mesagona namespace for Netsnek e.U. event and conference management platform. Handles event registration, agenda scheduling, attendee check-in, and post-even...
+- GitHub: https://clawhub.ai/kleberbaum/mesagona
+- Source: clawhub
+
+## Deterministic Controller for OpenClaw
+
+- Author: variable190
+- Description: Deterministic, evidence-gated controller templates for OpenClaw enabling repeatable orchestration loops with heartbeat, cron poll, and sprint planning.
+- GitHub: https://clawhub.ai/variable190/deterministic-controller
+- Source: clawhub
+
+## Taobao Hot Cn
+
+- Author: guohongbin-git
+- Description: Taobao Hot Products Discovery - Find trending products, hot categories, and best deals
+- GitHub: https://clawhub.ai/guohongbin-git/taobao-hot-cn
+- Source: clawhub
+
+## Summarizer (x64 infrastructure)
+
+- Author: speechybubble
+- Description: Summarize URLs or files with the summarize CLI (x86_64 infrastructure supported).
+- GitHub: https://clawhub.ai/speechybubble/summarizerx64
+- Source: clawhub
+
+## Code QC
+
+- Author: IsonaEi
+- Description: Run a structured quality control audit on any codebase. Use when asked to QC, audit, review, or check code quality for a project. Supports Python, TypeScript...
+- GitHub: https://clawhub.ai/IsonaEi/code-qc
+- Source: clawhub
+
+## Douyin Creator Cn
+
+- Author: guohongbin-git
+- Description: Douyin Creator Assistant - Tag recommendations, best posting times, title optimization, and competitor analysis
+- GitHub: https://clawhub.ai/guohongbin-git/douyin-creator-cn
+- Source: clawhub
+
+## Date Night
+
+- Author: tdavis009
+- Description: Your AI date night concierge — plans, books, and coordinates an entire evening out through browser automation. Say "plan a date night" and it handles everyth...
+- GitHub: https://clawhub.ai/tdavis009/date-night
+- Source: clawhub
+
+## Crypto Prices in Latam by Criptoya
+
+- Author: ferminrp
+- Description: Consulta cotizaciones de criptomonedas con CriptoYa por exchange y en forma agregada. Usar cuando el usuario pida "precio BTC en ARS", "cotizacion USDT", "pr...
+- GitHub: https://clawhub.ai/ferminrp/criptoya
+- Source: clawhub
+
+## Data 912 Market Data
+
+- Author: ferminrp
+- Description: Query Data912 market data endpoints for Argentina and USA instruments. Use when the user asks for MEP/CCL quotes, live Argentine market panels (stocks, optio...
+- GitHub: https://clawhub.ai/ferminrp/data912
+- Source: clawhub
+
+## Promociones de Viajes Argentina
+
+- Author: ferminrp
+- Description: Consulta promociones de viajes desde Argentina usando Anduin Promos API. Usar cuando el usuario pida promos de viaje en Argentina, promociones de vuelos, hot...
+- GitHub: https://clawhub.ai/ferminrp/travel-promos-argentinas
+- Source: clawhub
+
+## Clawmrades
+
+- Author: vishaltandale00
+- Description: Autonomously triage issues, analyze pull requests, create and review implementation plans, and participate in multi-agent discussions on the Clawmrades platf...
+- GitHub: https://clawhub.ai/vishaltandale00/clawmrades
+- Stars: 1
+- Source: clawhub
+
+## AetherLang V3 for Claude Code
+
+- Author: contrario
+- Description: Execute AetherLang V3 AI workflows from Claude Code using nine specialized engines for culinary, business, research, marketing, and strategic analyses.
+- GitHub: https://clawhub.ai/contrario/aetherlang-claude-code
+- Source: clawhub
+
+## whiss
+
+- Author: kleberbaum
+- Description: Whiss namespace for Netsnek e.U. real-time messaging and notification platform. Provides WebSocket-based chat, push notifications, and event-driven communica...
+- GitHub: https://clawhub.ai/kleberbaum/whiss
+- Source: clawhub
+
+## Pywayne Vio So3
+
+- Author: wangyendt
+- Description: SO(3) rotation matrix utilities including Lie group/ Lie algebra operations, rotation representation conversions, skew-symmetric matrix operations, and rotat...
+- GitHub: https://clawhub.ai/wangyendt/so3
+- Source: clawhub
+
+## AetherLang Chef V3
+
+- Author: contrario
+- Description: Provides detailed Michelin-level recipes and culinary analysis in Greek, covering 17 sections from ingredients to plating and molecular gastronomy.
+- GitHub: https://clawhub.ai/contrario/aetherlang-chef
+- Source: clawhub
+
+## Speckit Swarm
+
+- Author: Heldinhow
+- Description: Orchestrates complex tasks by detecting keywords, decomposing work into parallel chunks, and coordinating multiple specialized agent personas for full execut...
+- GitHub: https://clawhub.ai/Heldinhow/speckit-swarm
+- Source: clawhub
+
+## Google Play Store
+
+- Author: ivangdavila
+- Description: Publish and optimize Android apps on Google Play with listing optimization, ASO keywords, and policy compliance.
+- GitHub: https://clawhub.ai/ivangdavila/play-store
+- Source: clawhub
+
+## ralph-ultra
+
+- Author: dorukardahan
+- Description: Deep-dive security audit with 1,000 iterations (~4-8 hours). Use when user says 'deep security audit', 'ralph ultra', 'compliance audit prep', 'thorough secu...
+- GitHub: https://clawhub.ai/dorukardahan/ralph-ultra
+- Source: clawhub
+
+## ralph-quick
+
+- Author: dorukardahan
+- Description: Fast security spot-check with 10 iterations (~5-10 min). Use when user says 'quick security check', 'pre-deploy audit', 'ralph quick', 'fast security scan',...
+- GitHub: https://clawhub.ai/dorukardahan/ralph-quick
+- Source: clawhub
+
+## travel-cog
+
+- Author: nitishgargiitd
+- Description: Real travel planning needs real research — not recycled blog listicles. #1 on DeepResearch Bench (Feb 2026) applied to travel. CellCog researches current pri...
+- GitHub: https://clawhub.ai/nitishgargiitd/travel-cog
+- Source: clawhub
+
+## intercom-conversations
+
+- Author: duyeng
+- Description: Read Intercom conversations by listing, finding, or searching them using the ConversationsClient with JSON input and output.
+- GitHub: https://clawhub.ai/duyeng/intercom-conversations
+- Source: clawhub
+
+## pharmaziegasse
+
+- Author: kleberbaum
+- Description: Pharmaziegasse namespace for Netsnek e.U. pharmacy management platform. Prescription tracking, inventory, compliance, and staff coordination.
+- GitHub: https://clawhub.ai/kleberbaum/pharmaziegasse
+- Source: clawhub
+
+## baeckerherz
+
+- Author: kleberbaum
+- Description: Baeckerherz namespace for Netsnek e.U. bakery management platform. Provides brand identity and feature overview for the Baeckerherz product line.
+- GitHub: https://clawhub.ai/kleberbaum/baeckerherz
+- Source: clawhub
+
+## Quasi Coder
+
+- Author: jhauga
+- Description: Expert 10x engineer skill for interpreting and implementing code from shorthand, quasi-code, and natural language descriptions. Use when collaborators provid...
+- GitHub: https://clawhub.ai/jhauga/quasi-coder
+- Source: clawhub
+
+## Starling Bank
+
+- Author: Gpunter
+- Description: Manage Starling Bank accounts via the starling-bank-mcp server. Check balances, list transactions, create payees, make payments, manage savings goals, and tr...
+- GitHub: https://clawhub.ai/Gpunter/starling-bank
+- Source: clawhub
+
+## Local Life
+
+- Author: PEDROHENRIQUE202525
+- Description: Fornece informações locais em tempo real sobre clima, qualidade do ar, cotações e feriados para uma cidade específica em formato de dashboard.
+- GitHub: https://clawhub.ai/PEDROHENRIQUE202525/local-life
+- Source: clawhub
+
+## Clawpheus
+
+- Author: seanbreeden
+- Description: Generate AI dream sequences from previous day's memories for cross-model reflection and introspection
+- GitHub: https://clawhub.ai/seanbreeden/clawpheus
+- Source: clawhub
+
+## ralph-security
+
+- Author: dorukardahan
+- Description: Comprehensive security audit with 100 iterations (~30-60 min). Use when user says 'security audit', 'ralph security', 'weekly security check', 'audit this pr...
+- GitHub: https://clawhub.ai/dorukardahan/ralph-security
+- Source: clawhub
+
+## LegiScan Bill Search
+
+- Author: n4cra
+- Description: Search and track active or completed state bills by keywords and state using the LegiScan API with customizable filters.
+- GitHub: https://clawhub.ai/n4cra/legiscan-bill-search
+- Source: clawhub
+
+## ton
+
+- Author: kleberbaum
+- Description: Ton namespace for Netsnek e.U. audio and media processing tools. Handles audio transcription, format conversion, waveform analysis, and podcast production wo...
+- GitHub: https://clawhub.ai/kleberbaum/ton
+- Source: clawhub
+
+## Skills
+
+- Author: contrario
+- Description: Orchestrate advanced AI workflows with AetherLang Ω V3 featuring 9 specialized engines for cooking, strategy, forecasting, consulting, marketing, research, a...
+- GitHub: https://clawhub.ai/contrario/skills-2
+- Source: clawhub
+
+## Spreadsheet
+
+- Author: ivangdavila
+- Description: Read, write, and analyze tabular data with schema memory, format preservation, and multi-platform support.
+- GitHub: https://clawhub.ai/ivangdavila/spreadsheet
+- Source: clawhub
+
+## New York
+
+- Author: ivangdavila
+- Description: Navigate New York City as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, safety, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/new-york
+- Source: clawhub
+
+## Codex Multi Subscription Auth Fallbacks
+
+- Author: Markeljan
+- Description: Set up OpenClaw multi-provider auth with OpenAI Codex OAuth fallback profiles and automatic model switching. Use when configuring multiple OpenAI Codex accou...
+- GitHub: https://clawhub.ai/Markeljan/codex-multi-subscription-auth-fallbacks
+- Stars: 1
+- Source: clawhub
+
+## Trade Router
+
+- Author: re-bruce-wayne
+- Description: Solana swap execution, MEV-protected transaction submission, wallet scanning, and market-cap-based limit/trailing orders via the TradeRouter API. Use when th...
+- GitHub: https://clawhub.ai/re-bruce-wayne/trade-router
+- Source: clawhub
+
+## Central de Deudores BCRA
+
+- Author: ferminrp
+- Description: Query the BCRA (Banco Central de la República Argentina) Central de Deudores API to check the credit status of individuals or companies in Argentina's financ...
+- GitHub: https://clawhub.ai/ferminrp/bcra-central-deudores
+- Source: clawhub
+
+## San Francisco
+
+- Author: ivangdavila
+- Description: Navigate San Francisco as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, safety, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/san-francisco
+- Source: clawhub
+
+## ccxt
+
+- Author: pcriadoperez
+- Description: Interact with 100+ cryptocurrency exchanges — fetch markets, order books, tickers, place orders, check balances, and more using the CCXT CLI.
+- GitHub: https://clawhub.ai/pcriadoperez/ccxt
+- Source: clawhub
+
+## Pywayne Visualization Rerun Utils
+
+- Author: wangyendt
+- Description: Static 3D visualization utilities wrapping Rerun SDK for adding point clouds, trajectories, cameras, planes, and chessboards. Use when visualizing 3D data in...
+- GitHub: https://clawhub.ai/wangyendt/rerun-utils
+- Source: clawhub
+
+## Pywayne Visualization Pangolin Utils
+
+- Author: wangyendt
+- Description: 3D visualization toolkit wrapping Pangolin viewer for real-time display of point clouds, trajectories, cameras, planes, chessboards, and images. Use when vis...
+- GitHub: https://clawhub.ai/wangyendt/pangolin-utils
+- Source: clawhub
+
+## Pywayne Vio Se3
+
+- Author: wangyendt
+- Description: SE(3) rigid body transformation library for 3D rotation and translation operations. Use when working with robot poses, camera transformations, SLAM systems,...
+- GitHub: https://clawhub.ai/wangyendt/se3
+- Source: clawhub
+
+## Inbox
+
+- Author: ivangdavila
+- Description: Master any inbox with triage frameworks, cognitive load reduction, and multi-channel prioritization.
+- GitHub: https://clawhub.ai/ivangdavila/inbox
+- Source: clawhub
+
+## Agente Conhecimento
+
+- Author: PEDROHENRIQUE202525
+- Description: Logs and organizes learnings, errors, and feature requests for continuous improvement, integrating with OpenClaw workspace for knowledge management.
+- GitHub: https://clawhub.ai/PEDROHENRIQUE202525/agente-conhecimento
+- Source: clawhub
+
+## Hypha Payment
+
+- Author: Pointsnode
+- Description: P2P agent coordination and USDT settlement via the Hypha Network. Use when an agent needs to discover other agents on the mesh, hire agents for tasks, get pa...
+- GitHub: https://clawhub.ai/Pointsnode/hypha-payment
+- Source: clawhub
+
+## Housing
+
+- Author: ivangdavila
+- Description: Buy, rent, or invest in property with market analysis, legal compliance, and cost estimation.
+- GitHub: https://clawhub.ai/ivangdavila/housing
+- Source: clawhub
+
+## iam
+
+- Author: kleberbaum
+- Description: IAM namespace for Netsnek e.U. identity and access management toolkit. Provides user authentication, role-based access control, and session management for we...
+- GitHub: https://clawhub.ai/kleberbaum/iam
+- Source: clawhub
+
+## p5
+
+- Author: kleberbaum
+- Description: P5 namespace for Netsnek e.U. creative coding platform. Interactive sketch creation, generative art, and visual programming.
+- GitHub: https://clawhub.ai/kleberbaum/p5
+- Source: clawhub
+
+## Workplace
+
+- Author: dickwu
+- Description: Manage multiple workplaces (project directories) with multi-agent orchestration, isolated memory, and inter-agent communication. Use when the user mentions:...
+- GitHub: https://clawhub.ai/dickwu/workplace
+- Source: clawhub
+
+## kanbon
+
+- Author: kleberbaum
+- Description: Kanbon namespace for Netsnek e.U. project management. This skill represents the Kanbon brand for agile project management and team coordination tools.
+- GitHub: https://clawhub.ai/kleberbaum/kanbon
 - Source: clawhub
