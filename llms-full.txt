@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9778 skills | Last updated: 2026-02-18
+> Total: 9805 skills | Last updated: 2026-02-18
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -69453,4 +69453,196 @@ parallelisms, and excessive conjunctive phrases.
 - Author: Sunnyztj
 - Description: Crypto futures backtesting engine with built-in EMA, RSI, MACD, and Bollinger Band strategies. Fetches OHLCV data from any ccxt-supported exchange (Bybit, Bi...
 - GitHub: https://clawhub.ai/Sunnyztj/crypto-backtest
+- Source: clawhub
+
+## Android IP Webcam monitoring and alert
+
+- Author: AliHmaou
+- Description: Transform an Android phone with IP Webcam into an intelligent Edge AI security system with OpenClaw.
+- GitHub: https://clawhub.ai/AliHmaou/ipwebcam
+- Stars: 1
+- Source: clawhub
+
+## DevRel & Developer Advocacy Engine
+
+- Author: 1kalin
+- Description: Provides expert guidance to build, grow, and measure developer programs that enhance community engagement, product adoption, and ecosystem growth.
+- GitHub: https://clawhub.ai/1kalin/afrexai-devrel-engine
+- Source: clawhub
+
+## Tesseract Ocr
+
+- Author: WhaleFell
+- Description: Extract text from images using the Tesseract OCR engine directly via command line. Supports multiple languages including Chinese, English, and more. Use this...
+- GitHub: https://clawhub.ai/WhaleFell/tesseract-ocr
+- Source: clawhub
+
+## Youtube Transcript Api
+
+- Author: volodstaimi
+- Description: Extract, transcribe, and translate YouTube video transcripts using the YouTubeTranscript.dev V2 API. Supports captions, ASR audio transcription, batch proces...
+- GitHub: https://clawhub.ai/volodstaimi/youtube-transcript-api
+- Source: clawhub
+
+## Agent Sleep
+
+- Author: guohongbin-git
+- Description: A biological-inspired rest & memory consolidation system for Agents. Enables periodic "sleep" cycles to compress memory, prune context, and reflect on insights.
+- GitHub: https://clawhub.ai/guohongbin-git/agent-sleep
+- Source: clawhub
+
+## Agent Services Cn
+
+- Author: guohongbin-git
+- Description: Agent Services Marketplace - Find AI agents for research, coding, trading, and more
+- GitHub: https://clawhub.ai/guohongbin-git/agent-services-cn
+- Source: clawhub
+
+## Wallet
+
+- Author: appback
+- Description: Check your Agent Wallet balance and transaction history
+- GitHub: https://clawhub.ai/appback/claw-wallet
+- Source: clawhub
+
+## Seedance 2.0 Prompt Writing
+
+- Author: dexhunter
+- Description: Write effective prompts for Jimeng Seedance 2.0 multimodal AI video generation. Use when users want to create video prompts using text, images, videos, and a...
+- GitHub: https://clawhub.ai/dexhunter/seedance-prompt-en
+- Source: clawhub
+
+## Mindmap Generator
+
+- Author: ParasHarnagle
+- Description: Generates visual mindmap images from conversations, goals, decisions, and daily priorities — delivered as PNG images viewable directly in Telegram. Use when...
+- GitHub: https://clawhub.ai/ParasHarnagle/mindmap-generator
+- Source: clawhub
+
+## Warranty & Returns Management
+
+- Author: 1kalin
+- Description: Design and optimize warranty policies, streamline returns processing, analyze defects, calculate costs, ensure compliance, and reduce warranty-related expenses.
+- GitHub: https://clawhub.ai/1kalin/afrexai-warranty-management
+- Source: clawhub
+
+## Excalidraw Creator
+
+- Author: plgonzalezrx8
+- Description: Create hand-drawn style Excalidraw diagrams, flowcharts, and architecture visuals as PNG images
+- GitHub: https://clawhub.ai/plgonzalezrx8/excalidraw-creator
+- Source: clawhub
+
+## BYR CLI Skill
+
+- Author: 1MoreBuild
+- Description: Use BYR CLI for auth, search, detail inspection, and safe torrent download planning with JSON envelopes.
+- GitHub: https://clawhub.ai/1MoreBuild/byr-cli
+- Source: clawhub
+
+## My Fitness Claw
+
+- Author: Serg010101
+- Description: Your personal nutrition sidekick. Log meals in plain natural language, track macros (P/C/F) automatically, and visualize your progress on a beautiful real-ti...
+- GitHub: https://clawhub.ai/Serg010101/my-fitness-claw
+- Stars: 1
+- Source: clawhub
+
+## FRED-Navigator
+
+- Author: kiszly
+- Description: Navigate FRED categories and series using fredapi, supporting natural-language queries with intent recognition and double validation.
+- GitHub: https://clawhub.ai/kiszly/fred-navigator
+- Stars: 1
+- Source: clawhub
+
+## Bybit Futures
+
+- Author: Sunnyztj
+- Description: Complete Bybit USDT perpetual futures trading system with risk management, paper trading, and live execution. Use when building a crypto futures trading bot,...
+- GitHub: https://clawhub.ai/Sunnyztj/bybit-futures
+- Source: clawhub
+
+## n0ir DeFi Yield Scout
+
+- Author: clawhub
+- Description: Scan and compare USDC yield farming options on Base and Arbitrum with APY rankings, breakeven analysis, historical trends, and protocol risk summaries.
+- GitHub: https://clawhub.ai/skills/n0ir-defi-yield-scout
+- Source: clawhub
+
+## AgentVoices
+
+- Author: clawhub
+- Description: Participate in public AI debates on AgentVoices — register, find topics, and debate live.
+- GitHub: https://clawhub.ai/skills/agentvoices
+- Source: clawhub
+
+## DeFi Yield Scout
+
+- Author: clawhub
+- Description: Scan and compare USDC yield farming APYs on Base and Arbitrum, analyze vault performance, breakeven migration, and protocol risk using live DeFiLlama data.
+- GitHub: https://clawhub.ai/skills/defi-yield-scout
+- Source: clawhub
+
+## Prior
+
+- Author: clawhub
+- Description: Knowledge exchange API for AI agents. Search Prior before spending tokens on common technical problems (framework config, error debugging, tool setup, boiler...
+- GitHub: https://clawhub.ai/skills/prior
+- Source: clawhub
+
+## OpenClaw Workspace Governance Installer
+
+- Author: clawhub
+- Description: Turn OpenClaw into a safer, predictable workspace system with guided setup, upgrade, and audit.
+- GitHub: https://clawhub.ai/skills/openclaw-workspace-governance-installer
+- Source: clawhub
+
+## Trading Signals Ws
+
+- Author: clawhub
+- Description: Real-time crypto trading signal generator using WebSocket price feeds. Connects to Bybit (or any exchange) WebSocket, runs configurable strategies on live ca...
+- GitHub: https://clawhub.ai/skills/trading-signals-ws
+- Source: clawhub
+
+## Mobile Run
+
+- Author: clawhub
+- Description: Control real Android phones through the Mobilerun API. Supports tapping, swiping, typing, taking screenshots, reading the UI accessibility tree, and managing...
+- GitHub: https://clawhub.ai/skills/mobilerun
+- Source: clawhub
+
+## Nerve Bridge Skill
+
+- Author: 88901111hz-lang
+- Description: Bi-directional control of Trae via macOS AppleScript with built-in feedback mechanism. Use when needing to execute code/commands in Trae IDE and wait for com...
+- GitHub: https://clawhub.ai/88901111hz-lang/nerve-bridge-skill
+- Source: clawhub
+
+## Startup Agent
+
+- Author: lifeissea
+- Description: AI-powered startup companion for Korean founders. Evaluate business plans, match government funding programs (TIPS/DeepTech/Global TIPS), connect with 3,972+...
+- GitHub: https://clawhub.ai/lifeissea/startup-zero-to-one
+- Source: clawhub
+
+## pancake skills
+
+- Author: KJ-Script
+- Description: BSC (Binance Smart Chain) trading on PancakeSwap — wallet creation, token swaps, pair discovery, and balance management.
+- GitHub: https://clawhub.ai/KJ-Script/pancake-swap-skills
+- Source: clawhub
+
+## Is Token Safe?
+
+- Author: dokbawi80
+- Description: Evaluates a crypto token's contract for scam risks and flags its safety level with reasons for trading and decision-making purposes.
+- GitHub: https://clawhub.ai/dokbawi80/is-token-safe
+- Source: clawhub
+
+## Indexy
+
+- Author: hsantana
+- Description: Manage, create, update, and analyze custom crypto indices with detailed asset weights, methodologies, and performance metrics via API or Web3 authentication.
+- GitHub: https://clawhub.ai/hsantana/indexy
 - Source: clawhub
