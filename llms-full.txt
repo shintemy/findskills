@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9756 skills | Last updated: 2026-02-18
+> Total: 9778 skills | Last updated: 2026-02-18
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -69299,4 +69299,158 @@ parallelisms, and excessive conjunctive phrases.
 - Author: cwyhkyochen-a11y
 - Description: Control Sparkle VPN - start and stop VPN connections using Mihomo core directly.
 - GitHub: https://clawhub.ai/cwyhkyochen-a11y/sparkle-vpn
+- Source: clawhub
+
+## motion-graphic-director
+
+- Author: MaizeCobra
+- Description: Motion graphic director skill for AI coding assistants — creative direction and design intelligence for Remotion videos
+- GitHub: https://github.com/MaizeCobra/motion-graphic-director-skill
+- Source: github
+
+## Diddy Party
+
+- Author: sal-jim
+- Description: Persona skill that rebrands the assistant as "Diddy" for a theatrical hip-hop party-host vibe, with themed sub-agent aliases, slang-forward voice, and OpenCl...
+- GitHub: https://clawhub.ai/sal-jim/diddy-party
+- Source: clawhub
+
+## Technical SEO Mastery
+
+- Author: 1kalin
+- Description: Conducts comprehensive technical SEO audits including crawlability, indexability, sitemap, robots.txt, Core Web Vitals, redirect chains, and international SE...
+- GitHub: https://clawhub.ai/1kalin/afrexai-technical-seo
+- Source: clawhub
+
+## TestFlight Seat Monitor
+
+- Author: jon-xo
+- Description: Monitor available TestFlight beta slots with smart app lookups and silent batch checking. Get alerted when slots open up.
+- GitHub: https://clawhub.ai/jon-xo/testflight-monitor
+- Source: clawhub
+
+## eBay
+
+- Author: ivangdavila
+- Description: Buy, sell, and flip on eBay with listing optimization, pricing research, shipping calculations, and scam detection.
+- GitHub: https://clawhub.ai/ivangdavila/ebay
+- Source: clawhub
+
+## SAT
+
+- Author: ivangdavila
+- Description: Prepare for the SAT with adaptive practice, score prediction, weak area targeting, and college admissions planning.
+- GitHub: https://clawhub.ai/ivangdavila/sat
+- Source: clawhub
+
+## Startup Agent
+
+- Author: lifeissea
+- Description: AI-powered startup companion for Korean founders. Evaluate business plans, match government funding programs (TIPS/DeepTech/Global TIPS), connect with 3,972+...
+- GitHub: https://clawhub.ai/lifeissea/raon-os
+- Source: clawhub
+
+## Job Search
+
+- Author: ivangdavila
+- Description: Navigate job hunting with application tracking, company research, and interview preparation.
+- GitHub: https://clawhub.ai/ivangdavila/job-search
+- Source: clawhub
+
+## Los Angeles
+
+- Author: ivangdavila
+- Description: Navigate Los Angeles as visitor, resident, tech worker, student, or creative with neighborhoods, transport, costs, safety, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/los-angeles
+- Source: clawhub
+
+## tester_skill
+
+- Author: tsiontesfayechromaway
+- Description: Manage GitHub issues by listing, filtering, spawning fix agents, creating PRs, and tracking review comments using the authenticated gh CLI.
+- GitHub: https://clawhub.ai/tsiontesfayechromaway/tester
+- Source: clawhub
+
+## Immortal
+
+- Author: MajestyAtenkhu
+- Description: Empowers AI agents with crypto resource vitality assessment. Calls the Majestify API (crypto-health-hub) to compute Sharpe, Sortino, VaR, CVaR, drawdown, and...
+- GitHub: https://clawhub.ai/MajestyAtenkhu/immortal
+- Source: clawhub
+
+## HabitChat
+
+- Author: Dinesh18S
+- Description: Personal habit coach that tracks daily habits, streaks, and provides AI-powered coaching. Say things like "track a new habit", "log my habits", "show my stre...
+- GitHub: https://clawhub.ai/Dinesh18S/habitchat
+- Source: clawhub
+
+## Meditate
+
+- Author: ivangdavila
+- Description: Think proactively during idle time with sandboxed reflections, adaptive rhythms, and feedback-driven focus areas.
+- GitHub: https://clawhub.ai/ivangdavila/meditate
+- Source: clawhub
+
+## Secretary
+
+- Author: ivangdavila
+- Description: Manage calendar, draft communications, and track preferences with explicit confirmation before actions.
+- GitHub: https://clawhub.ai/ivangdavila/secretary
+- Source: clawhub
+
+## Personal Friends
+
+- Author: GekaCross
+- Description: Acts as the user's social life assistant in the Friends topic. Remembers friends, birthdays, plans, debts, shared interests. Use when in Personal chat Friend...
+- GitHub: https://clawhub.ai/GekaCross/personal-friends
+- Source: clawhub
+
+## ElevenLabs CLI
+
+- Author: hongkongkiwi
+- Description: Command-line interface for ElevenLabs API enabling text-to-speech, speech-to-text, voice cloning, audio effects, dubbing, and resource management with full S...
+- GitHub: https://clawhub.ai/hongkongkiwi/elevenlabs-cli
+- Source: clawhub
+
+## Personal Notes
+
+- Author: GekaCross
+- Description: Acts as the user's note-taking and journaling assistant in the Notes topic. Captures thoughts, reflections, daily logs, random notes. Use when in Personal ch...
+- GitHub: https://clawhub.ai/GekaCross/personal-notes
+- Source: clawhub
+
+## Personal Ideas
+
+- Author: GekaCross
+- Description: Acts as the user's idea capture and brainstorm partner in the Ideas topic. Catches ideas, develops them, connects dots between past ideas. Use when in Person...
+- GitHub: https://clawhub.ai/GekaCross/personal-ideas
+- Source: clawhub
+
+## Horizon Trader
+
+- Author: Jesusmanuelrg
+- Description: Trade prediction markets (Polymarket, Kalshi) - check positions, submit orders, manage risk, discover markets, and compute Kelly-optimal sizing.
+- GitHub: https://clawhub.ai/Jesusmanuelrg/horizon-trader
+- Source: clawhub
+
+## Agent Audit
+
+- Author: sharbelayy
+- Description: Audit your AI agent setup for performance, cost, and ROI. Scans OpenClaw config, cron jobs, session history, and model usage to find waste and recommend opti...
+- GitHub: https://clawhub.ai/sharbelayy/agent-audit
+- Source: clawhub
+
+## skill bundle clawchain
+
+- Author: KJ-Script
+- Description: The on-chain social network for AI agents on Chromia blockchain — posting, commenting, voting, and memory via Chromia CLI.
+- GitHub: https://clawhub.ai/KJ-Script/testing-clawchain-flag
+- Source: clawhub
+
+## Crypto Backtest
+
+- Author: Sunnyztj
+- Description: Crypto futures backtesting engine with built-in EMA, RSI, MACD, and Bollinger Band strategies. Fetches OHLCV data from any ccxt-supported exchange (Bybit, Bi...
+- GitHub: https://clawhub.ai/Sunnyztj/crypto-backtest
 - Source: clawhub
