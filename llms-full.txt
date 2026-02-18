@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9606 skills | Last updated: 2026-02-18
+> Total: 9621 skills | Last updated: 2026-02-18
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -68229,4 +68229,111 @@ parallelisms, and excessive conjunctive phrases.
 - Author: kleberbaum
 - Description: Voc namespace for Netsnek e.U. vocabulary and language learning tools
 - GitHub: https://clawhub.ai/kleberbaum/voc
+- Source: clawhub
+
+## Analog Gradients
+
+- Author: captaindpt
+- Description: Skill from captaindpt/analog-gradients
+- GitHub: https://github.com/captaindpt/analog-gradients
+- Source: github
+
+## tech-article-image
+
+- Author: ZD-AI-Lab
+- Description: 【技术文章配图大师】一个为技术媒体人设计的 Claude Skill，让 AI 配图告别"塑料感"。
+- GitHub: https://github.com/ZD-AI-Lab/Tech-Article-Illustration-Master
+- Stars: 17
+- Source: github
+
+## Sophiie AI Office Manager
+
+- Author: tomc98
+- Description: Manage your Sophiie sales pipeline — leads, inquiries, appointments, FAQs, policies, SMS, and calls via the Sophiie REST API.
+- GitHub: https://clawhub.ai/tomc98/sophiie
+- Source: clawhub
+
+## Sonnet Model Router
+
+- Author: chandika
+- Description: Intelligent model routing for OpenClaw. Route tasks to Sonnet 4.6 or Opus 4.6 based on task complexity — faster responses, fewer rate limits, and your Claude...
+- GitHub: https://clawhub.ai/chandika/sonnet-model-router
+- Source: clawhub
+
+## Alpaca Trading (Python CLI)
+
+- Author: zijunl
+- Description: Trade stocks and crypto via Alpaca API using Python CLI. Use for market data (quotes, bars, news), placing orders (market, limit, stop), checking positions,...
+- GitHub: https://clawhub.ai/zijunl/alpaca-py-cli
+- Source: clawhub
+
+## appointment-scheduler
+
+- Author: mupengi-bot
+- Description: Automated appointment management for beauty salons, clinics, studios, and photo booths. Handles booking requests, calendar sync, conflict detection, reminder...
+- GitHub: https://clawhub.ai/mupengi-bot/appointment-scheduler
+- Source: clawhub
+
+## mac 助理工作协议
+
+- Author: jjjojoj
+- Description: 基于Two-Lane Pipeline和Anthropic方法论，mac助理自驱执行任务，逐步推进，主动汇报，严格验证，确保高效协作与清晰交付。
+- GitHub: https://clawhub.ai/jjjojoj/mac-assistant-protocol
+- Source: clawhub
+
+## PromptLayer
+
+- Author: theashbhat
+- Description: Manage prompts, log LLM requests, run evaluations, and track scores via the PromptLayer API. Use when working with prompt versioning, A/B testing prompts, LL...
+- GitHub: https://clawhub.ai/theashbhat/promptlayer
+- Source: clawhub
+
+## FIS Architecture
+
+- Author: clawhub
+- Description: Implements a multi-agent collaboration framework with shared layered memory, deadlock detection, dynamic skill registration, and subagent lifecycle management.
+- GitHub: https://clawhub.ai/skills/fis-architecture
+- Stars: 1
+- Source: clawhub
+
+## Zoho Bookings
+
+- Author: byungkyu
+- Description: Zoho Bookings API integration with managed OAuth. Manage appointments, services, staff, and workspaces. Use this skill when users want to book appointments,...
+- GitHub: https://clawhub.ai/byungkyu/zoho-bookings
+- Source: clawhub
+
+## feishu-smart-doc-writer
+
+- Author: terrence741-cell
+- Description: Feishu/Lark Smart Document Writer - 飞书智能文档写入器. Solves API content limits by auto-chunking long documents and auto-transferring ownership. Guides OpenID confi...
+- GitHub: https://clawhub.ai/terrence741-cell/feishu-smart-doc-writer
+- Source: clawhub
+
+## CRM Data Cleaner — Dedup, Normalize & Enrich Contacts
+
+- Author: Luigi08001
+- Description: Deduplicate, normalize, and enrich CRM contacts and companies. Use when a user needs to clean CRM data, find duplicate contacts, standardize phone numbers or...
+- GitHub: https://clawhub.ai/Luigi08001/crm-data-cleaner
+- Source: clawhub
+
+## gcal-oauth-bridge
+
+- Author: DanielKillenberger
+- Description: Interact with the Calendar Bridge — a self-hosted Node.js service that provides a persistent REST API for Google Calendar events. Handles OAuth token auto-re...
+- GitHub: https://clawhub.ai/DanielKillenberger/gcal-oauth-bridge
+- Source: clawhub
+
+## Exa Tool
+
+- Author: ClaireAICodes
+- Description: Exa MCP integration for advanced search, research, and crawling.
+- GitHub: https://clawhub.ai/ClaireAICodes/exa-tool
+- Source: clawhub
+
+## Knowledge Management
+
+- Author: ClaireAICodes
+- Description: Organize and classify OpenClaw knowledge entries into local folders by content type (Research, Decision, Insight, Lesson, Pattern, Project, Reference, Tutori...
+- GitHub: https://clawhub.ai/ClaireAICodes/knowledge-management
 - Source: clawhub
