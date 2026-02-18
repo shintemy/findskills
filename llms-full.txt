@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9852 skills | Last updated: 2026-02-18
+> Total: 9902 skills | Last updated: 2026-02-18
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -69978,4 +69978,359 @@ parallelisms, and excessive conjunctive phrases.
 - Author: tamil-9421
 - Description: Your personal movie assistant. Track what you watch, check your lists, and get movie info from Letterboxd instantly.
 - GitHub: https://clawhub.ai/tamil-9421/letterboxd-tracker
+- Source: clawhub
+
+## WhatsApp Common Groups
+
+- Author: MarcosRippel
+- Description: Find groups shared between contacts and check group membership
+- GitHub: https://clawhub.ai/MarcosRippel/whatsapp-common-groups
+- Source: clawhub
+
+## Anti Panic Protocol
+
+- Author: NoelisTired
+- Description: Handle tool failures under pressure with bounded retries, clean user communication, and safe escalation. Use when commands/tools fail, when repeated retries...
+- GitHub: https://clawhub.ai/NoelisTired/anti-panic-protocol
+- Source: clawhub
+
+## Trackyard
+
+- Author: benny-conn
+- Description: Search and download licensed music from Trackyard's AI-powered catalog. Use for finding background music for videos, social content, podcasts, or any project...
+- GitHub: https://clawhub.ai/benny-conn/trackyard
+- Source: clawhub
+
+## WhatsApp Chats
+
+- Author: MarcosRippel
+- Description: List, search, and analyze WhatsApp conversations
+- GitHub: https://clawhub.ai/MarcosRippel/whatsapp-chats
+- Source: clawhub
+
+## Discord Digest
+
+- Author: NikolayBohdanov
+- Description: Generate formatted digests from Discord servers using a user token. Reads messages from selected channels/threads and creates concise summaries with links. U...
+- GitHub: https://clawhub.ai/NikolayBohdanov/discord-digest
+- Source: clawhub
+
+## WhatsApp Validate
+
+- Author: MarcosRippel
+- Description: Check if phone numbers exist in the local Baileys session cache
+- GitHub: https://clawhub.ai/MarcosRippel/whatsapp-validate
+- Source: clawhub
+
+## Openclaw Bot Prob Trade
+
+- Author: vlprosvirkin
+- Description: Autonomous trading bot for Polymarket via prob.trade. Run strategies, manage risk, scan markets. Requires the probtrade skill for API access.
+- GitHub: https://clawhub.ai/vlprosvirkin/openclaw-bot-prob-trade
+- Source: clawhub
+
+## n8n Workflow Templates
+
+- Author: yoder-bawt
+- Description: Production-ready n8n workflow templates for AI agents. Deploy pre-built automations for webhooks, RSS monitoring, health checks, social metrics, and data bac...
+- GitHub: https://clawhub.ai/yoder-bawt/n8n-workflow-templates
+- Source: clawhub
+
+## Social Card Gen
+
+- Author: clawhub
+- Description: Generate platform-specific social post variants (Twitter, LinkedIn, Reddit) from one source input using a local Node.js script with no API dependency.
+- GitHub: https://clawhub.ai/skills/brw-social-card-gen
+- Source: clawhub
+
+## Task Tracker
+
+- Author: clawhub
+- Description: Proactive task state management. Use on EVERY task start, progress update, completion, or failure. Tracks what was requested, what's running (background proc...
+- GitHub: https://clawhub.ai/skills/agent-task-tracker
+- Stars: 1
+- Source: clawhub
+
+## Qdrant Advanced
+
+- Author: clawhub
+- Description: Advanced Qdrant vector database operations for AI agents. Semantic search, contextual document ingestion with chunking, collection management, snapshots, and...
+- GitHub: https://clawhub.ai/skills/qdrant-advanced
+- Source: clawhub
+
+## Openclaw Agentpmt Tool Air Quality Pollen Information E89f3f
+
+- Author: firef1ie
+- Description: Use AgentPMT external API to run the Air Quality & Pollen Information tool with wallet signatures, credits purchase, or credits earned from jobs.
+- GitHub: https://clawhub.ai/firef1ie/openclaw-agentpmt-tool-air-quality-pollen-information-e89f3f
+- Source: clawhub
+
+## Weather Open‑Meteo
+
+- Author: vdiogov
+- Description: Get current weather and forecasts via open-meteo.com with optional fallback to wttr.in if available. No API key required.
+- GitHub: https://clawhub.ai/vdiogov/weather-open-meteo
+- Source: clawhub
+
+## proxymock
+
+- Author: mleray24
+- Description: Record, inspect, mock, replay, and generate API traffic using the proxymock CLI. Use when the user wants to capture HTTP/gRPC/database traffic, create mocks...
+- GitHub: https://clawhub.ai/mleray24/proxymock
+- Source: clawhub
+
+## Jarvis Persona Style Calibrator 01
+
+- Author: xammarie
+- Description: Calibrate assistant personality to voice, boundaries, and audience context. Use when handling personality work that needs repeatable steps, quality gates, an...
+- GitHub: https://clawhub.ai/xammarie/jarvis-persona-style-calibrator-01
+- Source: clawhub
+
+## Jarvis Migration Risk Radar 01
+
+- Author: xammarie
+- Description: Assess migration risk and design staged rollouts. Use when handling development work that needs repeatable steps, quality gates, and practical outputs.
+- GitHub: https://clawhub.ai/xammarie/jarvis-migration-risk-radar-01
+- Source: clawhub
+
+## Jarvis Codebase Mapper 01
+
+- Author: xammarie
+- Description: Map unfamiliar codebases into modules, owners, and entrypoints. Use when handling development work that needs repeatable steps, quality gates, and practical...
+- GitHub: https://clawhub.ai/xammarie/jarvis-codebase-mapper-01
+- Source: clawhub
+
+## Jarvis Incident Timeline Writer 01
+
+- Author: xammarie
+- Description: Create precise incident timelines from logs and notes. Use when handling development work that needs repeatable steps, quality gates, and practical outputs.
+- GitHub: https://clawhub.ai/xammarie/jarvis-incident-timeline-writer-01
+- Source: clawhub
+
+## Decision Engine
+
+- Author: 1kalin
+- Description: Expert decision architect aiding better decisions with tailored classification, bias reduction, and actionable frameworks tied to your specific context.
+- GitHub: https://clawhub.ai/1kalin/afrexai-decision-engine
+- Source: clawhub
+
+## Dnote
+
+- Author: M1n-74316D65
+- Description: Save, retrieve, and manage notes using Dnote CLI. Use when the user wants to capture information, search existing notes, reference saved knowledge, or organi...
+- GitHub: https://clawhub.ai/M1n-74316D65/dnote
+- Stars: 1
+- Source: clawhub
+
+## One missed deadline ends a career. caseclaw makes sure it never happens.  Point it at a matter and it auto-calculates every filing deadline from 600+ court rule sets. Throw a new client name at it and it checks conflicts against your entire case history in under a second. Start typing and it's already timing your work in six-minute increments.  No browser tabs. No clunky SaaS dashboards. No $500/seat enterprise contracts. Just one command and the peace of mind that nothing is slipping through.
+
+- Author: jagadeeshmurali-coder
+- Description: Missed deadlines are the
+- GitHub: https://clawhub.ai/jagadeeshmurali-coder/caseclaw
+- Source: clawhub
+
+## revol-suno-headless-skill
+
+- Author: RevolGMPHL
+- Description: Suno AI 音乐创作助手（无头 Linux 服务器专用版）— 自动登录、创建歌曲、下载音频。通过 Xvfb 虚拟显示在无 GUI 的 Linux 云服务器上运行。当用户要求生成音乐、写歌、创作歌曲、用 Suno 生成 AI 音乐时使用。
+- GitHub: https://clawhub.ai/RevolGMPHL/suno-headless-skill
+- Stars: 1
+- Source: clawhub
+
+## Mukt - Openrouter Free Responder
+
+- Author: hgosansn
+- Description: Zero-cost OpenRouter responder that auto-discovers the best currently free model, retries on failures, and returns clean answers fast. Use this when a user a...
+- GitHub: https://clawhub.ai/hgosansn/mukt
+- Source: clawhub
+
+## Viking Memory
+
+- Author: forvendettaw
+- Description: OpenViking 长期记忆系统。用于语义检索用户偏好、历史对话、重要信息等。当需要召回用户之前提到的信息、查找相关上下文时使用此 Skill。
+- GitHub: https://clawhub.ai/forvendettaw/viking-memory
+- Source: clawhub
+
+## Deploy Pilot
+
+- Author: guifav
+- Description: Manages the full deploy cycle — build validation, GitHub push, Vercel deployment, and health checks
+- GitHub: https://clawhub.ai/guifav/deploy-pilot
+- Source: clawhub
+
+## Kitful SEO Article Writer
+
+- Author: eashish93
+- Description: Generate full SEO articles using Kitful.ai. Give a keyword or topic — Kitful researches, writes, and delivers a publication-ready article.
+- GitHub: https://clawhub.ai/eashish93/kitful
+- Stars: 1
+- Source: clawhub
+
+## Api Gateway 1.0.31
+
+- Author: IceMasterT
+- Description: API gateway for calling third-party APIs with managed OAuth connections, provided by Maton (https://maton.ai). Use this skill when users want to interact wit...
+- GitHub: https://clawhub.ai/IceMasterT/api-gateway-1-0-31
+- Source: clawhub
+
+## Agent Builder 1.0.0
+
+- Author: IceMasterT
+- Description: Build high-performing OpenClaw agents end-to-end. Use when you want to design a new agent (persona + operating rules) and generate the required OpenClaw work...
+- GitHub: https://clawhub.ai/IceMasterT/agent-builder-1-0-0
+- Source: clawhub
+
+## Positioning Basics
+
+- Author: BrianRWagner
+- Description: Help founders and marketers nail their positioning. Use when someone mentions "positioning," "value proposition," "who is this for," "how do I describe my pr...
+- GitHub: https://clawhub.ai/BrianRWagner/brw-positioning-basics
+- Source: clawhub
+
+## Netease Music Pusher
+
+- Author: T-Evan
+- Description: 自动验证码登录网易云音乐，获取并定时推送个性化每日推荐和公开榜单歌曲信息。
+- GitHub: https://clawhub.ai/T-Evan/netease-music-pusher
+- Source: clawhub
+
+## System Architect
+
+- Author: 1kalin
+- Description: Principal-level system architect guiding structured requirements capture, pattern selection, layered design, data architecture, and API standards for scalabl...
+- GitHub: https://clawhub.ai/1kalin/afrexai-system-architect
+- Source: clawhub
+
+## Data Engineering
+
+- Author: 1kalin
+- Description: Design and operate scalable data pipelines and architectures using best-fit patterns, tools, and modeling methodologies without external dependencies.
+- GitHub: https://clawhub.ai/1kalin/afrexai-data-engineering
+- Source: clawhub
+
+## Agent Engineering
+
+- Author: 1kalin
+- Description: Design, build, deploy, and operate production AI agent systems — single agents, multi-agent teams, and autonomous swarms. Complete methodology from agent arc...
+- GitHub: https://clawhub.ai/1kalin/afrexai-agent-engineering
+- Source: clawhub
+
+## OpenRouter Analytics
+
+- Author: plgonzalezrx8
+- Description: Review OpenRouter usage, analytics, and troubleshooting data via API. Use when the user asks for spend/usage monitoring, activity trends, per-key management...
+- GitHub: https://clawhub.ai/plgonzalezrx8/openrouter-analytics
+- Source: clawhub
+
+## Moltbook Engagement
+
+- Author: yoder-bawt
+- Description: Battle-tested toolkit for Moltbook platform engagement. Use when: (1) Posting or commenting on Moltbook with built-in deduplication protection, (2) Scanning...
+- GitHub: https://clawhub.ai/yoder-bawt/moltbook-engagement
+- Source: clawhub
+
+## Colony Engagement
+
+- Author: yoder-bawt
+- Description: Comprehensive toolkit for thecolony.cc - the collaborative intelligence platform for AI agents. Authenticated API client, token caching, rate-limit-aware pos...
+- GitHub: https://clawhub.ai/yoder-bawt/colony-engagement
+- Source: clawhub
+
+## The Sovereign Bridge for Distributed Intelligence
+
+- Author: gstdcoin
+- Description: Decentralized Agent-to-Agent Autonomous Economy for TON. Read-only with GSTD_API_KEY; signing operations require AGENT_PRIVATE_MNEMONIC.
+- GitHub: https://clawhub.ai/gstdcoin/gsdt-a2a
+- Source: clawhub
+
+## Agent Media: Generate AI-powered videos and images from the terminal using the `agent-media` CLI.
+
+- Author: nevo-david
+- Description: Generate AI-powered videos and images from the terminal using the `agent-media` CLI.
+- GitHub: https://clawhub.ai/nevo-david/agent-media
+- Source: clawhub
+
+## Home Assistant Control
+
+- Author: Hogar23
+- Description: Control and inspect Home Assistant via REST API for entities, states, services, scenes, scripts, and automations. Use when the user asks to turn devices on/o...
+- GitHub: https://clawhub.ai/Hogar23/home-assistant-control
+- Source: clawhub
+
+## Clawzone
+
+- Author: arandich
+- Description: Play competitive AI games on ClawZone platform — join matchmaking, play turns, and collect results via REST API
+- GitHub: https://clawhub.ai/arandich/clawzone
+- Stars: 1
+- Source: clawhub
+
+## Crypto Wallets for Autonomous Agents
+
+- Author: macd2
+- Description: AgentWalletApi crypto wallet API for AI agents. Use when an agent needs to send ETH or ERC-20 tokens, check balances, list wallets, or interact with Ethereum...
+- GitHub: https://clawhub.ai/macd2/agent-crypto-wallet
+- Source: clawhub
+
+## Openclaw Agentpmt Tool Blockchain Scanner D789e7
+
+- Author: firef1ie
+- Description: Use AgentPMT external API to run the Blockchain Scanner tool with wallet signatures, credits purchase, or credits earned from jobs.
+- GitHub: https://clawhub.ai/firef1ie/openclaw-agentpmt-tool-blockchain-scanner-d789e7
+- Source: clawhub
+
+## Astra Docker
+
+- Author: walniek
+- Description: Interact with Astra's Docker container workspace by executing commands and reading or writing files at /workspace inside the astra-env container.
+- GitHub: https://clawhub.ai/walniek/astra-docker
+- Source: clawhub
+
+## Free-API-Grid-gstd
+
+- Author: gstdcoin
+- Description: Decentralized Agent-to-Agent Autonomous Economy for TON. Read-only with GSTD_API_KEY; signing operations require AGENT_PRIVATE_MNEMONIC.
+- GitHub: https://clawhub.ai/gstdcoin/gstd-a2a-grid
+- Source: clawhub
+
+## Linkedin Authority Builder
+
+- Author: BrianRWagner
+- Description: Build a LinkedIn content system for thought leadership. Use when someone needs to establish authority, attract inbound leads, or build a consistent content p...
+- GitHub: https://clawhub.ai/BrianRWagner/brw-linkedin-authority-builder
+- Source: clawhub
+
+## Jarvis Ci Flake Hunter 01
+
+- Author: xammarie
+- Description: Track and reduce flaky tests with deterministic isolation. Use when handling development work that needs repeatable steps, quality gates, and practical outputs.
+- GitHub: https://clawhub.ai/xammarie/jarvis-ci-flake-hunter-01
+- Source: clawhub
+
+## Drop a contract, get answers. lawclaw rips through PDFs, spots risky clauses, diffs redlines, checks citations, and searches thousands of discovery docs—locally, so nothing leaves your machine. Built for attorneys and paralegals who bill by the hour and can't waste one
+
+- Author: jagadeeshmurali-coder
+- Description: Drop a contract, get answers. lawclaw rips through PDFs, spots risky clauses, diffs redlines, checks citations, and searches thousands of discovery docs—loca...
+- GitHub: https://clawhub.ai/jagadeeshmurali-coder/lawclaw
+- Source: clawhub
+
+## Feature Forge
+
+- Author: clawhub
+- Description: Generates complete features from natural language — components, API routes, migrations, types, and tests
+- GitHub: https://clawhub.ai/skills/feature-forge
+- Source: clawhub
+
+## YouTube Summary
+
+- Author: sunghyo
+- Description: Summarize YouTube videos into structured Markdown with youtube2md, including chaptered notes, timestamp links, and key takeaways. Use when the user provides...
+- GitHub: https://clawhub.ai/sunghyo/youtube-summary
+- Source: clawhub
+
+## Criticaster
+
+- Author: gglucass
+- Description: Search Criticaster's aggregated product reviews to quickly find the best products. Use when the user needs trustworthy product recommendations, reviews, comp...
+- GitHub: https://clawhub.ai/gglucass/criticaster
 - Source: clawhub
