@@ -1,3 +1,15 @@
 {
-  "repos": []
+  "repos": [
+    {
+      "url": "https://github.com/HeyVincent-ai/agent-skills",
+      "tags": [
+        "vincent",
+        "wallet",
+        "defi",
+        "polymarket",
+        "brave-search",
+        "twitter"
+      ]
+    }
+  ]
 }
