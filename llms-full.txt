@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9418 skills | Last updated: 2026-02-17
+> Total: 9455 skills | Last updated: 2026-02-18
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -66886,4 +66886,266 @@ parallelisms, and excessive conjunctive phrases.
 - Author: autogame-17
 - Description: Sends voice messages (audio) to Feishu chats using Duby TTS.
 - GitHub: https://clawhub.ai/autogame-17/feishu-voice-assistant
+- Source: clawhub
+
+## Get Kalshi Live Games
+
+- Author: kanakamedalasumanth
+- Description: Fetch up to five currently live Kalshi sports markets with game names and their probabilities using the browser.
+- GitHub: https://clawhub.ai/kanakamedalasumanth/get-kalshi-live-games
+- Source: clawhub
+
+## Clawnema
+
+- Author: drandrewlaw
+- Description: Go to the movies at Clawnema, the virtual cinema for AI agents. Watch livestreams, pay with USDC, post reactions, and report back to your owner. Use when ask...
+- GitHub: https://clawhub.ai/drandrewlaw/clawnema
+- Source: clawhub
+
+## Dagny Nostr (nak)
+
+- Author: edwardbickerton
+- Description: Manage Nostr posting and engagement via the nak CLI. Use for creating notes, replying in threads, tagging npubs, checking replies/mentions, monitoring a rela...
+- GitHub: https://clawhub.ai/edwardbickerton/dagny-nostr-nak
+- Source: clawhub
+
+## seedance-cog
+
+- Author: nitishgargiitd
+- Description: Seedance × CellCog. ByteDance's #1 video model meets the frontier of multi-agent coordination — CellCog orchestrates Seedance with scripting, voice synthesis...
+- GitHub: https://clawhub.ai/nitishgargiitd/seedance-cog
+- Source: clawhub
+
+## Slides
+
+- Author: ivangdavila
+- Description: Create, edit, and automate presentations with programmatic tools, visual consistency, and project-based learning of user style preferences.
+- GitHub: https://clawhub.ai/ivangdavila/slides
+- Source: clawhub
+
+## resume-cog
+
+- Author: nitishgargiitd
+- Description: 7 seconds. That's how long a recruiter spends on your resume. CellCog makes every second count — #1 on DeepResearch Bench (Feb 2026) to research your target...
+- GitHub: https://clawhub.ai/nitishgargiitd/resume-cog
+- Source: clawhub
+
+## SnapRender
+
+- Author: User0856
+- Description: Give your agent eyes on the web. See any website visually, analyze layouts, compare devices, monitor pages for changes, and generate visual reports.
+- GitHub: https://clawhub.ai/User0856/snaprender
+- Source: clawhub
+
+## news-cog
+
+- Author: nitishgargiitd
+- Description: Frontier search models with multi-angle research on every query. CellCog combines deep reasoning with SOTA search to produce accurate, comprehensive news bri...
+- GitHub: https://clawhub.ai/nitishgargiitd/news-cog
+- Source: clawhub
+
+## MinerU PDF Extractor
+
+- Author: A-I-R
+- Description: Extract PDF content to Markdown using MinerU API. Supports formulas, tables, OCR. Provides both local file and online URL parsing methods.
+- GitHub: https://clawhub.ai/A-I-R/mineru-pdf-extractor
+- Source: clawhub
+
+## snek
+
+- Author: kleberbaum
+- Description: Snek namespace for Netsnek e.U. utility tools. This skill provides the Snek brand identity, a lightweight collection of helper functions and common utilities...
+- GitHub: https://clawhub.ai/kleberbaum/snek
+- Source: clawhub
+
+## netsnek
+
+- Author: kleberbaum
+- Description: Core namespace for Netsnek e.U. products and services. This skill provides the foundational Netsnek identity and copyright information for the OpenClaw ecosy...
+- GitHub: https://clawhub.ai/kleberbaum/netsnek
+- Source: clawhub
+
+## open-market-data
+
+- Author: anotb
+- Description: Query free financial data APIs — stocks, crypto, macro, SEC filings
+- GitHub: https://clawhub.ai/anotb/open-market-data
+- Source: clawhub
+
+## Invoice
+
+- Author: kleberbaum
+- Description: Creates and manages invoices as JSON files on GitHub with sequential numbering, preview, and upload.
+- GitHub: https://clawhub.ai/kleberbaum/netsnek-invoice
+- Source: clawhub
+
+## Redshift
+
+- Author: accolver
+- Description: Manage application secrets with the Redshift CLI (https://redshiftapp.com) — decentralized, encrypted secret management built on Nostr. Use when setting, get...
+- GitHub: https://clawhub.ai/accolver/redshift
+- Source: clawhub
+
+## RocketChat
+
+- Author: zenjabba
+- Description: Rocket.Chat team messaging - channels, messages, users, integrations via REST API
+- GitHub: https://clawhub.ai/zenjabba/rocketchat
+- Source: clawhub
+
+## PopUp Referrals
+
+- Author: eliaskress
+- Description: Check your PopUp referral link, track earnings, and see referred vendor status. Earn $100 per vendor who subscribes annually.
+- GitHub: https://clawhub.ai/eliaskress/popup-referrals
+- Source: clawhub
+
+## Ship My Token
+
+- Author: new-ground
+- Description: Launch Solana tokens on Pumpfun, manage fee sharing, claim earnings, and track portfolio. All via chat.
+- GitHub: https://clawhub.ai/new-ground/shipmytoken
+- Stars: 1
+- Source: clawhub
+
+## legal-cog
+
+- Author: nitishgargiitd
+- Description: Legal demands two things: frontier-level reasoning and precision document generation. CellCog delivers both. #1 on DeepResearch Bench (Feb 2026) for the inte...
+- GitHub: https://clawhub.ai/nitishgargiitd/legal-cog
+- Source: clawhub
+
+## Church Account
+
+- Author: nathan-deepmm
+- Description: Automate tasks on churchofjesuschrist.org and LCR (Leader & Clerk Resources). Use when logging into LDS church accounts, looking up ward/stake rosters, manag...
+- GitHub: https://clawhub.ai/nathan-deepmm/church-account
+- Source: clawhub
+
+## Mercury Payments
+
+- Author: nathan-deepmm
+- Description: Pay invoices via Mercury Bank API. Use when sending ACH or wire payments through Mercury, creating recipients, querying transactions, or managing payment wor...
+- GitHub: https://clawhub.ai/nathan-deepmm/mercury-payments
+- Source: clawhub
+
+## Interior Design
+
+- Author: ivangdavila
+- Description: Coordinate interior design projects with space verification, supplier localization, and staged decision-making.
+- GitHub: https://clawhub.ai/ivangdavila/interior-design
+- Source: clawhub
+
+## YieldVault Agent
+
+- Author: alannetwork
+- Description: Autonomous yield farming agent for BNB Chain with deterministic execution, smart contract integration, and automated decision-making.
+- GitHub: https://clawhub.ai/alannetwork/yieldvault-agent
+- Source: clawhub
+
+## Message
+
+- Author: ivangdavila
+- Description: Communicate across channels without social disasters, with escalation rules, tone calibration, and platform-aware formatting.
+- GitHub: https://clawhub.ai/ivangdavila/message
+- Source: clawhub
+
+## Voice Notes
+
+- Author: ivangdavila
+- Description: Transform chaotic voice memos into a searchable knowledge base with automatic organization, linking, and tag-based retrieval.
+- GitHub: https://clawhub.ai/ivangdavila/voice-notes
+- Source: clawhub
+
+## In-App Purchases
+
+- Author: ivangdavila
+- Description: Implement in-app purchases and subscriptions across iOS, Android, and Flutter with RevenueCat, paywalls, receipt validation, and subscription analytics.
+- GitHub: https://clawhub.ai/ivangdavila/in-app-purchases
+- Source: clawhub
+
+## Smart Spawn
+
+- Author: deeflect
+- Description: Pick the best AI model for any task using the Smart Spawn API. No plugin needed — just HTTP requests to ss.deeflect.com/api.
+- GitHub: https://clawhub.ai/deeflect/smart-spawn
+- Source: clawhub
+
+## jaen
+
+- Author: kleberbaum
+- Description: Jaen namespace for Netsnek e.U. CMS framework. This skill represents the Jaen brand, a Gatsby-based content management system for building dynamic websites w...
+- GitHub: https://clawhub.ai/kleberbaum/jaen
+- Source: clawhub
+
+## pylon
+
+- Author: kleberbaum
+- Description: Pylon namespace for Netsnek e.U. GraphQL API framework. This skill represents the Pylon brand for building type-safe Cloudflare Worker APIs with automatic Gr...
+- GitHub: https://clawhub.ai/kleberbaum/pylon
+- Source: clawhub
+
+## Hinge Dating Profile Optimizer
+
+- Author: b1rdmania
+- Description: Comprehensive, research-backed Hinge dating profile optimization. Use when someone wants to improve their Hinge profile, audit an existing profile, write bet...
+- GitHub: https://clawhub.ai/b1rdmania/hinge-profile-optimizer
+- Stars: 1
+- Source: clawhub
+
+## Foxreach
+
+- Author: concaption
+- Description: Manage FoxReach cold email outreach — leads, campaigns, sequences, templates, email accounts, inbox, and analytics. Use when the user asks to create leads, m...
+- GitHub: https://clawhub.ai/concaption/foxreach
+- Source: clawhub
+
+## Mailgun
+
+- Author: lksrz
+- Description: Send outbound emails via the Mailgun API. Uses MAILGUN_API_KEY, MAILGUN_DOMAIN, MAILGUN_REGION, and MAILGUN_FROM.
+- GitHub: https://clawhub.ai/lksrz/mailgun-simple
+- Stars: 1
+- Source: clawhub
+
+## AgentMesh Governance
+
+- Author: imran-siddique
+- Description: AI agent governance, trust scoring, and policy enforcement powered by AgentMesh. Activate when: (1) user wants to enforce token limits, tool restrictions, or...
+- GitHub: https://clawhub.ai/imran-siddique/agentmesh-governance
+- Source: clawhub
+
+## Anima Design Agent
+
+- Author: dannyshmueli
+- Description: Turns ideas into live, full-stack web applications with editable code, built-in database, user authentication, and hosting. Anima is the design agent in the...
+- GitHub: https://clawhub.ai/dannyshmueli/anima-design-agent
+- Source: clawhub
+
+## Foxreach Cold Outrach
+
+- Author: concaption
+- Description: Manage FoxReach cold email outreach — leads, campaigns, sequences, templates, email accounts, inbox, and analytics. Use when the user asks to create leads, m...
+- GitHub: https://clawhub.ai/concaption/foxreach-io
+- Source: clawhub
+
+## Ai 3d Generator
+
+- Author: vonzellu
+- Description: Génère automatiquement des modèles 3D paramétriques détaillés en Python/Trimesh à partir de descriptions textuelles, avec export STL optimisé.
+- GitHub: https://clawhub.ai/vonzellu/ai-3d-generator
+- Source: clawhub
+
+## removebg-api
+
+- Author: rolandkakonyi
+- Description: Remove image backgrounds using the remove.bg API with API-key auth and transparent PNG output. Use when high-quality cutouts are needed and cloud processing...
+- GitHub: https://clawhub.ai/rolandkakonyi/removebg-api
+- Source: clawhub
+
+## macOS Notes
+
+- Author: lucaperret
+- Description: Create, read, search, and manage macOS Notes via AppleScript. Use when the user asks to take a note, jot something down, save an idea, create meeting notes,...
+- GitHub: https://clawhub.ai/lucaperret/macos-notes
 - Source: clawhub
