@@ -7,6 +7,20 @@ const __dirname = dirname(__filename);
 const ROOT = join(__dirname, '..');
 
 const SOURCE_PRIORITY = { clawhub: 3, github: 2, manual: 1 };
+const BATCH_SIZE = 10;
+
+async function batchProcess(items, fn, batchSize = BATCH_SIZE, delayMs = 100) {
+  const results = [];
+  for (let i = 0; i < items.length; i += batchSize) {
+    const batch = items.slice(i, i + batchSize);
+    const batchResults = await Promise.all(batch.map(fn));
+    results.push(...batchResults);
+    if (i + batchSize < items.length) {
+      await new Promise(r => setTimeout(r, delayMs));
+    }
+  }
+  return results;
+}
 
 // --- Exported utilities (testable) ---
 
@@ -154,13 +168,11 @@ async function collectFromClawHub() {
     }
   }
 
-  // Phase 2: Fetch detail API for each skill to get owner handle
-  console.log(`  Fetching owner details for ${slugs.length} ClawHub skills...`);
-  const skills = [];
+  // Phase 2: Fetch detail API in parallel batches to get owner handle
+  console.log(`  Fetching owner details for ${slugs.length} ClawHub skills (batch=${BATCH_SIZE})...`);
 
-  for (const item of slugs) {
+  const skills = await batchProcess(slugs, async (item) => {
     let ownerHandle = null;
-
     try {
       const detailRes = await fetch(`https://clawhub.ai/api/v1/skills/${item.slug}`, {
         headers: {
@@ -175,12 +187,8 @@ async function collectFromClawHub() {
     } catch {
       // Non-critical: fall back to 'clawhub' as author
     }
-
-    skills.push(mapClawHubSkill(item, ownerHandle));
-
-    // Small delay between requests
-    await new Promise(r => setTimeout(r, 200));
-  }
+    return mapClawHubSkill(item, ownerHandle);
+  });
 
   console.log(`  Enriched ${skills.filter(s => s.author !== 'clawhub').length} of ${skills.length} skills with owner info`);
   return skills;
@@ -263,13 +271,12 @@ async function collectFromGitHub() {
     }
   }
 
-  // Filter: fetch SKILL.md content for each candidate and check relevance
-  console.log(`  Filtering ${skills.length} candidates for relevance...`);
-  const filtered = [];
+  // Filter + enrich in parallel batches
+  console.log(`  Filtering ${skills.length} candidates for relevance (batch=${BATCH_SIZE})...`);
 
-  for (const skill of skills) {
+  const results = await batchProcess(skills, async (skill) => {
     const match = skill.github.match(/github\.com\/([^/]+)\/([^/]+)/);
-    if (!match) continue;
+    if (!match) return null;
 
     const [, owner, repo] = match;
     let skillMdContent = null;
@@ -286,52 +293,50 @@ async function collectFromGitHub() {
       // Ignore fetch errors, will rely on keyword matching
     }
 
-    if (isRelevantSkill(skill, skillMdContent)) {
-      // Enrich from SKILL.md frontmatter if available
-      if (skillMdContent) {
-        const fmMatch = skillMdContent.match(/^---\n([\s\S]*?)\n---/);
-        if (fmMatch) {
-          const fm = fmMatch[1];
-          const nameMatch = fm.match(/^name:\s*(.+)$/m);
-          const descMatch = fm.match(/^description:\s*(.+)$/m);
-          if (nameMatch) skill.name = nameMatch[1].trim();
-          if (descMatch && skill.description.startsWith('Skill from ')) {
-            skill.description = descMatch[1].trim();
-          }
+    if (!isRelevantSkill(skill, skillMdContent)) return null;
+
+    // Enrich from SKILL.md frontmatter if available
+    if (skillMdContent) {
+      const fmMatch = skillMdContent.match(/^---\n([\s\S]*?)\n---/);
+      if (fmMatch) {
+        const fm = fmMatch[1];
+        const nameMatch = fm.match(/^name:\s*(.+)$/m);
+        const descMatch = fm.match(/^description:\s*(.+)$/m);
+        if (nameMatch) skill.name = nameMatch[1].trim();
+        if (descMatch && skill.description.startsWith('Skill from ')) {
+          skill.description = descMatch[1].trim();
         }
       }
-
-      // Fetch repo details for stars and created_at
-      try {
-        const repoUrl = `https://api.github.com/repos/${owner}/${repo}`;
-        const repoRes = await fetch(repoUrl, {
-          headers: {
-            'Authorization': `token ${token}`,
-            'Accept': 'application/vnd.github.v3+json',
-            'User-Agent': 'FindSkills-Collector'
-          }
-        });
-        if (repoRes.ok) {
-          const repoData = await repoRes.json();
-          skill.stars = repoData.stargazers_count || 0;
-          skill.created_at = repoData.created_at
-            ? repoData.created_at.split('T')[0]
-            : today;
-        }
-      } catch {
-        // Non-critical: stars/created_at default to 0/today
-      }
-
-      if (!skill.stars) skill.stars = 0;
-      if (!skill.created_at) skill.created_at = today;
-
-      filtered.push(skill);
     }
 
-    // Small delay to avoid rate limiting
-    await new Promise(r => setTimeout(r, 200));
-  }
+    // Fetch repo details for stars and created_at
+    try {
+      const repoUrl = `https://api.github.com/repos/${owner}/${repo}`;
+      const repoRes = await fetch(repoUrl, {
+        headers: {
+          'Authorization': `token ${token}`,
+          'Accept': 'application/vnd.github.v3+json',
+          'User-Agent': 'FindSkills-Collector'
+        }
+      });
+      if (repoRes.ok) {
+        const repoData = await repoRes.json();
+        skill.stars = repoData.stargazers_count || 0;
+        skill.created_at = repoData.created_at
+          ? repoData.created_at.split('T')[0]
+          : today;
+      }
+    } catch {
+      // Non-critical: stars/created_at default to 0/today
+    }
 
+    if (!skill.stars) skill.stars = 0;
+    if (!skill.created_at) skill.created_at = today;
+
+    return skill;
+  }, BATCH_SIZE, 200);
+
+  const filtered = results.filter(Boolean);
   console.log(`  ${filtered.length} of ${skills.length} skills passed relevance filter`);
   return filtered;
 }
