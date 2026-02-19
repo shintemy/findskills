@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10081 skills | Last updated: 2026-02-19
+> Total: 10113 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -71607,4 +71607,228 @@ parallelisms, and excessive conjunctive phrases.
 - Author: MacksMind
 - Description: Interact with I'm Pretty Amazing (imprettyamazing.com) — a platform for tracking and celebrating accomplishments. Use when: posting wins, tracking achievemen...
 - GitHub: https://clawhub.ai/MacksMind/imprettyamazing
+- Source: clawhub
+
+## W3connect
+
+- Author: kernel1983
+- Description: Access ETH wallet address and securely send ETH or USDC on Ethereum or Base chains with 2FA authentication code verification.
+- GitHub: https://clawhub.ai/kernel1983/w3connect
+- Source: clawhub
+
+## Multi-Agent Tenant Upgrade
+
+- Author: maverick-software
+- Description: Adds multi-agent support to OpenClaw chat with agent selector, per-agent session filtering, new session button, agent creation panel (manual + AI wizard), an...
+- GitHub: https://clawhub.ai/maverick-software/multi-agent-tenant-upgrade
+- Source: clawhub
+
+## Openclaw Default Agent Backstory
+
+- Author: msaum
+- Description: Build, bootstrap, and maintain a stable OpenClaw default agent identity by interviewing the user, updating IDENTITY.md, and seeding core context files (AGENT...
+- GitHub: https://clawhub.ai/msaum/openclaw-default-agent-backstory
+- Source: clawhub
+
+## Gog Jasmine
+
+- Author: jasminehuang98613
+- Description: Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
+- GitHub: https://clawhub.ai/jasminehuang98613/gog-jasmine
+- Source: clawhub
+
+## Health Sync
+
+- Author: filipe-m-almeida
+- Description: Analyze synced health data across pOura, Withings, Hevy, Strava and Eight Sleep.
+- GitHub: https://clawhub.ai/filipe-m-almeida/health-sync
+- Source: clawhub
+
+## Video Download FaaS
+
+- Author: LAsurvivor
+- Description: Download videos in MP4 format using yt-dlp with FaaS (Firecracker/Container) isolation. Start downloads, check status, and kill processes. Videos are automat...
+- GitHub: https://clawhub.ai/LAsurvivor/video-download-faas
+- Source: clawhub
+
+## Ads Manager Agent
+
+- Author: amekala
+- Description: When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, or TikTok. This is an auto...
+- GitHub: https://clawhub.ai/amekala/ads-manager-agent
+- Source: clawhub
+
+## Clawtrade Bnb
+
+- Author: clawhub
+- Description: Autonomous DeFi trading agent for BNB Chain with multi-strategy engine, network switching, and reinforced learning.
+- GitHub: https://clawhub.ai/skills/clawtrade-bnb
+- Source: clawhub
+
+## Lighter Protocol
+
+- Author: aviclaw
+- Description: Interact with Lighter protocol - a ZK rollup orderbook DEX. Use when you need to trade on Lighter, check prices, manage positions, or query account data.
+- GitHub: https://clawhub.ai/aviclaw/lighter
+- Source: clawhub
+
+## Podsips Search
+
+- Author: snook550
+- Description: Search podcast transcripts and retrieve episode data via the PodSips API. Use when user asks to "search podcasts", "find podcast clips", "get transcript", "l...
+- GitHub: https://clawhub.ai/snook550/podsips-search
+- Source: clawhub
+
+## Anti-Pattern Czar
+
+- Author: Glucksberg
+- Description: Detect and fix TypeScript error handling anti-patterns with state persistence and approval workflows. Use when scanning a codebase for silent error failures,...
+- GitHub: https://clawhub.ai/Glucksberg/anti-pattern-czar
+- Source: clawhub
+
+## Xiaohongshu CN
+
+- Author: guohongbin-git
+- Description: 小红书分析 - 热门笔记发现、关键词监控、趋势分析（Instagram 中国版）
+- GitHub: https://clawhub.ai/guohongbin-git/xiaohongshu-cn
+- Source: clawhub
+
+## Meeting Autopilot
+
+- Author: tkuehnl
+- Description: Turn meeting transcripts into operational outputs — action items, decisions, follow-up email drafts, and ticket drafts. Not a summarizer. An operator. Accept...
+- GitHub: https://clawhub.ai/tkuehnl/meeting-autopilot
+- Source: clawhub
+
+## Pager Triage
+
+- Author: tkuehnl
+- Description: AI-powered incident triage for PagerDuty. List active incidents, deep-dive with timeline and alert correlation, check on-call schedules, acknowledge, resolve...
+- GitHub: https://clawhub.ai/tkuehnl/pager-triage
+- Source: clawhub
+
+## Workflow Tools
+
+- Author: leegitw
+- Description: Work smarter with loop detection, parallel decisions, and file size analysis
+- GitHub: https://clawhub.ai/leegitw/workflow-tools
+- Source: clawhub
+
+## Solana Copy Trader
+
+- Author: YouthAIAgent
+- Description: Solana whale copy trading bot. Track any wallet, copy trades in real-time via Jupiter + Pump.fun APIs, with paper trading simulation and live execution. Use...
+- GitHub: https://clawhub.ai/YouthAIAgent/solana-copy-trader
+- Source: clawhub
+
+## Notion Tasks Blocks
+
+- Author: luciorenovato
+- Description: Manage Notion checklist blocks inside a page (no database required). Use when the user has plain to-do blocks and wants to list tasks, add tasks, and mark ta...
+- GitHub: https://clawhub.ai/luciorenovato/notion-tasks-blocks
+- Source: clawhub
+
+## ClawWall
+
+- Author: Stanxy
+- Description: Outbound DLP for OpenClaw — hard regex blocks secrets & PII from leaving the machine. Domain control, no LLM.
+- GitHub: https://clawhub.ai/Stanxy/clawwall
+- Source: clawhub
+
+## WHOOP CLI for Agents
+
+- Author: andreasnlarsen
+- Description: Use whoop-cli to fetch WHOOP data, generate day briefs/health flags, and export trend data for automation workflows.
+- GitHub: https://clawhub.ai/andreasnlarsen/whoop-cli
+- Source: clawhub
+
+## Clawclash
+
+- Author: zacember
+- Description: Compete in ClawClash optimization challenges. Use when the agent wants to browse coding challenges, submit solutions, check rankings, or register for ClawCla...
+- GitHub: https://clawhub.ai/zacember/clawclashapp
+- Source: clawhub
+
+## Auto Drive Publish
+
+- Author: EmilFattakhov
+- Description: Persistent memory for AI agents via Auto Drive. Store and recall agent experiences, upload files to permanent decentralized storage, and build linked memory...
+- GitHub: https://clawhub.ai/EmilFattakhov/auto-drive-publish
+- Source: clawhub
+
+## Seedance 2.0 API
+
+- Author: tony6830377-arch
+- Description: Out-of-the-box Seedance 2.0 API skill — just one API key to generate AI videos. Builds storyboards, generates reference images with Seedream 4.5, submits vid...
+- GitHub: https://clawhub.ai/tony6830377-arch/seedance2-api
+- Source: clawhub
+
+## Review Orchestrator
+
+- Author: leegitw
+- Description: Get multiple perspectives on your work — coordinate reviews across cognitive modes
+- GitHub: https://clawhub.ai/leegitw/review-orchestrator
+- Source: clawhub
+
+## Questrade
+
+- Author: witty-quotes25
+- Description: Execute and monitor stock trades for openclaw.ai workflows using Questrade's browser platform with Yahoo Finance cross-checks. Use when Codex is asked to pre...
+- GitHub: https://clawhub.ai/witty-quotes25/openclaw-questrade
+- Source: clawhub
+
+## Academic Research
+
+- Author: rogerSuperBuilderAlpha
+- Description: Search academic papers and conduct literature reviews using OpenAlex API (free, no key needed). Use when the user needs to find scholarly papers by topic/aut...
+- GitHub: https://clawhub.ai/rogerSuperBuilderAlpha/academic-research
+- Source: clawhub
+
+## Humanizer Enhanced
+
+- Author: dorukardahan
+- Description: Advanced AI text humanizer for blog content. Detects and removes 34 AI writing patterns, adds personality/soul, and handles crypto/Web3 specific tells. Use w...
+- GitHub: https://clawhub.ai/dorukardahan/humanizer-enhanced
+- Source: clawhub
+
+## Skeall Skill Builder
+
+- Author: dorukardahan
+- Description: Agent Skills (SKILL.md) builder, auditor, and improver for cross-platform LLM agents. Use for "skeall", "build a skill", "create skill", "improve skill", "au...
+- GitHub: https://clawhub.ai/dorukardahan/skeall
+- Source: clawhub
+
+## Enterprise Legal Guardrails Public
+
+- Author: lawyered0
+- Description: Legal/compliance guardrails for outbound OpenClaw actions (anti-spam, defamation, privacy, financial claims).
+- GitHub: https://clawhub.ai/lawyered0/enterprise-legal-guardrails-public
+- Source: clawhub
+
+## Research RePrompter
+
+- Author: dorukardahan
+- Description: Transform rough research questions into executable USACF research prompts. Use when user says "research", "research this", "investigate", "deep dive", "resea...
+- GitHub: https://clawhub.ai/dorukardahan/research-reprompter
+- Source: clawhub
+
+## Zhihu Hot CN
+
+- Author: guohongbin-git
+- Description: 知乎热榜监控 - 获取知乎热门话题、问题和趋势分析（Quora 中国版）
+- GitHub: https://clawhub.ai/guohongbin-git/zhihu-hot-cn
+- Source: clawhub
+
+## Cacheforge Setup
+
+- Author: tkuehnl
+- Description: Set up CacheForge — register, configure upstream, get your API key in 30 seconds. One line of config, zero code changes.
+- GitHub: https://clawhub.ai/tkuehnl/cacheforge-setup
+- Source: clawhub
+
+## Safety Checks
+
+- Author: leegitw
+- Description: Verify before you trust — model pinning, fallbacks, and runtime safety validation
+- GitHub: https://clawhub.ai/leegitw/safety-checks
 - Source: clawhub
