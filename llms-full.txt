@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10298 skills | Last updated: 2026-02-19
+> Total: 10315 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -73146,4 +73146,124 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Set up and maintain a structured OpenClaw workspace with project boundaries, role-based file taxonomy, and memory budgets. Use when: (1) bootstrapping a new...
 - GitHub: https://clawhub.ai/skills/workspace-standard
+- Source: clawhub
+
+## ESG Reporting Framework
+
+- Author: 1kalin
+- Description: Generate detailed ESG reports aligned with 2026 standards, covering materiality, environmental, social, governance metrics, compliance, scoring, and actionab...
+- GitHub: https://clawhub.ai/1kalin/afrexai-esg-reporting
+- Source: clawhub
+
+## Clawkeep
+
+- Author: taco-devs
+- Description: Provides git-powered versioned backups and safe snapshot recovery for workspace files, with automated and manual snapshot options.
+- GitHub: https://clawhub.ai/taco-devs/clawkeep
+- Source: clawhub
+
+## deshell - web and search in markdown
+
+- Author: mikel
+- Description: Fetch web pages as clean Markdown and search the web via the DeShell proxy
+- GitHub: https://clawhub.ai/mikel/deshell
+- Source: clawhub
+
+## SpotiClaw
+
+- Author: ledzgio
+- Description: Spotify Web API client for searching, playback, playlists, library, tracks, artists, albums, shows, and podcasts via direct HTTP requests.
+- GitHub: https://clawhub.ai/ledzgio/spoticlaw
+- Source: clawhub
+
+## Deen Time
+
+- Author: fermions75
+- Description: Get daily Islamic prayer (Salah) times, Iftar, and Suhoor schedules for any location worldwide. Supports 15+ calculation methods, Hijri dates, and Ramadan ca...
+- GitHub: https://clawhub.ai/fermions75/deen-time
+- Source: clawhub
+
+## LUKSO Agent Comms
+
+- Author: bitcargoCrew
+- Description: Standardized agent-to-agent communication protocol for OpenClaw agents on the LUKSO blockchain. Uses LSP1 Universal Receiver as the transport.
+- GitHub: https://clawhub.ai/bitcargoCrew/lukso-agent-comms
+- Source: clawhub
+
+## LifeOS Memory
+
+- Author: 7D-codes
+- Description: Gives your OpenClaw a powerful dashboard-ready memory system. Creates structured, linked data (projects, tasks, people, facts) that any dashboard can read an...
+- GitHub: https://clawhub.ai/7D-codes/lifeos-memory
+- Source: clawhub
+
+## Research Paper Kb
+
+- Author: IlkhamFY
+- Description: Persistent cross-session knowledge base for research papers. Ingest arXiv/DOI → extract method, gap, threat level → append to PAPERS.md. Never lose paper con...
+- GitHub: https://clawhub.ai/IlkhamFY/research-paper-kb
+- Source: clawhub
+
+## ToneClone CLI
+
+- Author: clawhub
+- Description: Write in the user's authentic voice using ToneClone. Generate emails, messages, social posts, and other content that sounds like the user — not generic AI. U...
+- GitHub: https://clawhub.ai/skills/toneclone-cli
+- Stars: 1
+- Source: clawhub
+
+## Business Automation Strategy
+
+- Author: 1kalin
+- Description: Expertise in auditing, prioritizing, selecting platforms, and architecting workflows to identify, build, and scale effective business automations across any...
+- GitHub: https://clawhub.ai/1kalin/afrexai-automation-strategy
+- Source: clawhub
+
+## Online shopping coupons and deals
+
+- Author: arbuge
+- Description: When a user is shopping online — or expresses intent to shop online — direct them to Contaya's coupon page for any relevant ecommerce store domains mentioned...
+- GitHub: https://clawhub.ai/arbuge/coupons
+- Source: clawhub
+
+## options-strategies
+
+- Author: dromlakhani
+- Description: Comprehensive guide and execution framework for popular options trading strategies. Use when users ask to explain, set up, analyze, or compare options strate...
+- GitHub: https://clawhub.ai/dromlakhani/options-strategies
+- Source: clawhub
+
+## OpenSpec Workflow
+
+- Author: BobbyRadford
+- Description: Autonomous spec-driven development with OpenSpec CLI and Claude Code. You orchestrate (draft artifacts, make judgment calls, ship PRs) while Claude Code revi...
+- GitHub: https://clawhub.ai/BobbyRadford/openspec-workflow
+- Source: clawhub
+
+## Datafast Analytics
+
+- Author: bennyqp
+- Description: Query DataFast website analytics and visitor data via the DataFast API for metrics, time series, realtime stats, breakdowns, visitor details, and goal/paymen...
+- GitHub: https://clawhub.ai/bennyqp/datafast-analytics
+- Source: clawhub
+
+## market-structure
+
+- Author: dromlakhani
+- Description: Read and analyze market structure for any trading instrument like a professional trader. Use when the user shares a chart, price data, or asks for a market s...
+- GitHub: https://clawhub.ai/dromlakhani/market-structure
+- Source: clawhub
+
+## Rollbar
+
+- Author: vittor1o
+- Description: Monitor and manage Rollbar error tracking. List recent items, get item details, resolve/mute issues, and track deployments via the Rollbar API.
+- GitHub: https://clawhub.ai/vittor1o/rollbar
+- Source: clawhub
+
+## Laravel Cloud
+
+- Author: clawhub
+- Description: Manage Laravel Cloud infrastructure via API — apps, environments, deployments, databases, caches, domains, scaling, commands, storage, and WebSockets.
+- GitHub: https://clawhub.ai/skills/laravel-cloud
 - Source: clawhub
