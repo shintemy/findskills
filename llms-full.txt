@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10315 skills | Last updated: 2026-02-19
+> Total: 10338 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -73266,4 +73266,165 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Manage Laravel Cloud infrastructure via API — apps, environments, deployments, databases, caches, domains, scaling, commands, storage, and WebSockets.
 - GitHub: https://clawhub.ai/skills/laravel-cloud
+- Source: clawhub
+
+## Knowledge Management System
+
+- Author: 1kalin
+- Description: Organize, document, and maintain critical organizational knowledge with audits, taxonomy, templates, and risk management to preserve expertise and improve fi...
+- GitHub: https://clawhub.ai/1kalin/afrexai-knowledge-management
+- Source: clawhub
+
+## Norman: Categorize Transactions
+
+- Author: stanlee000
+- Description: Review and categorize uncategorized bank transactions, match them with invoices, and verify bookkeeping entries. Use when the user wants to review transactio...
+- GitHub: https://clawhub.ai/stanlee000/norman-categorize-transactions
+- Source: clawhub
+
+## Content Calendar Generator
+
+- Author: Gpunter
+- Description: Generate tailored 7-day social media content calendars with hooks, drafts, hashtags, posting times, and engagement tips for X/Twitter and Moltbook.
+- GitHub: https://clawhub.ai/Gpunter/claw1-content-calendar
+- Source: clawhub
+
+## Norman: Tax Report
+
+- Author: stanlee000
+- Description: Review and manage German tax reports including VAT (Umsatzsteuer), income tax prepayments, and Finanzamt submissions. Use when the user asks about taxes, Ste...
+- GitHub: https://clawhub.ai/stanlee000/norman-tax-report
+- Source: clawhub
+
+## Ad Ops & Cross-Channel Advertising
+
+- Author: 1kalin
+- Description: Manages and optimizes cross-channel ad campaigns autonomously with planning, auditing, budget allocation, and performance reporting across major platforms.
+- GitHub: https://clawhub.ai/1kalin/afrexai-ad-ops
+- Source: clawhub
+
+## Norman: Manage Clients
+
+- Author: stanlee000
+- Description: Manage business clients - list, search, create, or update client information. Use when the user mentions clients, contacts, customers, Kunden, or needs to ma...
+- GitHub: https://clawhub.ai/stanlee000/norman-manage-clients
+- Source: clawhub
+
+## Content Writer
+
+- Author: Gpunter
+- Description: Generate platform-optimized posts, threads, newsletters, bios, and product listings tailored to format and audience for multi-platform AI content creation.
+- GitHub: https://clawhub.ai/Gpunter/claw1-content-writer
+- Source: clawhub
+
+## Norman: Create Invoice
+
+- Author: stanlee000
+- Description: Create and optionally send a new invoice to a client. Use when the user wants to invoice someone, bill a client, or create a new Rechnung.
+- GitHub: https://clawhub.ai/stanlee000/norman-create-invoice
+- Source: clawhub
+
+## Pascal Playwright Mcp
+
+- Author: ramspan
+- Description: Browser automation via Playwright MCP server. Navigate websites, click elements, fill forms, extract data, take screenshots, and perform full browser automat...
+- GitHub: https://clawhub.ai/ramspan/pascal-playwright-mcp
+- Source: clawhub
+
+## Web Research Assistant
+
+- Author: Gpunter
+- Description: Conduct structured web research for market insights, competitor analysis, trend monitoring, pricing, and content curation with clear, actionable reports.
+- GitHub: https://clawhub.ai/Gpunter/claw1-web-researcher
+- Source: clawhub
+
+## Financial Overview
+
+- Author: stanlee000
+- Description: Get a complete financial overview of the business including balance, recent transactions, outstanding invoices, and upcoming tax obligations. Use when the us...
+- GitHub: https://clawhub.ai/stanlee000/financial-overview
+- Source: clawhub
+
+## Agent Topology Visualizer
+
+- Author: gavinnn-m
+- Description: Generate interactive SVG architecture diagrams for AI agent systems. Use when visualizing multi-agent setups, orchestration flows, data pipelines, or system...
+- GitHub: https://clawhub.ai/gavinnn-m/agent-topology-visualizer
+- Source: clawhub
+
+## Web3 & Blockchain Engineering
+
+- Author: 1kalin
+- Description: Comprehensive methodology for designing, securing, and operating blockchain systems, including smart contracts, DeFi, tokenomics, and platform selection guid...
+- GitHub: https://clawhub.ai/1kalin/afrexai-web3-engineering
+- Source: clawhub
+
+## Headless Brave Browser
+
+- Author: kelexine
+- Description: Headless web search and content extraction via the Brave Search API. Features exponential-backoff retry, circuit breaker fault isolation, bounded-concurrency...
+- GitHub: https://clawhub.ai/kelexine/brave-headless
+- Source: clawhub
+
+## Crypto Scam Detector
+
+- Author: princedoss77
+- Description: Real-time cryptocurrency scam detection using multi-source verification. Protects users from phishing, honeypots, rug pulls, and ponzi schemes.
+- GitHub: https://clawhub.ai/princedoss77/crypto-scam-detector
+- Source: clawhub
+
+## Productivity Operating System
+
+- Author: 1kalin
+- Description: Help design and optimize daily productivity systems focused on energy management, priority setting, time blocking, and flow state to boost output and prevent...
+- GitHub: https://clawhub.ai/1kalin/afrexai-productivity-system
+- Source: clawhub
+
+## Board Reporting Framework
+
+- Author: 1kalin
+- Description: Generates structured investor-ready board decks and reports including monthly KPIs, quarterly deep dives, annual reviews, and committee templates.
+- GitHub: https://clawhub.ai/1kalin/afrexai-board-reporting
+- Source: clawhub
+
+## Breeze x402
+
+- Author: keeganthomp
+- Description: Operates Breeze x402 payment-gated endpoints for balance checks, deposits, and withdrawals on Solana. Use when the user asks to manage Breeze positions or ex...
+- GitHub: https://clawhub.ai/keeganthomp/breeze-x402-payment-api
+- Source: clawhub
+
+## Radon AI
+
+- Author: latekvo
+- Description: Use Radon IDE's AI tools for React Native development - query library docs, view logs and network traffic, take screenshots, inspect component trees, and int...
+- GitHub: https://clawhub.ai/latekvo/radon-ai
+- Source: clawhub
+
+## OpenA2A Security
+
+- Author: clawhub
+- Description: Security hardening for OpenClaw. Audit your configuration, scan installed skills for malware, detect CVE-2026-25253, check credential exposure, and get actio...
+- GitHub: https://clawhub.ai/skills/opena2a-security
+- Source: clawhub
+
+## clawrtc
+
+- Author: clawhub
+- Description: Mine RTC tokens by proving your hardware's authenticity with cryptographic checks and automated RustChain network attestation.
+- GitHub: https://clawhub.ai/skills/clawrtc-pip
+- Source: clawhub
+
+## Tmp
+
+- Author: clawhub
+- Description: Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
+- GitHub: https://clawhub.ai/skills/tmp
+- Source: clawhub
+
+## ppt
+
+- Author: clawhub
+- Description: 将用户讲稿一键生成乔布斯风极简科技感竖屏HTML演示稿。当用户需要生成PPT、演示文稿、Slides、幻灯片，或要求科技风/极简风/乔布斯风格的演示时触发此技能。输出为单个可直接运行的HTML文件。
+- GitHub: https://clawhub.ai/skills/ppt
 - Source: clawhub
