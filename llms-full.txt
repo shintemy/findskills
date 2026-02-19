@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10338 skills | Last updated: 2026-02-19
+> Total: 10355 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -73427,4 +73427,126 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: 将用户讲稿一键生成乔布斯风极简科技感竖屏HTML演示稿。当用户需要生成PPT、演示文稿、Slides、幻灯片，或要求科技风/极简风/乔布斯风格的演示时触发此技能。输出为单个可直接运行的HTML文件。
 - GitHub: https://clawhub.ai/skills/ppt
+- Source: clawhub
+
+## SalAi MCP (Beta)
+
+- Author: IdoZiv
+- Description: Israeli grocery shopping and price-comparison assistant over SalAi MCP. Use when you need product search, autocomplete, cross-retailer price comparison, cart...
+- GitHub: https://clawhub.ai/IdoZiv/salai-mcp
+- Source: clawhub
+
+## Telnyx Freemium Upgrade
+
+- Author: teamtelnyx
+- Description: Automatically upgrade Telnyx account from freemium to professional tier
+- GitHub: https://clawhub.ai/teamtelnyx/telnyx-freemium-upgrade
+- Source: clawhub
+
+## Telnyx Bot Signup
+
+- Author: teamtelnyx
+- Description: Automated Telnyx bot account signup via Proof of Work challenge
+- GitHub: https://clawhub.ai/teamtelnyx/telnyx-bot-signup
+- Source: clawhub
+
+## Microsoft Teams
+
+- Author: byungkyu
+- Description: Microsoft Teams API integration with managed OAuth. Manage teams, channels, messages, and meetings via Microsoft Graph API. Use this skill when users want to...
+- GitHub: https://clawhub.ai/byungkyu/microsoft-teams
+- Source: clawhub
+
+## KlausNomi
+
+- Author: bezko
+- Description: Use this skill when users want to chat with Nomi companions, list Nomis, or manage Nomi rooms via a Python implementation of the Nomi API client.
+- GitHub: https://clawhub.ai/bezko/klausnomi
+- Source: clawhub
+
+## Markdown.new Skill
+
+- Author: joelchance
+- Description: Convert public web pages into clean Markdown with markdown.new for AI workflows. Use when tasks require URL-to-Markdown conversion for summarization, RAG ing...
+- GitHub: https://clawhub.ai/joelchance/markdown-convert
+- Stars: 1
+- Source: clawhub
+
+## Charts
+
+- Author: ryandeangraves
+- Description: Generate 90-day candlestick charts with SMA 20/50, RSI, Fibonacci retracements, and pattern detection for BTC, ETH, XRP, SUI, Gold, and Silver.
+- GitHub: https://clawhub.ai/ryandeangraves/charts
+- Source: clawhub
+
+## Video Captions
+
+- Author: ivangdavila
+- Description: Generate professional captions and subtitles with multi-engine transcription, word-level timing, styling presets, and burn-in.
+- GitHub: https://clawhub.ai/ivangdavila/video-captions
+- Stars: 1
+- Source: clawhub
+
+## Snibet Claw for X Virality
+
+- Author: clawhub
+- Description: Snibet-native OpenClaw tweet engine. Generates exactly one high-performance X tweet for builders with strict formatting, creator modes, and anti-AI cleanup.
+- GitHub: https://clawhub.ai/skills/snibet-claw-for-x-virality
+- Source: clawhub
+
+## Gemini Image Generator
+
+- Author: clawhub
+- Description: 使用 Gemini 模型生成或编辑图片，支持自定义第三方 API 端点（baseUrl）和密钥。 默认 OpenAI 兼容格式，也支持 Google 原生格式。 触发场景：文生图、图片编辑、图片合成、绘画请求、生成插画/照片/海报、 AI 画图、根据描述生成图像等。
+- GitHub: https://clawhub.ai/skills/gemini-image-generator
+- Stars: 1
+- Source: clawhub
+
+## Perp Lobster
+
+- Author: clawhub
+- Description: Deploy automated trading bots on Hyperliquid DEX. Supports perpetual market making, spot market making, and grid trading strategies with a web dashboard. Hel...
+- GitHub: https://clawhub.ai/skills/perp-lobster
+- Source: clawhub
+
+## Post-Mortem & Incident Review
+
+- Author: clawhub
+- Description: Guide structured, blameless post-mortems with root cause analysis, action tracking, and prevention steps to reduce repeat production incidents and outages.
+- GitHub: https://clawhub.ai/skills/afrexai-post-mortem
+- Source: clawhub
+
+## Crypto Prices
+
+- Author: clawhub
+- Description: Fetch live cryptocurrency and commodity prices from verified sources with caching and fallback, ensuring accurate and up-to-date market data.
+- GitHub: https://clawhub.ai/skills/crypto-prices
+- Source: clawhub
+
+## Pipedrive CRM (OpenClaw)
+
+- Author: clawhub
+- Description: Manage Pipedrive CRM from OpenClaw using API v1, including people, organizations, deals, leads, activities, notes, pipelines, and custom endpoint actions. Us...
+- GitHub: https://clawhub.ai/skills/pipedrive-crm-openclaw
+- Source: clawhub
+
+## SeedDance AI Video Generation
+
+- Author: clawhub
+- Description: 集成字节跳动SeedDance AI视频生成API，支持文本到视频、图片到视频等功能
+- GitHub: https://clawhub.ai/skills/seeddance-ai-video
+- Source: clawhub
+
+## Brain Search
+
+- Author: clawhub
+- Description: Search, retrieve, log, and manage past conversations, research, and job tasks in Frank's persistent Second Brain knowledge base.
+- GitHub: https://clawhub.ai/skills/brain-search
+- Source: clawhub
+
+## Agent Browser
+
+- Author: clawhub
+- Description: Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking...
+- GitHub: https://clawhub.ai/skills/agent-browser-4
 - Source: clawhub
