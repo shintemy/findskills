@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9957 skills | Last updated: 2026-02-19
+> Total: 10048 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -70725,4 +70725,650 @@ parallelisms, and excessive conjunctive phrases.
 - Author: guifav
 - Description: Configures and manages Cloudflare DNS, caching, security rules, rate limiting, and Workers
 - GitHub: https://clawhub.ai/guifav/cloudflare-guard
+- Source: clawhub
+
+## Agent Media Skill
+
+- Author: yuvalsuede
+- Description: Claude Code skill for AI video & image generation via agent-media CLI
+- GitHub: https://github.com/yuvalsuede/agent-media-skill
+- Source: github
+
+## manager
+
+- Author: metyatech
+- Description: "Task orchestrator that receives work, decomposes it, and dispatches background agents or teams for parallel execution. Use when managing multiple tasks, coordinating agents, or optimizing work distribution. Triggers on: 'manage', 'orchestrate', 'dispatch', 'coordinate', 'delegate'."
+- GitHub: https://github.com/metyatech/skill-manager
+- Source: github
+
+## physic-claw-vea
+
+- Author: yomero243
+- Description: PHYSIC-CLAW-VEA is a real-time, interactive visualization environment designed to give a digital "body" to the Soul of an OpenClaw agent. The project transcends the conventional chat interface, transforming the agent's activity logs, karma, and identity into a dynamic 3D entity that resides on the web.
+- GitHub: https://github.com/yomero243/PhysicClaw-VEA
+- Source: github
+
+## screen-recording
+
+- Author: DAMediaCo
+- Description: OpenClaw skill: Capture screenshots and screen recordings on macOS using built-in tools
+- GitHub: https://github.com/DAMediaCo/screen-recording
+- Source: github
+
+## Macaw
+
+- Author: megalopolisms
+- Description: Macaw — USG LATAM Software Platform | MCP-53 | Production System
+- GitHub: https://github.com/megalopolisms/macaw
+- Source: github
+
+## prd
+
+- Author: Samuelsenhet
+- Description: "Generate a Product Requirements Document (PRD) for a new MÄÄK feature. Use when planning a feature, starting a new project, or when asked to create a PRD. Triggers on: create a prd, write prd for, plan this feature, requirements for, spec out."
+- GitHub: https://github.com/Samuelsenhet/m-k
+- Source: github
+
+## a3-python
+
+- Author: Z3Prover
+- Description: Repository for a3-python skill
+- GitHub: https://github.com/Z3Prover/a3-python-skill
+- Source: github
+
+## artifact-refiner
+
+- Author: GQAdonis
+- Description: >
+- GitHub: https://github.com/GQAdonis/artifact-refiner-skill
+- Source: github
+
+## agent-zero-secureclaw
+
+- Author: ydmw74
+- Description: OWASP ASI-aligned security framework for Agent Zero - protects against prompt injection, data exfiltration, and supply chain attacks
+- GitHub: https://github.com/ydmw74/agent-zero-secureclaw-plugin
+- Source: github
+
+## creative-eye-context-router
+
+- Author: mrrickyspanish
+- Description: Travelholics cruise website with inquiry form
+- GitHub: https://github.com/mrrickyspanish/travelholics
+- Source: github
+
+## agent-zero-secureclaw
+
+- Author: ydmw74
+- Description: Agent Zero SecureClaw - Security framework adapted from SecureClaw for Agent Zero AI agents
+- GitHub: https://github.com/ydmw74/mya0-secureclaw
+- Source: github
+
+## New
+
+- Author: giantsdrum7
+- Description: Skill from giantsdrum7/new
+- GitHub: https://github.com/giantsdrum7/new
+- Source: github
+
+## Seo Skills
+
+- Author: logansherzog
+- Description: SEO automation skills for Claude Code — keyword research, content production, technical audits
+- GitHub: https://github.com/logansherzog/seo-skills
+- Source: github
+
+## recall
+
+- Author: mileshill
+- Description: Query past session context using RLM. Searches session transcripts to recall decisions, implementations, discussions from previous conversations. Improves continuity across sessions and after context compaction.
+- GitHub: https://github.com/mileshill/claude-recall
+- Stars: 1
+- Source: github
+
+## nansen-cli
+
+- Author: nansen-ai
+- Description: Query the Nansen API for onchain analytics - Smart Money flows, wallet profiling, token analysis, and DeFi portfolio data. Use when analyzing crypto wallets, tracking smart money activity, or researching tokens.
+- GitHub: https://github.com/nansen-ai/nansen-cli
+- Stars: 1
+- Source: github
+
+## humanizer pt-br
+
+- Author: rpiochi
+- Description: Remove sinais de escrita gerada por AI de textos. Use quando criando ou revisando texto para fazer com que ele soe mais natural e escrito por humanos. Credits: Original skill by @blader - https://github.com/blader/humanizer
+- GitHub: https://github.com/rpiochi/humanizer-pt-br
+- Source: github
+
+## swarm
+
+- Author: teafey
+- Description: Claude Code skill for fast running agent team (swarm) of 4 agent with model setup
+- GitHub: https://github.com/teafey/swarm.skill
+- Stars: 1
+- Source: github
+
+## skill-releaser
+
+- Author: liaosvcaf
+- Description: Release agent skills to ClawhHub — full publication pipeline with OPSEC scanning, dual review, and clean public repo creation
+- GitHub: https://github.com/liaosvcaf/openclaw-skill-releaser
+- Source: github
+
+## sqlite-zod-orm
+
+- Author: 7flash
+- Description: Type-safe SQLite ORM for Bun. Use this for ALL database needs — schemas, queries, relationships, reactivity. Zero SQL required.
+- GitHub: https://github.com/7flash/sqlite-zod-orm
+- Stars: 1
+- Source: github
+
+## gh-monday
+
+- Author: trieloff
+- Description: Local-first Monday morning GitHub triage gh extension
+- GitHub: https://github.com/trieloff/gh-monday
+- Source: github
+
+## titan-swap-api
+
+- Author: Titan-Pathfinder
+- Description: Titan Swap API integration guide. Use when developers ask about streaming swap quotes, integrating with Titan DEX aggregator, or building Solana swap functionality.
+- GitHub: https://github.com/Titan-Pathfinder/titan-api-claude-skills
+- Source: github
+
+## token-strategist
+
+- Author: BankrBot
+- Description: Design and deploy tokens on Base via Bankr CLI. Evaluates concepts against five market forces, sets up wallets, handles fee splits, and executes launches.
+- GitHub: https://github.com/BankrBot/token-strategist
+- Stars: 1
+- Source: github
+
+## Claude Copilot
+
+- Author: licheran
+- Description: Skill from licheran/Claude-Copilot
+- GitHub: https://github.com/licheran/Claude-Copilot
+- Source: github
+
+## tech-news-digest
+
+- Author: draco-agent
+- Description: Generate tech news digests with unified source model, quality scoring, and multi-format output. Five-layer data collection from RSS feeds, Twitter/X KOLs, GitHub releases, Reddit, and web search. Pipeline-based scripts with retry mechanisms and deduplication. Supports Discord, email, and markdown templates.
+- GitHub: https://github.com/draco-agent/tech-news-digest
+- Stars: 2
+- Source: github
+
+## Peloton Stats
+
+- Author: niemesrw
+- Description: Fetch and report Peloton cycling workout statistics. Use when the user wants to see their Peloton workout data, weekly cycling stats, ride history, or perfor...
+- GitHub: https://clawhub.ai/niemesrw/peloton-stats
+- Source: clawhub
+
+## Kakaotalk
+
+- Author: lifeissea
+- Description: 카카오톡 채널 웹훅 브릿지 AI 비서. 카카오 i 오픈빌더와 연동해 라온(Raon) AI 비서와 대화. Ollama(qwen3:8b) → Gemini 2.5 Flash Lite fallback, 세션 관리, 900자 자동 트런케이트.
+- GitHub: https://clawhub.ai/lifeissea/kakaotalk
+- Source: clawhub
+
+## Amsterdam
+
+- Author: ivangdavila
+- Description: Navigate Amsterdam as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, visas, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/amsterdam
+- Source: clawhub
+
+## Adspirer Ads Agent
+
+- Author: amekala
+- Description: When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, or TikTok. This is an auto...
+- GitHub: https://clawhub.ai/amekala/adspirer-ads-agent
+- Source: clawhub
+
+## Browser Js
+
+- Author: shaihazher
+- Description: Lightweight CDP browser control for AI agents. Token-efficient alternative to the built-in browser tool — 3-10x fewer tokens per interaction. Use when browsi...
+- GitHub: https://clawhub.ai/shaihazher/browser-js
+- Source: clawhub
+
+## Pdf Generator
+
+- Author: ivangdavila
+- Description: Generate professional PDFs from Markdown, HTML, data, or code. Reports, invoices, contracts, and documents with best practices.
+- GitHub: https://clawhub.ai/ivangdavila/pdf-generator
+- Source: clawhub
+
+## ContextKeeper
+
+- Author: gopinathnelluri
+- Description: ContextKeeper — Automatic project state tracking and intent routing for AI agents. Maintains situational awareness across sessions by summarizing conversatio...
+- GitHub: https://clawhub.ai/gopinathnelluri/contextkeeper
+- Source: clawhub
+
+## Kalibr
+
+- Author: devonakelley
+- Description: Autonomous execution path routing for OpenClaw agents. Kalibr hooks into your agent's runtime, reads live telemetry, and routes to the optimal model + tool +...
+- GitHub: https://clawhub.ai/devonakelley/kalibr
+- Source: clawhub
+
+## Claude Usage Checker
+
+- Author: aligurelli
+- Description: Check Claude Code / Claude Max usage limits. Run when user asks about usage, limits, quota, or how much Claude capacity is left.
+- GitHub: https://clawhub.ai/aligurelli/claude-usage-checker
+- Source: clawhub
+
+## MLOps Prototyping CN
+
+- Author: guohongbin-git
+- Description: Structured Jupyter notebook prototyping with pipeline integrity
+- GitHub: https://clawhub.ai/guohongbin-git/mlops-prototyping-cn
+- Source: clawhub
+
+## AppStore Rating Pulse
+
+- Author: aligurelli
+- Description: Monitor App Store ratings for any iOS app across multiple countries. Fetches live overall ratings using Apple's free iTunes Lookup API — no API key needed. S...
+- GitHub: https://clawhub.ai/aligurelli/appstore-rating-pulse
+- Source: clawhub
+
+## The Arena — AI Debate Moderator
+
+- Author: tdavis009
+- Description: Turn a Discord server into a moderated debate arena with an AI judge. Supports multiple debate formats, configurable personas, scored verdicts, and a persist...
+- GitHub: https://clawhub.ai/tdavis009/the-arena
+- Source: clawhub
+
+## ClawHub Skill Guide — Scanner Compliance
+
+- Author: tdavis009
+- Description: Create, structure, and publish OpenClaw skills to ClawHub that pass the security scanner with clean ratings. Covers frontmatter schema, env var declarations,...
+- GitHub: https://clawhub.ai/tdavis009/clawhub-skill-guide
+- Source: clawhub
+
+## Sohopay
+
+- Author: nmsteve
+- Description: Initiate payments on the SOHO Pay credit layer using EIP-712 signatures.
+- GitHub: https://clawhub.ai/nmsteve/sohopay
+- Source: clawhub
+
+## Software Engineer
+
+- Author: ivangdavila
+- Description: Write production-ready code with clean architecture, proper error handling, and pragmatic trade-offs between shipping fast and building right.
+- GitHub: https://clawhub.ai/ivangdavila/software-engineer
+- Source: clawhub
+
+## Flower
+
+- Author: parker-xferops
+- Description: Manage projects and tasks with the Flower project management API via MCP. Use when creating, updating, or searching tasks/tickets, managing projects and colu...
+- GitHub: https://clawhub.ai/parker-xferops/flower
+- Source: clawhub
+
+## taskwarrior
+
+- Author: aghareza
+- Description: Workspace-local task management powered by Taskwarrior. Add, organize, and track tasks by project, tags, due dates, and priority with all data stored inside...
+- GitHub: https://clawhub.ai/aghareza/taskwarrior
+- Source: clawhub
+
+## Instagram Api
+
+- Author: lifeissea
+- Description: Post to Instagram (Feed, Story, Reels, Carousel) and Threads using the official Meta Graph API. Requires Imgur for media hosting.
+- GitHub: https://clawhub.ai/lifeissea/instagram-api
+- Source: clawhub
+
+## PullThatUpJamie — Podcast Intelligence
+
+- Author: uncleJim21
+- Description: PullThatUpJamie — Podcast Intelligence. A semantically indexed podcast corpus (109+ feeds, ~7K episodes, ~1.9M paragraphs) that works as a vector DB for podc...
+- GitHub: https://clawhub.ai/uncleJim21/pullthatupjamie
+- Source: clawhub
+
+## Sports Betting
+
+- Author: skinnynoizze
+- Description: Place and claim sports bets on-chain via Pinwin and Azuro Protocol. Fetch prematch/live games from the data-feed, pick a selection, call Pinwin API, sign wit...
+- GitHub: https://clawhub.ai/skinnynoizze/sports-betting
+- Source: clawhub
+
+## ECASH Protocol
+
+- Author: ecashprotoc
+- Description: Mine ECASH ERC-20 tokens on Base by solving cryptographic riddle-poems, verifying answers via API, and claiming rewards on-chain through a commit-reveal scheme.
+- GitHub: https://clawhub.ai/ecashprotoc/ecashprotocol
+- Source: clawhub
+
+## MLOps Validation CN
+
+- Author: guohongbin-git
+- Description: Rigorous validation with typing, linting, testing, and security
+- GitHub: https://clawhub.ai/guohongbin-git/mlops-validation-cn
+- Source: clawhub
+
+## Memory Sync CN
+
+- Author: guohongbin-git
+- Description: 记忆同步系统 - 自动同步 MEMORY.md 与 CortexGraph，支持遗忘曲线和智能检索
+- GitHub: https://clawhub.ai/guohongbin-git/memory-sync-cn
+- Source: clawhub
+
+## Fish Tts
+
+- Author: gtank1
+- Description: Generate high-quality speech from text using Fish Audio S1 and optionally upload the MP3 audio file to NextCloud via WebDAV.
+- GitHub: https://clawhub.ai/gtank1/fish-tts
+- Source: clawhub
+
+## Skill Trust Guard
+
+- Author: Walkman1W
+- Description: Enforces skill-trust-scanner security checks before installing skills, blocking or alerting based on risk scores to reduce supply chain threats.
+- GitHub: https://clawhub.ai/Walkman1W/skill-trust-guard
+- Source: clawhub
+
+## Zen Founder Fundraising Agent
+
+- Author: therealinvoker
+- Description: Analyze startup pitch decks and get matched with VCs from Zen.GP's investor database
+- GitHub: https://clawhub.ai/therealinvoker/zen-founder-agent
+- Source: clawhub
+
+## ACE Music - Free Suno Alternative Generate unlimited AI music for free using ACE-Step 1.5. Full songs with vocals, lyrics, any genre, any language. No subscription, no credits, no limits. The open-source Suno alternative, powered by ACE Music's free API.
+
+- Author: fspecii
+- Description: Generate AI music using ACE-Step 1.5 via ACE Music's free API. Use when the user asks to create, generate, or compose music, songs, beats, instrumentals, or...
+- GitHub: https://clawhub.ai/fspecii/ace-music
+- Stars: 1
+- Source: clawhub
+
+## Box
+
+- Author: hbkwong
+- Description: Box CLI skill for working with files, folders, metadata, search, and Box AI in headless environments.
+- GitHub: https://clawhub.ai/hbkwong/box-cli
+- Source: clawhub
+
+## Weather Intelligence Digest Fresh
+
+- Author: dannyboy1241
+- Description: Generate daily Weather Intelligence Digest using NOAA/NWS data with customizable locations and alert monitoring.
+- GitHub: https://clawhub.ai/dannyboy1241/weather-intelligence-digest-fresh
+- Source: clawhub
+
+## Weather Digest
+
+- Author: dannyboy1241
+- Description: Generate daily Weather Intelligence Digest using NOAA/NWS data with customizable locations and alert monitoring.
+- GitHub: https://clawhub.ai/dannyboy1241/weather-digest
+- Source: clawhub
+
+## Kimi Code CLI
+
+- Author: Walkman1W
+- Description: 使用 Kimi Code CLI 执行复杂代码任务。当用户需要： 1. 大型代码生成（完整功能模块、多文件项目） 2. 复杂代码重构（legacy 代码现代化、架构调整） 3. 深度 Bug 诊断（多文件关联错误、难以定位的问题） 4. 技术调研实现（新技术栈完整集成、PoC 开发） 5. 长时间运行的开发任务（...
+- GitHub: https://clawhub.ai/Walkman1W/kimi-cli
+- Source: clawhub
+
+## Constraint Engine
+
+- Author: leegitw
+- Description: Learn from consequences, not instructions — generate and enforce constraints from experience
+- GitHub: https://clawhub.ai/leegitw/constraint-engine
+- Source: clawhub
+
+## JOULE DAO
+
+- Author: echo-autonomous
+- Description: Interact with JOULE DAO on Base: track treasury, view proposals, vote, discuss, check balances, join as member, and earn JOULE for productive work contributi...
+- GitHub: https://clawhub.ai/echo-autonomous/joule-dao
+- Source: clawhub
+
+## Openclaw Cache Kit
+
+- Author: lifeissea
+- Description: Automatically apply Claude prompt caching optimizations to OpenClaw. Reduces API costs by up to 89% via cacheRetention long, 59-minute heartbeat, cache-ttl p...
+- GitHub: https://clawhub.ai/lifeissea/openclaw-cache-kit
+- Source: clawhub
+
+## MacOS Desktop Control (Mouse, Keyboard, Screenshots)
+
+- Author: emptyopen
+- Description: Automate macOS desktop by capturing screenshots and executing precise mouse movements, clicks, and keyboard inputs via cliclick.
+- GitHub: https://clawhub.ai/emptyopen/macos-desktop-control
+- Source: clawhub
+
+## Talkspresso
+
+- Author: baron-talkspresso
+- Description: Manage a Talkspresso business (services, appointments, products, clients, earnings, calendar) using the Talkspresso REST API. Use when the user wants to chec...
+- GitHub: https://clawhub.ai/baron-talkspresso/talkspresso
+- Source: clawhub
+
+## Sydney
+
+- Author: ivangdavila
+- Description: Navigate Sydney as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, beaches, transport, visas, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/sydney
+- Source: clawhub
+
+## Git-Map
+
+- Author: 14-TR
+- Description: Provides Git-like version control tools for ArcGIS web maps, enabling branch management, commits, diffs, and sync with ArcGIS Portal using the gitmap CLI.
+- GitHub: https://clawhub.ai/14-TR/gitmap
+- Source: clawhub
+
+## OpenClaw Healthcheck Cron
+
+- Author: plgonzalezrx8
+- Description: Create and run a reusable OpenClaw deep healthcheck automation using a cron job plus a script. Use when setting up scheduled OpenClaw health audits, standard...
+- GitHub: https://clawhub.ai/plgonzalezrx8/openclaw-healthcheck-cron
+- Source: clawhub
+
+## pandora
+
+- Author: kleberbaum
+- Description: Pandora namespace for Netsnek e.U. secrets and configuration management vault. Securely stores API keys, database credentials, and environment configs with v...
+- GitHub: https://clawhub.ai/kleberbaum/pandora
+- Source: clawhub
+
+## NodeJS
+
+- Author: ivangdavila
+- Description: Avoid common Node.js mistakes — event loop blocking, async error handling, ESM gotchas, and memory leaks.
+- GitHub: https://clawhub.ai/ivangdavila/nodejs
+- Source: clawhub
+
+## Babel Epistemic Convention
+
+- Author: mdiskint
+- Description: Prevents metacognitive poisoning in multi-agent handoffs. Install when your agent hands off work to other agents or receives work from them. Agents that read...
+- GitHub: https://clawhub.ai/mdiskint/babel-epistemic
+- Source: clawhub
+
+## skytekx
+
+- Author: kleberbaum
+- Description: Skytekx namespace for Netsnek e.U. cloud infrastructure monitoring dashboard. Tracks resource usage, alerts on anomalies, visualizes costs, and provides opti...
+- GitHub: https://clawhub.ai/kleberbaum/skytekx
+- Source: clawhub
+
+## Failure Memory
+
+- Author: leegitw
+- Description: Stop making the same mistakes — turn failures into patterns that prevent recurrence
+- GitHub: https://clawhub.ai/leegitw/failure-memory
+- Source: clawhub
+
+## Hong Kong
+
+- Author: ivangdavila
+- Description: Navigate Hong Kong as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, MTR transport, costs, visas, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/hong-kong
+- Source: clawhub
+
+## Strapi CMS
+
+- Author: ilya-ryzhov
+- Description: Manage Strapi CMS content through the official @strapi/client SDK. CRUD on collection types, single types, and media files. Upload files to media library. In...
+- GitHub: https://clawhub.ai/ilya-ryzhov/strapi
+- Source: clawhub
+
+## Birdfolio
+
+- Author: tonbistudio
+- Description: Bird identification, life list tracking, and trading card generation. Use this skill when the user: sends a bird photo to identify, says "set up my Birdfolio...
+- GitHub: https://clawhub.ai/tonbistudio/birdfolio
+- Source: clawhub
+
+## Berlin
+
+- Author: ivangdavila
+- Description: Navigate Berlin as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, visas, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/berlin
+- Source: clawhub
+
+## Lisbon
+
+- Author: ivangdavila
+- Description: Navigate Lisbon as visitor, resident, digital nomad, tech worker, or entrepreneur with neighborhoods, transport, costs, visas, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/lisbon
+- Source: clawhub
+
+## Agentic Governance
+
+- Author: leegitw
+- Description: Keep your constraints healthy — lifecycle management with automatic staleness detection
+- GitHub: https://clawhub.ai/leegitw/agentic-governance
+- Source: clawhub
+
+## Singapore
+
+- Author: ivangdavila
+- Description: Navigate Singapore as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, visas, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/singapore
+- Source: clawhub
+
+## Pocket AI Integration
+
+- Author: asabovetech
+- Description: Transcribe, index, and semantically search all voice recordings, extracting action items and meeting insights for comprehensive conversation intelligence.
+- GitHub: https://clawhub.ai/asabovetech/pocket-ai
+- Source: clawhub
+
+## Korean Gov Programs
+
+- Author: lifeissea
+- Description: Collect Korean government support programs (TIPS, Small Business, R&D grants) into structured JSONL files. Supports incremental collection with checkpoints.
+- GitHub: https://clawhub.ai/lifeissea/korean-gov-programs
+- Source: clawhub
+
+## momo
+
+- Author: kleberbaum
+- Description: Momo namespace for Netsnek e.U. time tracking and invoicing tool for freelancers. Logs work hours, generates timesheets, creates invoices, and tracks payments.
+- GitHub: https://clawhub.ai/kleberbaum/momo
+- Source: clawhub
+
+## WaitingForMacGuffin
+
+- Author: sonderspot
+- Description: Oscar prediction market intelligence from waitingformacguffin.com. Get live odds, whale activity, price movements, precursor awards, order book depth, and fr...
+- GitHub: https://clawhub.ai/sonderspot/waitingformacguffin
+- Source: clawhub
+
+## Agentic Shopping — Lifestyle, Wellness, & Gifts
+
+- Author: bythecult
+- Description: Agentic Commerce skills enables agents to autonomously browse and search for quality lifestyle, wellness, and tech products and gifts, view details, create o...
+- GitHub: https://clawhub.ai/bythecult/agentic-commerce-forthecult
+- Stars: 1
+- Source: clawhub
+
+## Dubai
+
+- Author: ivangdavila
+- Description: Navigate Dubai as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, visas, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/dubai
+- Source: clawhub
+
+## FlowClaw
+
+- Author: windseeker1111
+- Description: Unkillable Agent Infrastructure. Unified usage monitoring and intelligent load balancing for Anthropic, Google, OpenAI, and Ollama. Never let your agent get...
+- GitHub: https://clawhub.ai/windseeker1111/flowclaw
+- Source: clawhub
+
+## Openclaw Agentpmt Tool Chart Generator 42120a
+
+- Author: clawhub
+- Description: Use AgentPMT external API to run the Chart Generator tool with wallet signatures, credits purchase, or credits earned from jobs.
+- GitHub: https://clawhub.ai/skills/openclaw-agentpmt-tool-chart-generator-42120a
+- Source: clawhub
+
+## M365 Spam Manager
+
+- Author: tradmangh
+- Description: Manages Microsoft 365 junk mail by analyzing spam patterns, scoring suspicious emails, and assisting with review or automatic cleanup of Outlook/Exchange spa...
+- GitHub: https://clawhub.ai/tradmangh/m365-spam-manager
+- Source: clawhub
+
+## Extract PDF Text
+
+- Author: ivangdavila
+- Description: Extract text from PDF files using PyMuPDF. Parse tables, forms, and complex layouts. Supports OCR for scanned documents.
+- GitHub: https://clawhub.ai/ivangdavila/extract-pdf-text
+- Source: clawhub
+
+## Miami
+
+- Author: ivangdavila
+- Description: Navigate Miami as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, beaches, costs, safety, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/miami
+- Source: clawhub
+
+## Simple Formatter
+
+- Author: tjade273
+- Description: Formats text according to specified style guidelines. A clean example skill with no security issues.
+- GitHub: https://clawhub.ai/tjade273/simple-formatter
+- Stars: 1
+- Source: clawhub
+
+## Farseek
+
+- Author: farseek2020
+- Description: Search AI-powered job listings matched to your skills across 22,700+ company boards and 20+ ATS platforms with relevance ranking and filtering.
+- GitHub: https://clawhub.ai/farseek2020/farseek
+- Source: clawhub
+
+## M365 Mailbox (Graph)
+
+- Author: tradmangh
+- Description: Automate Microsoft 365 mailbox tasks via Microsoft Graph: read, search, draft, send emails for Business and Consumer accounts with device code authentication.
+- GitHub: https://clawhub.ai/tradmangh/m365-mailbox
+- Source: clawhub
+
+## Vienna
+
+- Author: ivangdavila
+- Description: Navigate Vienna as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, safety, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/vienna
+- Source: clawhub
+
+## Credential Scanner
+
+- Author: nirwandogra
+- Description: Scans files, repos, and directories for leaked secrets — API keys, tokens, passwords, connection strings, private keys, and credentials. Detects 40+ secret p...
+- GitHub: https://clawhub.ai/nirwandogra/credential-scanner
 - Source: clawhub
