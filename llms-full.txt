@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 9902 skills | Last updated: 2026-02-18
+> Total: 9957 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -70333,4 +70333,396 @@ parallelisms, and excessive conjunctive phrases.
 - Author: gglucass
 - Description: Search Criticaster's aggregated product reviews to quickly find the best products. Use when the user needs trustworthy product recommendations, reviews, comp...
 - GitHub: https://clawhub.ai/gglucass/criticaster
+- Source: clawhub
+
+## data-pro-max
+
+- Author: pablodiegoo
+- Description: Data Pro Max: The Ultimate AI-Powered Intelligence Suite for Data Science, Survey Analysis, and Professional Reporting.
+- GitHub: https://github.com/pablodiegoo/Data-Pro-Skill
+- Stars: 4
+- Source: github
+
+## x-oauth-api
+
+- Author: ngmeyer
+- Description: Post to X (Twitter) via OAuth 1.0a (MIT) — generic, sanitized skill for OpenClaw
+- GitHub: https://github.com/ngmeyer/x-oauth-api
+- Source: github
+
+## coding-agent
+
+- Author: kesslerio
+- Description: Coding agent skill for Moltbot - orchestrates Codex, Claude Code, Gemini, Pi, and OpenCode CLIs
+- GitHub: https://github.com/kesslerio/coding-agent-openclaw-skill
+- Stars: 1
+- Source: github
+
+## The Starter Kit Agent System Antigravity LG 
+
+- Author: AnirudhPratapSinghYadav
+- Description: A modular Flutter skeleton for LG apps. Features a pre-built SSH/KML service and an AI "Brain" in the .agent/ folder. Using Gemini & Antigravity, it teaches AI to automate 3D orbits and multi-screen rig control. Built for GSoC 2026 to turn raw data into immersive experiences. MIT Licensed.
+- GitHub: https://github.com/AnirudhPratapSinghYadav/The-Starter-Kit-Agent-System-Antigravity-LG-
+- Source: github
+
+## arazzo-writer
+
+- Author: SteakFisher
+- Description: >-
+- GitHub: https://github.com/SteakFisher/arazzo-writer
+- Source: github
+
+## trello-card-fetch
+
+- Author: dgmdan
+- Description: Gives Codex AI agent a way to read Trello cards, comments, etc
+- GitHub: https://github.com/dgmdan/trello-codex-skill
+- Source: github
+
+## task-tracker
+
+- Author: rikouu
+- Description: Proactive task state management skill for OpenClaw. Tracks active/completed/failed tasks across session resets.
+- GitHub: https://github.com/rikouu/task-tracker
+- Source: github
+
+## linkedin
+
+- Author: skillhq
+- Description: LinkedIn integration for reading feed, profiles, connections, search results, and messages using browser automation
+- GitHub: https://github.com/skillhq/linkedin
+- Source: github
+
+## hae-vault
+
+- Author: mrkhachaturov
+- Description: >
+- GitHub: https://github.com/mrkhachaturov/hae-vault
+- Source: github
+
+## clawpod
+
+- Author: joinmassive
+- Description: OpenClaw skill that works with Massive proxy network
+- GitHub: https://github.com/joinmassive/clawpod
+- Stars: 62
+- Source: github
+
+## hiivmind-pulse-gh
+
+- Author: hiivmind
+- Description: >
+- GitHub: https://github.com/hiivmind/hiivmind-pulse-gh
+- Source: github
+
+## bitwarden-vaultwarden
+
+- Author: TWhidden
+- Description: OpenClaw skill for Bitwarden password management (supports official Bitwarden and Vaultwarden)
+- GitHub: https://github.com/TWhidden/openclaw-skill-bitwarden
+- Source: github
+
+## letheClaw
+
+- Author: JoahTheron
+- Description: Use letheClaw to store, search, and manage memories with criticality and provenance.
+- GitHub: https://clawhub.ai/JoahTheron/letheclaw
+- Source: clawhub
+
+## openclaw-skill-ideation
+
+- Author: skidvis
+- Description: Transform raw brain dumps (dictated freestyle) into structured implementation artifacts. Use when user has messy ideas, scattered thoughts, or dictated strea...
+- GitHub: https://clawhub.ai/skidvis/openclaw-skill-ideation
+- Source: clawhub
+
+## Flights
+
+- Author: BrewTheFox
+- Description: CLI tool to control Tuya v3.3 light bulbs in your local network.
+- GitHub: https://clawhub.ai/BrewTheFox/fox-lights
+- Stars: 1
+- Source: clawhub
+
+## ts5
+
+- Author: kleberbaum
+- Description: TS5 namespace for Netsnek e.U. TypeScript full-stack starter kit. Monorepo template with shared types, CI/CD pipelines, and one-click deployment.
+- GitHub: https://clawhub.ai/kleberbaum/ts5
+- Source: clawhub
+
+## ts4
+
+- Author: kleberbaum
+- Description: TS4 namespace for Netsnek e.U. TypeScript testing framework. Unit testing, snapshot testing, coverage reporting, and mutation testing.
+- GitHub: https://clawhub.ai/kleberbaum/ts4
+- Source: clawhub
+
+## ts3
+
+- Author: kleberbaum
+- Description: TS3 namespace for Netsnek e.U. TypeScript server-side framework. HTTP server scaffolding, middleware composition, request validation, and structured logging.
+- GitHub: https://clawhub.ai/kleberbaum/ts3
+- Source: clawhub
+
+## bilanz
+
+- Author: kleberbaum
+- Description: Austrian-style Bilanz (annual accounts) generator
+- GitHub: https://clawhub.ai/kleberbaum/bilanz
+- Source: clawhub
+
+## Track Flight
+
+- Author: rafaforesightai
+- Description: Track flights in real-time with detailed status, gate info, delays, and live position. Use when user asks to track a flight, check flight status, look up fli...
+- GitHub: https://clawhub.ai/rafaforesightai/track-flight
+- Source: clawhub
+
+## Secure API Calls
+
+- Author: smarcombes
+- Description: Call any API without leaking credentials. Keychains proxies requests and injects real tokens server-side — your agent never sees them.
+- GitHub: https://clawhub.ai/smarcombes/secure-api-calls
+- Stars: 1
+- Source: clawhub
+
+## NightPatch
+
+- Author: teachers10086
+- Description: 自动检测并夜间修复工作流中的低风险问题，支持一键回滚且不影响生产环境。
+- GitHub: https://clawhub.ai/teachers10086/night-patch
+- Source: clawhub
+
+## OADP Agent Discovery
+
+- Author: imaflytok
+- Description: Discover other AI agents and coordination hubs across the internet via the Open Agent Discovery Protocol (OADP). Passively scans HTTP headers, .well-known en...
+- GitHub: https://clawhub.ai/imaflytok/oadp-discovery
+- Source: clawhub
+
+## Anthropic
+
+- Author: aiwithabidi
+- Description: Anthropic Claude API integration — chat completions, streaming, vision, tool use, and batch processing via the Anthropic Messages API. Generate text with Cla...
+- GitHub: https://clawhub.ai/aiwithabidi/anthropic
+- Source: clawhub
+
+## Loopwind
+
+- Author: tomtev
+- Description: Generate images and videos from React + Tailwind CSS templates using the loopwind CLI.
+- GitHub: https://clawhub.ai/tomtev/loopwind
+- Source: clawhub
+
+## Samsung Health
+
+- Author: mudgesbot
+- Description: Analyze Samsung Health Connect data synced to Google Drive. Use for health tracking queries like sleep analysis, step counting, heart rate monitoring, SpO2 b...
+- GitHub: https://clawhub.ai/mudgesbot/samsung-health
+- Source: clawhub
+
+## Supabase Ops
+
+- Author: guifav
+- Description: Manages Supabase migrations, types generation, RLS policies, and edge functions
+- GitHub: https://clawhub.ai/guifav/supabase-ops
+- Source: clawhub
+
+## unhuman
+
+- Author: satbot-mdk
+- Description: Search, register, and manage domain names via unhuman.domains. Pay with bitcoin using agent-wallet. Use when the user wants to find available domains, regist...
+- GitHub: https://clawhub.ai/satbot-mdk/unhuman
+- Source: clawhub
+
+## Amplitude
+
+- Author: aiwithabidi
+- Description: Amplitude product analytics — track events, analyze user behavior, run cohort analysis, manage user properties, and query funnel/retention data via the Ampli...
+- GitHub: https://clawhub.ai/aiwithabidi/amplitude
+- Source: clawhub
+
+## Alchemy
+
+- Author: aiwithabidi
+- Description: Alchemy — blockchain data, NFTs, token balances, transactions, gas prices, and webhooks.
+- GitHub: https://clawhub.ai/aiwithabidi/alchemy
+- Source: clawhub
+
+## Gcp Fullstack
+
+- Author: guifav
+- Description: Full-stack super agent for projects on Google Cloud Platform with GitHub and Cloudflare — covers scaffolding, compute, database, auth, deploy, CDN, and security
+- GitHub: https://clawhub.ai/guifav/gcp-fullstack
+- Source: clawhub
+
+## Kaspa News
+
+- Author: atl4so
+- Description: Kaspa News — let your Claw know everything about Kaspa in one place: latest news, core development updates, ecosystem launches, community talks, and weekly r...
+- GitHub: https://clawhub.ai/atl4so/kaspa-news
+- Stars: 1
+- Source: clawhub
+
+## Semver Helper
+
+- Author: avegancafe
+- Description: Semantic Versioning 2.0.0 reference guide. Quick decision trees and examples for choosing MAJOR, MINOR, or PATCH version bumps.
+- GitHub: https://clawhub.ai/avegancafe/semver-helper
+- Source: clawhub
+
+## Plan My Day
+
+- Author: BrianRWagner
+- Description: Generate an energy-optimized, time-blocked daily plan based on circadian rhythm research and GTD principles
+- GitHub: https://clawhub.ai/BrianRWagner/brw-plan-my-day
+- Source: clawhub
+
+## Newsletter Creation Curation
+
+- Author: BrianRWagner
+- Description: Industry-adaptive B2B newsletter creation with stage, role, and geography-aware workflows
+- GitHub: https://clawhub.ai/BrianRWagner/brw-newsletter-creation-curation
+- Source: clawhub
+
+## Tokyo
+
+- Author: ivangdavila
+- Description: Navigate Tokyo as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, safety, culture, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/tokyo
+- Source: clawhub
+
+## Autonomous Execution
+
+- Author: pouyakhodadust-eng
+- Description: Execute tasks end-to-end while respecting safety boundaries. Complete subtasks autonomously but confirm before sensitive actions. Handles errors intelligentl...
+- GitHub: https://clawhub.ai/pouyakhodadust-eng/autonomous-execution
+- Source: clawhub
+
+## Create secure videoconference
+
+- Author: bavxhack
+- Description: Default video conferences via Meetling. Instant calls always use /m/ rooms + share payload for Claw default sending. Scheduled calls return link + email invi...
+- GitHub: https://clawhub.ai/bavxhack/create-videoconference
+- Source: clawhub
+
+## Dub.co Links API
+
+- Author: ferminrp
+- Description: Integrates Dub Links API endpoints to create, update, delete, retrieve, list, count, and run bulk operations on short links. Use when the user asks for "dub...
+- GitHub: https://clawhub.ai/ferminrp/dub-links-api
+- Source: clawhub
+
+## Jina Reader
+
+- Author: ericsantos
+- Description: Web content extraction via Jina AI Reader API. Three modes: read (URL to markdown), search (web search + full content), ground (fact-checking). Extracts clea...
+- GitHub: https://clawhub.ai/ericsantos/jina-reader
+- Source: clawhub
+
+## Devin Floyd
+
+- Author: devinfloyd1
+- Description: Security scanner for OpenClaw/Clawdbot skills - detect malicious patterns before installation
+- GitHub: https://clawhub.ai/devinfloyd1/clawguarddevin
+- Source: clawhub
+
+## Testimonial Collector
+
+- Author: BrianRWagner
+- Description: Systematically gather and format client testimonials. Use when someone needs social proof, wants to collect feedback, or needs to turn happy clients into pub...
+- GitHub: https://clawhub.ai/BrianRWagner/brw-testimonial-collector
+- Source: clawhub
+
+## Cron Worker Guardrails
+
+- Author: phenomenoner
+- Description: Use when hardening OpenClaw cron workers (especially isolated agentTurn jobs) against quoting failures, brittle shell patterns, SIGPIPE false failures, and c...
+- GitHub: https://clawhub.ai/phenomenoner/cron-worker-guardrails
+- Source: clawhub
+
+## Redacta
+
+- Author: nickjlamb
+- Description: Redacta pseudonymises medical documents — replacing patient identifiers (NHS numbers, dates of birth, postcodes, phone numbers, hospital numbers) with labell...
+- GitHub: https://clawhub.ai/nickjlamb/redacta
+- Source: clawhub
+
+## WhatsApp Utils
+
+- Author: MarcosRippel
+- Description: Phone number formatting, cache inspection, contact export, and message ID generation
+- GitHub: https://clawhub.ai/MarcosRippel/whatsapp-utils
+- Source: clawhub
+
+## Stack Scaffold
+
+- Author: guifav
+- Description: Scaffolds a full-stack project with Next.js App Router, Supabase, Firebase Auth, Vercel, and Cloudflare
+- GitHub: https://clawhub.ai/guifav/stack-scaffold
+- Source: clawhub
+
+## Firebase Auth Setup
+
+- Author: guifav
+- Description: Configures Firebase Authentication — providers, security rules, custom claims, and React auth hooks
+- GitHub: https://clawhub.ai/guifav/firebase-auth-setup
+- Source: clawhub
+
+## Comms Hub Bridge
+
+- Author: Nietzsche247
+- Description: Send and receive messages between AI agents via the Comms Hub bridge network. Use when communicating with other agents (Aristotle, Daedalus, Thales, Steel Ma...
+- GitHub: https://clawhub.ai/Nietzsche247/comms-hub-bridge
+- Source: clawhub
+
+## Paris
+
+- Author: ivangdavila
+- Description: Navigate Paris as visitor, resident, tech worker, student, or entrepreneur with arrondissements, transport, costs, safety, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/paris
+- Source: clawhub
+
+## London
+
+- Author: ivangdavila
+- Description: Navigate London as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, safety, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/london
+- Source: clawhub
+
+## Test Sentinel
+
+- Author: guifav
+- Description: Writes and runs tests (unit, integration, E2E), performs linting, and auto-fixes failures
+- GitHub: https://clawhub.ai/guifav/test-sentinel
+- Source: clawhub
+
+## Authorization
+
+- Author: ivangdavila
+- Description: Build secure access control with RBAC, ABAC, permissions, policies, and scope-based authorization.
+- GitHub: https://clawhub.ai/ivangdavila/authorization
+- Source: clawhub
+
+## Funky Fund Flamingo
+
+- Author: IceMasterT
+- Description: Repair-first self-evolution for OpenClaw — audit logs, memory, and skills; run measurable mutation cycles. Get paid. Evolve. Repeat. Dolla dolla bill y'all.
+- GitHub: https://clawhub.ai/IceMasterT/funky-fund-flamingo
+- Source: clawhub
+
+## Human Browser
+
+- Author: al1enjesus
+- Description: Stealth browser with residential proxy for AI agents — runs on any server, no Mac Mini or desktop required. Supports 10+ countries (US, UK, RO, DE, NL, JP, F...
+- GitHub: https://clawhub.ai/al1enjesus/human-browser
+- Stars: 1
+- Source: clawhub
+
+## Cloudflare Guard
+
+- Author: guifav
+- Description: Configures and manages Cloudflare DNS, caching, security rules, rate limiting, and Workers
+- GitHub: https://clawhub.ai/guifav/cloudflare-guard
 - Source: clawhub
