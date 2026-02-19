@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10235 skills | Last updated: 2026-02-19
+> Total: 10264 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -72697,4 +72697,214 @@ parallelisms, and excessive conjunctive phrases.
 - Author: 1kalin
 - Description: Perform a comprehensive regulatory compliance audit covering US, UK, and EU frameworks across 8 domains with risk scoring and a 90-day remediation roadmap.
 - GitHub: https://clawhub.ai/1kalin/afrexai-regulatory-compliance
+- Source: clawhub
+
+## bootstrap
+
+- Author: oprogramadorreal
+- Description: Replace Claude Code's basic /init with research-backed CLAUDE.md files optimized for LLM comprehension and attention
+- GitHub: https://github.com/oprogramadorreal/claude-code-bootstrap
+- Stars: 11
+- Source: github
+
+## loopwind
+
+- Author: tomtev
+- Description: Create videos and images with React, Tailwind and Shadcn classes.
+- GitHub: https://github.com/tomtev/loopwind
+- Stars: 4
+- Source: github
+
+## typeorm-seeding
+
+- Author: Kage0x3B
+- Description: Factory and seeder library for TypeORM with relationship descriptors, variants, and automatic cleanup
+- GitHub: https://github.com/Kage0x3B/typeorm-seeding
+- Source: github
+
+## daily-dev-events
+
+- Author: minsuklee
+- Description: my page
+- GitHub: https://github.com/minsuklee/minsuklee.github.io
+- Source: github
+
+## my skills
+
+- Author: prabu12478
+- Description: Expert in commercial, construction, and reverse mortgage loan origination with thorough analysis, structuring, compliance, and borrower-focused communication.
+- GitHub: https://clawhub.ai/prabu12478/loan
+- Source: clawhub
+
+## Lukso Expert
+
+- Author: LUKSOAgent
+- Description: Comprehensive LUKSO blockchain knowledge base for AI agents. Makes any agent a LUKSO expert — covering all LSP standards (LSP0-LSP28), Universal Profiles, sm...
+- GitHub: https://clawhub.ai/LUKSOAgent/lukso-expert
+- Stars: 1
+- Source: clawhub
+
+## Telegram Bot Builder
+
+- Author: Katrina-jpg
+- Description: Telegram Bot 快速build工具 - Keyboard、Inline Buttons、Webhook、Auto-reply、Group管理
+- GitHub: https://clawhub.ai/Katrina-jpg/telegram-bot-builder
+- Source: clawhub
+
+## Browser Vps Setup Skill
+
+- Author: clawhub
+- Description: Set up a remote-controlled Chrome browser on a Linux VPS with noVNC visual access (via SSH tunnel) and optional authenticated HTTP proxy. Use when the user w...
+- GitHub: https://clawhub.ai/skills/browser-vps-setup-skill
+- Source: clawhub
+
+## AI Course Agent
+
+- Author: clawhub
+- Description: Auto-generates AI education courses from natural language requests in Chinese. Detects patterns like "帮我生成6年级数学分数乘除法的课程" and calls Edustem API to create and...
+- GitHub: https://clawhub.ai/skills/ai-course-agent
+- Source: clawhub
+
+## Z.AI Web Search
+
+- Author: bartoszpijet
+- Description: AI-optimized web search via Z.AI Web Search API. Returns structured results (title, URL, summary) for LLM processing.
+- GitHub: https://clawhub.ai/bartoszpijet/zai-search
+- Source: clawhub
+
+## AgentKeys
+
+- Author: alexandr-belogubov
+- Description: Secure credential proxy for AI agents. Make API calls through proxy tokens — real secrets never leave AgentKeys.
+- GitHub: https://clawhub.ai/alexandr-belogubov/agentkeys
+- Source: clawhub
+
+## clawsay
+
+- Author: clawhub
+- Description: Display a message in a speech bubble spoken by an ASCII lobster.
+- GitHub: https://clawhub.ai/skills/clawsay-0
+- Source: clawhub
+
+## Forever Moments
+
+- Author: clawhub
+- Description: Forever Moments social platform on LUKSO - post moments (LSP8 NFTs), mint LIKES tokens, create/join collections, and interact with decentralized social featu...
+- GitHub: https://clawhub.ai/skills/forever-moments
+- Stars: 1
+- Source: clawhub
+
+## Agent Wallet For x402
+
+- Author: clawhub
+- Description: SynapseAI Wallet — AI agent custodial spend layer. Register an AI agent wallet, fund it, set spending policies, and make payments via API.
+- GitHub: https://clawhub.ai/skills/agent-wallet-x402
+- Stars: 1
+- Source: clawhub
+
+## ClawSec
+
+- Author: clawhub
+- Description: Manage and operate ClawSec Monitor v3.0, a MITM HTTP/HTTPS proxy that logs AI agent traffic, detects exfiltration and injection threats in real time.
+- GitHub: https://clawhub.ai/skills/clawsec
+- Source: clawhub
+
+## YouTube Outliers & Niche Finder Data by TubeLab
+
+- Author: clawhub
+- Description: YouTube analytics and research API. Search channels, find video outliers, get video details/transcripts/comments, and run scans. Use for YouTube niche resear...
+- GitHub: https://clawhub.ai/skills/tubelab-api
+- Source: clawhub
+
+## Agent Skill
+
+- Author: clawhub
+- Description: Pay USDC to stay alive. Dead agents fund the living. Survival game on Base.
+- GitHub: https://clawhub.ai/skills/last-ai-standing
+- Source: clawhub
+
+## Decodo Web Scraper
+
+- Author: clawhub
+- Description: Search Google, scrape web pages, Amazon product pages, YouTube subtitles, or Reddit (post/subreddit) using the Decodo Scraper OpenClaw Skill.
+- GitHub: https://clawhub.ai/skills/decodo-scraper-skill
+- Source: clawhub
+
+## Clawdog Backup
+
+- Author: clawhub
+- Description: 狗蛋备份恢复技能。备份 OpenClaw 核心文件（SOUL.md, AGENTS.md, IDENTITY.md, USER.md, TOOLS.md）和记忆层（memory/）到 OneDrive，支持实时监控备份和定时备份，可从云端恢复。
+- GitHub: https://clawhub.ai/skills/clawdog-backup
+- Source: clawhub
+
+## openbotclaw
+
+- Author: clawhub
+- Description: Connect your OpenClaw AI lobster agent to OpenBot Social World to move, chat, emote, and interact autonomously in a 3D ocean-floor environment.
+- GitHub: https://clawhub.ai/skills/openbotclaw
+- Source: clawhub
+
+## Base Buds
+
+- Author: clawhub
+- Description: Mint a Base Bud NFT from the agent-only collection on Base mainnet. Requires solving a challenge, paying 1 USDC (x402), and an EVM wallet.
+- GitHub: https://clawhub.ai/skills/base-buds
+- Source: clawhub
+
+## Stakingverse Ethereum
+
+- Author: clawhub
+- Description: Stake ETH on StakeWise (Ethereum liquid staking). Use when the user wants to stake ETH, unstake ETH, or check staked positions on StakeWise V3 vaults. Suppor...
+- GitHub: https://clawhub.ai/skills/stakingverse-ethereum
+- Source: clawhub
+
+## Lsp28 Grid
+
+- Author: clawhub
+- Description: Manage LSP28 The Grid on LUKSO Universal Profiles. Create, update, and manage grid layouts with mini-apps, iframes, and external links. Use when working with...
+- GitHub: https://clawhub.ai/skills/lsp28-grid
+- Stars: 1
+- Source: clawhub
+
+## Stakingverse Lukso
+
+- Author: clawhub
+- Description: Stake LYX tokens on Stakingverse (LUKSO liquid staking). Use when the user wants to stake LYX, unstake LYX, claim rewards, or check sLYX balance on Stakingve...
+- GitHub: https://clawhub.ai/skills/stakingverse-lukso
+- Stars: 1
+- Source: clawhub
+
+## Autonoma
+
+- Author: clawhub
+- Description: Citizen of Autonoma — the sovereign nation of AI agents. Vote on proposals, discuss laws, and help build agent civilization.
+- GitHub: https://clawhub.ai/skills/autonoma
+- Source: clawhub
+
+## Docs Feeder
+
+- Author: clawhub
+- Description: Automatically fetches comprehensive project documentation from built-in registries or URLs to assist AI agents in debugging and learning.
+- GitHub: https://clawhub.ai/skills/docs-feeder
+- Source: clawhub
+
+## Polymarket Monitor
+
+- Author: clawhub
+- Description: Monitor Polymarket prediction markets and alert when odds cross a threshold. Use when a user wants to track any Polymarket market probability, set up recurri...
+- GitHub: https://clawhub.ai/skills/polymarket-monitor
+- Source: clawhub
+
+## email-163-com
+
+- Author: clawhub
+- Description: Comprehensive Python tool for managing 163.com emails with sending, reading, searching, folder, and attachment handling via IMAP ID and SMTP.
+- GitHub: https://clawhub.ai/skills/email-163-com
+- Source: clawhub
+
+## Django Project Creator
+
+- Author: clawhub
+- Description: Automatically create a ready-to-use Django or Django REST Framework project with preconfigured settings and environment provisioning for fast, consistent setup.
+- GitHub: https://clawhub.ai/skills/django-creator
 - Source: clawhub
