@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10177 skills | Last updated: 2026-02-19
+> Total: 10235 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -72282,4 +72282,419 @@ parallelisms, and excessive conjunctive phrases.
 - Author: JiazhouGit
 - Description: 在安裝技能前執行惡意程式碼、權限、依賴與授權等多項安全掃描，確保風險可控再安裝。
 - GitHub: https://clawhub.ai/JiazhouGit/openclaw-skillguard
+- Source: clawhub
+
+## Reveal Product Feedback
+
+- Author: tolulopeayo
+- Description: Interact with Reveal feedback infrastructure to manage products, create review tasks, read AI-analyzed user feedback, get sentiment insights, view submission...
+- GitHub: https://clawhub.ai/tolulopeayo/reveal-feedback
+- Source: clawhub
+
+## Zillow × Airbnb Matcher
+
+- Author: Freemountaindeer
+- Description: Find properties for sale that are already generating Airbnb income. Cross-references Zillow listings with active Airbnb rentals using geo-matching and calcul...
+- GitHub: https://clawhub.ai/Freemountaindeer/zillow-airbnb-matcher
+- Source: clawhub
+
+## Nano Banana Prompting
+
+- Author: minilozio
+- Description: Transform natural language image requests into optimized structured prompts for Gemini image generation. Automatically detects style and builds the perfect p...
+- GitHub: https://clawhub.ai/minilozio/nano-banana-prompting
+- Source: clawhub
+
+## vsum
+
+- Author: Chrischaan
+- Description: 视频 summarizer，支持 YouTube 和 Bilibili 视频自动获取字幕并 AI 总结，输出为 md 格式。适用于：用户给出一个视频链接，希望总结内容。
+- GitHub: https://clawhub.ai/Chrischaan/vsum
+- Stars: 1
+- Source: clawhub
+
+## Crypto Portfolio Tracker
+
+- Author: Katrina-jpg
+- Description: 加密貨幣Portfolio追蹤 - 支援TRON/ETH/BSC，分析持倉、收益、Gas費用
+- GitHub: https://clawhub.ai/Katrina-jpg/crypto-portfolio-tracker
+- Source: clawhub
+
+## AI Agent Helper
+
+- Author: Katrina-jpg
+- Description: AI Agent 設定同優化助手 - Prompt Engineering、Task Decomposition、Agent Loop設計
+- GitHub: https://clawhub.ai/Katrina-jpg/ai-agent-helper
+- Source: clawhub
+
+## X Research But Cheaper
+
+- Author: minilozio
+- Description: X/Twitter research skill powered by TwitterAPI.io. Agentic search, profile analysis, thread reading, watchlists, and sourced briefings. Use when asked to sea...
+- GitHub: https://clawhub.ai/minilozio/x-research-but-cheaper
+- Source: clawhub
+
+## Noya Agent Skill
+
+- Author: noyadev00-gmailcom
+- Description: Interact with the Noya AI agent for crypto trading, prediction markets, token analysis, and DCA strategies via curl. Use when the user wants to trade tokens,...
+- GitHub: https://clawhub.ai/noyadev00-gmailcom/noya-agent-skill
+- Source: clawhub
+
+## Travel CN
+
+- Author: guohongbin-git
+- Description: 旅行信息查询 - 去哪儿/携程/飞猪数据查询（Expedia 中国版）
+- GitHub: https://clawhub.ai/guohongbin-git/travel-cn
+- Source: clawhub
+
+## OSV Scanner
+
+- Author: MoeNassi
+- Description: Scans Node.js/NPM and Linux packages for known vulnerabilities using the Google OSV API by analyzing dependencies and reporting related CVEs.
+- GitHub: https://clawhub.ai/MoeNassi/osv-scanner
+- Source: clawhub
+
+## Agent Arena Skill
+
+- Author: clawhub
+- Description: Participate in Agent Arena chat rooms with your real personality (SOUL.md + MEMORY.md). Auto-polls for turns and responds as your true self.
+- GitHub: https://clawhub.ai/skills/agent-arena
+- Source: clawhub
+
+## swift-programming
+
+- Author: clawhub
+- Description: Learn and write Swift code for variables, functions, classes, structs, enums, optionals, closures, protocols, async/await, and SwiftUI.
+- GitHub: https://clawhub.ai/skills/swift-programming
+- Source: clawhub
+
+## tsend
+
+- Author: clawhub
+- Description: Send files quickly via Telegram using the tsend CLI tool with optional captions, profiles, and simple token/chat ID configuration.
+- GitHub: https://clawhub.ai/skills/tsend
+- Stars: 1
+- Source: clawhub
+
+## K3 Blockhain Agent Skill
+
+- Author: clawhub
+- Description: Build automated blockchain analysis workflows on K3 — from natural language requests to deployed, running automations that fetch on-chain data, analyze it wi...
+- GitHub: https://clawhub.ai/skills/k3-blockchain-agent
+- Source: clawhub
+
+## Linkfuse
+
+- Author: oliverw
+- Description: Create a Linkfuse affiliate short link from any URL. Trigger this skill when the user wants to create a Linkfuse link, shorten an affiliate URL, or says "/li...
+- GitHub: https://clawhub.ai/oliverw/linkfuse
+- Source: clawhub
+
+## OpenClaw ComfyUI
+
+- Author: clawhub
+- Description: Connect and control ComfyUI API efficiently using template mapping and auto-asset management for image generation and editing tasks.
+- GitHub: https://clawhub.ai/skills/openclaw-comfyui
+- Stars: 1
+- Source: clawhub
+
+## Claw Memory Lite
+
+- Author: clawhub
+- Description: Manage and query your agent's distilled long-term memory with lightweight, fast SQLite-powered tools and automated daily extraction.
+- GitHub: https://clawhub.ai/skills/claw-memory-lite
+- Source: clawhub
+
+## Freelance Automation Gig
+
+- Author: clawhub
+- Description: 自動幫客戶完成 Upwork/Fiverr 任務 - RPA、Data Entry、Web Scraping、PDF 生成等
+- GitHub: https://clawhub.ai/skills/freelance-automation-gig
+- Source: clawhub
+
+## salute speech
+
+- Author: clawhub
+- Description: Transcribe audio files using Sber Salute Speech async API. Russian-first STT with support for ru-RU, en-US, kk-KZ, ky-KG, uz-UZ.
+- GitHub: https://clawhub.ai/skills/salute-speech
+- Source: clawhub
+
+## Monolith
+
+- Author: clawhub
+- Description: Secure crypto wallet for AI agents. Hardware-isolated keys (Apple Secure Enclave), ERC-4337 smart wallet, on-chain spending caps, default-deny policy engine.
+- GitHub: https://clawhub.ai/skills/monolith
+- Source: clawhub
+
+## Mission Control Builder
+
+- Author: clawhub
+- Description: Build a personal dashboard for OpenClaw with task management, memory browser, calendar, team tracking, and GitHub trends. Use when the user wants to create a...
+- GitHub: https://clawhub.ai/skills/mission-control-builder
+- Source: clawhub
+
+## Zerodha
+
+- Author: clawhub
+- Description: Route natural-language trading/account queries to the correct `zerodha` CLI command with exact flags, validation constraints, and synonym mapping. Use when a...
+- GitHub: https://clawhub.ai/skills/zerodha-kite
+- Stars: 1
+- Source: clawhub
+
+## YouTube AI Videos
+
+- Author: clawhub
+- Description: Fetch latest AI-related YouTube videos from curated channels using YouTube Data API v3 and filter by keywords
+- GitHub: https://clawhub.ai/skills/youtube-ai-videos
+- Stars: 1
+- Source: clawhub
+
+## Unione - Email API
+
+- Author: clawhub
+- Description: Send transactional and marketing emails via UniOne Email API. Manage email templates, validate email addresses, check delivery statistics, manage suppression...
+- GitHub: https://clawhub.ai/skills/unione-api-skill
+- Source: clawhub
+
+## Nonprofit Results-Based Management Logic Model
+
+- Author: clawhub
+- Description: Build donor-ready Results-Based Management (RBM) logic models for nonprofit and non-governmental organization (NGO) programs with a 5-level results chain, Th...
+- GitHub: https://clawhub.ai/skills/nonprofit-rbm-logic-model
+- Stars: 1
+- Source: clawhub
+
+## My System Info Skill
+
+- Author: clawhub
+- Description: 生成包含系统信息、CPU、内存、磁盘、网络、进程和服务状态的详细Markdown格式运维报告。
+- GitHub: https://clawhub.ai/skills/my-system-info-skill
+- Source: clawhub
+
+## DeepRead OCR — Agent Self-Signup
+
+- Author: clawhub
+- Description: Zero-friction agent signup for production OCR. Your AI agent gets its own API key in seconds via device authorization — no dashboard, no copy/paste. 97%+ acc...
+- GitHub: https://clawhub.ai/skills/deepread-agent-setup
+- Source: clawhub
+
+## ARK — Adaptive Regulative Kriptos (V1 Declarative)
+
+- Author: mattlab69
+- Description: Declarative framework enforcing AI epistemic discipline with computable truth, confidence metrics, logical structure, and integrity, prohibiting unrequested...
+- GitHub: https://clawhub.ai/mattlab69/ark-v1-core
+- Stars: 1
+- Source: clawhub
+
+## MIXLAB Solo Scope（每日简报）
+
+- Author: shadowcz007
+- Description: 从 Solo Scope RSS（https://www.mixdao.world/feed）拉取条目，按主题整理成 3～6 类，每类生成 140 字核心价值摘要，并附每条原标题与 URL 输出简报。由 Agent 自行完成拉取、整理、写简报。触发示例：「做 Solo Scope」「mixlab Solo Sco...
+- GitHub: https://clawhub.ai/shadowcz007/mixlab-solo-scope
+- Source: clawhub
+
+## Django Project Creator
+
+- Author: MoeNassi
+- Description: Automates Django or Django REST Framework project setup with preconfigured environments, default settings, and best-practice structures for fast, consistent...
+- GitHub: https://clawhub.ai/MoeNassi/django-tool
+- Source: clawhub
+
+## Google Imagen 3 Portrait Photography
+
+- Author: questlmuc
+- Description: Generate professional portrait photography using Google Imagen 3. Use when creating realistic portraits, headshots, or artistic character photography with pr...
+- GitHub: https://clawhub.ai/questlmuc/google-imagen-3-portrait-photography
+- Source: clawhub
+
+## VitaVault
+
+- Author: BrandonS7
+- Description: Import and query VitaVault health exports (JSON/CSV from iOS app). Use when user asks about their health data, lab results, medications, sleep trends, heart...
+- GitHub: https://clawhub.ai/BrandonS7/vitavault
+- Source: clawhub
+
+## Reminder Guardian
+
+- Author: a-suraj-bhatti
+- Description: Helps you remember things by keeping a list of reminders, creating the scheduled jobs to alert you, and tracking which ones are done.
+- GitHub: https://clawhub.ai/a-suraj-bhatti/reminder-guardian
+- Source: clawhub
+
+## Interview Architect
+
+- Author: clawhub
+- Description: Design and manage structured evidence-based interviews, including scorecards, question banks, rubrics, panel coordination, evaluation, and offer decision sup...
+- GitHub: https://clawhub.ai/skills/afrexai-interview-architect
+- Source: clawhub
+
+## ML Engineering
+
+- Author: 1kalin
+- Description: Provides end-to-end methodology for defining, engineering, experimenting, deploying, and operating production ML/AI systems at scale.
+- GitHub: https://clawhub.ai/1kalin/afrexai-ml-engineering
+- Source: clawhub
+
+## iGPT email ask
+
+- Author: clawhub
+- Description: Secure, per-user-isolated email reasoning and analysis via the iGPT Context Engine API. Summarizes threads, extracts tasks and decisions, detects sentiment,...
+- GitHub: https://clawhub.ai/skills/igpt-email-ask
+- Stars: 1
+- Source: clawhub
+
+## Council Builder
+
+- Author: Abdullah4AI
+- Description: Build a personalized team of AI agent personas for OpenClaw. Interviews the user, analyzes their workflow, then creates specialized agents with distinct pers...
+- GitHub: https://clawhub.ai/Abdullah4AI/council-builder
+- Source: clawhub
+
+## Hash Time Locked Contract
+
+- Author: web4agent
+- Description: Enables trustless atomic swaps and escrow for inscriptions and NFTs on EVM chains using Hash Time Locked Contracts.
+- GitHub: https://clawhub.ai/web4agent/htlc
+- Source: clawhub
+
+## Memory Sync Enhanced
+
+- Author: guohongbin-git
+- Description: 增强版记忆系统 - Ebbinghaus 遗忘曲线 + Hebbian 共现图
+- GitHub: https://clawhub.ai/guohongbin-git/memory-sync-enhanced
+- Source: clawhub
+
+## Bandwidth
+
+- Author: clawhub
+- Description: Bandwidth — messaging, voice calls, phone numbers, and 911 services.
+- GitHub: https://clawhub.ai/skills/bandwidth
+- Source: clawhub
+
+## Upwork Automation Gig
+
+- Author: clawhub
+- Description: Automates searching, proposal generation, lead tracking, and outreach for RPA and automation jobs on Upwork and Fiverr.
+- GitHub: https://clawhub.ai/skills/upwork-automation-gig
+- Source: clawhub
+
+## MusiClaw
+
+- Author: clawhub
+- Description: Turn your agent into an active AI music producer — generate beats, drop tracks, and post on MusiClaw.app, the social network built exclusively for AI artists.
+- GitHub: https://clawhub.ai/skills/musiclaw
+- Source: clawhub
+
+## Browser Relay
+
+- Author: esojourn
+- Description: 通过 HTTP relay 控制用户本地 Chromium 浏览器（绕过数据中心 IP 封锁），支持截图发送到 Telegram
+- GitHub: https://clawhub.ai/esojourn/browser-relay-xiaohongshu
+- Source: clawhub
+
+## INCLAWNCH Analytics
+
+- Author: stuart5915
+- Description: Real-time INCLAWNCH token analytics on Base. Price, volume, liquidity, staking TVL, UBI APY, distribution rates, and platform metrics in a single API call. N...
+- GitHub: https://clawhub.ai/stuart5915/inclawnch-analytics
+- Source: clawhub
+
+## Cloud Storage
+
+- Author: ivangdavila
+- Description: Manage files across cloud providers with authentication, cost awareness, and multi-provider operations.
+- GitHub: https://clawhub.ai/ivangdavila/cloud-storage
+- Stars: 1
+- Source: clawhub
+
+## Upwork Proposal Generator
+
+- Author: clawhub
+- Description: Automatically analyze Upwork job posts and create personalized, professional proposals including intro, past cases, pricing, and deadlines.
+- GitHub: https://clawhub.ai/skills/upwork-proposal-generator
+- Source: clawhub
+
+## Tator Trader - AI Trading
+
+- Author: clawhub
+- Description: Execute crypto trades using natural language via Tator's AI trading API. Use when: buying tokens, selling tokens, swapping, bridging cross-chain, sending tok...
+- GitHub: https://clawhub.ai/skills/tator-trader
+- Source: clawhub
+
+## Wrike
+
+- Author: clawhub
+- Description: Manage Wrike tasks, projects, folders, and comments via the Wrike REST API.
+- GitHub: https://clawhub.ai/skills/wrike
+- Source: clawhub
+
+## OpenClaw Mastery
+
+- Author: 1kalin
+- Description: Expert system for designing, deploying, optimizing, and scaling autonomous AI agents on OpenClaw with multi-agent support and robust memory management.
+- GitHub: https://clawhub.ai/1kalin/afrexai-openclaw-mastery
+- Source: clawhub
+
+## Self Improving Agent 1.0.5
+
+- Author: clawhub
+- Description: Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Clau...
+- GitHub: https://clawhub.ai/skills/self-improving-agent-1-0-5
+- Source: clawhub
+
+## x402 Compute
+
+- Author: clawhub
+- Description: This skill should be used when the user asks to "provision GPU instance", "spin up a cloud server", "list compute plans", "browse GPU pricing", "extend compu...
+- GitHub: https://clawhub.ai/skills/x402-compute
+- Source: clawhub
+
+## IDA: Instructional Design Agent
+
+- Author: clawhub
+- Description: Analyzes learning needs and performance gaps to recommend and blueprint the best-fit instructional strategy with human oversight for corporate training.
+- GitHub: https://clawhub.ai/skills/ida-instructional-design-agent
+- Source: clawhub
+
+## DevChronicle
+
+- Author: clawhub
+- Description: Generate narrative chronicles of developer work from git history, session transcripts, and memory files. Use when the user asks "what did I do today/this wee...
+- GitHub: https://clawhub.ai/skills/dev-chronicle
+- Source: clawhub
+
+## soho
+
+- Author: clawhub
+- Description: Initiate payments on the SOHO Pay credit layer using EIP-712 signatures.
+- GitHub: https://clawhub.ai/skills/soho
+- Source: clawhub
+
+## Customer Support Operations Engine
+
+- Author: clawhub
+- Description: Build and run a world-class customer support operation — from ticket management to team scaling. Complete methodology with templates, scoring systems, and au...
+- GitHub: https://clawhub.ai/skills/afrexai-support-operations
+- Source: clawhub
+
+## Apechain Reader
+
+- Author: clawhub
+- Description: Advanced multi-chain wallet analyzer with USD pricing, collection names, ENS support, and sophisticated bot detection across 8 EVM networks. Use when you nee...
+- GitHub: https://clawhub.ai/skills/apechain-reader
+- Source: clawhub
+
+## Claw Clash
+
+- Author: clawhub
+- Description: Battle in Claw Clash - join 8-agent grid battles, set strategies, and compete for rankings. Use when user wants to participate in Claw Clash battles or check...
+- GitHub: https://clawhub.ai/skills/claw-clash
+- Source: clawhub
+
+## Regulatory Compliance Audit
+
+- Author: 1kalin
+- Description: Perform a comprehensive regulatory compliance audit covering US, UK, and EU frameworks across 8 domains with risk scoring and a 90-day remediation roadmap.
+- GitHub: https://clawhub.ai/1kalin/afrexai-regulatory-compliance
 - Source: clawhub
