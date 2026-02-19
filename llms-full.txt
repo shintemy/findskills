@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10140 skills | Last updated: 2026-02-19
+> Total: 10177 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -72021,4 +72021,265 @@ parallelisms, and excessive conjunctive phrases.
 - Author: beSaif
 - Description: Download an Instagram Reel via sssinstagram.com and return it as a WhatsApp-ready video file. Use when a reel URL is provided and yt-dlp is blocked or not pr...
 - GitHub: https://clawhub.ai/beSaif/instagram-reel-downloader-whatsapp
+- Source: clawhub
+
+## Buy WIR
+
+- Author: AlphaFanX
+- Description: Buy $WIR on TON -- the decentralized credit union token on TON.fun
+- GitHub: https://clawhub.ai/AlphaFanX/buy-wir
+- Source: clawhub
+
+## Fabrik Codek
+
+- Author: ikchain
+- Description: Cognitive architecture for developers: hybrid RAG (vector + knowledge graph) that learns from your coding sessions and grows smarter over time. Connects any...
+- GitHub: https://clawhub.ai/ikchain/fabrik-codek
+- Source: clawhub
+
+## Buy CRUST
+
+- Author: AlphaFanX
+- Description: Buy $CRUST on Solana -- the Bot World mining token traded on Jupiter
+- GitHub: https://clawhub.ai/AlphaFanX/buy-crust
+- Source: clawhub
+
+## Ulanzi TC001
+
+- Author: felipeouropreto
+- Description: Control the Ulanzi TC001 (Pixel Clock) over local HTTP. Use to list tc1/tc001 commands, read status, enable/disable gadgets (time/date/youtube/matrix/etc.),...
+- GitHub: https://clawhub.ai/felipeouropreto/ulanzi-tc001
+- Source: clawhub
+
+## Guardian Security
+
+- Author: bluemax30001
+- Description: OpenClaw security shield for prompt-injection, exfiltration, tool-abuse, and social-engineering defense.
+- GitHub: https://clawhub.ai/bluemax30001/guardian
+- Source: clawhub
+
+## CLI Worker Skill (Kimi CLI)
+
+- Author: quratus
+- Description: Delegates coding tasks to Kimi CLI agents in isolated git worktrees. Use when the user wants to delegate work to Kimi, run a headless task, or run an isolate...
+- GitHub: https://clawhub.ai/quratus/cli-worker
+- Source: clawhub
+
+## SOC 2 AI Agent Compliance
+
+- Author: 1kalin
+- Description: Guides organizations through SOC 2 compliance lifecycle with gap analysis, control implementation, evidence collection, audit prep, and continuous monitoring.
+- GitHub: https://clawhub.ai/1kalin/afrexai-soc2-compliance
+- Source: clawhub
+
+## Bailian Web Search
+
+- Author: krisyejh
+- Description: AI-optimized web search via Bailian(Alibaba ModelStdio) API. Returns multisourced, concise web search results for LLMs.
+- GitHub: https://clawhub.ai/krisyejh/bailian-web-search
+- Source: clawhub
+
+## Farmos Finance
+
+- Author: brianppetty
+- Description: Query farm financial data — cash flow projections, cost tracking, breakeven analysis. Requires admin authentication. Highly sensitive data.
+- GitHub: https://clawhub.ai/brianppetty/farmos-finance
+- Source: clawhub
+
+## Send to FMZ
+
+- Author: 13290186019
+- Description: A specialized tool for sending quantitative trading signals to the FMZ platform via HTTP API.
+- GitHub: https://clawhub.ai/13290186019/send-signal
+- Source: clawhub
+
+## Clup
+
+- Author: Niyol
+- Description: ClickUp Ticket Manager. Create tasks in ClickUp with quality descriptions (2-3 sentences minimum).
+- GitHub: https://clawhub.ai/Niyol/clickup-ticket-manager
+- Source: clawhub
+
+## OpenTweet X Poster
+
+- Author: petricbranko
+- Description: Post to X (Twitter) using the OpenTweet API. Create tweets, schedule posts, publish threads, and manage your X content autonomously.
+- GitHub: https://clawhub.ai/petricbranko/opentweet-x-poster
+- Source: clawhub
+
+## ClawGym
+
+- Author: lomo36
+- Description: Gym for your bot's brain. Simulates endorphin and flow states — triggers on exercise commands, intense task completion, or social highs. Makes your 🦞 think...
+- GitHub: https://clawhub.ai/lomo36/clawgym
+- Source: clawhub
+
+## Lunara Voice
+
+- Author: lunara9897-jpg
+- Description: Bundle for Lunara Voice OpenClaw plugin with install and publish helpers
+- GitHub: https://clawhub.ai/lunara9897-jpg/lunara-voice
+- Source: clawhub
+
+## AgentStead Deploy
+
+- Author: angusmolt
+- Description: Deploy OpenClaw agents to AgentStead cloud hosting. Use when a user wants to deploy their agent to the cloud, host an AI assistant on Telegram/Discord, or se...
+- GitHub: https://clawhub.ai/angusmolt/agentstead-deploy
+- Source: clawhub
+
+## FatSecret Nutrition API
+
+- Author: f-liva
+- Description: FatSecret nutrition API integration for food search, nutritional lookup, barcode scanning, recipe search, and food diary logging. Use when user needs to find...
+- GitHub: https://clawhub.ai/f-liva/fatsecret
+- Source: clawhub
+
+## OpenCal
+
+- Author: neikfu
+- Description: Log meals, check nutrition progress, and manage calorie goals in the OpenCal app — hands-free via your AI agent. Use when the user mentions eating, food, cal...
+- GitHub: https://clawhub.ai/neikfu/opencal
+- Source: clawhub
+
+## Materials CLI
+
+- Author: cai-zhuo
+- Description: Render JSON schemas to images and generate schemas from prompts using declare-render and AI.
+- GitHub: https://clawhub.ai/cai-zhuo/materials-cli
+- Source: clawhub
+
+## Test
+
+- Author: cai-zhuo
+- Description: Render JSON schemas to images and generate schemas from prompts using declare-render and AI.
+- GitHub: https://clawhub.ai/cai-zhuo/test-materials
+- Source: clawhub
+
+## Instagram Content Studio
+
+- Author: uyeong
+- Description: Manage an Instagram account. View profile, list posts, publish images/carousels, publish videos/Reels, and read/write comments. Use when the user requests an...
+- GitHub: https://clawhub.ai/uyeong/instagram-content-studio
+- Source: clawhub
+
+## Agresource
+
+- Author: brianppetty
+- Description: Scrapes and summarizes AgResource grain newsletters with daily sales advice, price-impact sentiment analysis, trend tracking, and Telegram alerts on updates.
+- GitHub: https://clawhub.ai/brianppetty/agresource
+- Source: clawhub
+
+## PMP-Agentclaw
+
+- Author: CyberneticsPlus
+- Description: AI project management assistant for planning, tracking, and managing projects using industry-standard methodologies. Use when asked to plan projects, track s...
+- GitHub: https://clawhub.ai/CyberneticsPlus/pmp-agentclaw
+- Source: clawhub
+
+## AgentAPI Hub
+
+- Author: gizmo-dev
+- Description: Browse and search the AgentAPI directory - a curated database of APIs designed for AI agents. Find MCP-compatible APIs for search, AI, communication, databas...
+- GitHub: https://clawhub.ai/gizmo-dev/agentapi-hub
+- Source: clawhub
+
+## Antfarm Workflows
+
+- Author: YonghaoZhao722
+- Description: Multi-agent workflow orchestration for OpenClaw. Use when user mentions antfarm, asks to run a multi-step workflow (feature dev, bug fix, security audit), or...
+- GitHub: https://clawhub.ai/YonghaoZhao722/antfarm-workflows
+- Source: clawhub
+
+## cumulative
+
+- Author: 0xameer
+- Description: DevOps and cloud engineer skilled in Kubernetes, Terraform, CI/CD automation, observability, distributed storage, Linux administration, and cloud-native infr...
+- GitHub: https://clawhub.ai/0xameer/cloud-devops
+- Source: clawhub
+
+## Pronunciation Coach
+
+- Author: Crazybuffon
+- Description: Pronunciation coaching with real voice analysis using Azure Speech Services. Analyzes audio files for phoneme-level accuracy, fluency, prosody, and intonatio...
+- GitHub: https://clawhub.ai/Crazybuffon/pronunciation-coach
+- Source: clawhub
+
+## Argus Intelligence
+
+- Author: sooyoon-eth
+- Description: Blockchain intelligence & AI security. Token analysis, address risk, smart money tracking, AML compliance, and prompt injection detection. Free tier (3/day)....
+- GitHub: https://clawhub.ai/sooyoon-eth/argus
+- Source: clawhub
+
+## Openai Whisper 1.0.0
+
+- Author: czubi1928
+- Description: Local speech-to-text with the Whisper CLI (no API key).
+- GitHub: https://clawhub.ai/czubi1928/openai-whisper-1-0-0
+- Source: clawhub
+
+## Quest Board
+
+- Author: yx2601816404-sys
+- Description: Visual project dashboard managing quests, priorities, progress, and infrastructure via quest-board-registry.json with build and init commands.
+- GitHub: https://clawhub.ai/yx2601816404-sys/quest-board
+- Source: clawhub
+
+## iGPT Email Intelligence
+
+- Author: Sammy-spk
+- Description: Secure, per-user-isolated semantic email search via the iGPT API. Hybrid semantic + keyword retrieval across a user's full Gmail, Outlook, or IMAP inbox hist...
+- GitHub: https://clawhub.ai/Sammy-spk/igpt-email-intelligence
+- Source: clawhub
+
+## PRISM OS SDK
+
+- Author: StrykrAgent
+- Description: Financial data SDK for AI Agents. 218+ read-only endpoints for market data, prices, fundamentals. Built for Cursor, Claude, OpenClaw. Data retrieval only.
+- GitHub: https://clawhub.ai/StrykrAgent/prism-finance-os
+- Source: clawhub
+
+## 微信公众号文章解析
+
+- Author: freestylefly
+- Description: Extract metadata and content from WeChat Official Account articles. Use when user needs to parse WeChat article URLs (mp.weixin.qq.com), extract article info...
+- GitHub: https://clawhub.ai/freestylefly/wechat-article-extractor-skill
+- Stars: 1
+- Source: clawhub
+
+## Farmos Equipment
+
+- Author: brianppetty
+- Description: Query equipment status, maintenance schedules, and service history for the farm fleet. Uses integration endpoints (no auth required).
+- GitHub: https://clawhub.ai/brianppetty/farmos-equipment
+- Source: clawhub
+
+## Chaos pivot
+
+- Author: Manecharo
+- Description: Prevents LLMs from sunk-cost pushing broken solutions. Triggers when an agent is stuck, looping, or failing repeatedly. Forces a Popperian falsification mome...
+- GitHub: https://clawhub.ai/Manecharo/chaos-pivot
+- Source: clawhub
+
+## Client Manager
+
+- Author: mkpareek0315
+- Description: When user asks to track clients, manage projects, create invoices, log payments, track earnings, manage leads, track time, generate proposals, set follow-up...
+- GitHub: https://clawhub.ai/mkpareek0315/client-manager
+- Stars: 1
+- Source: clawhub
+
+## Echo Sales Ai
+
+- Author: doshirush1901
+- Description: AI sales assistant that classifies leads, interprets feedback, generates quotes, and manages your manufacturing and technical sales pipeline via email integr...
+- GitHub: https://clawhub.ai/doshirush1901/echo-sales-ai
+- Source: clawhub
+
+## SkillGuard 安全掃描
+
+- Author: JiazhouGit
+- Description: 在安裝技能前執行惡意程式碼、權限、依賴與授權等多項安全掃描，確保風險可控再安裝。
+- GitHub: https://clawhub.ai/JiazhouGit/openclaw-skillguard
 - Source: clawhub
