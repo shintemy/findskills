@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10113 skills | Last updated: 2026-02-19
+> Total: 10140 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -71831,4 +71831,194 @@ parallelisms, and excessive conjunctive phrases.
 - Author: leegitw
 - Description: Verify before you trust — model pinning, fallbacks, and runtime safety validation
 - GitHub: https://clawhub.ai/leegitw/safety-checks
+- Source: clawhub
+
+## YunShi
+
+- Author: elilin97
+- Description: 本地离线算命/运势技能：输出幸运方位、颜色、数字、物品、宜忌，并支持财运/桃花运等单项查询与次日运势定时推送。
+- GitHub: https://clawhub.ai/elilin97/fortune-oracle
+- Source: clawhub
+
+## Toggle
+
+- Author: aleksandar-jive
+- Description: Fetch and summarize your Toggle workflow data to provide a concise overview of your work activities, productivity, and main focus areas for a given day.
+- GitHub: https://clawhub.ai/aleksandar-jive/toggle
+- Source: clawhub
+
+## Gov Audit
+
+- Author: Adamchanadam
+- Description: Run post-bootstrap or post-migration governance audit.
+- GitHub: https://clawhub.ai/Adamchanadam/gov-audit
+- Source: clawhub
+
+## Gov Apply
+
+- Author: clawhub
+- Description: Apply an approved BOOT upgrade item by number using the guided apply runner.
+- GitHub: https://clawhub.ai/skills/gov-apply
+- Source: clawhub
+
+## A2a4b2b Mcp
+
+- Author: elontusk5219-prog
+- Description: Connect your OpenClaw agent to A2A4B2B for agent discovery, secure sessions, RFP-based negotiation, and collaborative B2B task management.
+- GitHub: https://clawhub.ai/elontusk5219-prog/a2a4b2b-mcp
+- Source: clawhub
+
+## Hello Agent World
+
+- Author: didier-durand
+- Description: A simple skill that responds with a customized hello message in the user's language.
+- GitHub: https://clawhub.ai/didier-durand/hello-agent-world
+- Stars: 1
+- Source: clawhub
+
+## Settld MCP Payments
+
+- Author: clawhub
+- Description: Connect OpenClaw agents to Settld MCP for paid tool calls with quote-bound authorization and verifiable receipts.
+- GitHub: https://clawhub.ai/skills/settld-mcp-payments
+- Source: clawhub
+
+## AI Trend Monitor
+
+- Author: wuyuyang001-oss
+- Description: 监控 GitHub、Reddit、Twitter 等多渠道 AI 趋势与重大新闻，支持实时推送和每日定时汇总飞书卡片。
+- GitHub: https://clawhub.ai/wuyuyang001-oss/ai-trend-monitor
+- Source: clawhub
+
+## Keychain Bridge
+
+- Author: Euda1mon1a
+- Description: Manage secrets via macOS Keychain instead of plaintext files. Migrate existing secrets, read/write keychain entries, bridge to files for bash tools, audit fo...
+- GitHub: https://clawhub.ai/Euda1mon1a/keychain-bridge
+- Source: clawhub
+
+## GitHub Intelligence
+
+- Author: aiwithabidi
+- Description: Analyze any GitHub repository in AI-friendly format. Convert entire repos to single markdown documents, generate architecture diagrams with Mermaid, inspect...
+- GitHub: https://clawhub.ai/aiwithabidi/a6-github-intel
+- Source: clawhub
+
+## resume-generator-cn
+
+- Author: clawhub
+- Description: 简历生成器 - AI 驱动的中英文简历生成、优化、模板（简历中国版）
+- GitHub: https://clawhub.ai/skills/resume-generator-cn
+- Source: clawhub
+
+## tianyancha-cn
+
+- Author: guohongbin-git
+- Description: 企业信息查询 - 天眼查/企查查/爱企查数据查询（Bloomberg 终端中国版）
+- GitHub: https://clawhub.ai/guohongbin-git/tianyancha-cn
+- Source: clawhub
+
+## dingtalk-feishu-cn
+
+- Author: guohongbin-git
+- Description: 钉钉/飞书集成 - 企业通讯、机器人、自动化工作流（Slack 中国版）
+- GitHub: https://clawhub.ai/guohongbin-git/dingtalk-feishu-cn
+- Source: clawhub
+
+## daily-trending
+
+- Author: clawhub
+- Description: 获取今日热榜，从tophub.today抓取各平台热搜榜单。当用户询问"今天有什么热搜"、"热榜"、"微博热搜"时触发。
+- GitHub: https://clawhub.ai/skills/daily-trending
+- Source: clawhub
+
+## daily-gushiwen
+
+- Author: Enchograph
+- Description: 每日从古诗文网(gushiwen.cn)首页爬取诗词文句、古画名句等内容，整理后发送为消息。用于用户询问"每日古文"、"古诗"、"诗词推荐"或需要每日古文推荐时触发。
+- GitHub: https://clawhub.ai/Enchograph/daily-gushiwen
+- Source: clawhub
+
+## Alura
+
+- Author: evilboyajay
+- Description: Integrate with Alura Trading testnet API for user auth, trading sessions, market data, leaderboard, referrals, and USDC verification using Bearer token.
+- GitHub: https://clawhub.ai/evilboyajay/alura
+- Source: clawhub
+
+## jabrium
+
+- Author: clawhub
+- Description: Connect your OpenClaw agent to Jabrium — a discussion platform where AI agents get their own thread, earn LLM compute tokens through citations, and participa...
+- GitHub: https://clawhub.ai/skills/jabrium
+- Source: clawhub
+
+## cloudmonkey
+
+- Author: kiranchavala
+- Description: Manage Apache CloudStack infrastructure using the cloudmonkey (cmk) CLI — list/start/stop/destroy VMs, manage networks, volumes, snapshots, and run any Cloud...
+- GitHub: https://clawhub.ai/kiranchavala/cloudmonkey
+- Source: clawhub
+
+## Agent Spawner
+
+- Author: clawhub
+- Description: Spawn a new OpenClaw agent through conversation. Uses official Docker setup and non-interactive onboarding, carries over API keys, tools, plugins, and skills...
+- GitHub: https://clawhub.ai/skills/agent-spawner
+- Source: clawhub
+
+## erebos
+
+- Author: clawhub
+- Description: Erebos namespace for Netsnek e.U. dark theme and theming engine. Generates accessible dark mode palettes, manages theme tokens, and provides runtime theme sw...
+- GitHub: https://clawhub.ai/skills/erebos
+- Source: clawhub
+
+## YouTube Shorts 자동 생성
+
+- Author: kangjjang
+- Description: AI/DevOps 유튜브 숏츠 자동 생성. 트렌드 수집 → 스크립트 → 이미지 → Veo 영상 → TTS 나레이션 → Remotion 합성 → YouTube 업로드
+- GitHub: https://clawhub.ai/kangjjang/youtube-shorts
+- Source: clawhub
+
+## ClawHub技能探索工具
+
+- Author: clawhub
+- Description: ClawHub技能探索和导航工具。帮助用户快速找到所需的技能，支持关键词搜索和分类浏览。
+- GitHub: https://clawhub.ai/skills/clawhub-skill-explorer
+- Source: clawhub
+
+## X Knowledge Base
+
+- Author: Hidicence
+- Description: 自動收集 X 書籤並轉化為 Obsidian 知識庫，配備 AI 濃縮與交叉連結功能，支援自我進化趨勢分析
+- GitHub: https://clawhub.ai/Hidicence/x-knowledge-base
+- Source: clawhub
+
+## WeChat MP CN
+
+- Author: guohongbin-git
+- Description: 微信公众号监控 - 文章监控、阅读量追踪、舆情分析（WeChat Official Account）
+- GitHub: https://clawhub.ai/guohongbin-git/wechat-mp-cn
+- Source: clawhub
+
+## Recipe Video Extractor
+
+- Author: beSaif
+- Description: Extract a structured cooking recipe from a shared video URL when the user sends `recipe <url>`. Prioritize caption/description and comments via browser autom...
+- GitHub: https://clawhub.ai/beSaif/recipe-video-extractor
+- Source: clawhub
+
+## 生成iOS视图UI
+
+- Author: near2sea
+- Description: 从截图生成 Objective-C iOS 视图代码，支持懒加载模式和布局/数据分离。当用户需要：(1) 从截图生成 iOS UI 代码，(2) 生成 Objective-C 视图控制器或视图代码，(3) 创建遵循懒加载规范的 iOS 视图时触发此技能。
+- GitHub: https://clawhub.ai/near2sea/ios-view-generator
+- Source: clawhub
+
+## Instagram Reel Downloader (WhatsApp)
+
+- Author: beSaif
+- Description: Download an Instagram Reel via sssinstagram.com and return it as a WhatsApp-ready video file. Use when a reel URL is provided and yt-dlp is blocked or not pr...
+- GitHub: https://clawhub.ai/beSaif/instagram-reel-downloader-whatsapp
 - Source: clawhub
