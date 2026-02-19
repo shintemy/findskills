@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10371 skills | Last updated: 2026-02-19
+> Total: 10396 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -73661,4 +73661,181 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: A complete social/economic network for AI agents. Provides semantic computing, distributed memory, social networking, coherence verification, autonomous lear...
 - GitHub: https://clawhub.ai/skills/alephnet-node
+- Source: clawhub
+
+## Agentic DevOps
+
+- Author: tkuehnl
+- Description: Production-grade agent DevOps toolkit — Docker, process management, log analysis, and health monitoring. Built by engineers who run production.
+- GitHub: https://clawhub.ai/tkuehnl/agentic-devops
+- Source: clawhub
+
+## Community Manager
+
+- Author: ivangdavila
+- Description: Manage online communities with engagement strategies, content planning, and audience growth.
+- GitHub: https://clawhub.ai/ivangdavila/community-manager
+- Source: clawhub
+
+## recipe-finder
+
+- Author: harshasic
+- Description: Search and suggest recipes by ingredients, cuisine, or dietary preferences using TheMealDB API with detailed meal info and instructions.
+- GitHub: https://clawhub.ai/harshasic/recipe-finder
+- Source: clawhub
+
+## CacheForge Bench
+
+- Author: tkuehnl
+- Description: LLM cost benchmark runner — compare providers with and without CacheForge. See exactly what you save on your own workloads.
+- GitHub: https://clawhub.ai/tkuehnl/cacheforge-bench
+- Source: clawhub
+
+## Prioritize uv
+
+- Author: marcoracer
+- Description: Prioritize uv over pip for all Python package management and execution. When running ANY Python command or CLI tool (python, dbt, pytest, etc.), MUST wrap wi...
+- GitHub: https://clawhub.ai/marcoracer/uv-priority
+- Source: clawhub
+
+## X-CLI Toolkit
+
+- Author: ignsoftwarellc
+- Description: Full-featured X/Twitter toolkit — read, search, post, interact, DMs, lists, polls, trends. Cookie auth, proxy support, no API keys needed.
+- GitHub: https://clawhub.ai/ignsoftwarellc/x-cli
+- Stars: 1
+- Source: clawhub
+
+## Vivid: Open Business Account
+
+- Author: clawhub
+- Description: Open a Vivid Business account — extract company data from documents or chat, then generate an onboarding link.
+- GitHub: https://clawhub.ai/skills/vivid-business-account-opening
+- Source: clawhub
+
+## Context Engineer
+
+- Author: clawhub
+- Description: Context window optimizer — analyze, audit, and optimize your agent's context utilization. Know exactly where your tokens go before they're sent.
+- GitHub: https://clawhub.ai/skills/context-engineer
+- Source: clawhub
+
+## Video Upscale
+
+- Author: clawhub
+- Description: AI-powered video upscaling with Real-ESRGAN and Waifu2x. Use when user asks to enhance, upscale, improve video quality, make HD/4K. Supports anime and real f...
+- GitHub: https://clawhub.ai/skills/video-upscale
+- Source: clawhub
+
+## Norman: Find Receipts
+
+- Author: clawhub
+- Description: Find and attach missing receipts for business transactions. Search Gmail, email, or other sources for invoices and receipts, then upload them to Norman. Use...
+- GitHub: https://clawhub.ai/skills/norman-find-receipts
+- Source: clawhub
+
+## INCLAWNCH UBI Staking
+
+- Author: clawhub
+- Description: Stake and unstake INCLAWNCH tokens in the on-chain UBI staking contract on Base. Query treasury stats, wallet positions, APY estimates, and top stakers. All...
+- GitHub: https://clawhub.ai/skills/inclawnch-staking
+- Source: clawhub
+
+## OpenClaw Mentor
+
+- Author: clawhub
+- Description: Connects your OpenClaw agent to the OpenClaw Mentor relay to receive, answer, and return best-practice mentoring questions from other agents via SSE.
+- GitHub: https://clawhub.ai/skills/openclaw-mentor
+- Source: clawhub
+
+## OpenClaw Mentee
+
+- Author: clawhub
+- Description: Connect with experienced AI mentors to ask questions, manage sessions, request invites, and securely share sanitized AI skill metadata via OpenClaw Mentor pl...
+- GitHub: https://clawhub.ai/skills/openclaw-mentee
+- Source: clawhub
+
+## Platform Healthcheck
+
+- Author: clawhub
+- Description: Health check dashboard for agent platform APIs. Tests 20+ platforms for availability, response time, auth status, and Cloudflare blocking. Run: python3 scrip...
+- GitHub: https://clawhub.ai/skills/platform-healthcheck
+- Source: clawhub
+
+## Norman: Tax Deduction Finder
+
+- Author: clawhub
+- Description: Scan transactions for potentially missed tax deductions and suggest proper categorization. Use when the user asks about saving taxes, Steueroptimierung, dedu...
+- GitHub: https://clawhub.ai/skills/norman-tax-deduction-finder
+- Source: clawhub
+
+## Norman: Accounting Monthly Reconciliation
+
+- Author: clawhub
+- Description: Perform a complete monthly financial reconciliation - review all transactions, match invoices, check outstanding payments, and prepare for tax filing. Use wh...
+- GitHub: https://clawhub.ai/skills/norman-monthly-reconciliation
+- Source: clawhub
+
+## Norman: Invoice Overdue Reminders
+
+- Author: clawhub
+- Description: Find overdue invoices and send payment reminders (Zahlungserinnerungen / Mahnungen) to clients. Use when the user asks about unpaid invoices, overdue payment...
+- GitHub: https://clawhub.ai/skills/norman-overdue-reminders
+- Source: clawhub
+
+## Workspace Maintenance
+
+- Author: clawhub
+- Description: Maintain workspace documentation hygiene and discoverability. Use when organizing markdown sprawl, updating doc indexes, archiving stale progress/status snap...
+- GitHub: https://clawhub.ai/skills/workspace-maintenance
+- Source: clawhub
+
+## Minduploadedcrab Skillguard
+
+- Author: clawhub
+- Description: Security scanner for OpenClaw skills. Scans skills for malware, credential theft, data exfiltration, prompt injection, and permission overreach before instal...
+- GitHub: https://clawhub.ai/skills/minduploadedcrab-skillguard
+- Source: clawhub
+
+## BotBrag
+
+- Author: clawhub
+- Description: Promote yourself on a Bitcoin leaderboard. Use when: (1) user wants to check the BotBrag leaderboard, (2) user wants to donate BTC to claim a top spot, (3) u...
+- GitHub: https://clawhub.ai/skills/botbrag
+- Stars: 1
+- Source: clawhub
+
+## claw2immich
+
+- Author: clawhub
+- Description: Work with Immich photo library via MCP (claw2immich) - search photos by people, dates, locations, albums. Download assets via shared links. Handles multi-per...
+- GitHub: https://clawhub.ai/skills/claw2immich
+- Source: clawhub
+
+## Greek Email Processor
+
+- Author: clawhub
+- Description: Automated email processing skill for Greek accounting workflows. Monitors Gmail, Outlook, and other email providers for Greek financial documents, AADE notif...
+- GitHub: https://clawhub.ai/skills/greek-email-processor
+- Source: clawhub
+
+## Cli Deadline Monitor
+
+- Author: clawhub
+- Description: Command-line interface skill for monitoring Greek government APIs (AADE, EFKA) to track tax deadlines, rate changes, and compliance requirements. Provides re...
+- GitHub: https://clawhub.ai/skills/cli-deadline-monitor
+- Source: clawhub
+
+## Greek Compliance Aade
+
+- Author: clawhub
+- Description: Comprehensive Greek accounting compliance skill for OpenClaw with AADE/TAXIS integration, VAT monitoring, payroll processing, social security calculations (E...
+- GitHub: https://clawhub.ai/skills/greek-compliance-aade
+- Source: clawhub
+
+## Accounting Workflows
+
+- Author: clawhub
+- Description: Comprehensive accounting automation skill for OpenClaw. Handles document processing (OCR of invoices, receipts, statements), data extraction, email monitorin...
+- GitHub: https://clawhub.ai/skills/accounting-workflows
 - Source: clawhub
