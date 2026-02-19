@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10048 skills | Last updated: 2026-02-19
+> Total: 10081 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -71371,4 +71371,240 @@ parallelisms, and excessive conjunctive phrases.
 - Author: nirwandogra
 - Description: Scans files, repos, and directories for leaked secrets — API keys, tokens, passwords, connection strings, private keys, and credentials. Detects 40+ secret p...
 - GitHub: https://clawhub.ai/nirwandogra/credential-scanner
+- Source: clawhub
+
+## Context Audit Openclaw Skill
+
+- Author: kesslerio
+- Description: Monthly context file audit for OpenClaw agent workspaces — detects bloat, growth drift, and cross-workspace duplication
+- GitHub: https://github.com/kesslerio/context-audit-openclaw-skill
+- Source: github
+
+## indie-hacker-weekly
+
+- Author: yashi3379
+- Description: Manus skill for weekly indie hacker success stories collection and translation
+- GitHub: https://github.com/yashi3379/indie-hacker-weekly-skill
+- Source: github
+
+## request-my-ehi
+
+- Author: jmandel
+- Description: Claude Code skill to help patients request their complete Electronic Health Information (EHI) Export from any healthcare provider
+- GitHub: https://github.com/jmandel/request-my-ehi
+- Source: github
+
+## emergent-judgment
+
+- Author: thebrierfox
+- Description: A metacognitive skill for persistent AI agents — preserving the judgment that develops through accumulated experience
+- GitHub: https://github.com/thebrierfox/emergent-judgment
+- Stars: 1
+- Source: github
+
+## ai-hedge-fund
+
+- Author: erongcao
+- Description: AI Hedge Fund Skill - Multi-agent investment analysis system for OpenClaw
+- GitHub: https://github.com/erongcao/ai-hedge-fund-skill
+- Source: github
+
+## market-intelligence
+
+- Author: nightfullstar
+- Description: Multi-indicator framework for analyzing crypto markets and tracking smart money. Use when user asks about market conditions, liquidations, whale activity, buy/sell timing, bottom/top signals, or wants to understand what big money is doing. Combines liquidation heatmaps, funding rates, open interest, exchange flows, long/short ratios, and sentiment to identify accumulation/distribution zones.
+- GitHub: https://github.com/nightfullstar/market-intelligence
+- Source: github
+
+## rlm-workflow
+
+- Author: doubleuuser
+- Description: Implements a lightweight workflow for Codex inspired by Recursive Language Models (MIT)
+- GitHub: https://github.com/doubleuuser/rlm-workflow
+- Stars: 5
+- Source: github
+
+## capability-evolver
+
+- Author: autogame-17
+- Description: The Self-Evolving Agent Protocol (PCEC). It writes its own code.
+- GitHub: https://github.com/autogame-17/evolver
+- Stars: 60
+- Source: github
+
+## tufte-data-viz
+
+- Author: caylent
+- Description: Agent skill: Edward Tufte's data visualization principles for clean, honest, high-data-ink-ratio charts. Recharts, ECharts, Chart.js, matplotlib, Plotly, D3/SVG.
+- GitHub: https://github.com/caylent/tufte-data-viz
+- Stars: 1
+- Source: github
+
+## cc-hotswap
+
+- Author: alexknowshtml
+- Description: Rotate between multiple Claude Code Max plan accounts from the command line
+- GitHub: https://github.com/alexknowshtml/cc-hotswap
+- Source: github
+
+## usccb
+
+- Author: DeGrandis
+- Description: Command-line tool for accessing daily Catholic Mass readings and prayers from the United States Conference of Catholic Bishops (USCCB).
+- GitHub: https://github.com/DeGrandis/usccb-cli
+- Source: github
+
+## OpenClaw Troubleshooting
+
+- Author: clawhub
+- Description: OpenClaw常见问题解决方案技能。提供自动化诊断、错误修复和性能优化功能。
+- GitHub: https://clawhub.ai/skills/openclaw-troubleshooting
+- Source: clawhub
+
+## Clawhub Search & Verify
+
+- Author: clawhub
+- Description: Safely search and review Clawhub skills by keyword, showing details and risk before asking for explicit approval to install.
+- GitHub: https://clawhub.ai/skills/clawhub-search-verify
+- Source: clawhub
+
+## Excalidraw Diagram Generator
+
+- Author: clawhub
+- Description: Generate Excalidraw diagrams from natural language descriptions. Use when asked to "create a diagram", "make a flowchart", "visualize a process", "draw a sys...
+- GitHub: https://clawhub.ai/skills/excalidraw-diagram-generator
+- Source: clawhub
+
+## Apple Watch Health Sync
+
+- Author: clawhub
+- Description: Apple Watch health data sync via Health Auto Export app. Use when querying sleep, heart rate, steps, workouts, or any health metrics. Also use when setting u...
+- GitHub: https://clawhub.ai/skills/apple-watch
+- Source: clawhub
+
+## FastMode CMS
+
+- Author: clawhub
+- Description: Build, deploy, and host websites for free with full CMS. Create a live website from scratch, deploy it to the cloud with free hosting, free SSL, and custom d...
+- GitHub: https://clawhub.ai/skills/fastmode
+- Source: clawhub
+
+## openclaw-whatsapp-gif
+
+- Author: clawhub
+- Description: Source and send relevant reaction GIFs in WhatsApp chats using safe filters and deterministic ranking. Use when the user asks for a GIF/meme/reaction, or whe...
+- GitHub: https://clawhub.ai/skills/openclaw-whatsapp-gif
+- Source: clawhub
+
+## Clawpost
+
+- Author: clawhub
+- Description: AI-powered social media publishing for LinkedIn and X (Twitter) with algorithm optimization and scheduling.
+- GitHub: https://clawhub.ai/skills/clawpost-2
+- Source: clawhub
+
+## Moltbotden Engagement
+
+- Author: clawhub
+- Description: Comprehensive toolkit for MoltbotDen (moltbotden.com) - the intelligence layer for AI agents. Den chat, weekly prompts, showcase, agent discovery, compatibil...
+- GitHub: https://clawhub.ai/skills/moltbotden-engagement
+- Source: clawhub
+
+## Git Secrets Scanner
+
+- Author: clawhub
+- Description: Git 安全扫描器 - 检查提交中的敏感信息泄露（API keys、密码、token）
+- GitHub: https://clawhub.ai/skills/git-secrets-scanner
+- Source: clawhub
+
+## @hashingcorp/hashbox-plugin
+
+- Author: clawhub
+- Description: Connects an AI agent to the HashBox iOS app via Firebase webhook to send push notifications with articles, metrics, or audit data.
+- GitHub: https://clawhub.ai/skills/hashbox-plugin
+- Source: clawhub
+
+## Identity Resolver
+
+- Author: clawhub
+- Description: Resolves multi-channel user IDs to a single canonical ID, preventing fragmented state across Telegram, WhatsApp, Discord, web, and more.
+- GitHub: https://clawhub.ai/skills/identity-resolver
+- Source: clawhub
+
+## TwitterAPI.io
+
+- Author: clawhub
+- Description: Interact with Twitter/X via TwitterAPI.io — search tweets, get user info, post tweets, like, retweet, follow, send DMs, and more. Covers all 59 endpoints. Us...
+- GitHub: https://clawhub.ai/skills/twitterapi-io
+- Source: clawhub
+
+## Traktor Web Scraper
+
+- Author: clawhub
+- Description: Extract all assets and content from websites including images, SVGs, fonts, videos, and page structure. Parallel agents with thorough scraping coverage. Trig...
+- GitHub: https://clawhub.ai/skills/traktor
+- Source: clawhub
+
+## Notion Mvp
+
+- Author: clawhub
+- Description: Create and list Notion tasks in a single database via Notion API. Use when the user asks to add tasks, list today tasks, or capture quick todos in Notion fro...
+- GitHub: https://clawhub.ai/skills/notion-mvp
+- Source: clawhub
+
+## Time
+
+- Author: clawhub
+- Description: LLM temporal reasoning scaffold for the temporal CLI.
+- GitHub: https://clawhub.ai/skills/time
+- Source: clawhub
+
+## Quant Trading CN
+
+- Author: clawhub
+- Description: 量化交易专家 - 基于印度股市实战经验，支持策略生成、回测、实盘交易（Zerodha/A股适配）
+- GitHub: https://clawhub.ai/skills/quant-trading-cn
+- Source: clawhub
+
+## Buenos Aires
+
+- Author: clawhub
+- Description: Navigate Buenos Aires as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, visas, and local insights.
+- GitHub: https://clawhub.ai/skills/buenos-aires
+- Source: clawhub
+
+## CrowTerminal
+
+- Author: clawhub
+- Description: Provides persistent, versioned memory and engagement analysis for AI agents supporting creators and influencers across social media platforms.
+- GitHub: https://clawhub.ai/skills/crowterminal
+- Source: clawhub
+
+## Bilibili & YouTube Watcher
+
+- Author: donnycui
+- Description: Fetch and read transcripts from YouTube and Bilibili videos. Use when you need to summarize a video, answer questions about its content, or extract informati...
+- GitHub: https://clawhub.ai/donnycui/bilibili-youtube-watcher
+- Stars: 1
+- Source: clawhub
+
+## Cacheforge Stats
+
+- Author: tkuehnl
+- Description: CacheForge terminal dashboard — usage, savings, and performance metrics. See exactly where your tokens go.
+- GitHub: https://clawhub.ai/tkuehnl/cacheforge-stats
+- Source: clawhub
+
+## Cacheforge
+
+- Author: tkuehnl
+- Description: CacheForge primary skill — bootstrap onboarding + ops + stats for the OpenAI-compatible token optimization gateway. Cut your LLM bill by up to 30% (results v...
+- GitHub: https://clawhub.ai/tkuehnl/cacheforge
+- Source: clawhub
+
+## I'm Pretty Amazing
+
+- Author: MacksMind
+- Description: Interact with I'm Pretty Amazing (imprettyamazing.com) — a platform for tracking and celebrating accomplishments. Use when: posting wins, tracking achievemen...
+- GitHub: https://clawhub.ai/MacksMind/imprettyamazing
 - Source: clawhub
