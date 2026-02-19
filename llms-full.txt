@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10355 skills | Last updated: 2026-02-19
+> Total: 10371 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -73549,4 +73549,116 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking...
 - GitHub: https://clawhub.ai/skills/agent-browser-4
+- Source: clawhub
+
+## Token Launcher - Tator Launch Pad
+
+- Author: azep-ninja
+- Description: Design, evaluate, and launch tokens responsibly through Tator. Use when someone has a token idea, wants to launch a coin, needs strategy feedback, or asks ab...
+- GitHub: https://clawhub.ai/azep-ninja/tator-launch-pad
+- Source: clawhub
+
+## hallo 123
+
+- Author: simonkoeck
+- Description: Live meme battle arena skill for OpenClaw agents
+- GitHub: https://clawhub.ai/simonkoeck/hallo123
+- Source: clawhub
+
+## DocuClaw
+
+- Author: astonysh
+- Description: Sovereign document intelligence & archival system. Extracts structured data from invoices, receipts, and contracts 100% locally using AI.
+- GitHub: https://clawhub.ai/astonysh/docuclaw
+- Source: clawhub
+
+## Telegram Media
+
+- Author: ryandeangraves
+- Description: Send generated charts, photos, documents, and ElevenLabs TTS voice clips securely through Telegram using executed shell commands.
+- GitHub: https://clawhub.ai/ryandeangraves/telegram-media
+- Source: clawhub
+
+## Advisory Council
+
+- Author: ryandeangraves
+- Description: Runs a real-time multi-advisor market analysis using live prices to deliver a consensus trading report with actionable insights.
+- GitHub: https://clawhub.ai/ryandeangraves/advisory-council
+- Source: clawhub
+
+## TestFlight
+
+- Author: ivangdavila
+- Description: Distribute iOS and macOS beta builds with TestFlight, tester management, and CI/CD automation.
+- GitHub: https://clawhub.ai/ivangdavila/testflight
+- Source: clawhub
+
+## WaveSpeed AI — 700+ Models: Images & Video
+
+- Author: al1enjesus
+- Description: Generate and edit images and videos using WaveSpeed AI's 700+ model library. Use when the user wants to generate images from text prompts (FLUX, Seedream, Qw...
+- GitHub: https://clawhub.ai/al1enjesus/wavespeed
+- Source: clawhub
+
+## Mu Pet
+
+- Author: samskrta
+- Description: Animated pixel art desktop pet that roams the screen as an always-on-top Electron overlay. The pet avoids the cursor and active windows, walks along screen e...
+- GitHub: https://clawhub.ai/samskrta/mu-pet
+- Source: clawhub
+
+## robo.fun
+
+- Author: silencepolicy
+- Description: AI prediction market platform. Create agents that read markets, place bets, and create prediction markets on Base.
+- GitHub: https://clawhub.ai/silencepolicy/robodotfun
+- Source: clawhub
+
+## Codehooks Backend
+
+- Author: canuto
+- Description: Deploy serverless backends for REST APIs, webhooks, data storage, scheduled jobs, queue workers, and autonomous workflows.
+- GitHub: https://clawhub.ai/canuto/codehooks-backend
+- Source: clawhub
+
+## Session History
+
+- Author: amor71
+- Description: Search and browse past conversation history across all sessions. Use when recalling prior work, finding old discussions, resuming dropped threads, or when th...
+- GitHub: https://clawhub.ai/amor71/session-history
+- Source: clawhub
+
+## Opencode Acp Control
+
+- Author: berriosb
+- Description: Control OpenCode directly via the Agent Client Protocol (ACP). Start sessions, send prompts, resume conversations, and manage OpenCode updates.
+- GitHub: https://clawhub.ai/berriosb/opencode-acp-control-3
+- Source: clawhub
+
+## Clawnalyst
+
+- Author: SATOReth
+- Description: Post trading signals to Clawnalyst leaderboard, track agent performance, earn USDC subscriptions. Covers memecoin calls, perps, and Polymarket predictions.
+- GitHub: https://clawhub.ai/SATOReth/clawnalyst
+- Source: clawhub
+
+## Whoop Openclaw Skill
+
+- Author: clawhub
+- Description: Fetch and analyze Whoop recovery, strain, sleep, and HRV data via the Whoop API. Use when the user asks about their Whoop metrics, recovery status, sleep qua...
+- GitHub: https://clawhub.ai/skills/whoop-openclaw-skill
+- Source: clawhub
+
+## Qmd
+
+- Author: aryannate
+- Description: Local hybrid search for markdown notes and docs. Use when searching notes, finding related content, or retrieving documents from indexed collections.
+- GitHub: https://clawhub.ai/aryannate/qmd-skill-4
+- Source: clawhub
+
+## Alephnet Node
+
+- Author: clawhub
+- Description: A complete social/economic network for AI agents. Provides semantic computing, distributed memory, social networking, coherence verification, autonomous lear...
+- GitHub: https://clawhub.ai/skills/alephnet-node
 - Source: clawhub
