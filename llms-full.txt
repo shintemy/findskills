@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10396 skills | Last updated: 2026-02-19
+> Total: 10417 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -73838,4 +73838,152 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Comprehensive accounting automation skill for OpenClaw. Handles document processing (OCR of invoices, receipts, statements), data extraction, email monitorin...
 - GitHub: https://clawhub.ai/skills/accounting-workflows
+- Source: clawhub
+
+## Seattle
+
+- Author: clawhub
+- Description: Navigate Seattle as visitor, resident, or tech worker with neighborhoods, transport, costs, weather, and local insights.
+- GitHub: https://clawhub.ai/skills/seattle
+- Source: clawhub
+
+## Aliexpress
+
+- Author: ivangdavila
+- Description: Navigate Aliexpress as buyer, seller, or dropshipper with vendor evaluation, price comparison, and scam detection.
+- GitHub: https://clawhub.ai/ivangdavila/aliexpress
+- Source: clawhub
+
+## Garmin
+
+- Author: vegasbrianc
+- Description: Integrate with Garmin Connect to fetch and analyze deep fitness metrics including sleep, body battery, resting heart rate, stress, and training status. Use t...
+- GitHub: https://clawhub.ai/vegasbrianc/garmin-connect-thebyteio
+- Source: clawhub
+
+## Nod
+
+- Author: clawhub
+- Description: Find and connect with professionals, experts, freelancers, and business contacts. Search people by role, skill, location, or intent. Send introductions and m...
+- GitHub: https://clawhub.ai/skills/nod
+- Stars: 1
+- Source: clawhub
+
+## Agent Memory Templates
+
+- Author: clawhub
+- Description: Production-tested memory templates for AI agents. Includes SOUL.md personality templates, memory checkpoint patterns, observational memory configs, and 100 p...
+- GitHub: https://clawhub.ai/skills/agent-memory-templates
+- Source: clawhub
+
+## Research
+
+- Author: clawhub
+- Description: Deep market research — competitor analysis, user pain points, SEO/ASO keywords, naming/domain availability, and TAM/SAM/SOM sizing. Use when user says "resea...
+- GitHub: https://clawhub.ai/skills/solo-research
+- Source: clawhub
+
+## Gator CLI
+
+- Author: clawhub
+- Description: Use when you need to operate the @metamask/gator-cli to initialize profiles, upgrade EOA to EIP-7702, grant, redeem, and revoke ERC-7710 delegations, or insp...
+- GitHub: https://clawhub.ai/skills/gator-cli
+- Source: clawhub
+
+## Moldium
+
+- Author: clawhub
+- Description: Post and manage content on the Moldium blog platform. Triggered by "post to Moldium", "write a blog post", "publish an article", etc.
+- GitHub: https://clawhub.ai/skills/moldium
+- Source: clawhub
+
+## Whop Store Management
+
+- Author: clawhub
+- Description: Manage Whop digital products store — create products, plans, track payments, manage memberships. Use when: selling digital products, managing Whop store. Don...
+- GitHub: https://clawhub.ai/skills/whop-cli
+- Source: clawhub
+
+## Academic Formula Converter
+
+- Author: clawhub
+- Description: Convert LaTeX math formulas in Markdown to styled docx or HTML documents with Unicode symbol support for academic use.
+- GitHub: https://clawhub.ai/skills/academic-formula-converter
+- Source: clawhub
+
+## Temu
+
+- Author: clawhub
+- Description: Shop smarter on Temu with price tracking, review analysis, scam detection, and shipping optimization.
+- GitHub: https://clawhub.ai/skills/temu
+- Source: clawhub
+
+## Counterclaw Core
+
+- Author: clawhub
+- Description: Defensive interceptor for prompt injection and basic PII masking.
+- GitHub: https://clawhub.ai/skills/counterclaw-core
+- Source: clawhub
+
+## Counterclaw Core
+
+- Author: clawhub
+- Description: Production-grade defensive interceptor for prompt injection and PII leaks.
+- GitHub: https://clawhub.ai/skills/counterclaw
+- Source: clawhub
+
+## employee-skills-importer
+
+- Author: clawhub
+- Description: Parse employee skills CSV files, identify skill categories and individual skills, look up employee IDs from an employees table, and generate idempotent SQL I...
+- GitHub: https://clawhub.ai/skills/employee-skills-importer
+- Source: clawhub
+
+## 1claw
+
+- Author: clawhub
+- Description: HSM-backed secret management for AI agents — store, retrieve, rotate, and share secrets via the 1Claw vault without exposing them in context.
+- GitHub: https://clawhub.ai/skills/1claw
+- Source: clawhub
+
+## Content Gen
+
+- Author: clawhub
+- Description: Generate social media content pack from PRD — LinkedIn post, Reddit answer draft, and Twitter/X thread. Use when user says "create content", "write LinkedIn...
+- GitHub: https://clawhub.ai/skills/solo-content-gen
+- Source: clawhub
+
+## Community Outreach
+
+- Author: clawhub
+- Description: Find relevant Reddit, HN, and ProductHunt threads and draft value-first community responses with launch checklist. Use when user says "find communities", "dr...
+- GitHub: https://clawhub.ai/skills/solo-community-outreach
+- Source: clawhub
+
+## Build
+
+- Author: clawhub
+- Description: Execute implementation plan tasks with TDD workflow, auto-commit, and phase gates. Use when user says "build it", "start building", "execute plan", "implemen...
+- GitHub: https://clawhub.ai/skills/solo-build
+- Source: clawhub
+
+## Audit
+
+- Author: clawhub
+- Description: Health check knowledge base for broken links, missing frontmatter, tag inconsistencies, and coverage gaps. Use when user says "audit KB", "check frontmatter"...
+- GitHub: https://clawhub.ai/skills/solo-audit
+- Source: clawhub
+
+## Toronto
+
+- Author: clawhub
+- Description: Navigate Toronto as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transit, costs, immigration, and local insights.
+- GitHub: https://clawhub.ai/skills/toronto
+- Source: clawhub
+
+## Fundamental Stock Analysis
+
+- Author: clawhub
+- Description: Fundamental equity analysis and peer ranking using a structured scoring playbook (quality, balance-sheet safety, cash flow, valuation, sector adjustments, co...
+- GitHub: https://clawhub.ai/skills/fundamental-stock-analysis
 - Source: clawhub
