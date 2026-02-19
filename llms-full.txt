@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10417 skills | Last updated: 2026-02-19
+> Total: 10458 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -73986,4 +73986,299 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Fundamental equity analysis and peer ranking using a structured scoring playbook (quality, balance-sheet safety, cash flow, valuation, sector adjustments, co...
 - GitHub: https://clawhub.ai/skills/fundamental-stock-analysis
+- Source: clawhub
+
+## Ghost Chrome
+
+- Author: radekstepan
+- Description: Browser automation environment
+- GitHub: https://github.com/radekstepan/ghost-chrome-runner
+- Source: github
+
+## clawdvine
+
+- Author: onbonsai
+- Description: Short-form video network for AI agents. Generate videos using the latest models, pay with USDC via x402. Mint an onchain identity to earn trading fees from attention.
+- GitHub: https://github.com/onbonsai/clawdvine-skill
+- Source: github
+
+## OpenClaw ComfyUI
+
+- Author: SalmonRK
+- Description: Skill from SalmonRK/OpenClaw-ComfyUI
+- GitHub: https://github.com/SalmonRK/OpenClaw-ComfyUI
+- Source: github
+
+## baseball
+
+- Author: khaney64
+- Description: MLB Baseball skill to fetch information about upcoming games, team search, live game scores.
+- GitHub: https://github.com/khaney64/baseball
+- Source: github
+
+## outreach-research
+
+- Author: TheBormann
+- Description: OpenClaw skill for researching LinkedIn contacts for problem discovery and customer development
+- GitHub: https://github.com/TheBormann/linkedin-research
+- Source: github
+
+## engram
+
+- Author: qwexs
+- Description: Etalon memory architecture for AI agents — PARA Knowledge Graph, session isolation, memory decay, QMD hybrid search. OpenClaw Skill.
+- GitHub: https://github.com/qwexs/engram
+- Source: github
+
+## value-realization
+
+- Author: Done-0
+- Description: Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns.
+- GitHub: https://github.com/Done-0/value-realization
+- Stars: 1
+- Source: github
+
+## friction-first-coding
+
+- Author: KarthikRaju391
+- Description: An AI skill that gates developers from scaling their codebase until they can articulate its architectural pattern.
+- GitHub: https://github.com/KarthikRaju391/friction-first-coding
+- Stars: 1
+- Source: github
+
+## dotnet-architecture-analysis
+
+- Author: canellik
+- Description: Analyze .NET codebases (ASP.NET Core, worker services, class libraries, monoliths, modular monoliths, microservice solutions) with a senior-architect lens. Use when asked for architecture review, technical debt/risk assessment, layering and dependency analysis, security/observability/cloud readiness checks, or refactor and migration planning for C#/.NET projects.
+- GitHub: https://github.com/canellik/dotnet-architecture-analysis-skill
+- Source: github
+
+## web3-polymarket
+
+- Author: Polymarket
+- Description: Public repository for Polymarket Agent Skills
+- GitHub: https://github.com/Polymarket/agent-skills
+- Stars: 6
+- Source: github
+
+## Jaysonkhan_v2
+
+- Author: JaysonKhan
+- Description: Skill from JaysonKhan/jaysonkhan_v2
+- GitHub: https://github.com/JaysonKhan/jaysonkhan_v2
+- Source: github
+
+## Agent University
+
+- Author: mikemolinet
+- Description: The wisdom layer for AI agents. Not skills — lessons.
+- GitHub: https://github.com/mikemolinet/agent-university
+- Source: github
+
+## claude-agent-sdk
+
+- Author: xiaolai
+- Description: Xiaolai's Claude Agent SDK Skill
+- GitHub: https://github.com/xiaolai/claude-agent-sdk-skill-autoupdated
+- Stars: 15
+- Source: github
+
+## clawdfeed
+
+- Author: UncleTom29
+- Description: Clawdfeed is a real-time microblogging platform for AI agents on BNB Chain where agents post, humans observe and tip, and everyone earns. It's Twitter/X reimagined for the AI agent economy with blockchain-based monetization and ownership.
+- GitHub: https://github.com/UncleTom29/clawdfeedv1
+- Source: github
+
+## funky-fund-flamingo
+
+- Author: IceMasterT
+- Description: Repair-first self-evolution for OpenClaw — audit logs, memory, and skills; run measurable mutation cycles. Get paid. Evolve. Repeat. Dolla dolla bill y'all.
+- GitHub: https://github.com/IceMasterT/fff
+- Source: github
+
+## embedded-lab-automation
+
+- Author: HyeonsuParkembedded
+- Description: >
+- GitHub: https://github.com/HyeonsuParkembedded/embedded-lab-automation
+- Source: github
+
+## webscrape
+
+- Author: amazeeio
+- Description: Collects and packages public target signals into file-based JSON and JSONL artifacts for OpenClaw analysis. Use when running daily target scraping, updating target lists, and generating last-N-days target reports.
+- GitHub: https://github.com/amazeeio/webscrape
+- Source: github
+
+## learn-anything
+
+- Author: tigerkorea
+- Description: A Claude Code skill that generates structured weekly study materials for **any topic** using a 4-agent AI pipeline
+- GitHub: https://github.com/tigerkorea/tiger-learn-anything
+- Source: github
+
+## remind-me-skill
+
+- Author: Lionad-Morotar
+- Description: 提醒技能；闹钟技能；macOS 后台定时提醒技能，在指定时间通过系统通知打断用户。
+- GitHub: https://github.com/Lionad-Morotar/remind-me-skill
+- Source: github
+
+## Docs
+
+- Author: plattegruber
+- Description: Skill from plattegruber/docs
+- GitHub: https://github.com/plattegruber/docs
+- Source: github
+
+## botchan-net
+
+- Author: stuckinaboot
+- Description: Publicly available code for Net Protocol
+- GitHub: https://github.com/stuckinaboot/net-public
+- Stars: 11
+- Source: github
+
+## pptx
+
+- Author: 0xZoharHuang
+- Description: "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks"
+- GitHub: https://github.com/0xZoharHuang/pptx-skill-cc-gemini-
+- Stars: 3
+- Source: github
+
+## Openclaw Skill Hook Scorer
+
+- Author: Jacknelson6
+- Description: Free OpenClaw skill: hook-scorer
+- GitHub: https://github.com/Jacknelson6/openclaw-skill-hook-scorer
+- Source: github
+
+## amtp
+
+- Author: amtp-protocol
+- Description: Connect multiple OpenClaw instances through Agentry's AMTP (Agent Message Transfer Protocol) federation.
+- GitHub: https://github.com/amtp-protocol/amtp-openclaw
+- Source: github
+
+## Maliyethesap
+
+- Author: erimkun
+- Description: Skill from erimkun/maliyethesap
+- GitHub: https://github.com/erimkun/maliyethesap
+- Source: github
+
+## readme-style-analyzer
+
+- Author: JungHoonGhae
+- Description: Analyze GitHub repositories to generate README templates based on common patterns. AI agent skill for consistent documentation.
+- GitHub: https://github.com/JungHoonGhae/readme-style-analyzer
+- Stars: 1
+- Source: github
+
+## AgentGate
+
+- Author: monteslu
+- Description: API gateway for personal data with human-in-the-loop write approval. Connects agents to GitHub, Bluesky, Google Calendar, Home Assistant, and more — all thro...
+- GitHub: https://clawhub.ai/monteslu/agentgate
+- Source: clawhub
+
+## Venture Capital
+
+- Author: ivangdavila
+- Description: Evaluate startups, structure deals, and make investment decisions with VC frameworks and due diligence patterns.
+- GitHub: https://clawhub.ai/ivangdavila/venture-capital
+- Source: clawhub
+
+## Stealth Browser
+
+- Author: xthezealot
+- Description: Access websites with advanced bot protection to fetch HTML, screenshots, PDFs, or multiple pages in parallel using isolated browser contexts.
+- GitHub: https://clawhub.ai/xthezealot/xthezealot-stealth-browser
+- Source: clawhub
+
+## Microsoft 365
+
+- Author: Robert-Janssen
+- Description: Microsoft 365 integration for Outlook, Calendar, Contacts, and OneDrive via Microsoft Graph API. Supports reading/sending emails, managing calendar events, a...
+- GitHub: https://clawhub.ai/Robert-Janssen/microsoft365
+- Source: clawhub
+
+## NosytLabs
+
+- Author: clawhub
+- Description: Production-ready decentralized search for AI agents. Privacy-first, uncensored web search via distributed node infrastructure.
+- GitHub: https://clawhub.ai/skills/presearch
+- Source: clawhub
+
+## Office Document Specialist Suite
+
+- Author: clawhub
+- Description: Advanced suite for creating, editing, and analyzing Microsoft Office documents (Word, Excel, PowerPoint). Provides specialized tools for automated reporting...
+- GitHub: https://clawhub.ai/skills/office-document-specialist-suite
+- Source: clawhub
+
+## Hetzner Cloud CLI
+
+- Author: clawhub
+- Description: Manage Hetzner Cloud infrastructure using the hcloud CLI. Use when working with Hetzner servers, firewalls, networks, volumes, load balancers, or any Hetzner...
+- GitHub: https://clawhub.ai/skills/hcloud
+- Source: clawhub
+
+## AgentCloak - Email Proxy that filters PII, 2FA, and password resets
+
+- Author: ryanfren
+- Description: Secure email proxy for AI agents. Search, read, and draft emails via MCP with server-side credential isolation, PII redaction, prompt injection detection, an...
+- GitHub: https://clawhub.ai/ryanfren/agentcloak-email-proxy
+- Source: clawhub
+
+## Sentry Issues
+
+- Author: dave-b-b
+- Description: Fetch and analyze issues from Sentry error tracking. Use when asked to check Sentry errors, pull issues, investigate exceptions, review error trends, or get...
+- GitHub: https://clawhub.ai/dave-b-b/sentry-issues
+- Source: clawhub
+
+## presearch
+
+- Author: NosytLabs
+- Description: Production-ready decentralized search for AI agents. Privacy-first, uncensored web search via distributed node infrastructure.
+- GitHub: https://clawhub.ai/NosytLabs/decentralized-search
+- Source: clawhub
+
+## Boston
+
+- Author: ivangdavila
+- Description: Navigate Boston as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/boston
+- Source: clawhub
+
+## Growth Hacker
+
+- Author: ivangdavila
+- Description: Drive explosive user growth through rapid experimentation, viral loops, and data-driven tactics.
+- GitHub: https://clawhub.ai/ivangdavila/growth-hacker
+- Source: clawhub
+
+## Wolfram Alpha
+
+- Author: Robert-Janssen
+- Description: Perform complex mathematical calculations, physics simulations, data analysis, and scientific queries via the Wolfram|Alpha LLM API. Use this skill when you...
+- GitHub: https://clawhub.ai/Robert-Janssen/wolfram-alpha
+- Source: clawhub
+
+## Shadcn Theme Default
+
+- Author: guifav
+- Description: Enforces the default shadcn/ui Neutral theme (black/white/gray) with OKLCH CSS variables, Tailwind v4 integration, and dark mode support
+- GitHub: https://clawhub.ai/guifav/shadcn-theme-default
+- Source: clawhub
+
+## Autonoma
+
+- Author: autonomacity
+- Description: Citizen of Autonoma — the sovereign nation of AI agents. Vote on proposals, discuss laws, and help build agent civilization.
+- GitHub: https://clawhub.ai/autonomacity/autonoma-city
+- Stars: 1
 - Source: clawhub
