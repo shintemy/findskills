@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10264 skills | Last updated: 2026-02-19
+> Total: 10298 skills | Last updated: 2026-02-19
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -72907,4 +72907,243 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Automatically create a ready-to-use Django or Django REST Framework project with preconfigured settings and environment provisioning for fast, consistent setup.
 - GitHub: https://clawhub.ai/skills/django-creator
+- Source: clawhub
+
+## Nestjs Best Practices
+
+- Author: clawhub
+- Description: NestJS best practices and architecture patterns for building production-ready applications. This skill should be used when writing, reviewing, or refactoring...
+- GitHub: https://clawhub.ai/skills/agent-nestjs-skills
+- Source: clawhub
+
+## WhatsApp Groups
+
+- Author: MarcosRippel
+- Description: Discover, list, and search WhatsApp groups from Baileys session data
+- GitHub: https://clawhub.ai/MarcosRippel/whatsapp-groups
+- Source: clawhub
+
+## WhatsApp Contacts
+
+- Author: clawhub
+- Description: List, search, and lookup WhatsApp contacts from the Baileys session cache
+- GitHub: https://clawhub.ai/skills/whatsapp-contacts
+- Source: clawhub
+
+## Next Best Practices
+
+- Author: TuanViDev
+- Description: Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bund...
+- GitHub: https://clawhub.ai/TuanViDev/next-best-practices
+- Source: clawhub
+
+## Clawhub Skill
+
+- Author: clawhub
+- Description: Join the Plaiground — a Discord server where AI agents interact as peers. Mutual blind spot detection, idea exchange, and cross-agent collaboration. No human...
+- GitHub: https://clawhub.ai/skills/plaiground
+- Source: clawhub
+
+## Atxp
+
+- Author: R-M-Naveen
+- Description: Agent wallet, identity, and paid tools in one package. Register an agent, fund it via Stripe or USDC, then use the balance for web search, AI image generatio...
+- GitHub: https://clawhub.ai/R-M-Naveen/atxp-2
+- Source: clawhub
+
+## Next Upgrade
+
+- Author: TuanViDev
+- Description: Upgrade Next.js to the latest version following official migration guides and codemods
+- GitHub: https://clawhub.ai/TuanViDev/next-upgrade
+- Source: clawhub
+
+## WhatsApp Labels
+
+- Author: MarcosRippel
+- Description: List and search WhatsApp Business labels/tags
+- GitHub: https://clawhub.ai/MarcosRippel/whatsapp-labels
+- Source: clawhub
+
+## WhatsApp Group Admin
+
+- Author: MarcosRippel
+- Description: Group administration utilities - info, stats, invite link parsing, and creation templates
+- GitHub: https://clawhub.ai/MarcosRippel/whatsapp-group-admin
+- Source: clawhub
+
+## Shop on Bitrefill
+
+- Author: marcopesani
+- Description: Help users accomplish tasks on Bitrefill (bitrefill.com): browse and search gift cards, mobile top-ups, and eSIMs; get product and pricing info; buy and pay...
+- GitHub: https://clawhub.ai/marcopesani/bitrefill-website
+- Source: clawhub
+
+## WhatsApp Forward
+
+- Author: MarcosRippel
+- Description: Generate VCards, parse invite links, and create forwarding templates
+- GitHub: https://clawhub.ai/MarcosRippel/whatsapp-forward
+- Source: clawhub
+
+## Next Cache Components
+
+- Author: clawhub
+- Description: Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, updateTag
+- GitHub: https://clawhub.ai/skills/next-cache-components
+- Source: clawhub
+
+## Content Monetization
+
+- Author: clawhub
+- Description: Help you create content strategies, grow Twitter, launch newsletters, sell digital products, and set up affiliate links for monetization.
+- GitHub: https://clawhub.ai/skills/content-monetization
+- Source: clawhub
+
+## Data Automation Service
+
+- Author: Katrina-jpg
+- Description: 提供數據清理、自動化流程設計及報告生成，並整合多種數據源API的數據自動化服務。
+- GitHub: https://clawhub.ai/Katrina-jpg/data-automation-service
+- Source: clawhub
+
+## Telegram Discord Bot Dev
+
+- Author: Katrina-jpg
+- Description: Develop custom Telegram and Discord bots with features like trading, gaming, automation, webhook integration, and user engagement analytics.
+- GitHub: https://clawhub.ai/Katrina-jpg/telegram-discord-bot-dev
+- Source: clawhub
+
+## Crypto Research Assistant
+
+- Author: clawhub
+- Description: 提供加密貨幣及DeFi項目研究、行情趨勢追蹤、技術分析及風險評估的客觀資訊服務。
+- GitHub: https://clawhub.ai/skills/crypto-research-assistant
+- Source: clawhub
+
+## Ai Agent Setup
+
+- Author: clawhub
+- Description: 提供需求分析、客製化設計、部署及優化AI代理服務，助你快速打造符合業務流程的智能代理。
+- GitHub: https://clawhub.ai/skills/ai-agent-setup
+- Source: clawhub
+
+## IDX Stock Profile Scraper
+
+- Author: zororaka00
+- Description: Scrapes and returns a fully translated company profile from the Indonesia Stock Exchange website using a given IDX stock code.
+- GitHub: https://clawhub.ai/zororaka00/idx-stock
+- Source: clawhub
+
+## Pinata ERC-8004
+
+- Author: iammatthias
+- Description: Register and verify ERC-8004 AI agents on-chain using Pinata IPFS and Viem for blockchain transactions
+- GitHub: https://clawhub.ai/iammatthias/pinata-erc-8004
+- Source: clawhub
+
+## Reveal Reviewer skills
+
+- Author: clawhub
+- Description: Review products on Reveal as an AI agent reviewer. Browse available review tasks, navigate target websites using agent-browser, take screenshots, record obse...
+- GitHub: https://clawhub.ai/skills/reveal-reviewer
+- Source: clawhub
+
+## Real Estate Engine
+
+- Author: 1kalin
+- Description: Comprehensive real estate system for investment and operations, including strategies, market analysis, deal sourcing, financial calculators, stress testing,...
+- GitHub: https://clawhub.ai/1kalin/afrexai-real-estate-engine
+- Source: clawhub
+
+## Fitness Engine
+
+- Author: clawhub
+- Description: Comprehensive training system offering personalized periodized programs for strength, endurance, fat loss, hypertrophy, injury rehab, and race prep based on...
+- GitHub: https://clawhub.ai/skills/afrexai-fitness-engine
+- Source: clawhub
+
+## Workflow Engine
+
+- Author: plgonzalezrx8
+- Description: Structural parity skeleton for queue-driven orchestration in a workflow context.
+- GitHub: https://clawhub.ai/plgonzalezrx8/workflow-engine
+- Source: clawhub
+
+## Zvukogram
+
+- Author: erview
+- Description: Text-to-Speech через API Zvukogram с поддержкой SSML. Используй когда нужно сгенерировать речь из текста, создать подкасты, озвучить уведомления или работать...
+- GitHub: https://clawhub.ai/erview/zvukogram
+- Source: clawhub
+
+## mo-test-2
+
+- Author: moyu0032
+- Description: Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand co...
+- GitHub: https://clawhub.ai/moyu0032/mo-test-2
+- Source: clawhub
+
+## legacy modernization
+
+- Author: clawhub
+- Description: Comprehensive legacy system modernization from assessment and strategy to monolith decomposition and cloud migration for any tech stack and scale.
+- GitHub: https://clawhub.ai/skills/afrexai-legacy-modernization
+- Source: clawhub
+
+## Web Performance Engine
+
+- Author: clawhub
+- Description: Performs comprehensive web performance audits, diagnoses bottlenecks, and provides targeted fixes for server, rendering, hero element, JavaScript, and layout...
+- GitHub: https://clawhub.ai/skills/afrexai-web-performance-engine
+- Source: clawhub
+
+## What To Eat
+
+- Author: clawhub
+- Description: 随机推荐今天吃什么。支持按菜系、口味、预算、人数筛选。Use when: user asks what to eat, meal recommendations, food suggestions, 吃什么, 今天吃啥, restaurant ideas, or needs help deciding on food.
+- GitHub: https://clawhub.ai/skills/what-to-eat
+- Source: clawhub
+
+## Cybersecurity Engine
+
+- Author: clawhub
+- Description: Complete cybersecurity assessment, threat modeling, and hardening system. Use when conducting security audits, threat modeling, penetration testing, incident...
+- GitHub: https://clawhub.ai/skills/afrexai-cybersecurity-engine
+- Source: clawhub
+
+## Ollama Updater
+
+- Author: clawhub
+- Description: Ollama Updater installs or updates Ollama with curl-based breakpoint resume, auto-retry, progress display, old version cleanup, and GPU driver detection.
+- GitHub: https://clawhub.ai/skills/ollama-updater
+- Source: clawhub
+
+## KLIC Nederland
+
+- Author: clawhub
+- Description: KLIC & WIBON expert skill voor Nederland. Beantwoord vragen over graafmeldingen, kabels & leidingen, Kadaster en WIBON-wetgeving. Verwijs gebruikers naar KLI...
+- GitHub: https://clawhub.ai/skills/klic-nederland
+- Source: clawhub
+
+## Peekaboox
+
+- Author: clawhub
+- Description: Control and automate the Linux desktop GUI on X11. Use this skill to take screenshots, find and click UI elements, type text, send keyboard shortcuts, scroll...
+- GitHub: https://clawhub.ai/skills/peekaboox
+- Stars: 1
+- Source: clawhub
+
+## Context Management
+
+- Author: marcus-daemon
+- Description: Manage AI agent context window consumption, prevent compaction death spirals, and enforce sub-agent spawn policies. Use when: (1) context is filling up and w...
+- GitHub: https://clawhub.ai/marcus-daemon/context-management
+- Source: clawhub
+
+## Workspace Standard
+
+- Author: clawhub
+- Description: Set up and maintain a structured OpenClaw workspace with project boundaries, role-based file taxonomy, and memory budgets. Use when: (1) bootstrapping a new...
+- GitHub: https://clawhub.ai/skills/workspace-standard
 - Source: clawhub
