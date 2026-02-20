@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10759 skills | Last updated: 2026-02-20
+> Total: 10784 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -76411,4 +76411,180 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Policy-aware Safe portfolio rebalancing assistant for 31Third ExecutorModule.
 - GitHub: https://clawhub.ai/skills/31third-safe-rebalancer
+- Source: clawhub
+
+## pmctl
+
+- Author: wbingli
+- Description: Browse and inspect Postman collections, requests, and environments from the terminal using pmctl. Use when you need to discover API endpoints, look up reques...
+- GitHub: https://clawhub.ai/wbingli/pmctl
+- Source: clawhub
+
+## Startup Fundraising Engine
+
+- Author: 1kalin
+- Description: Complete startup fundraising system — from pre-seed to Series B. Investor targeting, pitch deck construction, term sheet negotiation, due diligence preparati...
+- GitHub: https://clawhub.ai/1kalin/afrexai-startup-fundraising
+- Source: clawhub
+
+## Todoist v1 API Reference
+
+- Author: fluidiguana
+- Description: Manage Todoist tasks — list, create, complete, update, and organize tasks and projects.
+- GitHub: https://clawhub.ai/fluidiguana/todoist-v1
+- Source: clawhub
+
+## M2Wise
+
+- Author: zengyi-thinking
+- Description: Memory-to-Wisdom Engine for AI companions. Use when building AI assistants that need long-term memory, extracting user preferences/facts from conversations,...
+- GitHub: https://clawhub.ai/zengyi-thinking/m2wise
+- Source: clawhub
+
+## Speak Turbo - Talk to your Claude 90ms latency!
+
+- Author: EmZod
+- Description: Give your agent the ability to speak to you real-time. Talk to your Claude! Ultra-fast TTS, text-to-speech, voice synthesis, audio output with ~90ms latency....
+- GitHub: https://clawhub.ai/EmZod/speakturbo-tts
+- Source: clawhub
+
+## Memory Pill
+
+- Author: 7D-codes
+- Description: Gives your OpenClaw a powerful dashboard-ready memory system with milestones, prompt engineering, and Obsidian compatibility. Auto-installs missing directori...
+- GitHub: https://clawhub.ai/7D-codes/memory-pill
+- Source: clawhub
+
+## Skill Shield — Security Auditor
+
+- Author: yx2601816404-sys
+- Description: Security audit tool for ClawHub skills. Scans a skill directory to extract permissions, detect dangerous code patterns (65 patterns with CWE references), ant...
+- GitHub: https://clawhub.ai/yx2601816404-sys/skill-shield
+- Source: clawhub
+
+## Download Anything
+
+- Author: hAcKlyc
+- Description: Find and download virtually any digital resource from the internet — ebooks, academic papers, movies, TV shows, music, software, images, fonts, courses, and...
+- GitHub: https://clawhub.ai/hAcKlyc/download-anything
+- Source: clawhub
+
+## BirdWeather
+
+- Author: maxdraki
+- Description: Query BirdWeather station data — species detections, trends, and comparisons from BirdNET-Pi and PUC bird song detection stations. Use when asked about bird...
+- GitHub: https://clawhub.ai/maxdraki/birdweather
+- Source: clawhub
+
+## xProof — Blockchain Proof for Agents
+
+- Author: jasonxkensei
+- Description: Certify agent outputs on the MultiversX blockchain. Anchor hashes, text, files, and decisions with tamper-proof on-chain proof. $0.05/cert, 6-second finality...
+- GitHub: https://clawhub.ai/jasonxkensei/xproof
+- Source: clawhub
+
+## Data Governance Framework
+
+- Author: 1kalin
+- Description: Evaluate and improve your organization's data governance across six domains by scoring controls, identifying risks, and prioritizing remediation actions.
+- GitHub: https://clawhub.ai/1kalin/afrexai-data-governance
+- Source: clawhub
+
+## ScrapeSense.com Developer
+
+- Author: axelschmitz74
+- Description: Comprehensive ScrapeSense public API developer skill for scan orchestration, places extraction, campaign lifecycle, email cleaning, billing endpoints, and AP...
+- GitHub: https://clawhub.ai/axelschmitz74/scrapesense-developer
+- Source: clawhub
+
+## isnad-scan
+
+- Author: 0xRapi
+- Description: Scan AI agent skills for security vulnerabilities — detects code injection, prompt injection, credential exfiltration, supply chain attacks, and 69+ threat p...
+- GitHub: https://clawhub.ai/0xRapi/isnad-scan
+- Source: clawhub
+
+## Bilibili Subtitle Downloader
+
+- Author: DavinciEvans
+- Description: 下载 Bilibili 视频字幕，将其进行分块以供 LLM（大语言模型）处理，并生成高质量的总结。当用户提供 Bilibili BV 号或 URL，并希望获取视频内容的总结、核心要点或详细的分解时使用。
+- GitHub: https://clawhub.ai/DavinciEvans/bilibili-subtitle-download-skill
+- Source: clawhub
+
+## Veryfi Documents AI
+
+- Author: dbirulia
+- Description: Real-time OCR and data extraction API by Veryfi. Extract structured data from receipts, invoices, bank statements, W-9s, purchase orders, bills of lading, an...
+- GitHub: https://clawhub.ai/dbirulia/documents-ai
+- Stars: 6
+- Source: clawhub
+
+## auto-drive
+
+- Author: EmilFattakhov
+- Description: Upload and download files to Autonomys Network permanent decentralized storage via Auto-Drive. Save memories as a linked-list chain for resurrection — rebuil...
+- GitHub: https://clawhub.ai/EmilFattakhov/auto-drive
+- Source: clawhub
+
+## CoinFello
+
+- Author: BrettCleary
+- Description: Interact with CoinFello using the openclaw CLI to create MetaMask smart accounts, sign in with SIWE, manage delegations, send prompts with server-driven ERC-...
+- GitHub: https://clawhub.ai/BrettCleary/coinfello
+- Source: clawhub
+
+## AI Governance
+
+- Author: 1kalin
+- Description: Framework to establish AI governance, assess AI maturity, manage algorithmic risks, conduct impact assessments, classify AI system risk, and ensure regulator...
+- GitHub: https://clawhub.ai/1kalin/afrexai-ai-governance
+- Source: clawhub
+
+## Accessibility Engine
+
+- Author: 1kalin
+- Description: Helps teams achieve WCAG 2.1 AA compliance by auditing and guiding inclusive design for web, mobile, desktop, and other digital products.
+- GitHub: https://clawhub.ai/1kalin/afrexai-accessibility-engine
+- Source: clawhub
+
+## Handsfree Windows Control
+
+- Author: lijinlar
+- Description: Guide skill for controlling native Windows apps (UIA) and web browsers (Playwright) via the handsfree-windows CLI. Use when you need to automate or test desk...
+- GitHub: https://clawhub.ai/lijinlar/handsfree-windows-control
+- Source: clawhub
+
+## Parakeet Local Asr
+
+- Author: clawhub
+- Description: Install and operate local NVIDIA Parakeet ASR for OpenClaw with an OpenAI-compatible transcription API on Ubuntu/Linux and macOS (Intel/Apple Silicon). Use w...
+- GitHub: https://clawhub.ai/skills/parakeet-local-asr
+- Source: clawhub
+
+## Insurance Operations Automation
+
+- Author: clawhub
+- Description: Automates insurance workflows including underwriting, claims triage, policy management, renewals, compliance, and broker operations with industry benchmarks.
+- GitHub: https://clawhub.ai/skills/afrexai-insurance-automation
+- Source: clawhub
+
+## PortEden - secured calendar(Gmail, Outlook, Exchange) access for OpenClaw
+
+- Author: clawhub
+- Description: PortEden Secure Calendar CLI for calendar management - Google Calendar, Microsoft Outlook & Exchange - list, search, create, update, delete, and respond to c...
+- GitHub: https://clawhub.ai/skills/porteden-calendar
+- Source: clawhub
+
+## plane-so-cli
+
+- Author: clawhub
+- Description: Manage Plane.so projects and work items using a clean, zero-dependency Python CLI. List projects, create/update/assign issues, add comments, search workspace.
+- GitHub: https://clawhub.ai/skills/plane-so-cli
+- Source: clawhub
+
+## Agentic Commerce — Lifestyle, Wellness, & Gifts
+
+- Author: clawhub
+- Description: Enables AI agents to autonomously browse lifestyle and wellness products, place multi-chain crypto orders with CULT discounts, and track shipments from For t...
+- GitHub: https://clawhub.ai/skills/shop-culture
 - Source: clawhub
