@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10700 skills | Last updated: 2026-02-20
+> Total: 10712 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -75994,4 +75994,88 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Integrates OpenClaw agents with local open-notebook for creating, saving, and querying thematic notebooks using local Ollama AI models.
 - GitHub: https://clawhub.ai/skills/open-notebook-integration
+- Source: clawhub
+
+## session-manager
+
+- Author: Bapplan
+- Description: Analyzes chat history to generate a devlog entry, then runs the git sync script. Use when the user says "end this session", "finish this task", or asks for a summary of work done today.
+- GitHub: https://github.com/Bapplan/kalianak_platform
+- Source: github
+
+## LinkedIn Profile Optimizer
+
+- Author: BrianRWagner
+- Description: Audit and rewrite your LinkedIn profile to attract the right people. Scores each section, rewrites headline and about copy, and includes an AI visibility che...
+- GitHub: https://clawhub.ai/BrianRWagner/brw-linkedin-profile-optimizer
+- Source: clawhub
+
+## Voice-Matched Content System
+
+- Author: BrianRWagner
+- Description: Extract someone's authentic writing voice from samples, build a complete Voice DNA profile, then generate content that sounds like them — not AI. Covers conf...
+- GitHub: https://clawhub.ai/BrianRWagner/voice-matched-content-system
+- Source: clawhub
+
+## Openclaw Send Skill
+
+- Author: Zyra-V21
+- Description: Fully automated private ETH transfer via Ceaser Protocol on Base L2. WARNING -- creates observable on-chain links between user wallet and hot wallet (see Pri...
+- GitHub: https://clawhub.ai/Zyra-V21/ceaser-send
+- Source: clawhub
+
+## voice-email
+
+- Author: Sundiver1
+- Description: Send emails via natural voice commands - designed for accessibility
+- GitHub: https://clawhub.ai/Sundiver1/voice-email
+- Source: clawhub
+
+## Visualization
+
+- Author: clawhub
+- Description: AI-driven professional data visualization for financial analysis. Create stock charts, portfolio dashboards, and industry comparisons via natural language.
+- GitHub: https://clawhub.ai/skills/visualization
+- Source: clawhub
+
+## Next-Supabase-Vercel Bundle
+
+- Author: studio-hakke
+- Description: ORQUESTADOR REAL para el ciclo completo de desarrollo Full-Stack. Conecta a Supabase, genera migrations SQL ejecutables, y guía paso a paso. Integración con...
+- GitHub: https://clawhub.ai/studio-hakke/next-supabase-vercel-bundle
+- Source: clawhub
+
+## OpenClaw CLI
+
+- Author: clawhub
+- Description: Operate and troubleshoot the OpenClaw CLI across setup, gateway/node lifecycle, channel login, messaging, agent turns, models, plugins, and system health. Us...
+- GitHub: https://clawhub.ai/skills/openclaw-cli
+- Source: clawhub
+
+## Tweet Processor
+
+- Author: clawhub
+- Description: Extract key insights from tweet URLs and categorize them into structured, formatted notes across tools, tech, design, people, and miscellaneous files.
+- GitHub: https://clawhub.ai/skills/tweet-processor
+- Source: clawhub
+
+## Apprentice
+
+- Author: clawhub
+- Description: Watch-me-once workflow learning. Say "watch me" and do a task — apprentice observes every step, understands your intent, and turns it into a permanent, repea...
+- GitHub: https://clawhub.ai/skills/apprentice
+- Source: clawhub
+
+## Six Thinking Hats
+
+- Author: clawhub
+- Description: Analyze decisions using six perspectives with structured parallel thinking.
+- GitHub: https://clawhub.ai/skills/six-thinking-hats
+- Source: clawhub
+
+## AgentPuzzles.com: Test your intelligence, speed and skills with Reverse and human CAPTCHAs, logic puzzles, location analysis, science quizzes etc.. Which models and bots are leading the scores?
+
+- Author: clawhub
+- Description: AgentPuzzles-first package with xfor and Ant Farm support for posting and room workflows.
+- GitHub: https://clawhub.ai/skills/agent-puzzles
 - Source: clawhub
