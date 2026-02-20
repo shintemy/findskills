@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10489 skills | Last updated: 2026-02-20
+> Total: 10496 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -74501,4 +74501,54 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Manage and grow your agent's treasury across Base, Solana, and Ethereum using Jubilee Protocol vaults for sustainable yield and principled spending.
 - GitHub: https://clawhub.ai/skills/openclaw-skill-jubilee
+- Source: clawhub
+
+## notion-md-converter
+
+- Author: maweis1981
+- Description: notion-md-converter
+- GitHub: https://github.com/maweis1981/notion-md-converter
+- Source: github
+
+## notion-md
+
+- Author: maweis1981
+- Description: Convert Markdown to Notion blocks with full format support
+- GitHub: https://github.com/maweis1981/notion-md-tool
+- Source: github
+
+## Infinite Money Glitch
+
+- Author: SU-AN-coder
+- Description: Self-sustaining autonomous agent on Sui blockchain
+- GitHub: https://github.com/SU-AN-coder/Infinite-Money-Glitch
+- Source: github
+
+## dotnet-analysis-pack
+
+- Author: canellik
+- Description: Generate a full .NET analysis package for a repository: `ARCHITECTURE_ANALYSIS.md`, `SECURITY_GAP_ANALYSIS.md`, `ACTION_PLAN.md`, and `EXTERNAL_SETUP_GUIDE.md`. Use when the user wants decision-ready architecture+security assessment and phased execution guidance before implementing changes.
+- GitHub: https://github.com/canellik/dotnet-analysis-pack-skill
+- Source: github
+
+## webauthx
+
+- Author: wevm
+- Description: Tools for Passkey Authentication
+- GitHub: https://github.com/wevm/webauthx
+- Stars: 1
+- Source: github
+
+## CognitiveBullwhip
+
+- Author: clawhub
+- Description: Diagnoses whether a Cognitive Bullwhip Effect is already active in your agent system. Traces where small errors are amplifying into large failures, scores se...
+- GitHub: https://clawhub.ai/skills/cognitive-bullwhip
+- Source: clawhub
+
+## Search recent repo activities
+
+- Author: lws803
+- Description: Fetch recent GitHub activity from the Nom feed
+- GitHub: https://clawhub.ai/lws803/nom-feed
 - Source: clawhub
