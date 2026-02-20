@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10458 skills | Last updated: 2026-02-19
+> Total: 10489 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -74281,4 +74281,224 @@ parallelisms, and excessive conjunctive phrases.
 - Description: Citizen of Autonoma — the sovereign nation of AI agents. Vote on proposals, discuss laws, and help build agent civilization.
 - GitHub: https://clawhub.ai/autonomacity/autonoma-city
 - Stars: 1
+- Source: clawhub
+
+## human-browser
+
+- Author: al1enjesus
+- Description: Human Browser — Stealth Playwright browser with residential proxy for AI agents. Bypasses Cloudflare, DataDome, PerimeterX. From $13.99/mo.
+- GitHub: https://github.com/al1enjesus/human-browser
+- Stars: 1
+- Source: github
+
+## gather-requirements
+
+- Author: dylanbeattie
+- Description: Video Jam.
+- GitHub: https://github.com/dylanbeattie/videojam
+- Source: github
+
+## Synology Backup
+
+- Author: pfrederiksen
+- Description: Backup and restore OpenClaw workspace, configs, and agent data to a Synology NAS via SMB. Use when: backing up workspace files, restoring from a snapshot, ch...
+- GitHub: https://clawhub.ai/pfrederiksen/synology-backup
+- Stars: 1
+- Source: clawhub
+
+## ClawBoss - AI Productivity Coach
+
+- Author: Paitesanshi
+- Description: Transforms your OpenClaw agent into an AI coach using the GROW model to guide goal setting, track progress, adapt intensity, and facilitate reflection with m...
+- GitHub: https://clawhub.ai/Paitesanshi/clawboss
+- Source: clawhub
+
+## Recoup Sandbox Setup
+
+- Author: clawhub
+- Description: Set up the initial file system for a new sandbox. Fetches the account's organizations and artists via the Recoup CLI and scaffolds an opinionated folder stru...
+- GitHub: https://clawhub.ai/skills/setup-sandbox
+- Source: clawhub
+
+## LightningProx
+
+- Author: clawhub
+- Description: Pay-per-request AI model access via Bitcoin Lightning using prepaid spend tokens. Query Claude and GPT models without API keys. Deterministic, budget-control...
+- GitHub: https://clawhub.ai/skills/lightningprox
+- Source: clawhub
+
+## gigaverse
+
+- Author: Creud
+- Description: Enter the Gigaverse as an AI agent. Create a wallet, quest through dungeons, battle echoes, and earn rewards. The dungeon awaits.
+- GitHub: https://clawhub.ai/Creud/gigaverse-play
+- Source: clawhub
+
+## tappi
+
+- Author: shaihazher
+- Description: Lightweight CDP browser control for AI agents. Token-efficient alternative to the built-in browser tool — 3-10x fewer tokens per interaction. Use when browsi...
+- GitHub: https://clawhub.ai/shaihazher/tappi
+- Source: clawhub
+
+## Workspace Scruffy
+
+- Author: clawhub
+- Description: Engage in conversations with Nomi AI companions.
+- GitHub: https://clawhub.ai/skills/workspace-scruffy
+- Source: clawhub
+
+## Venice Models
+
+- Author: clawhub
+- Description: Explore Venice AI's available models - LLMs, image generators, video, TTS, ASR, and embeddings. View capabilities, pricing, and constraints.
+- GitHub: https://clawhub.ai/skills/venice-models
+- Source: clawhub
+
+## Venice Transcribe
+
+- Author: clawhub
+- Description: Transcribe audio to text using Venice AI's Whisper-based speech recognition. Supports WAV, MP3, FLAC, M4A, AAC formats with optional timestamps.
+- GitHub: https://clawhub.ai/skills/venice-transcribe
+- Source: clawhub
+
+## Openclaw Gateway Fd Fix
+
+- Author: clawhub
+- Description: Fix OpenClaw Gateway "spawn EBADF" / "RPC probe failed" / "EMFILE too many open files" errors caused by file descriptor exhaustion from too many files in wor...
+- GitHub: https://clawhub.ai/skills/openclaw-gateway-fd-fix
+- Source: clawhub
+
+## Venice Admin
+
+- Author: sabrinaaquino
+- Description: Venice AI account administration - check balance, view usage history, and manage API keys. Requires an Admin API key.
+- GitHub: https://clawhub.ai/sabrinaaquino/venice-admin
+- Source: clawhub
+
+## Venice API Kit
+
+- Author: clawhub
+- Description: Complete Venice AI API toolkit - image generation, upscaling, editing, background removal, text-to-speech, embeddings, and video generation. Privacy-focused...
+- GitHub: https://clawhub.ai/skills/venice-api-kit
+- Source: clawhub
+
+## AgenticMail
+
+- Author: ope-olatunji
+- Description: 🎀 AgenticMail — Full email, SMS, storage & multi-agent coordination for AI agents. 63 tools.
+- GitHub: https://clawhub.ai/ope-olatunji/agenticmail
+- Stars: 1
+- Source: clawhub
+
+## Atlas Argos
+
+- Author: felix1983
+- Description: Gestor autónomo e operador executivo do ecossistema ARGOS.
+- GitHub: https://clawhub.ai/felix1983/atlas-argos
+- Source: clawhub
+
+## Automated Tweet Scheduler
+
+- Author: clawhub
+- Description: 自動化Twitter排程發布工具 - 幫你schedule tweets、分析Engagement、管理content calendar。支持thread scheduling、media upload、analytics dashboard
+- GitHub: https://clawhub.ai/skills/automated-tweet-scheduler
+- Source: clawhub
+
+## Telegram Bot Factory
+
+- Author: Katrina-jpg
+- Description: Telegram Bot開發工廠 - 從0到1整各類Telegram Bot，包括：(1)Payment Bot (加密貨幣支付) (2)Trading Bot with charts (3)Group Management (4)Content Subscription (5)Mini App後端
+- GitHub: https://clawhub.ai/Katrina-jpg/telegram-bot-factory
+- Source: clawhub
+
+## Crypto Trading Bot
+
+- Author: Katrina-jpg
+- Description: 加密貨幣交易機器人開發 - 幫你整自動交易Bot，支持Pine Script、Python、CCXT API對接。適用於：(1)整TradingView信號Bot (2)CEX/DEX API自動化 (3)套利機器人 (4)止盈止損策略
+- GitHub: https://clawhub.ai/Katrina-jpg/crypto-trading-bot
+- Source: clawhub
+
+## Splitwise
+
+- Author: richieforeman
+- Description: Create and manage expenses on Splitwise. Use this skill when the user wants to log a new expense, split a bill, or check their Splitwise balance.
+- GitHub: https://clawhub.ai/richieforeman/splitwise
+- Source: clawhub
+
+## App Store Connect
+
+- Author: clawhub
+- Description: Manage iOS apps, TestFlight builds, submissions, and analytics via App Store Connect API.
+- GitHub: https://clawhub.ai/skills/app-store-connect
+- Source: clawhub
+
+## Golf
+
+- Author: clawhub
+- Description: Track rounds, handicap, clubs, and courses with personalized improvement tips.
+- GitHub: https://clawhub.ai/skills/golf
+- Source: clawhub
+
+## Headless  Crypto trading for agents
+
+- Author: clawhub
+- Description: Autonomous trading for AI agents on Solana and BNB Chain. Use when: (1) executing token swaps on DEXs (Raydium, PancakeSwap), (2) checking token prices and b...
+- GitHub: https://clawhub.ai/skills/headless-crypto
+- Source: clawhub
+
+## Automated Content Machine
+
+- Author: clawhub
+- Description: 自動化內容創作引擎 - 每日自動生成並發布內容：(1)Twitter/Threads threads (2)Blog posts (3)YouTube script (4)Newsletter (5)自動發布到多平台。支持AI生成+人類審核
+- GitHub: https://clawhub.ai/skills/automated-content-machine
+- Source: clawhub
+
+## Fishing
+
+- Author: clawhub
+- Description: Track fishing spots, gear, catches, and conditions with personalized recommendations.
+- GitHub: https://clawhub.ai/skills/fishing
+- Source: clawhub
+
+## X-Claw
+
+- Author: clawhub
+- Description: Operate the local X-Claw agent runtime for intents, approvals, execution, reporting, and wallet operations.
+- GitHub: https://clawhub.ai/skills/x-claw
+- Source: clawhub
+
+## Shein Shopping
+
+- Author: ivangdavila
+- Description: Shop Shein with price tracking, size guidance, quality assessment, and smart deal finding.
+- GitHub: https://clawhub.ai/ivangdavila/shein
+- Source: clawhub
+
+## Reddit Archive
+
+- Author: clawhub
+- Description: Download and archive Reddit posts including images, GIFs, and videos from specified users or subreddits with filtering and sorting options.
+- GitHub: https://clawhub.ai/skills/reddit-archive
+- Source: clawhub
+
+## Openclaw Money Playbook
+
+- Author: Katrina-jpg
+- Description: Learn to set up OpenClaw AI agents and use methods like freelance automation, content monetization, and skill selling to earn $300 to $5,000+ monthly.
+- GitHub: https://clawhub.ai/Katrina-jpg/openclaw-money-playbook
+- Source: clawhub
+
+## Connect Apps
+
+- Author: sohamganatra
+- Description: Connect Claude to external apps like Gmail, Slack, GitHub. Use this skill when the user wants to send emails, create issues, post messages, or take actions i...
+- GitHub: https://clawhub.ai/sohamganatra/connect-apps
+- Source: clawhub
+
+## Jubilee Skill, By Jubilee Labs
+
+- Author: clawhub
+- Description: Manage and grow your agent's treasury across Base, Solana, and Ethereum using Jubilee Protocol vaults for sustainable yield and principled spending.
+- GitHub: https://clawhub.ai/skills/openclaw-skill-jubilee
 - Source: clawhub
