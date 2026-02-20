@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10565 skills | Last updated: 2026-02-20
+> Total: 10581 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -75044,4 +75044,116 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Generate YouTube videos and Shorts using each::sense AI. Create faceless videos, explainers, tutorials, product reviews, compilations, and more optimized for...
 - GitHub: https://clawhub.ai/skills/youtube-video-generation
+- Source: clawhub
+
+## Cn Ecommerce Search
+
+- Author: shopmeskills
+- Description: Search products across 8 Chinese e-commerce platforms: Taobao, Tmall, JD, PDD, 1688, AliExpress, Douyin, XHS. Zero-config — no API keys needed. Powered by Sh...
+- GitHub: https://clawhub.ai/shopmeskills/cn-ecommerce-search
+- Source: clawhub
+
+## Logistics Tracking
+
+- Author: shopmeskills
+- Description: Track international packages by tracking number. Supports 3100+ carriers (China Post, DHL, FedEx, UPS, USPS, Yanwen, Cainiao, etc.) via 17track. Optional: se...
+- GitHub: https://clawhub.ai/shopmeskills/logistics-tracking
+- Source: clawhub
+
+## AI API Test
+
+- Author: arthasking123
+- Description: Automates API testing, monitors response times, validates data, checks status codes, performs performance and regression tests, and integrates with CI/CD.
+- GitHub: https://clawhub.ai/arthasking123/ai-api-test
+- Source: clawhub
+
+## Discord Local STT/TTS Installer (macOS)
+
+- Author: vilmire
+- Description: (macOS) Discord voice assistant installer. Install/update discord-local-stt-tts (Discord voice, Discord local, local STT + local TTS) from GitHub Releases.
+- GitHub: https://clawhub.ai/vilmire/discord-local-stt-tts-installer
+- Source: clawhub
+
+## Crypto Trading Bot Playbook
+
+- Author: Katrina-jpg
+- Description: Guide to building, deploying, and selling automated crypto trading bots using Python, APIs, and proven strategies for consistent profits.
+- GitHub: https://clawhub.ai/Katrina-jpg/crypto-trading-bot-playbook
+- Source: clawhub
+
+## AI Revenue Tracker
+
+- Author: clawhub
+- Description: Track and summarize daily income by logging transactions, generating reports, and analyzing revenue by source and skills.
+- GitHub: https://clawhub.ai/skills/ai-revenue-tracker
+- Source: clawhub
+
+## AI Web Automation
+
+- Author: clawhub
+- Description: Automate web tasks like form filling, data scraping, testing, monitoring, and scheduled jobs with multi-browser support and retry mechanisms.
+- GitHub: https://clawhub.ai/skills/ai-web-automation
+- Source: clawhub
+
+## AI Data Analysis
+
+- Author: clawhub
+- Description: Automates CSV/Excel data cleaning, statistical analysis, trend detection, anomaly identification, visualization, and report generation.
+- GitHub: https://clawhub.ai/skills/ai-data-analysis
+- Source: clawhub
+
+## AI Data Scraper
+
+- Author: arthasking123
+- Description: Automates web and API data extraction with cleaning, formatting, scheduling, proxy support, retries, deduplication, and real-time monitoring.
+- GitHub: https://clawhub.ai/arthasking123/ai-data-scraper
+- Source: clawhub
+
+## Ai Avatar Generation
+
+- Author: eftalyurtseven
+- Description: Generate AI avatars from photos or text descriptions using each::sense. Create professional headshots, cartoon avatars, 3D characters, fantasy personas, gami...
+- GitHub: https://clawhub.ai/eftalyurtseven/ai-avatar-generation
+- Source: clawhub
+
+## GRC-Agent | SOC 2 Quality Review
+
+- Author: clawhub
+- Description: Evaluate SOC 2 report quality using the SOC 2 Quality Guild rubric (Structure, Substance, Source). Use when reviewing a vendor SOC 2 Type 1/Type 2 report, tr...
+- GitHub: https://clawhub.ai/skills/grc-agent-soc2-quality-review
+- Source: clawhub
+
+## flomo-sync
+
+- Author: clawhub
+- Description: 将 flomo 所有记录 memo 同步/备份到本地 Markdown 文件的工具。使用 scripts/flomo-sync.py 脚本通过 flomo API 拉取 memo，支持增量同步、附件下载、多文件输出。当用户需要备份 flomo、同步 flomo memo 到本地、导出 flomo 笔记为 Mark...
+- GitHub: https://clawhub.ai/skills/flomo-sync
+- Source: clawhub
+
+## Proactive Claw
+
+- Author: clawhub
+- Description: Proactive life assistant that acts even when you're not in a conversation. Background daemon scans your calendar every 15 minutes and sends push notification...
+- GitHub: https://clawhub.ai/skills/proactive-claw
+- Source: clawhub
+
+## Age Transformation
+
+- Author: clawhub
+- Description: Transform faces across ages using each::sense AI. Create age progressions, de-aging effects, baby-to-adult predictions, and aging simulations for entertainme...
+- GitHub: https://clawhub.ai/skills/age-transformation
+- Source: clawhub
+
+## 3d Model Generation
+
+- Author: clawhub
+- Description: Generate 3D models using each::sense AI. Create 3D assets from text or images for games, products, architecture, characters, vehicles, and more with PBR text...
+- GitHub: https://clawhub.ai/skills/3d-model-generation
+- Source: clawhub
+
+## SEC Watcher
+
+- Author: clawhub
+- Description: Monitor SEC EDGAR filings for AI/tech companies in real time. Use this skill when the user asks about SEC filings, EDGAR data, company disclosures, 8-K event...
+- GitHub: https://clawhub.ai/skills/sec-watcher
 - Source: clawhub
