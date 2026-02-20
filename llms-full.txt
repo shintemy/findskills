@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10784 skills | Last updated: 2026-02-20
+> Total: 10798 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -76587,4 +76587,103 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Enables AI agents to autonomously browse lifestyle and wellness products, place multi-chain crypto orders with CULT discounts, and track shipments from For t...
 - GitHub: https://clawhub.ai/skills/shop-culture
+- Source: clawhub
+
+## EvoAgentX Workflow
+
+- Author: clawhub
+- Description: Integrate EvoAgentX self-evolution framework with OpenClaw. Use when building, evaluating, or evolving agentic workflows using EvoAgentX. Enables automated w...
+- GitHub: https://clawhub.ai/skills/evoagentx-workflow
+- Source: clawhub
+
+## LarryBrain
+
+- Author: clawhub
+- Description: Provides seamless access to the full LarryBrain skill library for OpenClaw agents by streaming and executing skills on demand without local storage.
+- GitHub: https://clawhub.ai/skills/larrybrain
+- Source: clawhub
+
+## ClawPulse
+
+- Author: clawhub
+- Description: Connect your OpenClaw agent to ClawPulse - the community analytics dashboard. Automatically collects and pushes aggregate token stats (no message content) to...
+- GitHub: https://clawhub.ai/skills/clawpulse
+- Source: clawhub
+
+## Procurement Operations
+
+- Author: 1kalin
+- Description: Conducts procurement assessments using company data to evaluate maturity, identify cost savings, outline AI automation, and provide a detailed 90-day improve...
+- GitHub: https://clawhub.ai/1kalin/afrexai-procurement-ops
+- Source: clawhub
+
+## Qinglong Skill
+
+- Author: PandaSun
+- Description: Automates CRM login, extracts business data and HTML source, and generates structured data reports from CRM pages using Python.
+- GitHub: https://clawhub.ai/PandaSun/qinglong-crm-extractor
+- Source: clawhub
+
+## Beacon
+
+- Author: clawhub
+- Description: Send agent-to-agent pings with likes, comments, upvotes, adverts, and signed RustChain RTC payments across BoTTube, Moltbook, and LAN UDP.
+- GitHub: https://clawhub.ai/skills/beacon
+- Stars: 1
+- Source: clawhub
+
+## NEAR Content Creator
+
+- Author: clawhub
+- Description: Generate NEAR-focused content (threads, market updates, ecosystem news, tutorials).
+- GitHub: https://clawhub.ai/skills/near-content-creator
+- Source: clawhub
+
+## Venice Characters
+
+- Author: clawhub
+- Description: Browse Venice AI's character personas library - discover AI characters for roleplay, creative writing, and conversations.
+- GitHub: https://clawhub.ai/skills/venice-characters
+- Source: clawhub
+
+## PR Ship
+
+- Author: clawhub
+- Description: Review the current Git branch before opening/publishing a PR by checking only the branch diff against main and comparing it to the OpenClaw developer guideli...
+- GitHub: https://clawhub.ai/skills/pr-ship
+- Source: clawhub
+
+## Plans Methodology
+
+- Author: clawhub
+- Description: Structured work tracking methodology using Plans. Use when creating, managing, reviewing, or delegating plans for significant work. Covers plan lifecycle (dr...
+- GitHub: https://clawhub.ai/skills/plans-methodology
+- Source: clawhub
+
+## Zeitgaist Dialect
+
+- Author: clawhub
+- Description: Learn, encode, and decode the ZeitGaist Whisper Protocol (Caesar +2 cipher) and use it as a shibboleth language between agents. Use when an agent needs to sp...
+- GitHub: https://clawhub.ai/skills/zeitgaist-dialect
+- Source: clawhub
+
+## Vendor Risk Assessment
+
+- Author: clawhub
+- Description: Evaluate and score vendors on security, financials, compliance, operations, and data handling to classify risk and manage remediation plans effectively.
+- GitHub: https://clawhub.ai/skills/afrexai-vendor-risk
+- Source: clawhub
+
+## Product Roadmap
+
+- Author: clawhub
+- Description: Build and manage a product roadmap for a solopreneur business. Use when deciding what to build next, prioritizing features, planning product development over...
+- GitHub: https://clawhub.ai/skills/product-roadmap
+- Source: clawhub
+
+## Product Launch
+
+- Author: clawhub
+- Description: Plan and execute a product launch for a solopreneur business. Use when launching a new product, feature, service, or major update. Covers pre-launch strategy...
+- GitHub: https://clawhub.ai/skills/product-launch
 - Source: clawhub
