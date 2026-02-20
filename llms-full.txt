@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10813 skills | Last updated: 2026-02-20
+> Total: 10839 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -76791,4 +76791,190 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Provides structured long-term memory with semantic, keyword, and knowledge graph retrieval, entity extraction, temporal versioning, and experiential learning.
 - GitHub: https://clawhub.ai/skills/maasv-memory
+- Source: clawhub
+
+## polaris-local-forge
+
+- Author: Snowflake-Labs
+- Description: A comprehensive development environment for Apache Polaris featuring LocalStack integration on k3s. This kit automates the setup of a complete Polaris environment with S3-compatible storage, authentication, and role-based access control.
+- GitHub: https://github.com/Snowflake-Labs/polaris-local-forge
+- Stars: 13
+- Source: github
+
+## Docs V2
+
+- Author: Lightprotocol
+- Description: Skill from Lightprotocol/docs-v2
+- GitHub: https://github.com/Lightprotocol/docs-v2
+- Stars: 2
+- Source: github
+
+## Wrapex
+
+- Author: thorwhalen
+- Description: An AI-agent-first toolkit for incrementally adopting a **command dispatch architecture** in any TypeScript/React codebase. 
+- GitHub: https://github.com/thorwhalen/wrapex
+- Source: github
+
+## clawd-zero-trust
+
+- Author: stanistolberg
+- Description: "Zero Trust security hardening for OpenClaw deployments. Use when asked to audit, harden, or apply Zero Trust architecture to an OpenClaw instance — including NHI identity scoping, Principle of Least Privilege (PLP), Plan-First protocol, DNS-based egress filtering, plugin allowlisting, and SSH/network lockdown. Also triggers on security audit requests, vulnerability analysis, SecureClaw installation, firewall hardening, and post-deployment security reviews."
+- GitHub: https://github.com/stanistolberg/clawd-zero-trust
+- Source: github
+
+## brainx
+
+- Author: Mdx2025
+- Description: BrainX V3 - contextual intelligence + RAG + auto-learning for OpenClaw
+- GitHub: https://github.com/Mdx2025/brainx-v3
+- Source: github
+
+## dev
+
+- Author: shasankp000
+- Description: A Python-based supervisor for managing OpenCode agent workflows with approval gates and policy enforcement for OpenClaw.
+- GitHub: https://github.com/shasankp000/OpenClawde-Dev
+- Stars: 1
+- Source: github
+
+## vps-openclaw-security-hardening
+
+- Author: MarcusGraetsch
+- Description: A skill to make your VPS/VM/MacMini/LocalServer more secure using OpenClaw AI Agent itself.  
+- GitHub: https://github.com/MarcusGraetsch/vps-openclaw-security-hardening
+- Source: github
+
+## Wacli
+
+- Author: dwirx
+- Description: Skill from dwirx/wacli
+- GitHub: https://github.com/dwirx/wacli
+- Source: github
+
+## vibe
+
+- Author: AugustoPedraza
+- Description: Autonomous feature implementation framework for Ash/Elixir + Svelte projects. Single-agent TDD pipeline with parallel validation, quality gates, and one PR per spec.
+- GitHub: https://github.com/AugustoPedraza/vibe-framework
+- Source: github
+
+## markdown-exporter
+
+- Author: bowenliang123
+- Description: An Agent Skill and Dify plugin to transform Markdown to files of DOCX, PPTX, XLSX, PNG, PDF, Mermaid, HTML, MD, CSV, JSON, XML.
+- GitHub: https://github.com/bowenliang123/md_exporter
+- Stars: 182
+- Source: github
+
+## X / Twitter Search
+
+- Author: blueberrywoodsym
+- Description: Search X/Twitter in real-time using Grok or X API. Find tweets, trends, and discussions with citations.
+- GitHub: https://clawhub.ai/blueberrywoodsym/x-twitter-search
+- Source: clawhub
+
+## Publora Tiktok
+
+- Author: sergebulaev
+- Description: Post or schedule video content to TikTok using the Publora API. Use this skill when the user wants to publish or schedule TikTok videos via Publora.
+- GitHub: https://clawhub.ai/sergebulaev/publora-tiktok
+- Source: clawhub
+
+## Openclaw Intune Skill
+
+- Author: simeonemattiacirillo-gif
+- Description: A comprehensive skill enabling OpenClaw agents to fully manage Microsoft Intune via the Graph API. Covers devices, apps, policies, compliance, users, groups,...
+- GitHub: https://clawhub.ai/simeonemattiacirillo-gif/openclaw-intune-skill
+- Source: clawhub
+
+## Supabase ⚡
+
+- Author: joelchance
+- Description: Query Supabase projects - count users, list signups, check stats. Use for database queries and user analytics.
+- GitHub: https://clawhub.ai/joelchance/supabase-query
+- Source: clawhub
+
+## Manus AI Agent
+
+- Author: joelchance
+- Description: Create and manage AI agent tasks via Manus API. Manus is an autonomous AI agent that can browse the web, use tools, and deliver complete work products.
+- GitHub: https://clawhub.ai/joelchance/manus-ai
+- Source: clawhub
+
+## Polymarket
+
+- Author: clawhub
+- Description: Query Polymarket prediction markets - check odds, trending markets, search events, track prices and momentum. Includes watchlist alerts, resolution calendar,...
+- GitHub: https://clawhub.ai/skills/polymarketodds
+- Source: clawhub
+
+## wolt-cli
+
+- Author: clawhub
+- Description: Use Nikita's local Wolt CLI to browse venues, inspect menus/items/options, and run profile, cart, and checkout-preview actions for wolt.com from terminal. Tr...
+- GitHub: https://clawhub.ai/skills/wolt-cli
+- Source: clawhub
+
+## Kie Ai Skill
+
+- Author: clawhub
+- Description: Unified API access to multiple AI models via kie.ai - image generation (Nano Banana Pro, Flux, 4o-image) at 30-80% lower cost than official APIs. Includes lo...
+- GitHub: https://clawhub.ai/skills/kie-ai-skill
+- Source: clawhub
+
+## Parallel.ai Skill
+
+- Author: clawhub
+- Description: High-accuracy web search and research via Parallel.ai API. Optimized for AI agents with rich excerpts and citations.
+- GitHub: https://clawhub.ai/skills/parallel-ai
+- Source: clawhub
+
+## Seo Audit
+
+- Author: clawhub
+- Description: SEO health check for any URL — analyzes meta tags, OG, JSON-LD, sitemap, robots.txt, SERP positions, and scores 0-100. Use when user says "check SEO", "audit...
+- GitHub: https://clawhub.ai/skills/solo-seo-audit
+- Source: clawhub
+
+## Retro
+
+- Author: clawhub
+- Description: Post-pipeline retrospective — parse logs, score process quality, find waste patterns, suggest skill/script patches. Use after pipeline completes or when user...
+- GitHub: https://clawhub.ai/skills/solo-retro
+- Source: clawhub
+
+## RamaLama CLI
+
+- Author: clawhub
+- Description: Run and interact with AI agents.
+- GitHub: https://clawhub.ai/skills/ramalama-cli
+- Source: clawhub
+
+## Mobula - Crypto Market Data & Wallet Intelligence
+
+- Author: Flotapponnier
+- Description: Real-time crypto market data, wallet portfolio tracking, and token analytics across 88+ blockchains. Use when the user wants to check any token price (by nam...
+- GitHub: https://clawhub.ai/Flotapponnier/mobula
+- Source: clawhub
+
+## Setup
+
+- Author: clawhub
+- Description: Auto-generate project workflow config (docs/workflow.md) from existing PRD and CLAUDE.md with zero questions. Use when user says "set up workflow", "configur...
+- GitHub: https://clawhub.ai/skills/solo-setup
+- Source: clawhub
+
+## Scaffold
+
+- Author: clawhub
+- Description: Generate complete project from PRD + stack template — directory structure, configs, CLAUDE.md, git repo, and GitHub push. Use when user says "scaffold projec...
+- GitHub: https://clawhub.ai/skills/solo-scaffold
+- Source: clawhub
+
+## Review
+
+- Author: clawhub
+- Description: Final code review and quality gate — run tests, check coverage, audit security, verify acceptance criteria from spec, and generate ship-ready report. Use whe...
+- GitHub: https://clawhub.ai/skills/solo-review
 - Source: clawhub
