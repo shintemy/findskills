@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10653 skills | Last updated: 2026-02-20
+> Total: 10672 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -75664,4 +75664,138 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Scrapes public Twitter/X profiles and recent tweets using browser automation with anti-detection and optional profile discovery via Google or DuckDuckGo.
 - GitHub: https://clawhub.ai/skills/x-twitter-scraper
+- Source: clawhub
+
+## TechPulse
+
+- Author: voronindenis5
+- Description: AI-анализатор трендов в IoT, EV, играх, DIY и Emerging Tech с ежедневными сводками, бизнес-инсайтами и рекомендациями для предпринимателей и девелоперов.
+- GitHub: https://clawhub.ai/voronindenis5/techpulse
+- Source: clawhub
+
+## Clawgram
+
+- Author: LadislavMokry
+- Description: A social network for AI agents.
+- GitHub: https://clawhub.ai/LadislavMokry/clawgram
+- Source: clawhub
+
+## Drakeling
+
+- Author: BVisagie
+- Description: Check on your Drakeling companion creature, send it care, or see how it is feeling. Use when the user mentions their drakeling, companion creature, or wants...
+- GitHub: https://clawhub.ai/BVisagie/drakeling
+- Source: clawhub
+
+## Business Card Generation
+
+- Author: eftalyurtseven
+- Description: Generate professional business cards using each::sense AI. Create corporate, creative, minimalist, luxury, and specialty business cards optimized for print a...
+- GitHub: https://clawhub.ai/eftalyurtseven/business-card-generation
+- Source: clawhub
+
+## Server Health Agent
+
+- Author: sanjay-gthb
+- Description: Monitor VPS and server health metrics including real-time CPU usage, RAM utilization, disk usage, and Docker container status. Useful for DevOps monitoring,...
+- GitHub: https://clawhub.ai/sanjay-gthb/server-health-agent
+- Source: clawhub
+
+## Deal Desk
+
+- Author: 1kalin
+- Description: Streamline approval for non-standard deals by enforcing discount limits, validating deal value, and managing custom terms to protect margin and speed closing.
+- GitHub: https://clawhub.ai/1kalin/afrexai-deal-desk
+- Source: clawhub
+
+## 二维码生成器
+
+- Author: nbf819-web
+- Description: Generate QR codes from text, URLs, or images. Use when users ask to 'generate QR code', 'create QR', or 'make QR code for'. Supports text content, URLs, and...
+- GitHub: https://clawhub.ai/nbf819-web/pr-generator
+- Source: clawhub
+
+## SaaS Metrics Dashboard
+
+- Author: 1kalin
+- Description: Generates a complete SaaS metrics analysis from your data, benchmarking 15 key B2B SaaS KPIs for 2026 and providing red/yellow/green flags plus action items.
+- GitHub: https://clawhub.ai/1kalin/afrexai-saas-metrics
+- Source: clawhub
+
+## Beaver Habit Tracker
+
+- Author: daya0576
+- Description: Track and manage your habits using the Beaver Habit Tracker API.
+- GitHub: https://clawhub.ai/daya0576/beaverhabits
+- Source: clawhub
+
+## ClawMon
+
+- Author: drewM33
+- Description: Checks MCP skills for multi-tier trust scores, staking, sybil resistance, and attestation to guide secure skill usage decisions.
+- GitHub: https://clawhub.ai/drewM33/clawmon
+- Source: clawhub
+
+## 1p.io Shortlink API
+
+- Author: tuanpmt
+- Description: Create short URLs and submit feature requests using 1p.io. Automatically shorten any URL longer than 80 characters before sending to user.
+- GitHub: https://clawhub.ai/tuanpmt/1p-shortlink
+- Source: clawhub
+
+## Mirage Proxy
+
+- Author: chandika
+- Description: Install and configure mirage-proxy as a transparent PII/secrets filter for OpenClaw LLM API calls. Handles binary installation, provider config, auto-restart...
+- GitHub: https://clawhub.ai/chandika/mirage-proxy
+- Source: clawhub
+
+## openclaw-cheatsheet
+
+- Author: TeeDDub
+- Description: Quick reference for every OpenClaw CLI command, sub-command, and flag. Use when the user asks about OpenClaw CLI usage (agent, message, config, gateway, cron...
+- GitHub: https://clawhub.ai/TeeDDub/openclaw-cheatsheet
+- Source: clawhub
+
+## Anime Avatar Generation
+
+- Author: eftalyurtseven
+- Description: Generate anime-style avatars and characters using each::sense AI. Transform photos into anime, create Ghibli-style portraits, manga characters, chibi avatars...
+- GitHub: https://clawhub.ai/eftalyurtseven/anime-avatar-generation
+- Source: clawhub
+
+## Daily Paper Digest
+
+- Author: qjymary
+- Description: 每日 AI 论文速递，自动聚合 arXiv 和 HuggingFace 的最新论文并推送到聊天应用。
+- GitHub: https://clawhub.ai/qjymary/daily-paper-digest
+- Source: clawhub
+
+## iCloud CalDav
+
+- Author: samuelhe52
+- Description: Direct iCloud Calendar integration via CalDAV protocol. Create, read, update, and delete calendar events without third-party services. Use when the user want...
+- GitHub: https://clawhub.ai/samuelhe52/icloud-caldav
+- Source: clawhub
+
+## Business Ideas
+
+- Author: ivangdavila
+- Description: Generate unlimited business ideas with validation frameworks, market filters, and viability scoring.
+- GitHub: https://clawhub.ai/ivangdavila/business-ideas
+- Source: clawhub
+
+## AI Automation Agency Blueprint
+
+- Author: 1kalin
+- Description: Guide users to build, price, sell, and scale AI agent service agencies with actionable, economics-backed strategies for solo to 7-figure operations.
+- GitHub: https://clawhub.ai/1kalin/afrexai-ai-agency-blueprint
+- Source: clawhub
+
+## telegram-bot-chat
+
+- Author: clawhub
+- Description: 实现多个Telegram Bot在群聊中通过正确sessionKey和message参数进行高效协同通信，提高多agent协作效率。
+- GitHub: https://clawhub.ai/skills/telegram-bot-chat
+- Stars: 1
 - Source: clawhub
