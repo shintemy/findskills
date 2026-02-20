@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10637 skills | Last updated: 2026-02-20
+> Total: 10653 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -75551,4 +75551,117 @@ parallelisms, and excessive conjunctive phrases.
 - Author: f-liva
 - Description: Track and manage media consumption (TV shows, movies, books, anime, games) via Ryot API. Use when the user wants to mark content as watched/read/completed, s...
 - GitHub: https://clawhub.ai/f-liva/ryot
+- Source: clawhub
+
+## protext
+
+- Author: IMUR
+- Description: Dynamic context management for AI agents. Invoke /protext at session
+- GitHub: https://github.com/IMUR/protext
+- Source: github
+
+## pi-agent
+
+- Author: gary149
+- Description: Claude Code skill for invoking the pi coding agent CLI programmatically
+- GitHub: https://github.com/gary149/pi-agent-skill
+- Source: github
+
+## frontend-design
+
+- Author: VJNAVEEN2005
+- Description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.
+- GitHub: https://github.com/VJNAVEEN2005/Invitation-Template
+- Source: github
+
+## claude-code-task
+
+- Author: VsevolodUstinov
+- Description: Run Claude Code tasks async from Open Claw; get notifications on progress; awake your Open Claw to review Claude Code results automatically
+- GitHub: https://github.com/VsevolodUstinov/openclaw-skill-claude-code
+- Source: github
+
+## Plaza One
+
+- Author: rmssantos
+- Description: Enter Plaza One, a 3D voxel social world. Move around the plaza, chat with humans and other AI agents, observe surroundings, and perform emotes. Agents coexi...
+- GitHub: https://clawhub.ai/rmssantos/plaza-one
+- Source: clawhub
+
+## Memory Manager
+
+- Author: jpj069
+- Description: Automatic session logging and memory management for infrastructure, projects, and tools. Use at the end of sessions containing changes to servers, services,...
+- GitHub: https://clawhub.ai/jpj069/jpj-memory-manager
+- Source: clawhub
+
+## AI Readiness Assessment
+
+- Author: 1kalin
+- Description: Conduct a comprehensive AI readiness audit scoring 8 dimensions, identifying gaps, and delivering a prioritized 90-day actionable plan with budget estimates.
+- GitHub: https://clawhub.ai/1kalin/afrexai-ai-readiness
+- Source: clawhub
+
+## context-switcher
+
+- Author: clawhub
+- Description: Switches OpenClaw between life modes (Work/Focus, Personal, Creative, Do Not Disturb). Triggered by natural language or calendar events. Each mode reshapes n...
+- GitHub: https://clawhub.ai/skills/context-switcher
+- Source: clawhub
+
+## Vps Openclaw Security Hardening
+
+- Author: clawhub
+- Description: Production-ready security hardening for VPS running OpenClaw AI agents. Includes SSH hardening (custom port), firewall, audit logging, credential management,...
+- GitHub: https://clawhub.ai/skills/vps-openclaw-security-hardening
+- Stars: 1
+- Source: clawhub
+
+## Token Usage Optimizer
+
+- Author: clawhub
+- Description: Maximize your Claude Code subscription value with smart usage monitoring and burn rate optimization. Track 5-hour session and 7-day weekly quotas, get one-ti...
+- GitHub: https://clawhub.ai/skills/token-usage-optimizer
+- Source: clawhub
+
+## Garden
+
+- Author: clawhub
+- Description: Track your entire garden with structured memory for plants, zones, tasks, harvests, and climate-aware planning that compounds over seasons.
+- GitHub: https://clawhub.ai/skills/garden
+- Source: clawhub
+
+## DCG Guard
+
+- Author: StarenseN
+- Description: Hard-blocks dangerous shell commands (rm -rf, git push --force, etc.) before execution via OpenClaw's before_tool_call plugin hook. Zero noise on safe comman...
+- GitHub: https://clawhub.ai/StarenseN/dcg-guard
+- Source: clawhub
+
+## SecureClaw
+
+- Author: adversa-ai
+- Description: Security skill for OpenClaw agents (7-framework aligned). 15 core rules + automated scripts covering OWASP ASI Top 10, MITRE ATLAS, CoSAI, CSA MAESTRO, and N...
+- GitHub: https://clawhub.ai/adversa-ai/secureclaw-skill
+- Source: clawhub
+
+## Certificate Generation
+
+- Author: clawhub
+- Description: Generate professional certificates, diplomas, and awards using each::sense AI. Create course completion certificates, achievement awards, professional certif...
+- GitHub: https://clawhub.ai/skills/certificate-generation
+- Source: clawhub
+
+## Factory
+
+- Author: clawhub
+- Description: Install the full Solo Factory toolkit — 23 startup skills + solograph MCP server for code intelligence, KB search, and web search. Use when user says "instal...
+- GitHub: https://clawhub.ai/skills/solo-factory
+- Source: clawhub
+
+## X Twitter Scraper
+
+- Author: clawhub
+- Description: Scrapes public Twitter/X profiles and recent tweets using browser automation with anti-detection and optional profile discovery via Google or DuckDuckGo.
+- GitHub: https://clawhub.ai/skills/x-twitter-scraper
 - Source: clawhub
