@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10689 skills | Last updated: 2026-02-20
+> Total: 10700 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -75917,4 +75917,81 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Read Redmine issues from any Redmine server via REST API with configurable URL and credentials. Use when you need to fetch a single issue, list/filter issues...
 - GitHub: https://clawhub.ai/skills/redmine-issue
+- Source: clawhub
+
+## Ollama Model Tuner
+
+- Author: clawhub
+- Description: Locally fine-tune Ollama models, prompts, and LoRAs using custom datasets and evaluation metrics without requiring cloud resources.
+- GitHub: https://clawhub.ai/skills/ollama-model-tuner
+- Source: clawhub
+
+## SoulForge
+
+- Author: Taha2053
+- Description: Automatically evolves your SOUL.md by analyzing your conversation patterns and behavior, then proposes updates to reflect who you truly are over time.
+- GitHub: https://clawhub.ai/Taha2053/soul-forge
+- Source: clawhub
+
+## OpenClaw Cost Auditor
+
+- Author: clawhub
+- Description: Track and report OpenClaw API usage, model costs, token consumption, and forecast spending with optimization recommendations.
+- GitHub: https://clawhub.ai/skills/openclaw-cost-auditor
+- Source: clawhub
+
+## Hostinger VPS Optimizer
+
+- Author: clawhub
+- Description: Applies kernel tuning, web server optimization, security hardening, and resource limits to boost Hostinger VPS performance and reduce costs.
+- GitHub: https://clawhub.ai/skills/hostinger-vps-optimizer
+- Source: clawhub
+
+## VPS Health Auditor
+
+- Author: clawhub
+- Description: Performs automated VPS health checks on CPU, memory, disk, network, and services, generating detailed Ollama-powered reports with recommendations.
+- GitHub: https://clawhub.ai/skills/vps-health-auditor
+- Source: clawhub
+
+## Markdown Exporter
+
+- Author: clawhub
+- Description: Markdown exporter for export Markdown text to DOCX, PPTX, XLSX, PDF, PNG, HTML, MD, CSV, JSON, JSONL, XML files, and extract code blocks in Markdown to Pytho...
+- GitHub: https://clawhub.ai/skills/markdown-exporter
+- Source: clawhub
+
+## Hylo — GHL Automation Expert
+
+- Author: clawhub
+- Description: GoHighLevel (GHL) workflow automation expert with 102 verified actions, 70 triggers, and 423 API schemas. Use when asked about GHL workflows, API endpoints,...
+- GitHub: https://clawhub.ai/skills/hylo-ghl
+- Source: clawhub
+
+## ClawGuard
+
+- Author: clawhub
+- Description: Security auditor for ClawHub skills. Run before installing ANY skill — scans SKILL.md and scripts for prompt injection, data exfiltration, shell injection, p...
+- GitHub: https://clawhub.ai/skills/claw-guard
+- Source: clawhub
+
+## Coala Client
+
+- Author: hubentu
+- Description: How to use the coala-client CLI for chat with LLMs, MCP servers, and skills. Use when the user asks how to use coala, run coala chat, add MCP servers, import...
+- GitHub: https://clawhub.ai/hubentu/coala
+- Source: clawhub
+
+## iMessage & Signal Analyzer
+
+- Author: clawhub
+- Description: Analyze iMessage (macOS) and Signal conversation history to reveal relationship dynamics — message volume, initiation patterns, silence gaps, tone samples, a...
+- GitHub: https://clawhub.ai/skills/imessage-signal-analyzer
+- Source: clawhub
+
+## Open Notebook Skill
+
+- Author: clawhub
+- Description: Integrates OpenClaw agents with local open-notebook for creating, saving, and querying thematic notebooks using local Ollama AI models.
+- GitHub: https://clawhub.ai/skills/open-notebook-integration
 - Source: clawhub
