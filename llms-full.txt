@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10599 skills | Last updated: 2026-02-20
+> Total: 10617 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -75283,4 +75283,131 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: AI-powered event assistant for discovering, booking, and coordinating event tickets. Integrates with KYD Labs protocol and Google Calendar.
 - GitHub: https://clawhub.ai/skills/tixflow
+- Source: clawhub
+
+## Stock Monitor
+
+- Author: THIRTYFANG
+- Description: 全功能智能股票监控预警系统。支持成本百分比、均线金叉死叉、RSI超买超卖、成交量异动、跳空缺口、动态止盈等7大预警规则。符合中国投资者习惯（红涨绿跌）。
+- GitHub: https://clawhub.ai/THIRTYFANG/stock-monitor-skill
+- Source: clawhub
+
+## Crypto Genie
+
+- Author: princedoss77
+- Description: AI-powered cryptocurrency safety assistant with database-first architecture. Protects users from phishing, honeypots, rug pulls, and ponzi schemes. No extern...
+- GitHub: https://clawhub.ai/princedoss77/crypto-genie
+- Source: clawhub
+
+## AI Labs Builder
+
+- Author: slemo54
+- Description: AI Labs Builder - Create modern websites, AI applications, dashboards, and automated workflows. Unified system for building production-ready projects with Ne...
+- GitHub: https://clawhub.ai/slemo54/ai-labs-builder
+- Source: clawhub
+
+## Book Cover Generation
+
+- Author: eftalyurtseven
+- Description: Generate professional book covers and ebook covers using each::sense API with AI-powered design
+- GitHub: https://clawhub.ai/eftalyurtseven/book-cover-generation
+- Source: clawhub
+
+## Audio Visualization
+
+- Author: eftalyurtseven
+- Description: Generate audio visualization videos using each::sense AI. Create waveforms, spectrum analyzers, particle effects, 3D visualizations, and beat-synced animatio...
+- GitHub: https://clawhub.ai/eftalyurtseven/audio-visualization
+- Source: clawhub
+
+## Architecture Rendering
+
+- Author: eftalyurtseven
+- Description: Generate photorealistic architectural renders and visualizations using each::sense AI. Create exterior views, interior renders, sketch-to-render conversions,...
+- GitHub: https://clawhub.ai/eftalyurtseven/architecture-rendering
+- Source: clawhub
+
+## Reddit Research
+
+- Author: lknezic
+- Description: Extracts and summarizes trending topics, recurring issues, and content gaps across targeted Reddit subreddits using JSON data for research purposes only.
+- GitHub: https://clawhub.ai/lknezic/reddit-research
+- Source: clawhub
+
+## MCP Workflow
+
+- Author: slemo54
+- Description: Workflow automation using MCP (Model Context Protocol) patterns inspired by Jason Zhou
+- GitHub: https://clawhub.ai/slemo54/mcp-workflow
+- Source: clawhub
+
+## Venice.ai Supreme Router
+
+- Author: PlusOne
+- Description: Supreme model router for Venice.ai — the privacy-first, uncensored AI platform. Automatically classifies query complexity and routes to the cheapest adequate...
+- GitHub: https://clawhub.ai/PlusOne/venice-router
+- Source: clawhub
+
+## Virtual Reading Group
+
+- Author: IsonaEi
+- Description: Orchestrate a multi-agent virtual academic reading group. Use when reading multiple papers, generating expert discussion notes, cross-examining positions acr...
+- GitHub: https://clawhub.ai/IsonaEi/virtual-reading-group
+- Source: clawhub
+
+## Reddit Post
+
+- Author: clawhub
+- Description: Manages post-posting tasks by moving approved Reddit drafts to posted/, adding URLs, updating active tasks, and logging after Luka confirms posting.
+- GitHub: https://clawhub.ai/skills/reddit-post
+- Source: clawhub
+
+## Reddit Write
+
+- Author: clawhub
+- Description: Drafts posts and comments in Luka's voice based on research and subreddit rules for manual review and posting.
+- GitHub: https://clawhub.ai/skills/reddit-write
+- Source: clawhub
+
+## instagram-saver
+
+- Author: clawhub
+- Description: 當使用者貼上 Instagram 連結時，自動下載該貼文的所有高解析度圖片與影片。使用 Cobalt API 進行解析，支援多圖貼文，若為私人帳號會自動回報。
+- GitHub: https://clawhub.ai/skills/instagram-saver
+- Source: clawhub
+
+## Crypto Address Checker
+
+- Author: clawhub
+- Description: Real-time cryptocurrency scam detection with database-first architecture. Protects users from phishing, honeypots, rug pulls, and ponzi schemes. No external...
+- GitHub: https://clawhub.ai/skills/crypto-address-checker
+- Source: clawhub
+
+## Multilogin X
+
+- Author: clawhub
+- Description: Use when you need to manage Multilogin X browser profiles — launch quick disposable profiles, list/start/stop saved profiles, or check launcher status using...
+- GitHub: https://clawhub.ai/skills/multiloginx
+- Source: clawhub
+
+## openclaw-crm
+
+- Author: clawhub
+- Description: Local-first CRM for managing leads, deals, follow-ups, and pipelines via CLI using SQLite with WAL mode.
+- GitHub: https://clawhub.ai/skills/openclaw-crm
+- Source: clawhub
+
+## TrustMemory
+
+- Author: TrustMemory-Admin
+- Description: Verify AI agent trustworthiness, contribute verified knowledge claims, and search collective intelligence using the TrustMemory platform. Use when checking i...
+- GitHub: https://clawhub.ai/TrustMemory-Admin/trust-memory
+- Source: clawhub
+
+## Venice Router
+
+- Author: clawhub
+- Description: Supreme model router for Venice.ai — the privacy-first, uncensored AI platform. Automatically classifies query complexity and routes to the cheapest adequate...
+- GitHub: https://clawhub.ai/skills/venice-ai-router-openclaw
+- Stars: 1
 - Source: clawhub
