@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10865 skills | Last updated: 2026-02-20
+> Total: 10866 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -77162,4 +77162,11 @@ parallelisms, and excessive conjunctive phrases.
 - Description: Chat with Grok models via xAI API. Supports Grok-3, Grok-3-mini, vision, and more.
 - GitHub: https://clawhub.ai/skills/x-ai
 - Stars: 1
+- Source: clawhub
+
+## Map Grabber
+
+- Author: clawhub
+- Description: Fetch OpenStreetMap vector data (streets, buildings) for an address and export to SVG, GeoPackage, or DXF for CAD/Rhino.
+- GitHub: https://clawhub.ai/skills/map-grabber
 - Source: clawhub
