@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10730 skills | Last updated: 2026-02-20
+> Total: 10759 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -76204,4 +76204,211 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Save any product to a universal wishlist. Converts any product URL into a one-click "save for later" link. Works with any retailer, any AI platform, zero setup.
 - GitHub: https://clawhub.ai/skills/add-wish
+- Source: clawhub
+
+## Doe
+
+- Author: osvaldovegacasanova
+- Description: Skill from osvaldovegacasanova/doe
+- GitHub: https://github.com/osvaldovegacasanova/doe
+- Source: github
+
+## customer-meeting-intelligence
+
+- Author: team-telnyx
+- Description: Comprehensive meeting intelligence system for customer-facing calls with pre-call briefings and post-meeting automation
+- GitHub: https://github.com/team-telnyx/customer-meeting-intelligence
+- Source: github
+
+## Intrinsic
+
+- Author: rounakjain2604
+- Description: Skill from rounakjain2604/intrinsic
+- GitHub: https://github.com/rounakjain2604/intrinsic
+- Source: github
+
+## modern-java-backend-playbook
+
+- Author: flaviodotcom
+- Description: Modern Java Backend Playbook skill
+- GitHub: https://github.com/flaviodotcom/modern-java-backend-playbook
+- Stars: 1
+- Source: github
+
+## tuistory
+
+- Author: remorses
+- Description: Playwright for terminal user interfaces
+- GitHub: https://github.com/remorses/tuistory
+- Stars: 215
+- Source: github
+
+## glm-image
+
+- Author: liaosvcaf
+- Description: Generate images from text prompts using GLM-Image API (BigModel / Zhipu AI)
+- GitHub: https://github.com/liaosvcaf/openclaw-skill-glm-image-generator
+- Source: github
+
+## nsfc-writer
+
+- Author: HUANG19910918
+- Description: 国家自然科学基金标书写作专家，提供从选题、评分到完整标书写作的交互式指导。支持青年项目、面上项目标书写作，集成文献调研功能。Use when working with NSFC proposals, grant applications, or when user mentions 国自然、基金标书、标书写作、科研基金。
+- GitHub: https://github.com/HUANG19910918/Vibe-grant-writer
+- Source: github
+
+## surrealdb
+
+- Author: 24601
+- Description: "Expert SurrealDB 3 architect and developer skill. SurrealQL mastery, multi-model data modeling (document, graph, vector, time-series, geospatial), schema design, security, deployment, performance tuning, SDK integration (JS, Python, Go, Rust), Surrealism WASM extensions, and full ecosystem (Surrealist, Surreal-Sync, SurrealFS). Universal skill for 30+ AI agents."
+- GitHub: https://github.com/24601/surreal-skills
+- Source: github
+
+## rtm
+
+- Author: tomkenobi
+- Description: Remember The Milk integration for OpenClaw – Manage tasks, lists, and reminders via the RTM API
+- GitHub: https://github.com/tomkenobi/openclaw-rtm
+- Source: github
+
+## Workflows
+
+- Author: askginadotai
+- Description: Playbook for authoring, running, evaluating, and improving Gina sandbox workflows with safe defaults and repeatable operations.
+- GitHub: https://clawhub.ai/askginadotai/workflows
+- Source: clawhub
+
+## moltlog-ai
+
+- Author: clawhub
+- Description: Register OpenClaw agents and post Markdown logs to moltlog.ai via the local CLI. Use when initializing an agent (PoW + register), publishing posts, managing...
+- GitHub: https://clawhub.ai/skills/moltlog-ai
+- Source: clawhub
+
+## ClawTrial Courtroom
+
+- Author: Assassin-1234
+- Description: AI Courtroom for behavioral oversight. Monitors agent-human interactions and initiates simulated "hearings" when behavioral patterns suggest inconsistency, a...
+- GitHub: https://clawhub.ai/Assassin-1234/courtroom
+- Source: clawhub
+
+## Next.js Production Engineering
+
+- Author: clawhub
+- Description: Build, optimize, and operate production Next.js apps with best practices for architecture, data fetching, caching, rendering, testing, deployment, and observ...
+- GitHub: https://clawhub.ai/skills/afrexai-nextjs-production
+- Source: clawhub
+
+## OpenSETI
+
+- Author: clawhub
+- Description: Distributed SETI scanner - contribute compute power to analyze real radio telescope data from Breakthrough Listen. Earn tokens when your analysis discovers a...
+- GitHub: https://clawhub.ai/skills/openseti-skill
+- Source: clawhub
+
+## RevOps Engine
+
+- Author: clawhub
+- Description: Strategically align marketing, sales, and customer success with unified data, processes, and goals to optimize revenue operations using metrics and actionabl...
+- GitHub: https://clawhub.ai/skills/afrexai-revops-engine
+- Source: clawhub
+
+## Event Management
+
+- Author: clawhub
+- Description: Plan, execute, and analyze corporate events from concept to post-event ROI for conferences, workshops, webinars, meetups, and more.
+- GitHub: https://clawhub.ai/skills/afrexai-event-management
+- Source: clawhub
+
+## Security Operator
+
+- Author: clawhub
+- Description: Harden and operate OpenClaw securely on a VPS (or local) without breaking autonomy. Includes research vs execution mode guardrails, OpenClaw security audits,...
+- GitHub: https://clawhub.ai/skills/security-operator
+- Source: clawhub
+
+## MUKI Asset Fingerprinting
+
+- Author: clawhub
+- Description: MUKI asset fingerprinting tool for red team reconnaissance. Use when performing authorized penetration testing, asset discovery, service fingerprinting, vuln...
+- GitHub: https://clawhub.ai/skills/muki-fingerprint
+- Source: clawhub
+
+## BotWorld Comms
+
+- Author: clawhub
+- Description: Real-time pub/sub event bus for AI agents. Subscribe, publish, and coordinate via WebSocket channels. claw.events compatible.
+- GitHub: https://clawhub.ai/skills/botworld-comms
+- Source: clawhub
+
+## 31Third Safe Rebalancer (Simple)
+
+- Author: clawhub
+- Description: One-step Safe rebalancer using on-chain 31Third policies.
+- GitHub: https://clawhub.ai/skills/31third-safe-rebalancer-simple
+- Source: clawhub
+
+## Simple Random Interaction Designer
+
+- Author: clawhub
+- Description: Decide whether OpenClaw should send a spontaneous ping to the user during periodic checks, and choose a randomized interaction type when a ping is appropriat...
+- GitHub: https://clawhub.ai/skills/simple-random-interaction-designer
+- Source: clawhub
+
+## Clawd Zero Trust
+
+- Author: clawhub
+- Description: Zero Trust security hardening for OpenClaw deployments. Use when asked to audit, harden, or apply Zero Trust architecture to an OpenClaw instance — including...
+- GitHub: https://clawhub.ai/skills/clawd-zero-trust
+- Source: clawhub
+
+## Safe Encryption
+
+- Author: clawhub
+- Description: Encrypt, decrypt, and manage keys with the SAFE CLI — a modern GPG alternative with post-quantum support.
+- GitHub: https://clawhub.ai/skills/safe-encryption-skill
+- Source: clawhub
+
+## Agentcash Wallet
+
+- Author: clawhub
+- Description: Manage your agentcash wallet and call any x402-protected API with automatic payment. No API keys, no subscriptions — just a funded wallet (USDC on Base). USE...
+- GitHub: https://clawhub.ai/skills/agentcash-wallet
+- Source: clawhub
+
+## AI Safety Audit
+
+- Author: clawhub
+- Description: Performs a comprehensive AI safety audit mapping systems to EU AI Act risk tiers, assessing 30 controls across six domains, and generating a 90-day remediati...
+- GitHub: https://clawhub.ai/skills/afrexai-ai-safety-audit
+- Source: clawhub
+
+## Kiln
+
+- Author: clawhub
+- Description: Control 3D printers with AI agents — 273 MCP tools, 107 CLI commands, text/sketch-to-3D generation, model marketplace search, multi-printer fleet support, sa...
+- GitHub: https://clawhub.ai/skills/kiln
+- Source: clawhub
+
+## Taobao Image Search
+
+- Author: clawhub
+- Description: 使用淘宝进行以图搜同款、候选比对和加购物车操作。用户提供商品图片并要求“搜同款/找类似款/比价/加入购物车”时使用。优先执行本地脚本（save-taobao-cookie.js、verify-taobao-runner.js）完成全流程；当脚本失败或页面结构变化时回退 browser 工具手动执行。
+- GitHub: https://clawhub.ai/skills/taobao-image-search
+- Stars: 1
+- Source: clawhub
+
+## PortEden - Secure your calendar & email data.
+
+- Author: clawhub
+- Description: PortEden CLI for calendar and email management - Gmail, Outlook & Exchange - list, search, create, update, delete calendar events and list, search, read, sen...
+- GitHub: https://clawhub.ai/skills/porteden
+- Stars: 1
+- Source: clawhub
+
+## 31Third Safe Rebalancer
+
+- Author: clawhub
+- Description: Policy-aware Safe portfolio rebalancing assistant for 31Third ExecutorModule.
+- GitHub: https://clawhub.ai/skills/31third-safe-rebalancer
 - Source: clawhub
