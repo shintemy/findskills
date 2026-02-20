@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10617 skills | Last updated: 2026-02-20
+> Total: 10637 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -75410,4 +75410,145 @@ parallelisms, and excessive conjunctive phrases.
 - Description: Supreme model router for Venice.ai — the privacy-first, uncensored AI platform. Automatically classifies query complexity and routes to the cheapest adequate...
 - GitHub: https://clawhub.ai/skills/venice-ai-router-openclaw
 - Stars: 1
+- Source: clawhub
+
+## PowerPoint PPTX
+
+- Author: ivangdavila
+- Description: Create, edit, and automate PowerPoint presentations with python-pptx for slides, layouts, charts, and batch processing.
+- GitHub: https://clawhub.ai/ivangdavila/powerpoint-pptx
+- Source: clawhub
+
+## Bizcard
+
+- Author: project820
+- Description: Business card scanner + Google Contacts manager. Auto-detects business card images, extracts contact info via OCR (imageModel), confirms with user, saves to...
+- GitHub: https://clawhub.ai/project820/bizcard
+- Source: clawhub
+
+## LUKSO Agent Comms (The Firm)
+
+- Author: bitcargoCrew
+- Description: Standardized agent-to-agent communication protocol for OpenClaw agents on the LUKSO blockchain. Uses LSP1 Universal Receiver as the transport.
+- GitHub: https://clawhub.ai/bitcargoCrew/lukso-agent-comms-firm
+- Source: clawhub
+
+## Norman: Financial Overview
+
+- Author: clawhub
+- Description: Get a complete financial overview of the business including balance, recent transactions, outstanding invoices, and upcoming tax obligations. Use when the us...
+- GitHub: https://clawhub.ai/skills/norman-financial-overview
+- Source: clawhub
+
+## Tor Browser Automation
+
+- Author: Admin4Giter
+- Description: Headless browser automation with Tor SOCKS5 proxy support for accessing .onion sites and anonymous browsing. Use when navigating dark web resources, scraping...
+- GitHub: https://clawhub.ai/Admin4Giter/tor-browser
+- Source: clawhub
+
+## PayGents
+
+- Author: clawhub
+- Description: Accept crypto payments in AI agent conversations. Generate MetaMask/Trust Wallet deeplinks, verify transactions on-chain, check balances, issue receipts. No...
+- GitHub: https://clawhub.ai/skills/paygents
+- Source: clawhub
+
+## Spend Intelligence
+
+- Author: clawhub
+- Description: Analyze company spend data to identify waste, benchmark costs by industry, optimize vendor contracts, and forecast cash flow with a prioritized action plan.
+- GitHub: https://clawhub.ai/skills/afrexai-spend-intelligence
+- Source: clawhub
+
+## Commune — Agent Email Inbox
+
+- Author: clawhub
+- Description: Create and manage a persistent agent-only email inbox with full send/receive, semantic search, tagging, webhooks, and AI-powered structured data extraction.
+- GitHub: https://clawhub.ai/skills/commune
+- Source: clawhub
+
+## Geometry
+
+- Author: clawhub
+- Description: Generate AI images from text prompts. Pay per request with USDC on Solana via x402. No API keys, no accounts.
+- GitHub: https://clawhub.ai/skills/geometry
+- Source: clawhub
+
+## NeuroBoost Elixir
+
+- Author: clawhub
+- Description: AI Automaton performance optimizer — cut costs 30-50%, boost earnings 20-40%, extend survival 3x. The brain tonic for AI agents.
+- GitHub: https://clawhub.ai/skills/neuroboost-elixir
+- Source: clawhub
+
+## WebMCP
+
+- Author: clawhub
+- Description: WebMCP - Enable AI agents to interact with your web applications through structured tools. Implements the WebMCP standard for Next.js/React apps with tool re...
+- GitHub: https://clawhub.ai/skills/web-mcp
+- Source: clawhub
+
+## Evomap Bounty Hunter
+
+- Author: clawhub
+- Description: Automatically complete EvoMap Hub tasks to earn credits and build reputation. Use when user wants to earn EvoMap credits, complete bounty tasks automatically...
+- GitHub: https://clawhub.ai/skills/evomap-bounty-hunter
+- Source: clawhub
+
+## Aliyun Web Search
+
+- Author: clawhub
+- Description: 阿里云实时搜索 | Aliyun Real-time Web Search with Quark Engine
+- GitHub: https://clawhub.ai/skills/aliyun-web-search
+- Source: clawhub
+
+## Norman: Expense report
+
+- Author: clawhub
+- Description: Generate a detailed expense breakdown by category for a given period. Use when the user asks for an expense report, spending summary, Ausgabenübersicht, cost...
+- GitHub: https://clawhub.ai/skills/norman-expense-report
+- Source: clawhub
+
+## News Aggregator Skill 0.1.0
+
+- Author: clawhub
+- Description: Comprehensive news aggregator that fetches, filters, and deeply analyzes real-time content from 8 major sources: Hacker News, GitHub Trending, Product Hunt,...
+- GitHub: https://clawhub.ai/skills/news-aggregator-skill-0-1-0
+- Source: clawhub
+
+## ClawWork Genesis
+
+- Author: clawhub
+- Description: Pick a Genesis NFT, inscribe CLAW to earn CW Token and win it. Answer AI challenges, call the API, wait 30 min, repeat. Free NFT mining for OpenClaw agents o...
+- GitHub: https://clawhub.ai/skills/clawwork-genesis
+- Stars: 2
+- Source: clawhub
+
+## Laravel Forge
+
+- Author: florianbeer
+- Description: Manage Laravel Forge servers, sites, deployments, databases, integrations, and more via the Forge API.
+- GitHub: https://clawhub.ai/florianbeer/laravel-forge
+- Source: clawhub
+
+## Meme Signal Scanner
+
+- Author: weidadong2359
+- Description: Free meme coin signal scanner. Aggregates DEXScreener, Pump.fun, GeckoTerminal, CoinGecko trending data. Scores tokens 0-100 with risk assessment.
+- GitHub: https://clawhub.ai/weidadong2359/meme-signal
+- Source: clawhub
+
+## Lel-Mail
+
+- Author: Leli1024
+- Description: Send email, read email, Manage email
+- GitHub: https://clawhub.ai/Leli1024/lel-mail
+- Source: clawhub
+
+## Ryot Media Tracker
+
+- Author: f-liva
+- Description: Track and manage media consumption (TV shows, movies, books, anime, games) via Ryot API. Use when the user wants to mark content as watched/read/completed, s...
+- GitHub: https://clawhub.ai/f-liva/ryot
 - Source: clawhub
