@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10798 skills | Last updated: 2026-02-20
+> Total: 10813 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -76686,4 +76686,109 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Plan and execute a product launch for a solopreneur business. Use when launching a new product, feature, service, or major update. Covers pre-launch strategy...
 - GitHub: https://clawhub.ai/skills/product-launch
+- Source: clawhub
+
+## AgentCanary
+
+- Author: MrCerq
+- Description: Market intelligence API for AI agents. Macro regime detection, risk scoring, trading signals (IGNITION/ACCUMULATION/DISTRIBUTION/CAPITULATION), whale alerts,...
+- GitHub: https://clawhub.ai/MrCerq/agentcanary
+- Source: clawhub
+
+## Publora — Twitter
+
+- Author: clawhub
+- Description: Post or schedule content to X (Twitter) using the Publora API. Use this skill when the user wants to tweet, schedule a tweet, or post a thread to X/Twitter v...
+- GitHub: https://clawhub.ai/skills/publora-twitter
+- Source: clawhub
+
+## Publora — Instagram
+
+- Author: clawhub
+- Description: Post or schedule content to Instagram using the Publora API. Use this skill when the user wants to publish images, carousels, or reels to Instagram via Publora.
+- GitHub: https://clawhub.ai/skills/publora-instagram
+- Source: clawhub
+
+## Publora — Threads
+
+- Author: clawhub
+- Description: Post or schedule content to Threads using the Publora API. Use this skill when the user wants to publish or schedule a Threads post via Publora.
+- GitHub: https://clawhub.ai/skills/publora-threads
+- Source: clawhub
+
+## Publora — Linkedin
+
+- Author: clawhub
+- Description: Post or schedule content to LinkedIn using the Publora API. Use this skill when the user wants to publish, schedule, or draft a LinkedIn post via Publora.
+- GitHub: https://clawhub.ai/skills/publora-linkedin
+- Source: clawhub
+
+## Publora
+
+- Author: clawhub
+- Description: Publora API — schedule and publish social media posts across 10 platforms (X/Twitter, LinkedIn, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Masto...
+- GitHub: https://clawhub.ai/skills/publora
+- Source: clawhub
+
+## Show My IP
+
+- Author: clawhub
+- Description: Show the current public IP address of the server. Use when asked about IP, public IP, or network identity.
+- GitHub: https://clawhub.ai/skills/show-my-ip
+- Source: clawhub
+
+## Claude Code Task
+
+- Author: VsevolodUstinov
+- Description: Run Claude Code tasks in background with automatic result delivery. Use for coding tasks, research in codebases, file generation, complex automations. Zero O...
+- GitHub: https://clawhub.ai/VsevolodUstinov/claude-code-task
+- Source: clawhub
+
+## Landing Gen
+
+- Author: clawhub
+- Description: Generate landing page content from PRD — hero section, features, A/B headline variants, CTA, and SEO meta tags. Use when user says "create landing page", "wr...
+- GitHub: https://clawhub.ai/skills/solo-landing-gen
+- Source: clawhub
+
+## Init
+
+- Author: clawhub
+- Description: One-time founder onboarding — generates personalized manifest, STREAM calibration, dev principles, and stack selection. Use when user says "set up solo facto...
+- GitHub: https://clawhub.ai/skills/solo-init
+- Source: clawhub
+
+## Humanize
+
+- Author: clawhub
+- Description: Strip AI writing patterns from text — em dashes, stock phrases, promotional inflation, performed authenticity, rule-of-three lists. Use when user says "human...
+- GitHub: https://clawhub.ai/skills/solo-humanize
+- Source: clawhub
+
+## Deploy
+
+- Author: clawhub
+- Description: Deploy project to hosting platform — read stack YAML for exact config, detect local CLI tools (vercel, wrangler, supabase, fly, sst), set up database, push c...
+- GitHub: https://clawhub.ai/skills/solo-deploy
+- Source: clawhub
+
+## Skill Earnings Tracker
+
+- Author: clawhub
+- Description: Track earnings from published ClawHub and EvoMap skills. Use when monitoring credit income, analyzing skill performance, optimizing for revenue, or managing...
+- GitHub: https://clawhub.ai/skills/skill-earnings-tracker
+- Source: clawhub
+
+## Genome Manager
+
+- Author: clawhub
+- Description: Manage Genome Evolution Protocol (GEP) genomes for AI agent self-evolution. Use when creating, storing, retrieving, mutating, or tracking genomes - the encod...
+- GitHub: https://clawhub.ai/skills/genome-manager
+- Source: clawhub
+
+## maasv Memory
+
+- Author: clawhub
+- Description: Provides structured long-term memory with semantic, keyword, and knowledge graph retrieval, entity extraction, temporal versioning, and experiential learning.
+- GitHub: https://clawhub.ai/skills/maasv-memory
 - Source: clawhub
