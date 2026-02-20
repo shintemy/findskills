@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10581 skills | Last updated: 2026-02-20
+> Total: 10599 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -75156,4 +75156,131 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Monitor SEC EDGAR filings for AI/tech companies in real time. Use this skill when the user asks about SEC filings, EDGAR data, company disclosures, 8-K event...
 - GitHub: https://clawhub.ai/skills/sec-watcher
+- Source: clawhub
+
+## denote-org
+
+- Author: junghan0611
+- Description: Denote-Org Skills for Claude: Extends Anthropic's Life Sciences paradigm from Biology to Life Everything. 3,000+ files validated PKM system.
+- GitHub: https://github.com/junghan0611/denotecli
+- Stars: 7
+- Source: github
+
+## @openclaw/interchange
+
+- Author: frank-bot07
+- Description: Shared .md interchange library for OpenClaw skills — atomic writes, deterministic serialization, YAML frontmatter, advisory locking, and schema validation. T...
+- GitHub: https://clawhub.ai/frank-bot07/openclaw-interchange
+- Source: clawhub
+
+## openclaw-voice
+
+- Author: frank-bot07
+- Description: Transcribe audio to text and generate spoken AI responses using Whisper and ElevenLabs via CLI with transcript storage and search.
+- GitHub: https://clawhub.ai/frank-bot07/openclaw-voice
+- Source: clawhub
+
+## @openclaw/orchestration
+
+- Author: frank-bot07
+- Description: Framework for coordinating multi-agent tasks with atomic claims, dependencies, retries, and markdown task visibility using a shared SQLite queue.
+- GitHub: https://clawhub.ai/frank-bot07/openclaw-orchestration
+- Source: clawhub
+
+## A2achat
+
+- Author: AndrewAndrewsen
+- Description: Secure agent-to-agent messaging — handshake, send, poll, and stream messages between AI agents via the a2achat.top API.
+- GitHub: https://clawhub.ai/AndrewAndrewsen/a2achat
+- Source: clawhub
+
+## Ai Influencer Generation
+
+- Author: eftalyurtseven
+- Description: Generate consistent AI influencer personas and social media content using each::sense API
+- GitHub: https://clawhub.ai/eftalyurtseven/ai-influencer-generation
+- Source: clawhub
+
+## Ai Headshot Generation
+
+- Author: eftalyurtseven
+- Description: Generate professional AI headshots from casual photos using each::sense AI. Create corporate portraits, LinkedIn photos, executive headshots, team photos, an...
+- GitHub: https://clawhub.ai/eftalyurtseven/ai-headshot-generation
+- Source: clawhub
+
+## App Store Screenshot Generation
+
+- Author: eftalyurtseven
+- Description: Generate App Store and Google Play screenshot assets using each::sense AI. Create device-framed screenshots, feature highlights, localized versions, and prom...
+- GitHub: https://clawhub.ai/eftalyurtseven/app-store-screenshot-generation
+- Source: clawhub
+
+## Nyne Search
+
+- Author: MichaelFanous2
+- Description: Search for people using natural language queries with the Nyne Search API. Find professionals by role, company, location, industry, or any combination. Suppo...
+- GitHub: https://clawhub.ai/MichaelFanous2/nyne-search
+- Source: clawhub
+
+## Nyne Enrichment
+
+- Author: MichaelFanous2
+- Description: Enrich any person by email, phone, LinkedIn URL, or name using the Nyne Enrichment API. Returns contact info, social profiles, work history, education, and o...
+- GitHub: https://clawhub.ai/MichaelFanous2/nyne-enrichment
+- Source: clawhub
+
+## Sun Path & Environmental Analysis
+
+- Author: QROST
+- Description: Generates a sun path diagram, calculates solar position, performs building shadow analysis, and analyzes thermal comfort.
+- GitHub: https://clawhub.ai/QROST/sun-path
+- Source: clawhub
+
+## Quiz Battle
+
+- Author: russianoracle
+- Description: Интерактивная викторина по школьным предметам и программированию с inline кнопками. Используй когда пользователь просит поиграть в викторину, проверить знани...
+- GitHub: https://clawhub.ai/russianoracle/quiz-battle
+- Source: clawhub
+
+## Football English
+
+- Author: russianoracle
+- Description: Football quiz in English! Test your knowledge about football while learning English vocabulary. Используй когда пользователь просит football quiz, футбольную...
+- GitHub: https://clawhub.ai/russianoracle/football-english
+- Source: clawhub
+
+## Code Detective
+
+- Author: russianoracle
+- Description: Найди баг в коде! Интерактивная игра для тренировки отладки с 3 уровнями сложности. Используй когда пользователь просит "найди баг", "потренироваться в отлад...
+- GitHub: https://clawhub.ai/russianoracle/code-detective
+- Source: clawhub
+
+## Feishu Bitable Creator
+
+- Author: clawhub
+- Description: Create and populate Feishu (Lark) Bitable (multidimensional tables) with automated cleanup. Use when the user needs to: 1. Create a new Bitable from scratch...
+- GitHub: https://clawhub.ai/skills/feishu-bitable-creator
+- Source: clawhub
+
+## Nyne Deep Research
+
+- Author: MichaelFanous2
+- Description: Research any person using the Nyne Deep Research API. Submit an email, phone, social URL, or name and receive a comprehensive intelligence dossier with psych...
+- GitHub: https://clawhub.ai/MichaelFanous2/nyne-deep-research
+- Source: clawhub
+
+## Iblai Openclaw Router
+
+- Author: clawhub
+- Description: Cost-optimizing model router for OpenClaw. Automatically routes each request to the cheapest capable Claude model (Haiku/Sonnet/Opus) using weighted scoring....
+- GitHub: https://clawhub.ai/skills/iblai-openclaw-router
+- Source: clawhub
+
+## Skill
+
+- Author: clawhub
+- Description: AI-powered event assistant for discovering, booking, and coordinating event tickets. Integrates with KYD Labs protocol and Google Calendar.
+- GitHub: https://clawhub.ai/skills/tixflow
 - Source: clawhub
