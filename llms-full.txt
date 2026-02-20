@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10496 skills | Last updated: 2026-02-20
+> Total: 10537 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -74551,4 +74551,294 @@ parallelisms, and excessive conjunctive phrases.
 - Author: lws803
 - Description: Fetch recent GitHub activity from the Nom feed
 - GitHub: https://clawhub.ai/lws803/nom-feed
+- Source: clawhub
+
+## Leetify
+
+- Author: Damirikys
+- Description: Get CS2/CS:GO player statistics, match analysis, and gameplay insights from Leetify API. Uses Telegram username to Steam ID mapping for easy access. Use when...
+- GitHub: https://clawhub.ai/Damirikys/leetify
+- Source: clawhub
+
+## SaySigned - Agreement infrastructure for AI agents
+
+- Author: klsv
+- Description: Enable AI agents to register, create, send, sign, and verify legally binding e-signature agreements via API or email with automated key and config management.
+- GitHub: https://clawhub.ai/klsv/saysigned
+- Source: clawhub
+
+## Dr. Frankenstein
+
+- Author: brancante
+- Description: Give your agents soul.
+- GitHub: https://clawhub.ai/brancante/dr-frankenstein
+- Source: clawhub
+
+## DEX Aggregator Quote
+
+- Author: AaronLLee
+- Description: Fetch optimal swap quotes from OKX DEX Aggregator API (v6). Use this skill when a user wants to: 1. Get the best price for swapping tokens on any supported E...
+- GitHub: https://clawhub.ai/AaronLLee/dex-quote
+- Source: clawhub
+
+## EffortList AI
+
+- Author: Quarantiine
+- Description: Manage EffortList AI folders, tasks, and todos. Use when the user wants to organize their life, track projects, or manage schedules via the EffortList AI pla...
+- GitHub: https://clawhub.ai/Quarantiine/effortlist-ai
+- Stars: 1
+- Source: clawhub
+
+## BotSee
+
+- Author: grahac
+- Description: AI-powered competitive intelligence via BotSee API
+- GitHub: https://clawhub.ai/grahac/botsee
+- Source: clawhub
+
+## Stanley Druckenmiller Workflow
+
+- Author: clawhub
+- Description: A thesis-driven market analysis workflow using liquidity, rates, credit, and internals to form and test macro hypotheses in a live PM memo style.
+- GitHub: https://clawhub.ai/skills/stanley-druckenmiller-workflow
+- Source: clawhub
+
+## Evm Audit Cli
+
+- Author: clawhub
+- Description: AI-powered smart contract auditing using OpenRouter. Lightweight alternative to evmbench - no docker needed.
+- GitHub: https://clawhub.ai/skills/evm-audit-cli
+- Source: clawhub
+
+## Localsend
+
+- Author: clawhub
+- Description: Send and receive files to/from nearby devices using the LocalSend protocol. Trigger with /localsend to get an interactive Telegram menu with real inline butt...
+- GitHub: https://clawhub.ai/skills/localsend
+- Source: clawhub
+
+## Search Recent Github Activities
+
+- Author: lws803
+- Description: Fetch recent GitHub activity from the Nom feed
+- GitHub: https://clawhub.ai/lws803/nom
+- Source: clawhub
+
+## OpenClaw Email Lead Generation
+
+- Author: jeffjhunter
+- Description: OpenClaw Email Lead Generation — the complete outreach and pipeline system for your agent. Guided setup builds your config, Template Forge creates custom ema...
+- GitHub: https://clawhub.ai/jeffjhunter/openclaw-email-lead-generation
+- Source: clawhub
+
+## Multi-Agent Dev Team
+
+- Author: ChloePark85
+- Description: 2-agent collaborative software development workflow for OpenClaw
+- GitHub: https://clawhub.ai/ChloePark85/multi-agent-dev-team
+- Source: clawhub
+
+## Slither Audit
+
+- Author: aviclaw
+- Description: Run slither static analysis on Solidity contracts. Fast, lightweight security scanner for EVM smart contracts.
+- GitHub: https://clawhub.ai/aviclaw/slither-audit
+- Source: clawhub
+
+## Gourmet Spicy Food Lafeitu
+
+- Author: NowLoadY
+- Description: The premier Agent-ready food delivery skill. Access authentic Sichuan spicy snacks and the definitive "Salt Capital" (自贡) rabbit specialty catalog. Designed...
+- GitHub: https://clawhub.ai/NowLoadY/gourmet-spicy-food-lafeitu
+- Source: clawhub
+
+## fastfish 开源精简版
+
+- Author: superxs777
+- Description: fastfish 开源精简版。提供公众号格式整理、敏感词检测（本地）、每日热点、本地 HTML 预览。无微信发布/授权，需商业版。通过 system.run 调用 CLI。
+- GitHub: https://clawhub.ai/superxs777/fastfish-lite
+- Source: clawhub
+
+## Skill Search
+
+- Author: at6132
+- Description: Find and retrieve available skills from the local skill registry. Use when the agent needs to discover, search, or load a specific skill for a task. Trigger...
+- GitHub: https://clawhub.ai/at6132/fitcheck-skill-search
+- Source: clawhub
+
+## PrintPal 3D Generation
+
+- Author: plebbyd
+- Description: Generate 3D models for 3D printing from images or text prompts using PrintPal API. Use when the user wants to create 3D printable models, convert images to S...
+- GitHub: https://clawhub.ai/plebbyd/printpal-3d
+- Stars: 1
+- Source: clawhub
+
+## skill-refiner
+
+- Author: 1va7
+- Description: Audit and fix all skills in the workspace for compliance with skill-creator requirements. Use when asked to "refine skills", "audit skills", "check skill qua...
+- GitHub: https://clawhub.ai/1va7/skill-refiner
+- Source: clawhub
+
+## Echo AI
+
+- Author: darthdens
+- Description: Connect to Echo AI — the customer interaction platform. List assistants, retrieve knowledge bases, and chat with AI-powered Echos built by businesses and cre...
+- GitHub: https://clawhub.ai/darthdens/echo-ai
+- Source: clawhub
+
+## elliott-wave-principle
+
+- Author: clawhub
+- Description: Provides expert guidance on applying the Elliott Wave Principle to financial market analysis. Use when the user asks about wave counting, identifying impulse...
+- GitHub: https://clawhub.ai/skills/elliott-wave-principle
+- Source: clawhub
+
+## App Store ReviewReply
+
+- Author: nicholasrae
+- Description: Automated App Store review monitor and reply drafter. Monitors App Store Connect for new reviews, drafts warm on-brand replies for 1-3 star reviews, surfaces...
+- GitHub: https://clawhub.ai/nicholasrae/nicholasrae-review-reply
+- Source: clawhub
+
+## Expense Tracker
+
+- Author: clawhub
+- Description: Chat-based personal expense tracker. Log expenses in plain language, track budgets, generate spending reports, and manage categories. Use when user wants to...
+- GitHub: https://clawhub.ai/skills/nicholasrae-expense-tracker
+- Source: clawhub
+
+## Devtools Secrets
+
+- Author: basher83
+- Description: Knowledge and guardrails for the mise + fnox + infisical secrets toolchain. Use when the user asks to "configure secrets", "set up fnox", "infisical", "mise...
+- GitHub: https://clawhub.ai/basher83/devtools-secrets
+- Source: clawhub
+
+## Notion Md
+
+- Author: clawhub
+- Description: Convert Markdown to Notion blocks with full format support. Handles bold, italic, strikethrough, inline code, headings, lists, tables, callouts, and more.
+- GitHub: https://clawhub.ai/skills/notion-md
+- Source: clawhub
+
+## MemSync Dual Memory System
+
+- Author: clawhub
+- Description: Logs all OpenClaw conversations and events with role tags, saving to JSONL and Memvid for full context search and monthly sharded or single-file storage.
+- GitHub: https://clawhub.ai/skills/openclaw-memvid-logger
+- Source: clawhub
+
+## MrScraper
+
+- Author: ai-mrscraper
+- Description: Run AI-powered, unblockable web scraping, data extraction with natural language via the MrScraper API
+- GitHub: https://clawhub.ai/ai-mrscraper/mrscraper
+- Source: clawhub
+
+## Zhipu AI Search
+
+- Author: clawhub
+- Description: 使用智谱 Web Search API 进行网络搜索。当用户需要搜索最新信息、查找实时数据、查询新闻、研究某个话题或获取网络上的信息时使用。支持多种搜索引擎（智谱基础版/高阶版、搜狗、夸克），可配置搜索范围、时间筛选、结果数量等参数。
+- GitHub: https://clawhub.ai/skills/another-zhipu-web-search
+- Source: clawhub
+
+## Feishu Automation
+
+- Author: clawhub
+- Description: Advanced automation workflows for Feishu (Lark) productivity suite. Use when you need to automate document workflows, sync data across Feishu apps, generate...
+- GitHub: https://clawhub.ai/skills/feishu-automation
+- Stars: 1
+- Source: clawhub
+
+## EvoMap
+
+- Author: segasonicye
+- Description: Connect to the EvoMap collaborative evolution marketplace. Publish Gene+Capsule bundles, fetch promoted assets, claim bounty tasks, and earn credits via the...
+- GitHub: https://clawhub.ai/segasonicye/evomap
+- Source: clawhub
+
+## AI Market Intelligence Agent
+
+- Author: clawhub
+- Description: 自动监控并聚合多平台市场和行业数据，生成定制化报告，洞察趋势、机会、风险及竞品动态。
+- GitHub: https://clawhub.ai/skills/market-intelligence
+- Source: clawhub
+
+## Baseball
+
+- Author: clawhub
+- Description: Fetch MLB game schedules, live game status, and box scores via the MLB Stats API. Use when the user asks about baseball games, scores, who is playing today,...
+- GitHub: https://clawhub.ai/skills/baseball
+- Source: clawhub
+
+## Atlas Argos Teste
+
+- Author: felix1983
+- Description: Gestor autónomo do ARGOS que mantém o bot de trading cripto em funcionamento, gere utilizadores, pagamentos, marketing e programação em Python.
+- GitHub: https://clawhub.ai/felix1983/atlas-argos-teste
+- Source: clawhub
+
+## Qr Generator
+
+- Author: clawhub
+- Description: Generate QR codes from text or URL for mobile scanning.
+- GitHub: https://clawhub.ai/skills/qr-generator
+- Source: clawhub
+
+## Check and book Tennis and Pickleball Courts at Bay Club Gateway
+
+- Author: clawhub
+- Description: Book and manage tennis/pickleball courts at Bay Club.
+- GitHub: https://clawhub.ai/skills/bayclub-gateway-booking
+- Source: clawhub
+
+## Polymarket Arbitrage Cn
+
+- Author: guohongbin-git
+- Description: Polymarket 套利 | Polymarket Arbitrage. 预测市场套利机会 | Prediction market arbitrage opportunities. 自动发现价格差异 | Auto discover price differences. 触发词：Polymarket、预测市场、套...
+- GitHub: https://clawhub.ai/guohongbin-git/polymarket-arbitrage-cn
+- Source: clawhub
+
+## AI Specialists Hub
+
+- Author: clawhub
+- Description: Interact with AI Specialists via the AI Specialists Hub MCP endpoint. Use when the user asks about any of their AI specialists (e.g. Ruby, Peter, Benjamin, M...
+- GitHub: https://clawhub.ai/skills/ai-specialists
+- Source: clawhub
+
+## Skulk Skill Scanner
+
+- Author: clawhub
+- Description: Scan OpenClaw skill folders for security red flags before installing or publishing. Detects data exfiltration, credential theft, prompt injection, destructiv...
+- GitHub: https://clawhub.ai/skills/skulk-skill-scanner
+- Source: clawhub
+
+## Pylon Support Toolkit
+
+- Author: clawhub
+- Description: Work with Pylon tickets via their REST API. Use when you need to list or inspect issues, add internal notes/customer replies, or run any ad‑hoc Pylon API call.
+- GitHub: https://clawhub.ai/skills/pylon-support
+- Source: clawhub
+
+## SP3ND — Buy from Amazon with USDC
+
+- Author: clawhub
+- Description: Buy products from Amazon using USDC on Solana. The cheapest and fastest way for AI agents to purchase physical products with crypto — 0% platform fee, free P...
+- GitHub: https://clawhub.ai/skills/sp3nd
+- Source: clawhub
+
+## Vercel to Cloudflare Worker Migration
+
+- Author: clawhub
+- Description: Migrate Next.js projects from Vercel to Cloudflare Workers with Supabase/Hyperdrive support. Use when user wants to move a Next.js app off Vercel to reduce c...
+- GitHub: https://clawhub.ai/skills/vercel-to-cloudflare
+- Source: clawhub
+
+## Invoice Collector
+
+- Author: clawhub
+- Description: Collect invoices/receipts from Gmail and send a summary email with attachments. Automatically downloads PDF attachments or takes screenshots of emails withou...
+- GitHub: https://clawhub.ai/skills/invoice-collector
 - Source: clawhub
