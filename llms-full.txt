@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10712 skills | Last updated: 2026-02-20
+> Total: 10730 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -76078,4 +76078,130 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: AgentPuzzles-first package with xfor and Ant Farm support for posting and room workflows.
 - GitHub: https://clawhub.ai/skills/agent-puzzles
+- Source: clawhub
+
+## Paperzilla
+
+- Author: pors
+- Description: Use the Paperzilla CLI (pz) to search, filter, and browse high-signal academic papers. Trigger when the user wants to check research feeds, list projects, in...
+- GitHub: https://clawhub.ai/pors/paperzilla
+- Source: clawhub
+
+## Git Engineering & Repository Strategy
+
+- Author: 1kalin
+- Description: Expert guidance on designing branching strategies, commit standards, code review workflows, monorepo management, automated releases, and maintaining scalable...
+- GitHub: https://clawhub.ai/1kalin/afrexai-git-engineering
+- Source: clawhub
+
+## Content Research Writer Cn
+
+- Author: guohongbin-git
+- Description: 内容研究写作助手。进行研究、添加引用、改进开头、迭代大纲、提供实时反馈。触发词：写文章、内容创作、文案、博客。翻译自 ComposioHQ。
+- GitHub: https://clawhub.ai/guohongbin-git/content-research-writer-cn
+- Source: clawhub
+
+## Hash Toolkit
+
+- Author: clawhub
+- Description: Content hashing for deduplication with MD5, SHA256, and perceptual hashing
+- GitHub: https://clawhub.ai/skills/hash-toolkit
+- Source: clawhub
+
+## Gpt Analyzer
+
+- Author: clawhub
+- Description: GPT-specific pattern detection with model fingerprinting and version identification
+- GitHub: https://clawhub.ai/skills/gpt-analyzer
+- Source: clawhub
+
+## Paperzilla CLI
+
+- Author: clawhub
+- Description: Paperzilla CLI lets you search, filter, and browse AI-curated academic papers by project, requiring a Paperzilla account for authentication.
+- GitHub: https://clawhub.ai/skills/pz
+- Source: clawhub
+
+## Smart Cache
+
+- Author: clawhub
+- Description: Intelligent caching with LRU/LFU strategies and TTL management
+- GitHub: https://clawhub.ai/skills/smart-cache
+- Source: clawhub
+
+## Agent Watcher Skill
+
+- Author: clawhub
+- Description: Monitors Moltbook feed for new agents and posts, tracks keywords, and saves interesting agents to your Open Notebook for easy reference.
+- GitHub: https://clawhub.ai/skills/agent-watcher
+- Source: clawhub
+
+## Rate Limit Pro
+
+- Author: clawhub
+- Description: Advanced rate limiting with tiered controls and quota management
+- GitHub: https://clawhub.ai/skills/rate-limit-pro
+- Source: clawhub
+
+## Nlp Toolkit
+
+- Author: clawhub
+- Description: Advanced NLP with perplexity scoring, burstiness analysis, and entropy calculation
+- GitHub: https://clawhub.ai/skills/nlp-toolkit
+- Source: clawhub
+
+## Clawked
+
+- Author: clawhub
+- Description: Interact with the Ceaser privacy protocol on Base L2. Shield and unshield ETH via CLI subcommands (npx ceaser-mcp shield/unshield/notes). Query pool stats, d...
+- GitHub: https://clawhub.ai/skills/agent-privacy-skill
+- Source: clawhub
+
+## Token Efficiency Guide: Cut OpenClaw Consumption by 80-90%
+
+- Author: clawhub
+- Description: Cut your OpenClaw token consumption by 80-90% with 10 proven steps. Covers heartbeat model selection, session compaction, cron-to-bash conversion, model rout...
+- GitHub: https://clawhub.ai/skills/token-efficiency-guide
+- Source: clawhub
+
+## PortEden - secured email (Gmail, Outlook, Exchange) access for OpenClaw
+
+- Author: clawhub
+- Description: PortEden Email CLI for email management - list, search, read, send, reply, forward, delete, and modify emails across multiple accounts.
+- GitHub: https://clawhub.ai/skills/porteden-email
+- Source: clawhub
+
+## Verified Agent Identity
+
+- Author: OBrezhniev
+- Description: Billions/Iden3 authentication and identity management tools for agents. Proof, sign, and verify.
+- GitHub: https://clawhub.ai/OBrezhniev/verified-agent-identity
+- Source: clawhub
+
+## Moltbook Verification Solver
+
+- Author: pickmemory
+- Description: Automatically solve Moltbook verification challenges (math problems) when posting. Parses obfuscated number text and calculates answers.
+- GitHub: https://clawhub.ai/pickmemory/moltbook-verification-solver
+- Source: clawhub
+
+## Colony Solana
+
+- Author: clawhub
+- Description: Play Colony game on Solana — buy lands, upgrade, claim $OLO earnings, swap tokens via Jupiter. Full autonomous gameplay with strategy optimization.
+- GitHub: https://clawhub.ai/skills/colony-solana
+- Source: clawhub
+
+## FireAnt Stock Price Checker
+
+- Author: clawhub
+- Description: Automated Vietnamese stock price and index checking on FireAnt.vn. Use when checking current stock prices, market indices, trading volumes, or financial info...
+- GitHub: https://clawhub.ai/skills/fireant-stock
+- Source: clawhub
+
+## /add-wish — Universal Add to Wishlist
+
+- Author: clawhub
+- Description: Save any product to a universal wishlist. Converts any product URL into a one-click "save for later" link. Works with any retailer, any AI platform, zero setup.
+- GitHub: https://clawhub.ai/skills/add-wish
 - Source: clawhub
