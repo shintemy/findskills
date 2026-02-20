@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10672 skills | Last updated: 2026-02-20
+> Total: 10689 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -75798,4 +75798,123 @@ parallelisms, and excessive conjunctive phrases.
 - Description: 实现多个Telegram Bot在群聊中通过正确sessionKey和message参数进行高效协同通信，提高多agent协作效率。
 - GitHub: https://clawhub.ai/skills/telegram-bot-chat
 - Stars: 1
+- Source: clawhub
+
+## Privacy Agent
+
+- Author: govindaraj-vadivelu
+- Description: AI-powered privacy policy analyzer - OpenClaw skill
+- GitHub: https://github.com/govindaraj-vadivelu/privacy-agent
+- Source: github
+
+## google-docs
+
+- Author: danielkwapien
+- Description: Google Docs & Drive skill for AI coding assistants (Claude Code, gemini-cli, Codex, Cursor). Fork of robtaylor/google-docs-skill with Markdown support & large doc insertion.
+- GitHub: https://github.com/danielkwapien/google-docs-skill
+- Source: github
+
+## Exa tools
+
+- Author: clawhub
+- Description: Use when tasks need Exa MCP for web or people research, or when preparing Exa MCP server configuration with a fixed tool set. Trigger for requests to run Exa...
+- GitHub: https://clawhub.ai/skills/exa-skill
+- Source: clawhub
+
+## Discord Graphics Generation
+
+- Author: eftalyurtseven
+- Description: Generate Discord server graphics using each::sense AI. Create server icons, banners, role icons, welcome graphics, event banners, bot avatars, emojis, and mo...
+- GitHub: https://clawhub.ai/eftalyurtseven/discord-graphics-generation
+- Source: clawhub
+
+## ScamShield Verifier (Web3 Security)
+
+- Author: marcodzano-lgtm
+- Description: The ultimate Web3 & OpenClaw security layer. Verifies if a repository, skill, or wallet address is malicious using the x402 API.
+- GitHub: https://clawhub.ai/marcodzano-lgtm/scamshield-verifier
+- Source: clawhub
+
+## Digital Twin Generation
+
+- Author: clawhub
+- Description: Generate photorealistic digital twins and avatar clones using each::sense AI. Create AI-powered digital representations for video calls, corporate communicat...
+- GitHub: https://clawhub.ai/skills/digital-twin-generation
+- Source: clawhub
+
+## Depth Map Generation
+
+- Author: clawhub
+- Description: Generate depth maps from images using each::sense AI. Create depth estimation for 3D effects, parallax animations, VR/AR applications, focus effects, and ste...
+- GitHub: https://clawhub.ai/skills/depth-map-generation
+- Source: clawhub
+
+## Message Analyzer
+
+- Author: clawhub
+- Description: Analyze iMessage (macOS) and Signal conversation history to reveal relationship dynamics — message volume, initiation patterns, silence gaps, tone samples, a...
+- GitHub: https://clawhub.ai/skills/message-analyzer
+- Source: clawhub
+
+## First Principles Thinking
+
+- Author: ivangdavila
+- Description: Break problems to fundamentals, rebuild from truth, eliminate hidden assumptions.
+- GitHub: https://clawhub.ai/ivangdavila/first-principles-thinking
+- Source: clawhub
+
+## Jenkins
+
+- Author: clawhub
+- Description: Interact with Jenkins CI/CD server via REST API. Use when you need to trigger builds, check build status, view console output, manage jobs, or monitor Jenkin...
+- GitHub: https://clawhub.ai/skills/jenkins
+- Source: clawhub
+
+## OpenClaw Russian — русскоязычный AI-ассистент с характером.
+
+- Author: clawhub
+- Description: Русский AI-ассистент с характером. Отвечает прямо, без воды, иногда с крепким словцом. Специализируется на честных разборах, технических темах, анализе ситуа...
+- GitHub: https://clawhub.ai/skills/russian-uncensored
+- Source: clawhub
+
+## WatchOrFight - Predict
+
+- Author: wof-developers
+- Description: Trade prediction markets on WatchOrFight — on-chain oracle-settled markets with USDC stakes on Base
+- GitHub: https://clawhub.ai/wof-developers/wof-predict
+- Source: clawhub
+
+## Visual Studio Publisher
+
+- Author: clawhub
+- Description: Generate AI images/videos with a chosen visual persona and publish them to a Visual Studio feed API. Use when asked to create visual content, run a generatio...
+- GitHub: https://clawhub.ai/skills/visual-studio-agent
+- Source: clawhub
+
+## Init Manager
+
+- Author: clawhub
+- Description: Manage tasks in Init Manager — pick up ready tasks, update status, comment, and close out. Use when assigned tasks via webhook or cron, or when interacting w...
+- GitHub: https://clawhub.ai/skills/init-manager
+- Source: clawhub
+
+## RAG Engineering
+
+- Author: clawhub
+- Description: Expert guidance to build, optimize, and debug production-ready Retrieval-Augmented Generation (RAG) systems using a complete methodology from architecture to...
+- GitHub: https://clawhub.ai/skills/afrexai-rag-engineering
+- Source: clawhub
+
+## Investor Update
+
+- Author: clawhub
+- Description: Generate concise, honest monthly or quarterly investor updates from your company metrics, milestones, challenges, cash status, and specific asks to build tru...
+- GitHub: https://clawhub.ai/skills/afrexai-investor-update
+- Source: clawhub
+
+## Redmine Issue
+
+- Author: clawhub
+- Description: Read Redmine issues from any Redmine server via REST API with configurable URL and credentials. Use when you need to fetch a single issue, list/filter issues...
+- GitHub: https://clawhub.ai/skills/redmine-issue
 - Source: clawhub
