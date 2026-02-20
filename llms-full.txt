@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10537 skills | Last updated: 2026-02-20
+> Total: 10565 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -74841,4 +74841,207 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Collect invoices/receipts from Gmail and send a summary email with attachments. Automatically downloads PDF attachments or takes screenshots of emails withou...
 - GitHub: https://clawhub.ai/skills/invoice-collector
+- Source: clawhub
+
+## Study
+
+- Author: NepKisa
+- Description: Skill from NepKisa/Study
+- GitHub: https://github.com/NepKisa/Study
+- Stars: 1
+- Source: github
+
+## glimmer
+
+- Author: MaTriXy
+- Description: A skill to design with Glimmer ui.
+- GitHub: https://github.com/MaTriXy/Glimmer
+- Stars: 1
+- Source: github
+
+## serena-mcp
+
+- Author: v2sh1t
+- Description: Semantic code retrieval and editing using Serena MCP server. Automatically provides IDE-like symbol-level code operations including find_symbol, find_referencing_symbols, insert_after_symbol, rename_symbol, and more. Use this skill when working with codebases that require: (1) Finding specific functions, classes, or symbols by name, (2) Finding all references to a symbol, (3) Making precise symbol-level code edits, (4) Navigating complex codebases efficiently, (5) Any semantic code operations beyond simple string replacement. This skill works with 30+ programming languages via LSP integration.
+- GitHub: https://github.com/v2sh1t/serena-mcp
+- Source: github
+
+## Openclaw Memvid Logger
+
+- Author: stackBlock
+- Description: Memvid Dual-output conversation logger for OpenClaw
+- GitHub: https://github.com/stackBlock/openclaw-memvid-logger
+- Source: github
+
+## story_chain_multiverse
+
+- Author: klcintw
+- Description: 多元宇宙互動故事接龍系統。根據玩家輸入與當前劇情，續寫下一小段故事。支援科幻、未來、歷史、穿越、系統、仙俠、魔法、奇幻、影視動漫同人、武俠、重生、都市、異能等多題材自由混合。
+- GitHub: https://github.com/klcintw/story_chain_multiverse
+- Source: github
+
+## gemini-image
+
+- Author: Kosthi
+- Description: Claude Code skill for AI image generation via Gemini CLI + nanobanana extension
+- GitHub: https://github.com/Kosthi/gemini-banana-skill
+- Source: github
+
+## autonomous-loop
+
+- Author: dha201
+- Description: Phase-aware autonomous engineering loop with crash recovery and spec-first testing. Combines Ralph Loop persistence with Compound Engineering workflows for long-horizon feature development. Use when running autonomous multi-phase engineering tasks.
+- GitHub: https://github.com/dha201/Autonomous-Loop---skill
+- Source: github
+
+## skill-refactor
+
+- Author: GinoNovello
+- Description: Transform and refactor existing skills by applying pattern substitutions (package managers, hosting platforms, build tools, testing frameworks). Use when: adapting a skill to use different tools (e.g., pnpm→bun, cloudflare→vercel), migrating project patterns, or aligning skills with your tech stack.
+- GitHub: https://github.com/GinoNovello/skills
+- Source: github
+
+## quodd
+
+- Author: khaney64
+- Description: Fetch real-time stock quotes via Quodd API. Get current prices, daily high/low, and after-hours data for US equities. Use when the user asks for stock prices, quotes, market data, or ticker information.
+- GitHub: https://github.com/khaney64/quodd-skill
+- Source: github
+
+## remember-me
+
+- Author: AchalS-iglu
+- Description: Remember-this trigger: memory updates + recall for preferences, goals, boundaries, prior work, decisions, dates, and todos. Use whenever user asks to remember, continue previous context, personalize behavior, or retrieve what was decided earlier.
+- GitHub: https://github.com/AchalS-iglu/remember-me-openclaw
+- Source: github
+
+## google-calendar
+
+- Author: AdrianMiller99
+- Description: Interact with Google Calendar via the Google Calendar API – list upcoming events, create new events, update or delete them. Use this skill when you need programmatic access to your calendar from OpenClaw.
+- GitHub: https://github.com/AdrianMiller99/google-calendar
+- Source: github
+
+## persona
+
+- Author: hiivmind
+- Description: AI Persona OS — multi-skill Claude Code plugin decomposed from ai-persona-os v1.4.1
+- GitHub: https://github.com/hiivmind/hiivmind-openclaw-os
+- Source: github
+
+## wallet-connect
+
+- Author: shiorixbot
+- Description: OpenClaw skill: WalletConnect integration for AI agents to interact with crypto wallets
+- GitHub: https://github.com/shiorixbot/wallet-connect-skill
+- Stars: 2
+- Source: github
+
+## perplobster
+
+- Author: ThisNewMark
+- Description: Automated trading bots for Hyperliquid DEX - Perp MM, Spot MM, Grid Trader with web dashboard
+- GitHub: https://github.com/ThisNewMark/perplobster
+- Source: github
+
+## Agent Observability Dashboard
+
+- Author: orosha-ai
+- Description: Production-grade observability for OpenClaw agents. Tracks metrics (latency, success rate, token usage), visualizes traces (tool chains, decision flows), and provides alert thresholds. SQLite storage with exportable reports.
+- GitHub: https://github.com/orosha-ai/agent-observability-dashboard
+- Stars: 1
+- Source: github
+
+## wechat-draft-uploader
+
+- Author: gansxx
+- Description: Use wx-upload to upload Markdown to WeChat Official Account drafts with minimal setup.
+- GitHub: https://github.com/gansxx/wechat-md-uploader
+- Source: github
+
+## second-brain
+
+- Author: matthewbub
+- Description: SKILL for sbrain - a little AI assistant that documents your code journey as you go about it. 
+- GitHub: https://github.com/matthewbub/sbrain-SKILL
+- Stars: 1
+- Source: github
+
+## iphone-control
+
+- Author: lucid-fabrics
+- Description: Control your iPhone from the Mac terminal using iPhone Mirroring. Built for AI agents.
+- GitHub: https://github.com/lucid-fabrics/iphone-control
+- Source: github
+
+## team-dashboard
+
+- Author: warren618
+- Description: Claude Code Agent Teams Dashboard - Monitor and visualize multi-agent team communication logs
+- GitHub: https://github.com/warren618/Claude-Code-team-dashboard
+- Stars: 1
+- Source: github
+
+## Freefeed Mcp Server
+
+- Author: Spaceinvaderz
+- Description: Skill from Spaceinvaderz/freefeed-mcp-server
+- GitHub: https://github.com/Spaceinvaderz/freefeed-mcp-server
+- Source: github
+
+## OpenClaw Native Browser
+
+- Author: yungookim
+- Description: Stable native browser plugin for OpenClaw. Replace flaky relay-based controls
+- GitHub: https://github.com/yungookim/openclaw-browser
+- Stars: 1
+- Source: github
+
+## runhuman-testing
+
+- Author: volter-ai
+- Description: Agent Skills for Runhuman - Teach Claude Code and other AI agents to use human QA testers
+- GitHub: https://github.com/volter-ai/runhuman-skills
+- Source: github
+
+## DEX Swap & Broadcast
+
+- Author: AaronLLee
+- Description: Execute token swaps on-chain via OKX DEX Aggregator API (v6). Use this skill when a user wants to: 1. Build a complete swap flow: get swap calldata -> sign t...
+- GitHub: https://clawhub.ai/AaronLLee/easy-swap
+- Source: clawhub
+
+## Todoist 任务可见性管理
+
+- Author: near2sea
+- Description: 基于 Todoist 的任务可见性管理。用于创建、更新和追踪任务状态（进行中🟡、等待中🟠、已完成🟢），并记录进度评论。当用户提到 Todoist 任务管理、任务状态追踪、或需要使用 Todoist API 时触发。
+- GitHub: https://clawhub.ai/near2sea/todoist-visibility
+- Source: clawhub
+
+## flomo-add
+
+- Author: giraffe-tree
+- Description: 通过 Python requests 向 flomo webhook URL 新增一条 memo。使用 scripts/flomo-add.py 从 .flomo.config 读取 url 并发起 POST 请求，支持在 macOS 与 Windows 环境下添加 flomo 笔记。用户需要快速新增 flomo...
+- GitHub: https://clawhub.ai/giraffe-tree/flomo-add
+- Source: clawhub
+
+## Faster Whisper Local
+
+- Author: Damirikys
+- Description: Local speech-to-text using faster-whisper. High-performance transcription with GPU acceleration support. Includes word-level timestamps and distilled models....
+- GitHub: https://clawhub.ai/Damirikys/faster-whisper-local
+- Source: clawhub
+
+## YouTube Thumbnail Generation
+
+- Author: clawhub
+- Description: Generate click-worthy YouTube thumbnails with high CTR designs using each::sense API
+- GitHub: https://clawhub.ai/skills/youtube-thumbnail-generation
+- Source: clawhub
+
+## Youtube Video Generation
+
+- Author: clawhub
+- Description: Generate YouTube videos and Shorts using each::sense AI. Create faceless videos, explainers, tutorials, product reviews, compilations, and more optimized for...
+- GitHub: https://clawhub.ai/skills/youtube-video-generation
 - Source: clawhub
