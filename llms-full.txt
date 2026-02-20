@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10839 skills | Last updated: 2026-02-20
+> Total: 10865 skills | Last updated: 2026-02-20
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -76977,4 +76977,189 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Final code review and quality gate — run tests, check coverage, audit security, verify acceptance criteria from spec, and generate ship-ready report. Use whe...
 - GitHub: https://clawhub.ai/skills/solo-review
+- Source: clawhub
+
+## devils-advocate
+
+- Author: carrilloapps
+- Description: >
+- GitHub: https://github.com/carrilloapps/devils-advocate
+- Source: github
+
+## job-hunter
+
+- Author: tjp2021
+- Description: Automated job application pipeline for Claude Code — searches LinkedIn, Indeed, Greenhouse, Lever
+- GitHub: https://github.com/tjp2021/job-hunter
+- Source: github
+
+## ThermikBuddy
+
+- Author: achimace
+- Description: Segelflug- und Thermikvorhersage mit Thermik-Score (0–10). Nutze diesen Skill wenn der User nach Segelflugwetter, Thermik, Streckenflugbedingungen, Flugwette...
+- GitHub: https://clawhub.ai/achimace/thermikbuddy
+- Source: clawhub
+
+## Disclaw
+
+- Author: ofan
+- Description: Manage Discord workspace structure and OpenClaw routing as code. Use when creating/renaming/deleting Discord channels, categories, threads, or managing agent...
+- GitHub: https://clawhub.ai/ofan/disclaw
+- Source: clawhub
+
+## smartbill
+
+- Author: tokyo-s
+- Description: Issue SmartBill invoices through the SmartBill.ro API with local automation. Use for SmartBill tasks such as validating invoice payloads, creating draft or f...
+- GitHub: https://clawhub.ai/tokyo-s/smartbill
+- Source: clawhub
+
+## Publora Facebook
+
+- Author: sergebulaev
+- Description: Post or schedule content to Facebook using the Publora API. Use this skill when the user wants to publish or schedule Facebook posts via Publora.
+- GitHub: https://clawhub.ai/sergebulaev/publora-facebook
+- Source: clawhub
+
+## Claude Code Control
+
+- Author: melichar-m
+- Description: Programmatically control Claude Code in visible macOS Terminal windows via AppleScript for command input, screenshots, session logging, and terminal management.
+- GitHub: https://clawhub.ai/melichar-m/claude-code-control
+- Source: clawhub
+
+## Publora Youtube
+
+- Author: sergebulaev
+- Description: Post or schedule video content to YouTube using the Publora API. Use this skill when the user wants to publish or schedule YouTube videos via Publora.
+- GitHub: https://clawhub.ai/sergebulaev/publora-youtube
+- Source: clawhub
+
+## Publora Telegram
+
+- Author: sergebulaev
+- Description: Post or schedule content to a Telegram channel using the Publora API. Use this skill when the user wants to publish or schedule posts to a Telegram channel v...
+- GitHub: https://clawhub.ai/sergebulaev/publora-telegram
+- Source: clawhub
+
+## libby-book-monitor
+
+- Author: alexpolonsky
+- Description: Track book availability on Libby/OverDrive libraries. Search library catalogues, manage a watchlist, and get notified when books are added. Use for "libby",...
+- GitHub: https://clawhub.ai/alexpolonsky/libby-book-monitor
+- Source: clawhub
+
+## maccabi-pharm-search
+
+- Author: alexpolonsky
+- Description: Search for medications and check real-time stock availability at Maccabi pharmacies in Israel. Use when searching for drugs like "nurofen", "acamol/אקמול", "...
+- GitHub: https://clawhub.ai/alexpolonsky/maccabi-pharm-search
+- Source: clawhub
+
+## ontopo
+
+- Author: alexpolonsky
+- Description: Search Israeli restaurants, check table availability, view menus, and get booking links on Ontopo. Use for "restaurant reservation", "table booking", "ontopo...
+- GitHub: https://clawhub.ai/alexpolonsky/ontopo
+- Source: clawhub
+
+## M10 OneSource Blockchain Agent
+
+- Author: shawnwollenberg
+- Description: Ask natural language questions about Ethereum blockchain data. Covers historical on-chain activity (events, transactions, blocks, token transfers, NFTs), liv...
+- GitHub: https://clawhub.ai/shawnwollenberg/m10-blockchain-agent
+- Source: clawhub
+
+## You2idea Extract
+
+- Author: fortunto2
+- Description: Extract startup ideas from YouTube videos via solograph MCP — index, search, and export to you2idea site. Multi-MCP coordination pattern (YouTube source → an...
+- GitHub: https://clawhub.ai/fortunto2/solo-you2idea-extract
+- Source: clawhub
+
+## CDP Browser
+
+- Author: clawhub
+- Description: CDP browser control at localhost:9222. Use when you need to inspect tabs, take screenshots, navigate, scroll, post to X, or run JS in a persistent browser se...
+- GitHub: https://clawhub.ai/skills/cdp-browser
+- Source: clawhub
+
+## Code Share
+
+- Author: clawhub
+- Description: Share code via GitHub Gist instead of inline chat blocks. Use when code output exceeds 10 lines, when the user asks for copy-friendly code sharing in Discord...
+- GitHub: https://clawhub.ai/skills/code-share
+- Stars: 1
+- Source: clawhub
+
+## Lead Magnet Creator
+
+- Author: clawhub
+- Description: Create lead magnets (PDF guides, checklists, templates) with matching landing pages. Generate qualified leads for your business.
+- GitHub: https://clawhub.ai/skills/lead-magnet-creator
+- Source: clawhub
+
+## Simplemem
+
+- Author: clawhub
+- Description: Efficient Lifelong Memory for LLM Agents - semantic compression, cross-session memory, and intent-aware retrieval
+- GitHub: https://clawhub.ai/skills/simplemem
+- Source: clawhub
+
+## Second Order Effects
+
+- Author: clawhub
+- Description: Analyze decisions by tracing consequences beyond immediate outcomes to second and third-order effects.
+- GitHub: https://clawhub.ai/skills/second-order-effects
+- Source: clawhub
+
+## Tesla
+
+- Author: clawhub
+- Description: Control your Tesla vehicles - lock/unlock, climate, location, charge status, and more. Supports multiple vehicles.
+- GitHub: https://clawhub.ai/skills/tesla-api
+- Stars: 1
+- Source: clawhub
+
+## Twitter/X Reader
+
+- Author: clawhub
+- Description: Extract complete data from X/Twitter tweets by URL, including text, author info, timestamps, engagement stats, media, quoted tweets, and thread context.
+- GitHub: https://clawhub.ai/skills/twitter-reader
+- Source: clawhub
+
+## German Content Writer
+
+- Author: clawhub
+- Description: Professionelle deutsche Inhalte erstellen - Blog-Artikel, Landing Pages, E-Mails, Social Media. Perfekt für den DACH-Markt.
+- GitHub: https://clawhub.ai/skills/german-content-writer
+- Source: clawhub
+
+## Pipeline
+
+- Author: clawhub
+- Description: Launch automated multi-skill pipeline that chains skills into a loop. Use when user says "run pipeline", "automate research to PRD", "full pipeline", "resear...
+- GitHub: https://clawhub.ai/skills/solo-pipeline
+- Source: clawhub
+
+## Metrics Track
+
+- Author: clawhub
+- Description: Set up PostHog metrics plan with event funnel, KPI benchmarks, and kill/iterate/scale decision thresholds. Use when user says "set up metrics", "track KPIs",...
+- GitHub: https://clawhub.ai/skills/solo-metrics-track
+- Source: clawhub
+
+## Alerting & Notification System
+
+- Author: clawhub
+- Description: Centralized alerting and notification system for OpenClaw. Multi-channel alerts, intelligent rules, escalation, and audit.
+- GitHub: https://clawhub.ai/skills/rhandus-alerting-system
+- Source: clawhub
+
+## xAI / Grok
+
+- Author: clawhub
+- Description: Chat with Grok models via xAI API. Supports Grok-3, Grok-3-mini, vision, and more.
+- GitHub: https://clawhub.ai/skills/x-ai
+- Stars: 1
 - Source: clawhub
