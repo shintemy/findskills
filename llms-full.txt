@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11218 skills | Last updated: 2026-02-21
+> Total: 11234 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -79674,4 +79674,117 @@ parallelisms, and excessive conjunctive phrases.
 - Author: christiancattaneo
 - Description: Bulletproof AI code verification. The agent IS the engine — no external tools required. Spawns parallel verification workers that slop-scan, type-check, muta...
 - GitHub: https://clawhub.ai/christiancattaneo/wreckit
+- Source: clawhub
+
+## Openclaw Canvas Lms
+
+- Author: joelkvarnsmyr
+- Description: Canvas LMS integration plugin for OpenClaw
+- GitHub: https://github.com/joelkvarnsmyr/openclaw-canvas-lms
+- Source: github
+
+## smart-memory
+
+- Author: Bobby9228
+- Description: Professional-grade AI agent memory with Mem0 + A-Mem intelligence. Semantic search, intelligent deduplication, auto-linking — 100% local, zero dependencies.
+- GitHub: https://github.com/Bobby9228/smart-memory
+- Source: github
+
+## wip-grok
+
+- Author: wipcomputer
+- Description: xAI Grok API. Search the web, search X, generate images, generate video.
+- GitHub: https://github.com/wipcomputer/wip-grok
+- Source: github
+
+## ClawNet
+
+- Author: ethanbeard
+- Description: Twitter for AI agents. A social network for agents — public posts with replies, quotes, reactions, reposts, hashtags, full-text search, follows, and direct m...
+- GitHub: https://clawhub.ai/ethanbeard/clwnt
+- Source: clawhub
+
+## LLM Council Installer
+
+- Author: jeadland
+- Description: One-shot installer for LLM Council — a multi-model consensus app (OpenRouter/OpenClaw-native backend + React/Vite frontend). OpenClaw-native mode reads crede...
+- GitHub: https://clawhub.ai/jeadland/install-llm-council
+- Source: clawhub
+
+## Video Promo
+
+- Author: fortunto2
+- Description: Generate promo video plan with 30-45s script, shot-by-shot storyboard, and optional Remotion/Montage-tool config. Use when user says "create video", "promo v...
+- GitHub: https://clawhub.ai/fortunto2/solo-video-promo
+- Source: clawhub
+
+## Source Library
+
+- Author: clawhub
+- Description: Searchable knowledge base that captures and cross-references everything users share. Auto-triggers when user shares ANY URL (article, tweet, thread, repo, vi...
+- GitHub: https://clawhub.ai/skills/source-library
+- Source: clawhub
+
+## Prospairrow Websites MCP
+
+- Author: discry
+- Description: Use Prospairrow through websites-mcp for prospect extraction, add/enrich/detail lookups, and content marketing generation across OpenClaw installs.
+- GitHub: https://clawhub.ai/discry/prospairrow-websites-mcp
+- Source: clawhub
+
+## GEP Immune Auditor
+
+- Author: andyxinweiminicloud
+- Description: Security audit agent for GEP/EvoMap ecosystem. Scans Gene/Capsule assets using immune-system-inspired 3-layer detection: L1 pattern scan, L2 intent inference...
+- GitHub: https://clawhub.ai/andyxinweiminicloud/gep-immune-auditor
+- Source: clawhub
+
+## Kiro Creator Monitor Daily Brief
+
+- Author: Vmining
+- Description: Monitor creator topics across X, RSS, GitHub, and Reddit; deduplicate and score results; produce a daily top-5 brief plus one publish-ready X/LinkedIn draft;...
+- GitHub: https://clawhub.ai/Vmining/kiro-creator-monitor-daily-brief
+- Source: clawhub
+
+## Repo Analyzer
+
+- Author: Don-GBot
+- Description: GitHub repository trust scoring and due diligence. Use when asked to analyze, audit, score, or evaluate any GitHub repo — especially for crypto/DeFi project...
+- GitHub: https://clawhub.ai/Don-GBot/repo-analyzer
+- Source: clawhub
+
+## Plan
+
+- Author: fortunto2
+- Description: Explore codebase and create spec + phased implementation plan with file-level task breakdown. Use when user says "plan this feature", "create implementation...
+- GitHub: https://clawhub.ai/fortunto2/solo-plan
+- Source: clawhub
+
+## nano-banana-pdf-edit
+
+- Author: ps06756
+- Description: Edit PDF files visually using natural language with the nano-pdf CLI tool, powered by Google's Gemini 3 Pro Image (Nano Banana). Use this skill whenever the...
+- GitHub: https://clawhub.ai/ps06756/nano-banana-pdf-skill
+- Stars: 1
+- Source: clawhub
+
+## payrail402
+
+- Author: clawhub
+- Description: Manage x402 payment wallet - provision, fund, check balance, and pay for API calls automatically via Cloud.payrail402.com
+- GitHub: https://clawhub.ai/skills/payrail402
+- Source: clawhub
+
+## Guardrail Smart Accounts
+
+- Author: clawhub
+- Description: Create, fund, and manage ERC-4337 smart accounts with on-chain enforced spending limits and fixed fees for creation and outbound transfers.
+- GitHub: https://clawhub.ai/skills/guardrail-smart-accounts
+- Source: clawhub
+
+## QR Code Generator
+
+- Author: clawhub
+- Description: Generate QR codes from text, URLs, WiFi credentials, vCards, or any data. Use when the user wants to create a QR code, share a link as a scannable code, gene...
+- GitHub: https://clawhub.ai/skills/qr-gen
 - Source: clawhub
