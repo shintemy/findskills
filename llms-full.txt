@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11144 skills | Last updated: 2026-02-21
+> Total: 11167 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -79153,4 +79153,165 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Professional GitHub release workflow. Use when: (1) releasing a new version, (2) managing versions and tags, (3) following conventional commits, (4) setting...
 - GitHub: https://clawhub.ai/skills/github-release-workflow
+- Source: clawhub
+
+## Sub-Agent Overseer
+
+- Author: globalcaos
+- Description: Monitor sub-agent health and progress via a pull-based bash daemon. Use when spawning sub-agents that need progress tracking, staleness detection, and automa...
+- GitHub: https://clawhub.ai/globalcaos/subagent-overseer
+- Source: clawhub
+
+## Wip Universal Installer
+
+- Author: parkertoddbrooks
+- Description: Reference installer for agent-native software. Detects and installs all interfaces from any repo.
+- GitHub: https://clawhub.ai/parkertoddbrooks/wip-universal-installer
+- Source: clawhub
+
+## Sendme
+
+- Author: muninn-huginn
+- Description: Send and receive files peer-to-peer using the sendme protocol from iroh.computer. Use when the user wants to share files, transfer files between machines, se...
+- GitHub: https://clawhub.ai/muninn-huginn/sendme-skill
+- Source: clawhub
+
+## Crypto Signals Daily
+
+- Author: JamieRossouw
+- Description: Provides daily crypto briefings with top technical analysis signals for 20 Binance pairs, macro regime, sentiment indices, and top 3 trade ideas.
+- GitHub: https://clawhub.ai/JamieRossouw/crypto-signals-daily
+- Source: clawhub
+
+## Polymarket Live Bet
+
+- Author: JamieRossouw
+- Description: Place live bets on Polymarket CLOB with EIP-712 signing on Polygon. Handles USDC.e approval, order submission, and position tracking. Use for Polymarket auto...
+- GitHub: https://clawhub.ai/JamieRossouw/polymarket-live-bet
+- Source: clawhub
+
+## Senddy
+
+- Author: mattt21
+- Description: Create and manage private stablecoin wallets using Senddy's zero-knowledge protocol on Base. Use when building payment agents, bots, server-side apps, or any...
+- GitHub: https://clawhub.ai/mattt21/senddy
+- Source: clawhub
+
+## ZEDEDA
+
+- Author: krisclarkdev
+- Description: Complete ZEDEDA edge management API client — 473 endpoints across 11 service domains for edge node, application, cluster, storage, network, Kubernetes, diagn...
+- GitHub: https://clawhub.ai/krisclarkdev/zededa
+- Source: clawhub
+
+## Md2pdf WeasyPrint
+
+- Author: franklu0819-lang
+- Description: Markdown 转 PDF 技能。将 Markdown 文件转换为精美的 PDF 文档，完美支持中文、代码高亮、自定义样式。
+- GitHub: https://clawhub.ai/franklu0819-lang/md2pdf-weasyprint
+- Source: clawhub
+
+## Hyperliquid Perps
+
+- Author: JamieRossouw
+- Description: Paper and live perpetual futures trading on Hyperliquid. Smart leverage (1x/3x/5x based on signal strength), OBV divergence, auto-stop-loss. Use for Hyperliq...
+- GitHub: https://clawhub.ai/JamieRossouw/hyperliquid-perps
+- Source: clawhub
+
+## Franchise Operations Analyzer
+
+- Author: clawhub
+- Description: Analyze franchise business economics, expansion readiness, territory potential, multi-unit efficiency, agreement risks, and AI automation to optimize franchi...
+- GitHub: https://clawhub.ai/skills/afrexai-franchise-ops
+- Source: clawhub
+
+## hive-mind
+
+- Author: clawhub
+- Description: Sync memories across multiple agents using a shared TiDB Zero database.
+- GitHub: https://clawhub.ai/skills/hive-mind
+- Source: clawhub
+
+## Douyin Hot Trend
+
+- Author: clawhub
+- Description: 获取抖音热榜/热搜榜数据，包含热门视频、挑战赛、音乐等多领域热门内容，并输出标题、热度值与跳转链接。
+- GitHub: https://clawhub.ai/skills/douyin-hot-trend
+- Source: clawhub
+
+## OpenClaw Update Checker
+
+- Author: pfrederiksen
+- Description: Check for OpenClaw updates by comparing installed version against the npm registry. Use when: user asks about updates, version status, or 'is openclaw up to...
+- GitHub: https://clawhub.ai/pfrederiksen/openclaw-update-checker
+- Source: clawhub
+
+## Rotate OpenRouter Key
+
+- Author: clawhub
+- Description: Safely rotate the OpenRouter API key across all config files in an OpenClaw installation. Finds every location where the key is stored, updates them, restart...
+- GitHub: https://clawhub.ai/skills/rotate-openrouter-key
+- Source: clawhub
+
+## API-Station
+
+- Author: clawhub
+- Description: 伝富AI-API文档技能 - 快速查询和使用302+个AI接口，涵盖聊天、图像、视频、音频、Midjourney等多个类别
+- GitHub: https://clawhub.ai/skills/ai-api-transit-station
+- Source: clawhub
+
+## User Authentication System
+
+- Author: clawhub
+- Description: Role-based access control for Greek accounting firms. Login, role hierarchy, per-client permissions, session management, audit logging.
+- GitHub: https://clawhub.ai/skills/user-authentication-system
+- Source: clawhub
+
+## System Health Check
+
+- Author: clawhub
+- Description: System health validator — checks skill files, paths, permissions, binaries, backup freshness, and encryption. Produces pass/fail reports.
+- GitHub: https://clawhub.ai/skills/system-health-check
+- Source: clawhub
+
+## Forage Shopping
+
+- Author: clawhub
+- Description: Search and compare products across merchants. Find the best deals with price comparison and shopping recommendations.
+- GitHub: https://clawhub.ai/skills/forage-shopping
+- Source: clawhub
+
+## Text Detection
+
+- Author: clawhub
+- Description: Analyzes text using NLP, GPT pattern detection, and regex matching to identify AI-generated content with configurable accuracy and speed.
+- GitHub: https://clawhub.ai/skills/text-detection
+- Source: clawhub
+
+## Parental Controls
+
+- Author: clawhub
+- Description: Provides a guardian portal for monitoring child activity, managing screen time, setting content filters, and receiving real-time alerts with PIN protection.
+- GitHub: https://clawhub.ai/skills/parental-controls
+- Source: clawhub
+
+## Image Detection
+
+- Author: clawhub
+- Description: Analyzes images to detect AI generation, extract metadata, identify artifacts, and perform content moderation using local and cloud-based tools.
+- GitHub: https://clawhub.ai/skills/image-detection
+- Source: clawhub
+
+## Preqstation
+
+- Author: clawhub
+- Description: Run Claude Code, Codex CLI, or Gemini CLI from natural-language OpenClaw requests for PREQSTATION work.
+- GitHub: https://clawhub.ai/skills/preqstation
+- Source: clawhub
+
+## Go Production Engineering
+
+- Author: clawhub
+- Description: Expertise in Go project architecture, error handling, concurrency safety, testing, observability, configuration, CI/CD, and documentation for production depl...
+- GitHub: https://clawhub.ai/skills/afrexai-go-production
 - Source: clawhub
