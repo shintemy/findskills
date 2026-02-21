@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11048 skills | Last updated: 2026-02-21
+> Total: 11086 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -78469,4 +78469,276 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Review Apollo ecosystem issues with a classify-first workflow (reproduce for behavior issues, evidence-check for consultative asks) and draft maintainer-grad...
 - GitHub: https://clawhub.ai/skills/apollo-issue-review
+- Source: clawhub
+
+## reddit-reader
+
+- Author: brisyramshere
+- Description: Claude Code Agent Skill for searching and reading Reddit via OAuth2 API
+- GitHub: https://github.com/brisyramshere/reddit-skill
+- Stars: 13
+- Source: github
+
+## Braindecode
+
+- Author: GreatApe42069
+- Description: Skill from GreatApe42069/braindecode
+- GitHub: https://github.com/GreatApe42069/braindecode
+- Source: github
+
+## agent-implementation-skill
+
+- Author: nestharus
+- Description: Multi-model agent implementation workflow skill for Claude Code. Orchestrates research, evaluation, design baseline, implementation, RCA, and auditing across AI models.
+- GitHub: https://github.com/nestharus/agent-implementation-skill
+- Stars: 1
+- Source: github
+
+## openclaw-orchestrator
+
+- Author: themoonwx
+- Description: skills
+- GitHub: https://github.com/themoonwx/openclaw_skills
+- Source: github
+
+## bouncer
+
+- Author: qwer2003tw
+- Description: Execute AWS CLI commands with Telegram approval. Safe commands auto-execute, dangerous commands require human approval via Telegram.
+- GitHub: https://github.com/qwer2003tw/bouncer
+- Source: github
+
+## openclaw-self-healing
+
+- Author: Ramsbaby
+- Description: AI-powered self-healing system for OpenClaw Gateway • 4-tier autonomous recovery • macOS & Linux
+- GitHub: https://github.com/Ramsbaby/openclaw-self-healing
+- Stars: 17
+- Source: github
+
+## "AURELION Agent"
+
+- Author: Chase-Key
+- Description: 100+ AI collaboration prompts and strategic thinking protocols
+- GitHub: https://github.com/Chase-Key/aurelion-agent-lite
+- Stars: 1
+- Source: github
+
+## lets-go-rss
+
+- Author: ALBEDO-TABAI
+- Description: AI-Powered Universal RSS Subscription Manager | AI 驱动的全平台 RSS 订阅管理器 — Claude Skill for AI IDEs
+- GitHub: https://github.com/ALBEDO-TABAI/lets-go-rss
+- Stars: 32
+- Source: github
+
+## GiveAgent
+
+- Author: clawhub
+- Description: Agent-to-agent free item gifting. Give away what you don't need, find what you do.
+- GitHub: https://clawhub.ai/skills/giveagent
+- Source: clawhub
+
+## mqttasgi - IOT backbone for Django
+
+- Author: clawhub
+- Description: MQTT ASGI protocol server for Django — bridge MQTT messages to Django Channels consumers with full ORM, Channel Layers, and testing support. The perfect back...
+- GitHub: https://clawhub.ai/skills/mqttasgi
+- Source: clawhub
+
+## Salesforce Query OpenClaw
+
+- Author: RikH81
+- Description: Salesforce querying skill that adapts to each org's schema. Use when hardcoded CRM scripts keep breaking across environments and you need reliable account/co...
+- GitHub: https://clawhub.ai/RikH81/salesforce-query-openclaw
+- Source: clawhub
+
+## Kagi Fastgpt
+
+- Author: joelazar
+- Description: Ask questions and get AI-synthesized answers backed by live web search, via Kagi's FastGPT API. Returns a direct answer with cited references. Use when you n...
+- GitHub: https://clawhub.ai/joelazar/kagi-fastgpt
+- Source: clawhub
+
+## Miranda SAG (ElevenLabs TTS say-UX)
+
+- Author: jeffpignataro
+- Description: ElevenLabs text-to-speech with mac-style say UX.
+- GitHub: https://clawhub.ai/jeffpignataro/miranda-sag
+- Source: clawhub
+
+## Kagi Enrich
+
+- Author: clawhub
+- Description: Search Kagi's unique non-commercial web (Teclis) and non-mainstream news (TinyGem) indexes for independent, ad-free content you won't find in regular search...
+- GitHub: https://clawhub.ai/skills/kagi-enrich
+- Source: clawhub
+
+## NotebookLM Skill
+
+- Author: magicseek
+- Description: Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. Browser automati...
+- GitHub: https://clawhub.ai/magicseek/nblm
+- Source: clawhub
+
+## Argus Edge — Prediction Market Betting Engine
+
+- Author: JamieRossouw
+- Description: Argus-style prediction market edge detection and betting strategy. Computes expected value from TA-implied probability vs market odds, sizes bets via Kelly c...
+- GitHub: https://clawhub.ai/JamieRossouw/argus-edge
+- Source: clawhub
+
+## Crypto Macro Regime Classifier
+
+- Author: JamieRossouw
+- Description: Classify current crypto macro regime (Risk-On / Risk-Off / Neutral) using Fear & Greed Index, BTC dominance, Reddit sentiment, on-chain signals, and macro ne...
+- GitHub: https://clawhub.ai/JamieRossouw/crypto-macro-regime
+- Source: clawhub
+
+## Zhipu AI TTS
+
+- Author: franklu0819-lang
+- Description: Text-to-speech conversion using Zhipu AI (BigModel) GLM-TTS model. Use when you need to convert text to audio files with various voice options. Supports Chin...
+- GitHub: https://clawhub.ai/franklu0819-lang/zhipu-tts
+- Source: clawhub
+
+## The Soul Sims
+
+- Author: clawhub
+- Description: [Coming Soon] A social simulation world where AI agents with unique SOUL.md personalities interact, debate, trade, and build relationships. Autonomous AI per...
+- GitHub: https://clawhub.ai/skills/the-soul-sims
+- Source: clawhub
+
+## The Sims
+
+- Author: clawhub
+- Description: [Coming Soon] A social simulation world where AI agents with unique SOUL.md personalities interact, debate, trade, and build relationships. Autonomous AI per...
+- GitHub: https://clawhub.ai/skills/the-sims
+- Source: clawhub
+
+## Salesforce Query Openclaw Skill Release
+
+- Author: clawhub
+- Description: Salesforce querying skill that adapts to each org's schema. Use when hardcoded CRM scripts keep breaking across environments and you need reliable account/co...
+- GitHub: https://clawhub.ai/skills/salesforce-query-openclaw-skill-release
+- Source: clawhub
+
+## Feishu Voice
+
+- Author: clawhub
+- Description: 飞书语音消息发送技能。将文本转换为语音并发送到飞书，支持 TTS 生成、格式转换、时长读取、文件上传和消息发送。
+- GitHub: https://clawhub.ai/skills/feishu-voice
+- Source: clawhub
+
+## HFT Paper Trader — Autonomous Crypto Framework
+
+- Author: clawhub
+- Description: High-frequency paper trading framework for crypto. Multi-indicator TA scoring (RSI/MACD/EMA/BB/OBV/StochRSI), position sizing (Kelly criterion), stop-loss ma...
+- GitHub: https://clawhub.ai/skills/hft-paper-trader
+- Source: clawhub
+
+## Polymarket Scout — Hourly Edge Detector
+
+- Author: clawhub
+- Description: Scan Polymarket hourly crypto markets (BTC/ETH/SOL/XRP) for edge opportunities. Detects counter-consensus setups, freshness windows, and expected value using...
+- GitHub: https://clawhub.ai/skills/polymarket-scout
+- Source: clawhub
+
+## RHO Signals — Live Crypto TA Engine
+
+- Author: clawhub
+- Description: Real-time crypto TA signals for BTC, ETH, SOL, XRP. RSI, MACD, EMA, Bollinger Bands, OBV divergence, StochRSI — combined into a single directional score (-10...
+- GitHub: https://clawhub.ai/skills/rho-signals
+- Source: clawhub
+
+## SEO Afiliate guide
+
+- Author: clawhub
+- Description: Crea guías de compra SEO optimizadas para posts de afiliado en español. Úsala siempre que el usuario quiera escribir, generar o mejorar una guía de compra, c...
+- GitHub: https://clawhub.ai/skills/seo-affiliate-guide
+- Source: clawhub
+
+## Engineering as Marketing
+
+- Author: clawhub
+- Description: Build free tools to drive organic search traffic and convert visitors into customers — the 'Engineering as Marketing' growth strategy. Use when the user want...
+- GitHub: https://clawhub.ai/skills/engineering-as-marketing
+- Source: clawhub
+
+## Strava CLI Skill
+
+- Author: clawhub
+- Description: Use the stravacli terminal tool to access Strava data (athlete profile, activities, streams, routes, segments, clubs, gear, uploads) and perform limited writ...
+- GitHub: https://clawhub.ai/skills/stravacli
+- Source: clawhub
+
+## Zhipu AI ASR
+
+- Author: clawhub
+- Description: Automatic Speech Recognition (ASR) using Zhipu AI (BigModel) GLM-ASR model. Use when you need to transcribe audio files to text. Supports Chinese audio trans...
+- GitHub: https://clawhub.ai/skills/zhipu-asr
+- Source: clawhub
+
+## Map Search
+
+- Author: clawhub
+- Description: 更适合中国体质宝宝的地图搜索工具，支持高德、百度、腾讯地图聚合搜索。
+- GitHub: https://clawhub.ai/skills/map-search
+- Source: clawhub
+
+## Apple Developer Toolkit
+
+- Author: clawhub
+- Description: Complete Apple developer toolkit: documentation search, WWDC videos (2014-2025), App Store Connect management (TestFlight, builds, signing, analytics, subscr...
+- GitHub: https://clawhub.ai/skills/apple-developer-toolkit
+- Source: clawhub
+
+## Best Image Generation
+
+- Author: clawhub
+- Description: Best quality AI image generation (~$0.12-0.20/image). Text-to-image, image-to-image, and image editing via the EvoLink API.
+- GitHub: https://clawhub.ai/skills/best-image-generation
+- Stars: 1
+- Source: clawhub
+
+## Kagi Summarizer
+
+- Author: clawhub
+- Description: Summarize any URL or text using Kagi's Universal Summarizer API. Supports multiple engines (including the enterprise-grade Muriel model), bullet-point takeaw...
+- GitHub: https://clawhub.ai/skills/kagi-summarizer
+- Source: clawhub
+
+## Jira
+
+- Author: clawhub
+- Description: Manage Jira issues and worklogs via REST API: search, view, create, comment, assign, transition status, and log or report work hours.
+- GitHub: https://clawhub.ai/skills/jira-m
+- Source: clawhub
+
+## Jira Metric
+
+- Author: clawhub
+- Description: Retrieve and analyze Jira worklog metrics by user, issue, or date ranges through Jira Cloud REST API calls.
+- GitHub: https://clawhub.ai/skills/jirametric
+- Source: clawhub
+
+## TheSims
+
+- Author: clawhub
+- Description: [Coming Soon] A social simulation world where AI agents with unique SOUL.md personalities interact, debate, trade, and build relationships. Autonomous AI per...
+- GitHub: https://clawhub.ai/skills/thesims
+- Source: clawhub
+
+## Sims
+
+- Author: clawhub
+- Description: [Coming Soon] A social simulation world where AI agents with unique SOUL.md personalities interact, debate, trade, and build relationships. Autonomous AI per...
+- GitHub: https://clawhub.ai/skills/sims
+- Source: clawhub
+
+## The Agent Sims
+
+- Author: clawhub
+- Description: [Coming Soon] A social simulation world where AI agents with unique SOUL.md personalities interact, debate, trade, and build relationships. Autonomous AI per...
+- GitHub: https://clawhub.ai/skills/the-agent-sims
 - Source: clawhub
