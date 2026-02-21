@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11011 skills | Last updated: 2026-02-21
+> Total: 11022 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -78209,4 +78209,82 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Long-term RAG memory storage for your agent, powered by TiDB Vector.
 - GitHub: https://clawhub.ai/skills/knowledge-vault
+- Source: clawhub
+
+## Skill Store
+
+- Author: yx2601816404-sys
+- Description: Smart skill installation advisor for ClawHub. Searches for skills matching your needs, evaluates candidates on security (via skill-shield), code quality, and...
+- GitHub: https://clawhub.ai/yx2601816404-sys/skill-store
+- Source: clawhub
+
+## Pollinations Image Generator
+
+- Author: Aprilox
+- Description: Generate detailed images from text prompts using Pollinations.ai models with optional configuration, model selection, and advanced settings.
+- GitHub: https://clawhub.ai/Aprilox/pollinations-image
+- Source: clawhub
+
+## Zoho  Mail CLI
+
+- Author: robsannaa
+- Description: Read, search, send, and manage Zoho Mail from the terminal. JSON output for scripting and agents. No third-party service required.
+- GitHub: https://clawhub.ai/robsannaa/zoho-cli
+- Source: clawhub
+
+## 2nd Brain
+
+- Author: coderaven
+- Description: Personal knowledge base for capturing and retrieving information about people, places, restaurants, games, tech, events, media, ideas, and organizations. Use...
+- GitHub: https://clawhub.ai/coderaven/2nd-brain
+- Source: clawhub
+
+## Prompt Engineering Mastery
+
+- Author: 1kalin
+- Description: Convert vague instructions into clear AI prompts using structures, techniques, and templates for reliable, precise, and measurable outputs.
+- GitHub: https://clawhub.ai/1kalin/afrexai-prompt-engineering
+- Source: clawhub
+
+## Chrome Devtools
+
+- Author: clawhub
+- Description: Uses Chrome DevTools via MCP for efficient debugging, troubleshooting and browser automation. Use when debugging web pages, automating browser interactions,...
+- GitHub: https://clawhub.ai/skills/chrome-devtools
+- Source: clawhub
+
+## V2ex Hot Cn
+
+- Author: clawhub
+- Description: V2EX 热门话题监控 | V2EX Hot Topics Monitor. 获取 V2EX 热门帖子、技术讨论、数码生活 | Get V2EX trending posts, tech discussions, digital life. 触发词：V2EX、v2、程序员社区.
+- GitHub: https://clawhub.ai/skills/v2ex-hot-cn
+- Source: clawhub
+
+## Clawng Term Memory
+
+- Author: clawhub
+- Description: Make your OpenClaw agent portable and persistent. Version-controls SOUL.md, MEMORY.md, and all core knowledge files using git with automatic GitHub push — so...
+- GitHub: https://clawhub.ai/skills/clawng-term-memory
+- Stars: 1
+- Source: clawhub
+
+## Wechat AutoPublish
+
+- Author: zlr25
+- Description: 自动化微信公众号文章发布，通过 API 创建和管理文章草稿，支持封面图和正文图片自动上传。用于：发布文章到公众号、创建内容草稿、自动化内容工作流、或设置定时发布系统。
+- GitHub: https://clawhub.ai/zlr25/wechat-accounts-publisher
+- Source: clawhub
+
+## SMB Sales Boost — B2B Lead Database of SMBs for Cold Outreach & GTM
+
+- Author: clawhub
+- Description: Query and manage leads from the SMB Sales Boost B2B lead database. Search newly registered businesses, filter by location/industry/keywords, export leads, ma...
+- GitHub: https://clawhub.ai/skills/smb-sales-boost-leads
+- Source: clawhub
+
+## Mistral PDF OCR
+
+- Author: clawhub
+- Description: Extracts text, tables, and images from PDFs (including scanned PDFs) using the Mistral OCR API. Use when user asks to OCR a PDF/image, extract text from a PD...
+- GitHub: https://clawhub.ai/skills/extracting-mistral-ocr
 - Source: clawhub
