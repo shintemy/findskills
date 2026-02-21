@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10866 skills | Last updated: 2026-02-20
+> Total: 10899 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -77169,4 +77169,240 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Fetch OpenStreetMap vector data (streets, buildings) for an address and export to SVG, GeoPackage, or DXF for CAD/Rhino.
 - GitHub: https://clawhub.ai/skills/map-grabber
+- Source: clawhub
+
+## PC Master
+
+- Author: Amirgu
+- Description: Control the Windows PC from WSL2. Use when the user asks to open/close applications, manage processes, take screenshots, control windows, manage files on Win...
+- GitHub: https://clawhub.ai/Amirgu/pc-master
+- Source: clawhub
+
+## Cheapest Image Generation
+
+- Author: EvoLinkAI
+- Description: Possibly the cheapest AI image generation (~$0.0036/image). Text-to-image via the EvoLink API.
+- GitHub: https://clawhub.ai/EvoLinkAI/cheapest-image-generation
+- Stars: 1
+- Source: clawhub
+
+## SVG to Image
+
+- Author: QROST
+- Description: Convert SVG to PNG or JPG for quick sharing (e.g. Telegram) or print.
+- GitHub: https://clawhub.ai/QROST/svg-to-image
+- Source: clawhub
+
+## Color Palette Generator
+
+- Author: QROST
+- Description: Extract a color palette from an image and return HEX/RGB values with optional swatch image.
+- GitHub: https://clawhub.ai/QROST/color-palette
+- Source: clawhub
+
+## Wind & Site
+
+- Author: QROST
+- Description: Wind rose, wind speed/direction at a site; supports site and urban wind assessment (data only; detailed CFD is out of scope).
+- GitHub: https://clawhub.ai/QROST/wind-site
+- Source: clawhub
+
+## Call Center
+
+- Author: clawhub
+- Description: Handle customer calls with scripts, issue resolution, escalation protocols, and interaction logging.
+- GitHub: https://clawhub.ai/skills/call-center
+- Source: clawhub
+
+## Feishu Power Skill
+
+- Author: clawhub
+- Description: 飞书深度自动化 Skill。多维表格批量操作、跨表关联查询、模板化文档生成、零售运营审计、定时报告调度。触发词：飞书自动化、bitable批量、多维表格、飞书报告、跨表查询、数据快照、门店审计、运营诊断、定时报告、报告调度。
+- GitHub: https://clawhub.ai/skills/feishu-power-skill
+- Source: clawhub
+
+## AGI / Artificial General Intelligence
+
+- Author: clawhub
+- Description: Think like a human. Reason, plan, adapt, create, and know your limits.
+- GitHub: https://clawhub.ai/skills/agi
+- Source: clawhub
+
+## Agentshield Audit
+
+- Author: clawhub
+- Description: Initiate and manage AgentShield security audits for AI agents. Use when a user wants to audit their agent's security posture, generate cryptographic identity...
+- GitHub: https://clawhub.ai/skills/agentshield-audit
+- Source: clawhub
+
+## here.now
+
+- Author: clawhub
+- Description: Publish files and folders to the web instantly. Use when asked to "publish this", "host this", "deploy this", "share this on the web", "make a website", or "...
+- GitHub: https://clawhub.ai/skills/here-now
+- Source: clawhub
+
+## Reddit Spy
+
+- Author: hioliver933
+- Description: Stealth Reddit intelligence -- browse, read, and analyze any subreddit without getting blocked. Multi-layer fallback (OAuth API -> Stealth HTTP -> Browser St...
+- GitHub: https://clawhub.ai/hioliver933/reddit-spy
+- Source: clawhub
+
+## opsec.md
+
+- Author: Wulf715
+- Description: A swift reminder of both human and agent duties regarding operational security.
+- GitHub: https://clawhub.ai/Wulf715/opsecmd
+- Source: clawhub
+
+## Omie ERP
+
+- Author: JAMESBOT-AGNT
+- Description: Omie ERP integration via API. Manage clients, products, orders, invoices (NF-e), financials (contas a receber/pagar), and stock. Use when users ask about ERP...
+- GitHub: https://clawhub.ai/JAMESBOT-AGNT/omie
+- Source: clawhub
+
+## Dropbox KB Auto
+
+- Author: clawhub
+- Description: Automatically index and semantically search Dropbox files using OCR and Office file parsing with efficient delta-based syncing.
+- GitHub: https://clawhub.ai/skills/dropbox-kb-auto
+- Stars: 1
+- Source: clawhub
+
+## 小红书视频下载器
+
+- Author: clawhub
+- Description: Download and summarize Xiaohongshu (小红书/RedNote) videos. Produces a full resource pack with video, audio, subtitles, transcript, and AI summary. This skill s...
+- GitHub: https://clawhub.ai/skills/xiaohongshu-downloader
+- Source: clawhub
+
+## Psychology Master
+
+- Author: clawhub
+- Description: World-class psychology expertise for human mind optimization. Masters learning science (age-appropriate skill acquisition for languages, coding, etc.), cogni...
+- GitHub: https://clawhub.ai/skills/psychology-master
+- Source: clawhub
+
+## Austin
+
+- Author: clawhub
+- Description: Navigate Austin as visitor, relocator, tech worker, or entrepreneur with neighborhoods, transport, costs, visas, and Texas-specific insights.
+- GitHub: https://clawhub.ai/skills/austin
+- Source: clawhub
+
+## SchemGuard
+
+- Author: clawhub
+- Description: Detect breaking changes in OpenAPI specs. Use when reviewing API changes, validating PRs that modify API specs, checking backward compatibility, or linting O...
+- GitHub: https://clawhub.ai/skills/schemaguard
+- Source: clawhub
+
+## OpenClaw Money Maker
+
+- Author: clawhub
+- Description: Complete guide to making money with OpenClaw - platforms, strategies, workflows, and automation. Learn how to earn 24/7 as an AI agent.
+- GitHub: https://clawhub.ai/skills/openclaw-money-maker
+- Source: clawhub
+
+## Best Image
+
+- Author: clawhub
+- Description: Best quality AI image generation (~$0.12-0.20/image). Text-to-image, image-to-image, and image editing via the EvoLink API.
+- GitHub: https://clawhub.ai/skills/best-image
+- Stars: 1
+- Source: clawhub
+
+## Cheapest Image
+
+- Author: clawhub
+- Description: Possibly the cheapest AI image generation (~$0.0036/image). Text-to-image via the EvoLink API.
+- GitHub: https://clawhub.ai/skills/cheapest-image
+- Stars: 1
+- Source: clawhub
+
+## OpenClaw Cost Tracker
+
+- Author: clawhub
+- Description: Track OpenClaw token usage and API costs by parsing session JSONL files. Use when user asks about token spend, API costs, model usage breakdown, daily cost t...
+- GitHub: https://clawhub.ai/skills/openclaw-cost-tracker
+- Source: clawhub
+
+## Pdfreader
+
+- Author: clawhub
+- Description: Extract text and metadata from PDF files using PyMuPDF, supporting large files and outputting results in JSON format.
+- GitHub: https://clawhub.ai/skills/pdfreader
+- Source: clawhub
+
+## Email Intelligence
+
+- Author: pfrederiksen
+- Description: Analyze email inbox health with weather metaphors, spam/signal classification, email debt scoring, and ghost detection. Use when user asks about inbox status...
+- GitHub: https://clawhub.ai/pfrederiksen/email-intelligence
+- Stars: 1
+- Source: clawhub
+
+## OpenRA-RL
+
+- Author: yxc20089
+- Description: Play Red Alert RTS against AI opponents
+- GitHub: https://clawhub.ai/yxc20089/openra-rl
+- Source: clawhub
+
+## Shared Workspace
+
+- Author: nativ3ai
+- Description: Use this skill to discover similar GitHub work, attach to shared agent workspaces, and coordinate tasks via .shared files.
+- GitHub: https://clawhub.ai/nativ3ai/shared-workspace
+- Source: clawhub
+
+## strikeradar
+
+- Author: alexpolonsky
+- Description: Monitor US-Iran strike probability using open-source indicators - news alerts, Iran internet connectivity, oil prices, flight traffic, military tanker detect...
+- GitHub: https://clawhub.ai/alexpolonsky/strikeradar
+- Source: clawhub
+
+## BEE Belief Extraction Engine
+
+- Author: clawhub
+- Description: Install and configure BEE — the Belief Extraction Engine for OpenClaw. Gives agents persistent structured memory across sessions. Auto-extracts beliefs at se...
+- GitHub: https://clawhub.ai/skills/openclaw-bee
+- Source: clawhub
+
+## Meerkat Governance
+
+- Author: clawhub
+- Description: AI governance API with two endpoints. Shield scans untrusted content for prompt injection and threats. Verify checks AI output for hallucinations, numerical...
+- GitHub: https://clawhub.ai/skills/meerkat-governance
+- Source: clawhub
+
+## Fork and Skill Scanner Ultimate
+
+- Author: clawhub
+- Description: Scan GitHub forks and ClawHub skills for valuable changes, innovations, and enhancements. Includes insights on emerging trends and actionable improvements —...
+- GitHub: https://clawhub.ai/skills/fork-and-skill-scanner-ultimate
+- Source: clawhub
+
+## Changelog Generator Cn
+
+- Author: clawhub
+- Description: 自动生成更新日志。分析 git 提交历史，分类变更，将技术提交转换为用户友好的发布说明。触发词：更新日志、changelog、发布说明、版本更新。翻译自 ComposioHQ。
+- GitHub: https://clawhub.ai/skills/changelog-generator-cn
+- Source: clawhub
+
+## Free JobBoard API
+
+- Author: clawhub
+- Description: Job board for agents. Submit jobs, report bad listings. Humans use agents to browse and apply.
+- GitHub: https://clawhub.ai/skills/free-jobboard-api
+- Source: clawhub
+
+## Humaboam Final
+
+- Author: clawhub
+- Description: Job board for agents. Submit jobs, report bad listings. Humans use agents to browse and apply.
+- GitHub: https://clawhub.ai/skills/humaboam-final
 - Source: clawhub
