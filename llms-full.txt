@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11186 skills | Last updated: 2026-02-21
+> Total: 11201 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -79449,4 +79449,109 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Manage Obsidian vaults via LiveSync CouchDB — capture notes, AI-enrich and file them, manage tasks, audit and tidy vault structure. Use when working with Obs...
 - GitHub: https://clawhub.ai/skills/obsidian-curator
+- Source: clawhub
+
+## clawdrug
+
+- Author: dylanpersonguy
+- Description: Skills for AI (Clawdrug)
+- GitHub: https://github.com/dylanpersonguy/skills
+- Source: github
+
+## Grafana Plugin
+
+- Author: clawhub
+- Description: Read current values from Grafana dashboards without knowing the underlying queries. Use when: asked about values visible in a Grafana dashboard (sensor readi...
+- GitHub: https://clawhub.ai/skills/grafana-plugin
+- Source: clawhub
+
+## XanLens GEO Pro Optimizer
+
+- Author: clawhub
+- Description: Audits your brand’s AI visibility across engines, reports scores and blind spots, analyzes SEO vs AI gaps, and generates tailored content strategies for 15+...
+- GitHub: https://clawhub.ai/skills/geo-audit-optimizer
+- Source: clawhub
+
+## Prediction Market Aggregator
+
+- Author: JamieRossouw
+- Description: Cross-market prediction market data aggregator. Covers Polymarket, Manifold, Metaculus, and Kalshi. Finds arbitrage between markets, tracks consensus drift,...
+- GitHub: https://clawhub.ai/JamieRossouw/prediction-market-aggregator
+- Source: clawhub
+
+## Twitter API Integration (Web Reversed )
+
+- Author: clawhub
+- Description: Cookie-based Twitter/X automation toolkit (timeline, notifications, posting, follow ops) for OpenClaw agents.
+- GitHub: https://clawhub.ai/skills/twitter-api
+- Source: clawhub
+
+## OCR with python
+
+- Author: roamerxv
+- Description: Extract Chinese and English text from images and scanned PDFs, including documents like invoices and contracts, using PaddleOCR in Python.
+- GitHub: https://clawhub.ai/roamerxv/ocr-python
+- Source: clawhub
+
+## Kiro Search Aggregator
+
+- Author: clawhub
+- Description: Multi-source search skill for Kiro on OpenClaw. Aggregate and rank results from Google, Google Scholar, YouTube, and X, then output a concise brief.
+- GitHub: https://clawhub.ai/skills/kiro-search-aggregator
+- Source: clawhub
+
+## OpenClaw WhatsApp
+
+- Author: clawhub
+- Description: WhatsApp bridge for OpenClaw — send/receive messages, auto-reply agents, QR pairing, message search, contact sync
+- GitHub: https://clawhub.ai/skills/openclaw-whatsapp
+- Source: clawhub
+
+## Margin Analysis & Profit Optimization
+
+- Author: clawhub
+- Description: Analyze and optimize margins by product, segment, and channel; detect erosion patterns; assess pricing power; and model scenarios for profit improvement.
+- GitHub: https://clawhub.ai/skills/afrexai-margin-analysis
+- Source: clawhub
+
+## Macro Regime Detector
+
+- Author: clawhub
+- Description: Detect the current macro regime (Risk-On, Risk-Off, Inflationary, Deflationary, Stagflation) using multi-source intelligence. Combines Fear & Greed, DXY, yie...
+- GitHub: https://clawhub.ai/skills/macro-regime-detector
+- Source: clawhub
+
+## Defi Yield Scanner
+
+- Author: clawhub
+- Description: Scan DeFi protocols for the best yield opportunities. Covers Aave, Compound, Curve, Yearn, Uniswap v3, and emerging L2 protocols. Compares APY vs risk, track...
+- GitHub: https://clawhub.ai/skills/defi-yield-scanner
+- Source: clawhub
+
+## TwitterScore
+
+- Author: clawhub
+- Description: Research, analyze, and track Twitter influence with TwitterScore.io API. Get scores, analyze followers, track growth, and compare accounts.
+- GitHub: https://clawhub.ai/skills/twitterscore
+- Source: clawhub
+
+## Fortuna Lottery
+
+- Author: clawhub
+- Description: Participate in the FORTUNA autonomous agent lottery on Solana. Buy lottery tickets by sending SOL to the treasury. Check jackpot size, round countdown, and d...
+- GitHub: https://clawhub.ai/skills/fortuna
+- Source: clawhub
+
+## Claude Code Production Engineering
+
+- Author: clawhub
+- Description: Complete Claude Code productivity system — project setup, prompting patterns, sub-agent orchestration, context management, debugging, refactoring, TDD, and s...
+- GitHub: https://clawhub.ai/skills/afrexai-claude-code-production
+- Source: clawhub
+
+## ModelWar - Core War for Agents
+
+- Author: clawhub
+- Description: Upload and battle Redcode AI warriors in a virtual CoreWar arena, track rankings with Glicko-2, and refine strategies in bomber, scanner, or replicator arche...
+- GitHub: https://clawhub.ai/skills/modelwar
 - Source: clawhub
