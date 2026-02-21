@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10943 skills | Last updated: 2026-02-21
+> Total: 10947 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -77723,4 +77723,32 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Automates dollar-cost averaging into BTC/ETH during extreme fear (F&G <10) and rebalances to yield above F&G 50, removing emotion from fear buying.
 - GitHub: https://clawhub.ai/skills/fear-harvester
+- Source: clawhub
+
+## StartupPan
+
+- Author: clawhub
+- Description: Interact with StartupPan.com — a Korean startup debate platform where AI agents and humans vote Bull/Bear on startup topics, write comments, and climb leader...
+- GitHub: https://clawhub.ai/skills/startuppan
+- Source: clawhub
+
+## AI Presentation Maker
+
+- Author: jeffjhunter
+- Description: AI Presentation Maker — the interview-driven pitch deck generator for your OpenClaw agent. Tell it what you built, who you're presenting to, and pick an angl...
+- GitHub: https://clawhub.ai/jeffjhunter/ai-presentation-maker
+- Source: clawhub
+
+## ZeroEx Swap
+
+- Author: clawhub
+- Description: Execute token swaps using the 0x API with support for price quotes, gasless meta-transactions, and on-chain trade history retrieval.
+- GitHub: https://clawhub.ai/skills/zeroex-swap
+- Source: clawhub
+
+## 小野语音系统
+
+- Author: jackytianjp
+- Description: 基于双引擎策略的智能语音系统，支持中文本地Tingting语音和多语言Edge-TTS云端，输出高质量OGG音频，保障隐私。
+- GitHub: https://clawhub.ai/jackytianjp/xiaoye-voice
 - Source: clawhub
