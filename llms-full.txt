@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11234 skills | Last updated: 2026-02-21
+> Total: 11245 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -79787,4 +79787,82 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Generate QR codes from text, URLs, WiFi credentials, vCards, or any data. Use when the user wants to create a QR code, share a link as a scannable code, gene...
 - GitHub: https://clawhub.ai/skills/qr-gen
+- Source: clawhub
+
+## GunGame
+
+- Author: pecopeko
+- Description: Skill from pecopeko/GunGame
+- GitHub: https://github.com/pecopeko/GunGame
+- Source: github
+
+## Security Vulnerability Scanner
+
+- Author: HonestQiao
+- Description: 扫描代码中常见安全漏洞如SQL注入、XSS、硬编码密码，提供检测结果和安全评分建议。
+- GitHub: https://clawhub.ai/HonestQiao/security-vuln-scanner
+- Source: clawhub
+
+## Performance Profiler
+
+- Author: HonestQiao
+- Description: Analyze code performance to identify bottlenecks, detect redundant computations and blocking operations, and provide optimization recommendations.
+- GitHub: https://clawhub.ai/HonestQiao/performance-profiler
+- Source: clawhub
+
+## Log Anomaly Detector
+
+- Author: HonestQiao
+- Description: 智能实时分析日志文件，识别错误、警告、安全威胁和性能问题，并提供异常检测与优化建议。
+- GitHub: https://clawhub.ai/HonestQiao/log-anomaly-detector
+- Source: clawhub
+
+## API Doc Generator
+
+- Author: clawhub
+- Description: Automatically generate OpenAPI/Swagger API documentation by analyzing function signatures and extracting parameter and return types from Python, JavaScript,...
+- GitHub: https://clawhub.ai/skills/api-doc-generator
+- Source: clawhub
+
+## Code Flow Visualizer
+
+- Author: HonestQiao
+- Description: Convert Python, JavaScript, or TypeScript functions into Mermaid flowcharts to visualize code logic and structure clearly.
+- GitHub: https://clawhub.ai/HonestQiao/code-flow-visualizer
+- Source: clawhub
+
+## mobile app builder with live link, publishes to app store, create ai apps
+
+- Author: VersaceXcodes
+- Description: Build full-stack web and mobile apps from a text description. Creates projects, plans features, and starts Quick Start builds for background execution.
+- GitHub: https://clawhub.ai/VersaceXcodes/mobile-app-builder-ai
+- Source: clawhub
+
+## Geomanic
+
+- Author: weltspion
+- Description: Connect OpenClaw to Geomanic — your privacy-first GPS tracking companion. Query travel statistics, manage waypoints, and analyze your journeys through natura...
+- GitHub: https://clawhub.ai/weltspion/geomanic
+- Source: clawhub
+
+## Approve new channels, and connections to openclaw ui and terminal
+
+- Author: Fizzy2390
+- Description: Web dashboard to approve OpenClaw device and channel pairings, manage connections, and access a live terminal from your browser.
+- GitHub: https://clawhub.ai/Fizzy2390/approvals-ui
+- Stars: 1
+- Source: clawhub
+
+## Summarize File
+
+- Author: MuhammadMuazzain
+- Description: Reads text files from workspace/paths and generates concise summaries. Handles logs, reports, CSVs, multi-line content.
+- GitHub: https://clawhub.ai/MuhammadMuazzain/summarize-file
+- Source: clawhub
+
+## GHIN Golf Tracker
+
+- Author: clawhub
+- Description: Analyzes local GHIN golf JSON data to report handicap trends, scoring patterns, course stats, and yearly performance without external connections.
+- GitHub: https://clawhub.ai/skills/ghin-golf-tracker
 - Source: clawhub
