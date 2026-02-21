@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10990 skills | Last updated: 2026-02-21
+> Total: 11002 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -78058,4 +78058,90 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Create, validate, security-scan, and publish skills to ClawHub. Use when asked to "make a skill", "publish a skill", "create a new skill", "scaffold a skill"...
 - GitHub: https://clawhub.ai/skills/skillpub
+- Source: clawhub
+
+## "AURELION Memory"
+
+- Author: Chase-Key
+- Description: File-based knowledge graph for persistent personal memory
+- GitHub: https://github.com/Chase-Key/aurelion-memory-lite
+- Stars: 1
+- Source: github
+
+## Github Trending Cn
+
+- Author: guohongbin-git
+- Description: GitHub 趋势监控 | GitHub Trending Monitor. 获取 GitHub 热门项目、编程语言趋势、开源动态 | Get GitHub trending repos, language trends, open source updates. 触发词：GitHub、trending、开源、热...
+- GitHub: https://clawhub.ai/guohongbin-git/github-trending-cn
+- Source: clawhub
+
+## Pine Voice
+
+- Author: bojieli
+- Description: Give your agent a real phone. It dials, waits on hold, negotiates your bills, and returns a full transcript.
+- GitHub: https://clawhub.ai/bojieli/pine-voice
+- Source: clawhub
+
+## Baidu Hot Cn
+
+- Author: guohongbin-git
+- Description: 百度热榜监控 | Baidu Hot Topics Monitor. 获取百度热搜榜、搜索趋势、关键词热度 | Get Baidu trending searches, trends, keyword popularity. 触发词：百度、热搜、baidu.
+- GitHub: https://clawhub.ai/guohongbin-git/baidu-hot-cn
+- Source: clawhub
+
+## SmartBill Invoicing
+
+- Author: clawhub
+- Description: Issue SmartBill invoices through the SmartBill.ro API with local automation. Use for SmartBill tasks such as validating invoice payloads, creating invoices,...
+- GitHub: https://clawhub.ai/skills/smartbill-invoicing
+- Stars: 1
+- Source: clawhub
+
+## Abby Autonomy
+
+- Author: clawhub
+- Description: 使 Abby 能主动从任务队列获取并执行任务，自主管理任务状态，持续推进工作至完成或资源限制。
+- GitHub: https://clawhub.ai/skills/abby-autonomy
+- Source: clawhub
+
+## webserp
+
+- Author: clawhub
+- Description: Web search across 8 engines in parallel with browser impersonation. Use when the agent needs current information from the web — news, documentation, recent e...
+- GitHub: https://clawhub.ai/skills/webserp
+- Source: clawhub
+
+## Telegram Multilingual Voice Reply
+
+- Author: clawhub
+- Description: Smart Telegram reply workflow for OpenClaw: if the user sends text, reply with text; if the user sends a voice note/audio, transcribe locally using the insta...
+- GitHub: https://clawhub.ai/skills/telegram-multilingual-voice-reply
+- Source: clawhub
+
+## Abby Watch
+
+- Author: clawhub
+- Description: Simple time display for Abby. Use when you need to know the current time or count down to a specific time.
+- GitHub: https://clawhub.ai/skills/abby-watch
+- Source: clawhub
+
+## Abby Browser
+
+- Author: clawhub
+- Description: 基于 OpenClaw 的浏览器工具，支持自然语言控制网页打开、截图、点击、输入、表单填写、数据提取和页面操作。
+- GitHub: https://clawhub.ai/skills/abby-browser
+- Source: clawhub
+
+## Faster Whisper Gpu
+
+- Author: clawhub
+- Description: High-performance local speech-to-text transcription using Faster Whisper with NVIDIA GPU acceleration. Transcribe audio files locally without sending data to...
+- GitHub: https://clawhub.ai/skills/faster-whisper-gpu
+- Source: clawhub
+
+## moonfun_sdk
+
+- Author: clawhub
+- Description: Python SDK for BSC enabling creation of AI-generated Meme tokens with stable minting and experimental token trading (buy/sell) features.
+- GitHub: https://clawhub.ai/skills/moonfunsdk
 - Source: clawhub
