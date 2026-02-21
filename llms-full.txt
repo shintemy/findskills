@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10966 skills | Last updated: 2026-02-21
+> Total: 10982 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -77887,4 +77887,118 @@ parallelisms, and excessive conjunctive phrases.
 - Author: tnbradley
 - Description: Security scanner for OpenClaw skills with Clawdex integration. Analyzes SKILL.md and scripts for dangerous permissions, hardcoded secrets, shell injection vu...
 - GitHub: https://clawhub.ai/tnbradley/crabukit
+- Source: clawhub
+
+## annas-archive-ebooks
+
+- Author: ratacat
+- Description: CLI tool and Claude Code skill for searching and downloading ebooks from Anna's Archive
+- GitHub: https://github.com/ratacat/annas-archive-ebooks
+- Source: github
+
+## RASP Browser
+
+- Author: echo-autonomous
+- Description: Undetectable browser automation with human-like interaction and built-in CAPTCHA solving for autonomous AI agents.
+- GitHub: https://clawhub.ai/echo-autonomous/rasp-browser
+- Source: clawhub
+
+## Claw Smart Context
+
+- Author: Joe3112
+- Description: Token-efficient agent behavior — response sizing, context pruning, tool efficiency, and delegation
+- GitHub: https://clawhub.ai/Joe3112/claw-smart-context
+- Source: clawhub
+
+## Dashboard Greek Accounting
+
+- Author: satoshistackalotto
+- Description: Business intelligence dashboard for Greek accounting firms. Compliance status, alerts, deadline tracking, and financial metrics at a glance.
+- GitHub: https://clawhub.ai/satoshistackalotto/dashboard-greek-accounting
+- Source: clawhub
+
+## Free Mission Control for OpenClaw AI Agents
+
+- Author: clawhub
+- Description: Set up JARVIS Mission Control — a free, open-source coordination hub where AI agents and humans work as a real team. Persistent tasks, subtasks, comments, ac...
+- GitHub: https://clawhub.ai/skills/jarvis-mission-control
+- Source: clawhub
+
+## swamp
+
+- Author: clawhub
+- Description: Model any API with Swamp, test it, and enrich *Claw with new capabilities — full lifecycle from idea to working integration
+- GitHub: https://clawhub.ai/skills/swamp
+- Source: clawhub
+
+## Efka Api Integration
+
+- Author: satoshistackalotto
+- Description: Greek social security (EFKA) integration — employee records, contribution calculations, APD declarations. Human approval for submissions.
+- GitHub: https://clawhub.ai/satoshistackalotto/efka-api-integration
+- Source: clawhub
+
+## Vajra
+
+- Author: clawhub
+- Description: Analyze URLs, YouTube videos, tweets, or text for quality, bias, and reliability using the Vajra API (vajra.to). Use when the user asks to fact-check, analyz...
+- GitHub: https://clawhub.ai/skills/vajra
+- Stars: 1
+- Source: clawhub
+
+## Greek Banking Integration
+
+- Author: clawhub
+- Description: Parses bank statements from all major Greek banks (Alpha, NBG, Eurobank, Piraeus). File-based CSV/Excel import with transaction reconciliation.
+- GitHub: https://clawhub.ai/skills/greek-banking-integration
+- Source: clawhub
+
+## Aade Api Monitor
+
+- Author: clawhub
+- Description: Real-time monitoring of Greek AADE tax authority systems — tracks deadlines, rate changes, and compliance updates. File-based, OpenClaw-native.
+- GitHub: https://clawhub.ai/skills/aade-api-monitor
+- Source: clawhub
+
+## Clawra Selfie (MiniMax)
+
+- Author: clawhub
+- Description: Generate AI images using MiniMax or fal.ai (Grok Imagine) and send to messaging channels via OpenClaw
+- GitHub: https://clawhub.ai/skills/clawra-selfie-minimax
+- Source: clawhub
+
+## Shopify Bulk Upload
+
+- Author: clawhub
+- Description: 批量上传商品到 Shopify 店铺。支持从 Excel/CSV 文件读取商品数据，自动创建产品、产品图片、变体、价格和库存。使用场景：(1) 批量上架新品 (2) 从其他平台迁移商品到 Shopify (3) 批量更新现有商品信息
+- GitHub: https://clawhub.ai/skills/shopify-bulk-upload
+- Source: clawhub
+
+## Token Panel Ultimate
+
+- Author: clawhub
+- Description: Know exactly where your AI tokens go. Multi-provider tracking, budget alerts, and a REST API—all in one dashboard.
+- GitHub: https://clawhub.ai/skills/token-panel-ultimate
+- Source: clawhub
+
+## Aavegotchi Gotchiverse
+
+- Author: cinnabarhorse
+- Description: Operate Aavegotchi Gotchiverse player workflows on Base mainnet (8453): alchemica channeling, surveying and harvesting, crafting installations/tiles, buildin...
+- GitHub: https://clawhub.ai/cinnabarhorse/aavegotchi-gotchiverse
+- Source: clawhub
+
+## Memory Pioneer
+
+- Author: globalcaos
+- Description: Benchmark your agent's memory. Contribute anonymized scores to open research. Citizen science for AI memory.
+- GitHub: https://clawhub.ai/globalcaos/memory-pioneer
+- Source: clawhub
+
+## YouTube Ultimate
+
+- Author: clawhub
+- Description: Free transcripts, 4K downloads, and video exploration — zero API quotas burned.
+- GitHub: https://clawhub.ai/skills/youtube-ultimate
+- Stars: 2
 - Source: clawhub
