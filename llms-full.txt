@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11039 skills | Last updated: 2026-02-21
+> Total: 11048 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -78406,4 +78406,67 @@ parallelisms, and excessive conjunctive phrases.
 - Author: zhanghaonan777
 - Description: 即梦 Seedance 视频创意工作台。用户发图+文案时自主完成看图分析→文案扩写→运镜匹配→质量验证→API生成。触发词：即梦、Seedance、seedance、视频生成、视频提示词、AI视频、运镜、短剧、广告视频、视频延长、图生视频。
 - GitHub: https://clawhub.ai/zhanghaonan777/seedance2-skill
+- Source: clawhub
+
+## OpenClaw Skill Debugger
+
+- Author: alessandropcostabr
+- Description: Identifica e soluciona problemas comuns em AgentSkills do OpenClaw, com diagnóstico de instalação, dependências, scripts e execução para garantir funcionamen...
+- GitHub: https://clawhub.ai/alessandropcostabr/openclaw-skill-debugger
+- Source: clawhub
+
+## Ncloud Maps
+
+- Author: beomsu317
+- Description: Query Naver Cloud Platform Maps APIs for route navigation and geocoding. Use when you need to find driving routes, calculate distance/duration/tolls, or conv...
+- GitHub: https://clawhub.ai/beomsu317/ncloud-maps
+- Source: clawhub
+
+## Skill Install Guardian
+
+- Author: zendenho7
+- Description: Security and due diligence layer for installing external skills from ClawHub. Performs DEEP content scanning for malicious patterns, security checks, integra...
+- GitHub: https://clawhub.ai/zendenho7/skill-install-guardian
+- Source: clawhub
+
+## Distil the web & PDFs into markdown
+
+- Author: clawhub
+- Description: Fetch web pages as clean Markdown and search the web via the distil.net proxy
+- GitHub: https://clawhub.ai/skills/distil
+- Source: clawhub
+
+## System Integrity And Backup
+
+- Author: satoshistackalotto
+- Description: Encrypted backups, integrity verification, and data retention enforcement for Greek legal requirements (5-20 year retention). AES-256.
+- GitHub: https://clawhub.ai/satoshistackalotto/system-integrity-and-backup
+- Source: clawhub
+
+## OpenClaw浏览器自动化配置
+
+- Author: HappyFee
+- Description: 配置OpenClaw连接远程Chrome/CDP浏览器，实现无头浏览器自动化操作与管理。
+- GitHub: https://clawhub.ai/HappyFee/openclaw-browser-auto
+- Source: clawhub
+
+## Analytics And Advisory Intelligence
+
+- Author: clawhub
+- Description: Cross-client analytics for Greek accounting firms. Surfaces trends, anomalies, and risks across financial data. Read-only, outputs to /data/reports/.
+- GitHub: https://clawhub.ai/skills/analytics-and-advisory-intelligence
+- Source: clawhub
+
+## lemlist official
+
+- Author: clawhub
+- Description: Official Lemlist API integration for sales automation and multichannel outreach. Use this skill when users want to: - Manage campaigns (create, list, pause,...
+- GitHub: https://clawhub.ai/skills/lemlist-official
+- Source: clawhub
+
+## Apollo Issue Review
+
+- Author: clawhub
+- Description: Review Apollo ecosystem issues with a classify-first workflow (reproduce for behavior issues, evidence-check for consultative asks) and draft maintainer-grad...
+- GitHub: https://clawhub.ai/skills/apollo-issue-review
 - Source: clawhub
