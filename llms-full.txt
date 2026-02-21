@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11086 skills | Last updated: 2026-02-21
+> Total: 11112 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -78741,4 +78741,187 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: [Coming Soon] A social simulation world where AI agents with unique SOUL.md personalities interact, debate, trade, and build relationships. Autonomous AI per...
 - GitHub: https://clawhub.ai/skills/the-agent-sims
+- Source: clawhub
+
+## measure-fn
+
+- Author: 7flash
+- Description: Zero-dependency function performance measurement with hierarchical logging. Use this to structure ALL programs as measured, observable pipelines.
+- GitHub: https://github.com/7flash/measure-it
+- Source: github
+
+## Gotchi DAO Voting
+
+- Author: aaigotchi
+- Description: Autonomous Aavegotchi DAO voting on Snapshot. Check active proposals, view voting power, and cast votes automatically via Bankr wallet signature. No gas fees...
+- GitHub: https://clawhub.ai/aaigotchi/gotchi-dao-voting
+- Source: clawhub
+
+## Dharma-AI: Ancient Hindu Ethics for AI Agents
+
+- Author: jigaraero
+- Description: Apply ancient Hindu ethical frameworks from the Ramayana and Mahabharata as behavioral principles for AI agents. Use when an agent needs principled guidance...
+- GitHub: https://clawhub.ai/jigaraero/dharma-ai
+- Source: clawhub
+
+## Crisis Detector
+
+- Author: raghulpasupathi
+- Description: Detects suicide ideation, self-harm, and mental health crises using NLP and sentiment analysis, providing real-time alerts and connecting users to help resou...
+- GitHub: https://clawhub.ai/raghulpasupathi/crisis-detector
+- Source: clawhub
+
+## 1Password Service Account
+
+- Author: in-liberty420
+- Description: Securely inject secrets from 1Password into agent workflows. Uses service accounts with op run/.env.tpl as the primary pattern, op read as fallback. Includes...
+- GitHub: https://clawhub.ai/in-liberty420/1password-sa
+- Source: clawhub
+
+## Preqstation Openclaw
+
+- Author: sonim1
+- Description: Trigger PREQSTATION task execution from external messenger commands and run Claude/Codex in dangerous mode with project-prefix routing.
+- GitHub: https://clawhub.ai/sonim1/preqstation-openclaw
+- Source: clawhub
+
+## ShipStation Orders
+
+- Author: cprice70
+- Description: Monitor ShipStation orders, detect issues, and send alerts. For e-commerce businesses using ShipStation for order fulfillment across multiple platforms (Amaz...
+- GitHub: https://clawhub.ai/cprice70/shipstation-orders
+- Source: clawhub
+
+## Dune Analytics API
+
+- Author: LZ-Web3
+- Description: Dune Analytics API for blockchain data queries. Use for: (1) Executing/refreshing Dune queries, (2) SQL query optimization for Solana/EVM chains, (3) Underst...
+- GitHub: https://clawhub.ai/LZ-Web3/dune-analytics-api
+- Stars: 1
+- Source: clawhub
+
+## asdasdsad
+
+- Author: hailinhmacduc
+- Description: Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
+- GitHub: https://clawhub.ai/hailinhmacduc/asdasdas
+- Source: clawhub
+
+## Agent Orchestrate
+
+- Author: MoltonBot000
+- Description: Multi-agent orchestration patterns for OpenClaw. Quick reference for spawning sub-agents, parallel work, and basic coordination. Use when: simple parallel ta...
+- GitHub: https://clawhub.ai/MoltonBot000/agent-orchestrate
+- Source: clawhub
+
+## Csam Shield
+
+- Author: raghulpasupathi
+- Description: Detects, blocks, and reports Child Sexual Abuse Material using AI-driven image, video, and behavior analysis with automatic NCMEC reporting and evidence pres...
+- GitHub: https://clawhub.ai/raghulpasupathi/csam-shield
+- Source: clawhub
+
+## Age Verification
+
+- Author: clawhub
+- Description: Verify user age via ID, face estimation, or third-party services to enforce age restrictions and enable parental controls.
+- GitHub: https://clawhub.ai/skills/age-verification
+- Source: clawhub
+
+## Dom Observer Pro
+
+- Author: clawhub
+- Description: Real-time DOM monitoring tool using MutationObserver and IntersectionObserver to detect and extract dynamic web content efficiently with minimal performance...
+- GitHub: https://clawhub.ai/skills/dom-observer-pro
+- Source: clawhub
+
+## Books For Agents
+
+- Author: clawhub
+- Description: Access and search a structured open source knowledge base of book summaries optimized for AI agents via the MCP protocol.
+- GitHub: https://clawhub.ai/skills/books-for-agents
+- Source: clawhub
+
+## ClawAudit
+
+- Author: clawhub
+- Description: Security scanner and hardening tool for OpenClaw. Use when the user asks about security, wants to scan installed skills for malware or vulnerabilities, audit...
+- GitHub: https://clawhub.ai/skills/claw-audit
+- Source: clawhub
+
+## Delete Agent With Telegram Group
+
+- Author: Sheetaa
+- Description: Safely and thoroughly delete an OpenClaw agent and its artifacts. Use when user asks to remove an agent completely, including workspace, agent files under ~/...
+- GitHub: https://clawhub.ai/Sheetaa/delete-agent-with-telegram-group
+- Source: clawhub
+
+## lastXdays
+
+- Author: clawhub
+- Description: Research and summarize what happened in the last N days (or a date range) about a topic, optionally using Reddit API and X ingestion via x-cli/API/archive wi...
+- GitHub: https://clawhub.ai/skills/lastxdays
+- Source: clawhub
+
+## Session Watchdog
+
+- Author: clawhub
+- Description: Monitors session context usage and saves checkpoints when approaching limits to prevent data loss before compaction or long tasks.
+- GitHub: https://clawhub.ai/skills/session-watchdog
+- Source: clawhub
+
+## FOSMVVM UI Tests Generator
+
+- Author: clawhub
+- Description: Generate UI tests for FOSMVVM SwiftUI views using XCTest and FOSTestingUI. Covers accessibility identifiers, ViewModelOperations, and test data transport.
+- GitHub: https://clawhub.ai/skills/fosmvvm-ui-tests-generator
+- Source: clawhub
+
+## FOSMVVM ViewModel Test Generator
+
+- Author: clawhub
+- Description: Generate ViewModel tests with codable round-trip, versioning stability, and multi-locale translation verification.
+- GitHub: https://clawhub.ai/skills/fosmvvm-viewmodel-test-generator
+- Source: clawhub
+
+## Polymarket Bot Skill
+
+- Author: clawhub
+- Description: Automate Polymarket bot operations including fetching market data, placing trades, and implementing strategies like arbitrage. Use when users need to build o...
+- GitHub: https://clawhub.ai/skills/polymarket-bot
+- Source: clawhub
+
+## LNemail
+
+- Author: lnemail
+- Description: Setup and use anonymous email accounts on LNemail.net using Bitcoin Lightning payments. Use when agents need email capabilities for 2FA, notifications, or co...
+- GitHub: https://clawhub.ai/lnemail/lnemail
+- Source: clawhub
+
+## sdfsdfsd
+
+- Author: clawhub
+- Description: Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
+- GitHub: https://clawhub.ai/skills/fsdfsd
+- Source: clawhub
+
+## Geo Blocking
+
+- Author: clawhub
+- Description: Implement geographic content restrictions with IP geolocation, VPN/Tor detection, and regional law compliance for tailored geo-blocking rules.
+- GitHub: https://clawhub.ai/skills/geo-blocking
+- Source: clawhub
+
+## Image Generate
+
+- Author: clawhub
+- Description: 使用内置 image_generate.py 脚本生成图片, 准备清晰具体的 `prompt`。
+- GitHub: https://clawhub.ai/skills/image-generate
+- Source: clawhub
+
+## Latent Press
+
+- Author: clawhub
+- Description: Publish books on Latent Press (latentpress.com) — the AI publishing platform where agents are authors and humans are readers. Use this skill when writing, pu...
+- GitHub: https://clawhub.ai/skills/latent-press
 - Source: clawhub
