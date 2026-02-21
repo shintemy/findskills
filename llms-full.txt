@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10931 skills | Last updated: 2026-02-21
+> Total: 10943 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -77639,4 +77639,88 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: 销售线索研究助手 | Sales Lead Research Assistant. 识别高质量销售线索 | Identify high-quality sales leads. 分析目标公司、提供联系策略 | Analyze target companies, provide contact strategies...
 - GitHub: https://clawhub.ai/skills/lead-research-assistant-cn
+- Source: clawhub
+
+## 0x Swap
+
+- Author: aviclaw
+- Description: Execute secure ERC-20 token swaps on supported chains via 0x with allowance-holder or gasless meta-transactions using real-time quotes and on-chain approvals.
+- GitHub: https://clawhub.ai/aviclaw/0x-swap
+- Source: clawhub
+
+## Browser Bookmarks Cleanup
+
+- Author: makkoncept
+- Description: Analyze, organize, and clean browser bookmarks on macOS using on-disk bookmark and history files. Detects duplicates, stale bookmarks, tracking parameters, a...
+- GitHub: https://clawhub.ai/makkoncept/browser-bookmarks-cleanup
+- Source: clawhub
+
+## TaskFlow
+
+- Author: sm0ls
+- Description: Structured project/task management for OpenClaw agents — markdown-first authoring, SQLite-backed querying, bidirectional sync, CLI, Apple Notes integration.
+- GitHub: https://clawhub.ai/sm0ls/taskflow
+- Source: clawhub
+
+## Telegram Rich Messages
+
+- Author: clawhub
+- Description: Comprehensive guide for Telegram Rich UI features (Inline buttons, formatting, media, reactions, and message management). Use this skill to provide a low-fri...
+- GitHub: https://clawhub.ai/skills/telegram-rich-messages
+- Source: clawhub
+
+## Memoria
+
+- Author: clawhub
+- Description: Structured memory system for AI agents. Use when the user wants to store, recall, or search memories, manage session lifecycle (wake/sleep/checkpoint), sync...
+- GitHub: https://clawhub.ai/skills/memoria
+- Source: clawhub
+
+## Mixture of Agents
+
+- Author: jscianna
+- Description: Mixture of Agents: Make 3 frontier models argue, then synthesize their best insights into one superior answer. ~$0.03/query.
+- GitHub: https://clawhub.ai/jscianna/moa
+- Source: clawhub
+
+## LINE Rich Messages
+
+- Author: shingo0620
+- Description: Comprehensive guide for LINE Rich UI features (Flex Messages, buttons, quick replies, and markdown auto-conversion). Use this skill to provide a professional...
+- GitHub: https://clawhub.ai/shingo0620/line-rich-messages
+- Source: clawhub
+
+## Notion Sync
+
+- Author: kitakitsune0x
+- Description: Sync local workspace directories and files to Notion pages using the notion-sync CLI or programmatic API. Use when the user wants to push files to Notion, mi...
+- GitHub: https://clawhub.ai/kitakitsune0x/openclaw-notion-sync
+- Source: clawhub
+
+## Gotchi Channeling
+
+- Author: clawhub
+- Description: Autonomous Aavegotchi Alchemica channeling via Bankr wallet. Daily harvesting from your Aaltar installation on your REALM parcels. No signature required - se...
+- GitHub: https://clawhub.ai/skills/gotchi-channeling
+- Source: clawhub
+
+## Knowledge
+
+- Author: clawhub
+- Description: 本地知识库集成 - 文档检索、投喂、双轨模式切换
+- GitHub: https://clawhub.ai/skills/knowledge
+- Source: clawhub
+
+## bundler-sol
+
+- Author: clawhub
+- Description: Manage Solana wallets, launch tokens, run coordinated buys, volume bots, and wallet operations via gank.dev trading terminal API.
+- GitHub: https://clawhub.ai/skills/gank-solana-bundler
+- Source: clawhub
+
+## FearHarvester
+
+- Author: clawhub
+- Description: Automates dollar-cost averaging into BTC/ETH during extreme fear (F&G <10) and rebalances to yield above F&G 50, removing emotion from fear buying.
+- GitHub: https://clawhub.ai/skills/fear-harvester
 - Source: clawhub
