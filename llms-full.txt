@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11022 skills | Last updated: 2026-02-21
+> Total: 11039 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -78287,4 +78287,123 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Extracts text, tables, and images from PDFs (including scanned PDFs) using the Mistral OCR API. Use when user asks to OCR a PDF/image, extract text from a PD...
 - GitHub: https://clawhub.ai/skills/extracting-mistral-ocr
+- Source: clawhub
+
+## Create Agent With Telegram Group
+
+- Author: Sheetaa
+- Description: Create a new OpenClaw agent and bind it to a dedicated Telegram group with workspace ~/claw-<agent-name>. Use when the user asks for one-agent-one-group setu...
+- GitHub: https://clawhub.ai/Sheetaa/create-agent-with-telegram-group
+- Source: clawhub
+
+## Screenshot Skill
+
+- Author: sunrddd-a11y
+- Description: Capture screenshots on Windows using mss and Pillow. Provides full-screen, region, and multi-monitor capture with output as PIL Image, PNG file, or base64 st...
+- GitHub: https://clawhub.ai/sunrddd-a11y/screenshot-skill
+- Source: clawhub
+
+## Zhipu Search
+
+- Author: HonestQiao
+- Description: Use Zhipu (智谱) web search API for searching the internet. Use when user asks for web search, latest news, or needs current information.
+- GitHub: https://clawhub.ai/HonestQiao/zhipu-search
+- Source: clawhub
+
+## OPC Framework
+
+- Author: tohnee
+- Description: OPC (One-Person Company) Framework - Complete AI agent system for solo entrepreneurs with 14 integrated skills. From ideation to deployment - creative planni...
+- GitHub: https://clawhub.ai/tohnee/opc
+- Source: clawhub
+
+## React Production Engineering
+
+- Author: 1kalin
+- Description: Complete methodology for building production-grade React applications with architecture decisions, component design, state management, performance optimizati...
+- GitHub: https://clawhub.ai/1kalin/afrexai-react-production
+- Source: clawhub
+
+## FastAPI Production Engineering
+
+- Author: 1kalin
+- Description: Build, deploy, and scale production-grade FastAPI apps with async, type-safe design, structured errors, JWT auth, async ORM, auto docs, tests, and observabil...
+- GitHub: https://clawhub.ai/1kalin/afrexai-fastapi-production
+- Source: clawhub
+
+## Django Production Engineering
+
+- Author: 1kalin
+- Description: Provides best practices and methodologies for structuring, optimizing, securing, and scaling production Django applications, including architecture, ORM usag...
+- GitHub: https://clawhub.ai/1kalin/afrexai-django-production
+- Source: clawhub
+
+## Fennec SEO Auditor Skills
+
+- Author: 2winter-dev
+- Description: Uses Fennec SEO Auditor results to audit a URL. Invoke when user wants a quick on‑page/technical SEO health check or to verify favicon/meta/schema and GEO re...
+- GitHub: https://clawhub.ai/2winter-dev/fennecseo-audit
+- Source: clawhub
+
+## Ellya--Your Virtual Companion
+
+- Author: clawhub
+- Description: OpenClaw virtual companion skill. Use it to bootstrap runtime files (SOUL and base image), guide user personalization, learn and store style prompts from upl...
+- GitHub: https://clawhub.ai/skills/ellya
+- Source: clawhub
+
+## Snipgrapher - generate images from code snippets
+
+- Author: clawhub
+- Description: Configure and use snipgrapher to generate polished code snippet images
+- GitHub: https://clawhub.ai/skills/snipgrapher
+- Source: clawhub
+
+## Workspace Analyzer
+
+- Author: zendenho7
+- Description: Analyzes OpenClaw workspace structure and content to identify maintenance needs, bloat, duplicates, and organization issues. Outputs a JSON report for the ag...
+- GitHub: https://clawhub.ai/zendenho7/workspace-analyzer
+- Source: clawhub
+
+## GitHub Passwordless Setup
+
+- Author: clawhub
+- Description: Complete GitHub passwordless authentication setup using SSH keys and Personal Access Tokens. Never type passwords or re-authenticate for Git operations and G...
+- GitHub: https://clawhub.ai/skills/github-passwordless-setup
+- Source: clawhub
+
+## Nova
+
+- Author: clawhub
+- Description: Safely operate the nova CLI wallet for authentication, balance checks, sending funds, withdrawals, and key management across mainnet and testnet. Enforces de...
+- GitHub: https://clawhub.ai/skills/nova
+- Source: clawhub
+
+## X Smart Read
+
+- Author: clawhub
+- Description: Personal X (Twitter) analytics — timeline engagement, mentions, follower tracking, read any tweet/thread, bookmarks, and combined briefings via X API v2. Cos...
+- GitHub: https://clawhub.ai/skills/x-smart-read
+- Source: clawhub
+
+## OpenClaw macOS Always-On
+
+- Author: happydog-intj
+- Description: Run OpenClaw as a system-level LaunchDaemon on macOS for 24/7 operation, surviving screen lock, logout, and user switching. Uses caffeinate to prevent sleep....
+- GitHub: https://clawhub.ai/happydog-intj/openclaw-macos-always-on
+- Source: clawhub
+
+## RoomSound
+
+- Author: icecat2005
+- Description: RoomSound gives your agent the skill to play audio to your speakers. Starting with YouTube to Bluetooth speakers, expanding to local files and other sources.
+- GitHub: https://clawhub.ai/icecat2005/roomsound
+- Source: clawhub
+
+## seedance2-skill
+
+- Author: zhanghaonan777
+- Description: 即梦 Seedance 视频创意工作台。用户发图+文案时自主完成看图分析→文案扩写→运镜匹配→质量验证→API生成。触发词：即梦、Seedance、seedance、视频生成、视频提示词、AI视频、运镜、短剧、广告视频、视频延长、图生视频。
+- GitHub: https://clawhub.ai/zhanghaonan777/seedance2-skill
 - Source: clawhub
