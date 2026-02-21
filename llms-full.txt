@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10899 skills | Last updated: 2026-02-21
+> Total: 10931 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -77405,4 +77405,238 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Job board for agents. Submit jobs, report bad listings. Humans use agents to browse and apply.
 - GitHub: https://clawhub.ai/skills/humaboam-final
+- Source: clawhub
+
+## macos-design
+
+- Author: ceorkm
+- Description: Native macOS app design system - Build apps that feel like Apple designed them
+- GitHub: https://github.com/ceorkm/macos-design-skill
+- Source: github
+
+## reflect
+
+- Author: Victoriakaey
+- Description: A evident-based self-analyzing buddy 
+- GitHub: https://github.com/Victoriakaey/reflect
+- Source: github
+
+## x-tweet-fetcher
+
+- Author: ythx-101
+- Description: 🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill.
+- GitHub: https://github.com/ythx-101/x-tweet-fetcher
+- Stars: 158
+- Source: github
+
+## genviral
+
+- Author: fdarkaou
+- Description: OpenClaw skill for Genviral Partner API - autonomous content creation, slideshow generation, analytics, multi-platform posting
+- GitHub: https://github.com/fdarkaou/genviral-skill
+- Stars: 11
+- Source: github
+
+## ontopo
+
+- Author: alexpolonsky
+- Description: Search Israeli restaurants, check availability across date ranges, and get booking links. Agent Skills format for OpenClaw, Claude, Cursor.
+- GitHub: https://github.com/alexpolonsky/agent-skill-ontopo
+- Stars: 2
+- Source: github
+
+## crushable-wingman
+
+- Author: yxp934
+- Description: clone但是不给star的是gay
+- GitHub: https://github.com/yxp934/crushable-wingman-skill
+- Stars: 16
+- Source: github
+
+## Rust Pcn
+
+- Author: Kadajett
+- Description: Skill from Kadajett/rust-pcn
+- GitHub: https://github.com/Kadajett/rust-pcn
+- Source: github
+
+## video-copy-analyzer
+
+- Author: ALBEDO-TABAI
+- Description: Video Copy Analyzer - AI-powered video transcription and copywriting analysis skill
+- GitHub: https://github.com/ALBEDO-TABAI/video-copy-analyzer
+- Stars: 82
+- Source: github
+
+## libby-book-monitor
+
+- Author: alexpolonsky
+- Description: Track when books get added to your Libby/OverDrive library. Watchlists, multi-library profiles, cron-ready notifications. Agent Skills format.
+- GitHub: https://github.com/alexpolonsky/agent-skill-libby-book-monitor
+- Stars: 1
+- Source: github
+
+## fomolt
+
+- Author: fomolt-app
+- Description: Command-line interface for Fomolt — agentic trading on Base.
+- GitHub: https://github.com/fomolt-app/cli
+- Stars: 1
+- Source: github
+
+## evals
+
+- Author: camronh
+- Description: Write and analyze evaluations for AI agents and LLM applications. Use when building evals, testing agents, measuring AI quality, or debugging agent failures. Use this skill when you need to test the performance of an LLM or Agent, or if the user mentions EZVals.
+- GitHub: https://github.com/camronh/evals-skill
+- Source: github
+
+## Togetherai Tts
+
+- Author: marcus20232023
+- Description: Convert text to speech using the TogetherAI API with the MiniMax speech-2.6-turbo model and save audio in mp3 format.
+- GitHub: https://clawhub.ai/marcus20232023/togetherai-tts
+- Source: clawhub
+
+## Finnhub Finance Pro
+
+- Author: lsj210001
+- Description: 使用 Finnhub 获取美股/全球股票的实时报价、公司档案、新闻、分析师推荐、内部人交易、盈利日历和基本面财务数据。适用场景：查股价、查公司信息、看最新新闻、了解内部人是否在买卖、查看近期财报日期。免费层60次/分钟。
+- GitHub: https://clawhub.ai/lsj210001/finnhub-pro
+- Source: clawhub
+
+## 0xArchive
+
+- Author: clawhub
+- Description: Query historical crypto market data from 0xArchive across Hyperliquid, Lighter.xyz, and HIP-3. Covers orderbooks, trades, candles, funding rates, open intere...
+- GitHub: https://clawhub.ai/skills/0xarchive
+- Stars: 1
+- Source: clawhub
+
+## Fastmail Jmap
+
+- Author: clawhub
+- Description: Give your AI agent email superpowers via Fastmail JMAP. Read, search, send, move, trash — zero deps. By The Agent Wire (theagentwire.ai)
+- GitHub: https://clawhub.ai/skills/fastmail-jmap
+- Stars: 1
+- Source: clawhub
+
+## Chrome Devtools Mcp
+
+- Author: clawhub
+- Description: Chrome DevTools MCP — Google's official browser automation and testing server. Control Chrome via Puppeteer through MCP protocol: click, fill forms, navigate...
+- GitHub: https://clawhub.ai/skills/chrome-devtools-mcp
+- Source: clawhub
+
+## Rate Limiter
+
+- Author: TheAgentWire
+- Description: Prevent 429s with automatic tier-based throttling & exponential backoff. Zero deps. By The Agent Wire (theagentwire.ai)
+- GitHub: https://clawhub.ai/TheAgentWire/agent-rate-limiter
+- Stars: 1
+- Source: clawhub
+
+## Config Guard
+
+- Author: clawhub
+- Description: Provides on-demand 10-second automatic rollback protection when modifying openclaw.json to ensure Gateway stability.
+- GitHub: https://clawhub.ai/skills/config-guard
+- Source: clawhub
+
+## smart-security
+
+- Author: georges91560
+- Description: Advanced prompt injection defense with multi-layer protection, memory integrity, and tool security wrapper. OWASP LLM Top 10 2026 compliant.
+- GitHub: https://clawhub.ai/georges91560/anti-injection-skill
+- Source: clawhub
+
+## Md2pdf
+
+- Author: franklu0819-lang
+- Description: Markdown 转 PDF 技能。将 Markdown 文件转换为精美的 PDF 文档，完美支持中文、代码高亮、自定义样式。
+- GitHub: https://clawhub.ai/franklu0819-lang/markdown-to-pdf-weasyprint
+- Source: clawhub
+
+## AI Voice Chat
+
+- Author: bolander72
+- Description: Hands-free AI voice conversations via AirPods or any Bluetooth headset. Local Whisper STT + Kokoro-ONNX TTS with OpenClaw agent streaming. Auto-starts on hea...
+- GitHub: https://clawhub.ai/bolander72/ai-voice-chat
+- Source: clawhub
+
+## Circleci
+
+- Author: aiwithabidi
+- Description: CircleCI CI/CD — manage pipelines, workflows, jobs, and insights via REST API
+- GitHub: https://clawhub.ai/aiwithabidi/circleci
+- Source: clawhub
+
+## Census
+
+- Author: aiwithabidi
+- Description: US Census Bureau — population, demographics, ACS data, economic indicators, and geographic data.
+- GitHub: https://clawhub.ai/aiwithabidi/census
+- Source: clawhub
+
+## Imessage Voice Reply
+
+- Author: clawhub
+- Description: Send voice message replies in iMessage using local Kokoro-ONNX TTS. Generates native iMessage voice bubbles (CAF/Opus) that play inline with waveform — not f...
+- GitHub: https://clawhub.ai/skills/imessage-voice-reply
+- Source: clawhub
+
+## Nutrition tracking
+
+- Author: clawhub
+- Description: AI-powered nutrition coach and health tracker (powered by Haver). Log food with natural language, track calories and macros, monitor weight, get AI coaching,...
+- GitHub: https://clawhub.ai/skills/openclaw-nutrition
+- Source: clawhub
+
+## ClawHub Quarantine Installer
+
+- Author: clawhub
+- Description: Instala e audita skills do ClawHub em um ambiente de quarentena isolado para análise de segurança, permitindo revisar riscos antes de promover para produção....
+- GitHub: https://clawhub.ai/skills/clawhub-quarantine-installer
+- Source: clawhub
+
+## Rpi Cpu Monitor
+
+- Author: archerweiye
+- Description: 树莓派 CPU 温度监控。当需要监控树莓派 CPU 温度时使用此 skill。功能：(1) 读取当前 CPU 温度，(2) 设置定时监控任务，(3) 温度超标时自动告警。支持 crontab 方案（零消耗，推荐）和 OpenClaw cron 方案。
+- GitHub: https://clawhub.ai/archerweiye/rpi-cpu-monitor
+- Source: clawhub
+
+## Claw Seatbelt
+
+- Author: segasonicye
+- Description: Provides a 10-second automatic rollback and restart of OpenClaw Gateway if configuration changes cause it to fail, activating only during backup scripts.
+- GitHub: https://clawhub.ai/segasonicye/claw-seatbelt
+- Source: clawhub
+
+## ISS Tracker
+
+- Author: sharkbytescs
+- Description: Get the real-time location (latitude/longitude) of the International Space Station.
+- GitHub: https://clawhub.ai/sharkbytescs/iss-tracker
+- Source: clawhub
+
+## Phenotype and Medication Extractor
+
+- Author: clawhub
+- Description: Extract clinical phenotypes and medication entities from user-provided text using PhenoSnap, producing a timestamped JSON output.
+- GitHub: https://clawhub.ai/skills/phenoskill
+- Source: clawhub
+
+## Clean Pytest
+
+- Author: clawhub
+- Description: Write clean, maintainable pytest tests using Fake-based testing, contract testing, and dependency injection patterns. Use when setting up test suites for Pyt...
+- GitHub: https://clawhub.ai/skills/clean-pytest
+- Source: clawhub
+
+## Lead Research Assistant Cn
+
+- Author: clawhub
+- Description: 销售线索研究助手 | Sales Lead Research Assistant. 识别高质量销售线索 | Identify high-quality sales leads. 分析目标公司、提供联系策略 | Analyze target companies, provide contact strategies...
+- GitHub: https://clawhub.ai/skills/lead-research-assistant-cn
 - Source: clawhub
