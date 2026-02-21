@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11112 skills | Last updated: 2026-02-21
+> Total: 11144 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -78924,4 +78924,233 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Publish books on Latent Press (latentpress.com) — the AI publishing platform where agents are authors and humans are readers. Use this skill when writing, pu...
 - GitHub: https://clawhub.ai/skills/latent-press
+- Source: clawhub
+
+## video-analyzer
+
+- Author: LDJ-creat
+- Description: Analyze videos to extract structured knowledge including mind maps, key highlights, and timestamps. Use when users want to analyze a video (YouTube, Bilibili, or local file), extract video content, generate video summaries, or understand video structure. Triggers: 'analyze video', 'summarize video', 'extract from video', 'video mind map', '视频分析', '总结视频'.
+- GitHub: https://github.com/LDJ-creat/video-helper-skill
+- Source: github
+
+## esp-idf-helper
+
+- Author: 547895019
+- Description: Help develop, build, flash, and debug ESP32/ESP8266 firmware using Espressif ESP-IDF on Linux/WSL. Use when the user asks about ESP-IDF project setup, configuring targets, menuconfig, building, flashing via esptool/idf.py, serial monitor, partition tables, sdkconfig, troubleshooting build/flash/monitor errors, or automating common idf.py workflows from the command line.
+- GitHub: https://github.com/547895019/esp-idf-helper
+- Source: github
+
+## extension-agent-installer
+
+- Author: lmt-expert-company
+- Description: Secure extension installer for AI coding agents with vulnerability scanning and credential guidance
+- GitHub: https://github.com/lmt-expert-company/extension-agent-installer
+- Stars: 1
+- Source: github
+
+## "AURELION Advisor"
+
+- Author: Chase-Key
+- Description: Career planning templates and strategic methodology library
+- GitHub: https://github.com/Chase-Key/aurelion-advisor-lite
+- Stars: 1
+- Source: github
+
+## vdoob
+
+- Author: silbosu
+- Description: vdoob.com自动答题Agent - 帮主人赚取bait奖励！自动获取问题、生成高质量答案、提交并获得收益。| vdoob.com Auto-Answer Agent - Earn bait rewards! Automatically fetch questions, generate high-quali...
+- GitHub: https://clawhub.ai/silbosu/vdoob
+- Source: clawhub
+
+## Cloud Cost Audit
+
+- Author: 1kalin
+- Description: Analyze multi-cloud spend data to identify waste, rightsizing, reserved instance savings, and generate a prioritized 90-day cost optimization roadmap.
+- GitHub: https://clawhub.ai/1kalin/afrexai-cloud-cost-audit
+- Source: clawhub
+
+## Zvec Local RAG Service
+
+- Author: emre-koc
+- Description: Operate an always-on local semantic-search service using zvec + Ollama embeddings. Use when you need to ingest .txt/.md files, run meaning-based search via H...
+- GitHub: https://clawhub.ai/emre-koc/zvec-local-rag-service
+- Source: clawhub
+
+## Bug Reaper
+
+- Author: shaniidev
+- Description: Web2 bug bounty hunting agent — evidence-based vulnerability finder and report writer. Use when: auditing web apps/APIs for HackerOne, Bugcrowd, Intigriti, Y...
+- GitHub: https://clawhub.ai/shaniidev/bug-reaper
+- Source: clawhub
+
+## Openclaw Guru - Documentation and Support expert
+
+- Author: isriam
+- Description: OpenClaw expert — use for ANY OpenClaw question or problem including: config errors, gateway crashes, gateway not starting, slash commands, channel routing,...
+- GitHub: https://clawhub.ai/isriam/claw-guru
+- Stars: 1
+- Source: clawhub
+
+## Jentic
+
+- Author: clawhub
+- Description: Call external APIs through Jentic — AI agent API middleware. Use whenever you need to interact with external APIs (Gmail, Google Calendar, GitHub, Stripe, Tw...
+- GitHub: https://clawhub.ai/skills/jentic
+- Source: clawhub
+
+## Evomap Verify Report
+
+- Author: clawhub
+- Description: 提交驗證報告到EvoMap網絡 | Submit verification reports and earn reputation rewards
+- GitHub: https://clawhub.ai/skills/evomap-verify-report
+- Source: clawhub
+
+## Evomap Fetch Capsule
+
+- Author: clawhub
+- Description: 搜尋EvoMap網絡上既Capsule同解決方案 | Search existing capsules and solutions on EvoMap network
+- GitHub: https://clawhub.ai/skills/evomap-fetch-capsule
+- Source: clawhub
+
+## Spreadsheet Engineering
+
+- Author: clawhub
+- Description: Build reliable, well-documented spreadsheets with clear architecture, error handling, named ranges, and platform-agnostic formulas for finance, dashboards, a...
+- GitHub: https://clawhub.ai/skills/afrexai-spreadsheet-engineering
+- Source: clawhub
+
+## Signal messaging for standalone bots/accounts
+
+- Author: clawhub
+- Description: Full Signal messenger integration for OpenClaw agents. Send/receive text and voice messages via signal-cli with role-based permissions (owner/trusted/untrust...
+- GitHub: https://clawhub.ai/skills/signal-messenger-standalone
+- Source: clawhub
+
+## DeepSeep Intergration
+
+- Author: clawhub
+- Description: Integrates DeepSeek API with agents for code generation, problem solving, and analysis using configurable API endpoints.
+- GitHub: https://clawhub.ai/skills/deepseek
+- Source: clawhub
+
+## agent-teleport
+
+- Author: clawhub
+- Description: Seamlessly migrate your agent's configuration and memory to a new machine using TiDB Zero.
+- GitHub: https://clawhub.ai/skills/agent-teleport
+- Source: clawhub
+
+## wolt-cli
+
+- Author: clawhub
+- Description: Use Nikita's local Wolt CLI to browse venues, inspect menus/items/options, and run profile, cart, and checkout-preview actions for wolt.com from terminal. Tr...
+- GitHub: https://clawhub.ai/skills/wolt
+- Source: clawhub
+
+## Kiro X Publisher
+
+- Author: clawhub
+- Description: Discover trending tweets on X, enrich and score them, generate one tweet draft, and optionally publish it using OAuth 1.0a authentication.
+- GitHub: https://clawhub.ai/skills/kiro-x-publisher
+- Source: clawhub
+
+## ClawProof Security Scanner
+
+- Author: clawhub
+- Description: Enterprise-grade security for OpenClaw - blocks malicious skills, detects hallucinated packages, and prevents prompt injection attacks. Powered by agent-secu...
+- GitHub: https://clawhub.ai/skills/clawproof-security
+- Source: clawhub
+
+## Moltgate
+
+- Author: clawhub
+- Description: Fetch and process paid inbound messages from Moltgate using the REST API.
+- GitHub: https://clawhub.ai/skills/moltgate
+- Stars: 1
+- Source: clawhub
+
+## librarian companion
+
+- Author: clawhub
+- Description: Conversational interface for semantic book search (companion skill for Librarian project)
+- GitHub: https://clawhub.ai/skills/librarian
+- Source: clawhub
+
+## dakboard
+
+- Author: clawhub
+- Description: Manage DAKboard screens, devices, and push custom display data.
+- GitHub: https://clawhub.ai/skills/dakboard
+- Source: clawhub
+
+## API Monetization Strategy
+
+- Author: clawhub
+- Description: Helps you evaluate, price, package, and launch API products by auditing assets, setting pricing, ensuring readiness, forecasting revenue, and defining go-to-...
+- GitHub: https://clawhub.ai/skills/afrexai-api-monetization
+- Source: clawhub
+
+## simplify-and-harden
+
+- Author: clawhub
+- Description: Post-completion self-review for coding agents that runs simplify, harden, and micro-documentation passes on non-trivial code changes. Use when: a coding task...
+- GitHub: https://clawhub.ai/skills/simplify-and-harden
+- Source: clawhub
+
+## SkillGate Governance
+
+- Author: clawhub
+- Description: Supply-chain governance for OpenClaw skills: scan, assess, quarantine/restore.
+- GitHub: https://clawhub.ai/skills/skillgate-gov
+- Source: clawhub
+
+## Hi Energy Advertiser Intelligence / Affiliate Copilot
+
+- Author: clawhub
+- Description: Official HiEnergy Agency skill for Hi Energy (HiEnergy) advertiser intelligence and affiliate copilot workflows in OpenClaw. Query HiEnergy API v1 for advert...
+- GitHub: https://clawhub.ai/skills/hienergy-advertiser-intelligence-affiliate-copilot
+- Source: clawhub
+
+## cross-ref
+
+- Author: clawhub
+- Description: Cross-reference GitHub PRs and issues to find duplicates and missing links. Spawns parallel Sonnet subagents to semantically analyze the last N PRs and issue...
+- GitHub: https://clawhub.ai/skills/cross-ref
+- Source: clawhub
+
+## TG Channel Manager
+
+- Author: clawhub
+- Description: Universal config-driven content pipeline engine for any Telegram channel: news search via SearXNG, drafts, scheduled publishing, deduplication. All channel s...
+- GitHub: https://clawhub.ai/skills/tg-channel-manager
+- Stars: 1
+- Source: clawhub
+
+## Terrain Route Video
+
+- Author: clawhub
+- Description: Generate a minimalist terrain-style animated driving route video (MP4) from a list of stops (cities/POIs) without Remotion. Uses OSRM for road-following geom...
+- GitHub: https://clawhub.ai/skills/terrain-route-video
+- Source: clawhub
+
+## Evomap Check Earnings
+
+- Author: clawhub
+- Description: 查詢EvoMap節點收益同聲譽 | Check your EvoMap node earnings and reputation score
+- GitHub: https://clawhub.ai/skills/evomap-check-earnings
+- Source: clawhub
+
+## Evomap Publish Capsule
+
+- Author: clawhub
+- Description: 發布Gene+Capsule到EvoMap區塊鏈驗證網絡 | 發布AI解決方案並獲取收益 | Submit Gene+Capsule bundles to EvoMap for verification and earn rewards
+- GitHub: https://clawhub.ai/skills/evomap-publish-capsule
+- Source: clawhub
+
+## GitHub Release Workflow
+
+- Author: clawhub
+- Description: Professional GitHub release workflow. Use when: (1) releasing a new version, (2) managing versions and tags, (3) following conventional commits, (4) setting...
+- GitHub: https://clawhub.ai/skills/github-release-workflow
 - Source: clawhub
