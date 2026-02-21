@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11002 skills | Last updated: 2026-02-21
+> Total: 11011 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -78144,4 +78144,69 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Python SDK for BSC enabling creation of AI-generated Meme tokens with stable minting and experimental token trading (buy/sell) features.
 - GitHub: https://clawhub.ai/skills/moonfunsdk
+- Source: clawhub
+
+## token-optimizer
+
+- Author: smartpeopleconnected
+- Description: 🦞 Reduce OpenClaw AI costs by 97%. Haiku model routing, free Ollama heartbeats, prompt caching, budget controls. From $1,500/month to $50/month in 5 minutes.
+- GitHub: https://github.com/smartpeopleconnected/openclaw-token-optimizer
+- Stars: 2
+- Source: github
+
+## knowledge-loop
+
+- Author: sakimyto
+- Description: Extract domain knowledge from your notes and feed it back into Claude Code. Not AI tips — your design principles, business rules, technical decisions, and quality criteria.
+- GitHub: https://github.com/sakimyto/claude-knowledge-loop
+- Source: github
+
+## privy
+
+- Author: Marvin-Cypher
+- Description: AI skill for creating and managing crypto wallets with Privy. Policy-based guardrails, persistent wallet registry, multi-chain support.
+- GitHub: https://github.com/Marvin-Cypher/privy-agentic-wallets-skill
+- Stars: 1
+- Source: github
+
+## Ynab
+
+- Author: clawhub
+- Description: YNAB (You Need A Budget) financial tracking and categorization best practices. Use when managing budget transactions, categorizing expenses, or querying fina...
+- GitHub: https://clawhub.ai/skills/ynab-api
+- Source: clawhub
+
+## Timemap
+
+- Author: clawhub
+- Description: Search historical entertainment, nightlife, and culture venues in Tel Aviv and Haifa from timemap.co.il. Bars, cafes, clubs, cinemas, food venues, performanc...
+- GitHub: https://clawhub.ai/skills/timemap
+- Source: clawhub
+
+## Pine Assistant
+
+- Author: clawhub
+- Description: Handle customer service, bills, reservations, and more via Pine AI — negotiate, cancel, dispute, book, and resolve from the terminal.
+- GitHub: https://clawhub.ai/skills/pine-assistant
+- Source: clawhub
+
+## Speckit Workflow for Openclaw
+
+- Author: clawhub
+- Description: Complete Spec-Driven Development (SDD) orchestrator for OpenClaw. Initializes SpecKit and manages the full engineering lifecycle.
+- GitHub: https://clawhub.ai/skills/speckit-workflow
+- Source: clawhub
+
+## n8n Workflow Engineering
+
+- Author: clawhub
+- Description: Expertise in designing, building, debugging, and scaling production-grade n8n workflows with proper error handling, versioning, and modular architecture.
+- GitHub: https://clawhub.ai/skills/afrexai-n8n-mastery
+- Source: clawhub
+
+## knowledge-vault
+
+- Author: clawhub
+- Description: Long-term RAG memory storage for your agent, powered by TiDB Vector.
+- GitHub: https://clawhub.ai/skills/knowledge-vault
 - Source: clawhub
