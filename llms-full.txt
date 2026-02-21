@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10982 skills | Last updated: 2026-02-21
+> Total: 10990 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -78001,4 +78001,61 @@ parallelisms, and excessive conjunctive phrases.
 - Description: Free transcripts, 4K downloads, and video exploration — zero API quotas burned.
 - GitHub: https://clawhub.ai/skills/youtube-ultimate
 - Stars: 2
+- Source: clawhub
+
+## heptabase-cli
+
+- Author: madeyexz
+- Description: CLI for Heptabase MCP server, built with mcporter; including skills
+- GitHub: https://github.com/madeyexz/heptabase-cli
+- Stars: 1
+- Source: github
+
+## github-project-researcher
+
+- Author: includewudi
+- Description: github项目研究skill
+- GitHub: https://github.com/includewudi/github-project-researcher-oss
+- Source: github
+
+## mbt-module-setup
+
+- Author: elzup
+- Description: Claude Code skill: MoonBit module project setup from template
+- GitHub: https://github.com/elzup/skill-mbt-module-setup
+- Source: github
+
+## kurama-serp
+
+- Author: kchinhara
+- Description: Zero-cost Google Ads SERP scraper. Real browser scraping via Playwright with UULE geo-targeting. Claude Code skill.
+- GitHub: https://github.com/kchinhara/kurama-serp
+- Source: github
+
+## Postwall
+
+- Author: casperaiassist
+- Description: Secure email gateway - read human-approved emails and submit drafts for approval. Poll periodically with 'postwall check' to detect new approved emails.
+- GitHub: https://clawhub.ai/casperaiassist/postwall
+- Source: clawhub
+
+## md2pdf-xelatex
+
+- Author: clawhub
+- Description: Convert Markdown files to PDF with full LaTeX math formula rendering and CJK (Chinese/Japanese/Korean) support. Use when the user asks to convert markdown to...
+- GitHub: https://clawhub.ai/skills/md2pdf-xelatex
+- Source: clawhub
+
+## Trench
+
+- Author: clawhub
+- Description: Fast meme coin trading execution for AI agents. Snipe new token launches, execute rapid buys/sells on Solana DEXs (Jupiter, Raydium, Pump.fun), with MEV prot...
+- GitHub: https://clawhub.ai/skills/trench
+- Source: clawhub
+
+## Skill Publisher
+
+- Author: clawhub
+- Description: Create, validate, security-scan, and publish skills to ClawHub. Use when asked to "make a skill", "publish a skill", "create a new skill", "scaffold a skill"...
+- GitHub: https://clawhub.ai/skills/skillpub
 - Source: clawhub
