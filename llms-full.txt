@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 10947 skills | Last updated: 2026-02-21
+> Total: 10966 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -77751,4 +77751,140 @@ parallelisms, and excessive conjunctive phrases.
 - Author: jackytianjp
 - Description: 基于双引擎策略的智能语音系统，支持中文本地Tingting语音和多语言Edge-TTS云端，输出高质量OGG音频，保障隐私。
 - GitHub: https://clawhub.ai/jackytianjp/xiaoye-voice
+- Source: clawhub
+
+## venice-router
+
+- Author: PlusOne
+- Description: an router for selecting the right venice.ai modell  | openclaw
+- GitHub: https://github.com/PlusOne/venice.ai-router-openclaw
+- Source: github
+
+## Cloudflare R2 CLI
+
+- Author: zororaka00
+- Description: Minimal Python CLI for secure upload, download, list, and delete operations on Cloudflare R2 storage using AWS Signature V4 authentication.
+- GitHub: https://clawhub.ai/zororaka00/r2-cli
+- Source: clawhub
+
+## Tarot from Univoice
+
+- Author: yangsenessa
+- Description: A reflective tarot draw for emotional support (presence-first, non-clinical, non-predictive).
+- GitHub: https://clawhub.ai/yangsenessa/tarot
+- Source: clawhub
+
+## Validate
+
+- Author: fortunto2
+- Description: Score startup idea through S.E.E.D. niche check + STREAM 6-layer analysis + Devil's Advocate inversion, auto-pick stack, and generate PRD with acceptance cri...
+- GitHub: https://clawhub.ai/fortunto2/solo-validate
+- Source: clawhub
+
+## Swarm
+
+- Author: fortunto2
+- Description: Launch 3 parallel research agents (market, users, tech) to investigate an idea from multiple angles simultaneously. Use when user says "swarm research", "par...
+- GitHub: https://clawhub.ai/fortunto2/solo-swarm
+- Source: clawhub
+
+## Stream
+
+- Author: clawhub
+- Description: Interactive decision-making wizard using STREAM 6-layer framework for founders facing high-stakes choices. Use when user says "help me decide", "should I do...
+- GitHub: https://clawhub.ai/skills/solo-stream
+- Source: clawhub
+
+## sql-server-toolkit
+
+- Author: sqlservr
+- Description: Command-line tools for SQL Server schema creation, migrations, index management, performance diagnostics, backups, restores, and bulk data import/export.
+- GitHub: https://clawhub.ai/sqlservr/sql-server-toolkit
+- Source: clawhub
+
+## Canonical Data Map
+
+- Author: satoshistackalotto
+- Description: Single source of truth for all paths, naming conventions, and data formats across the OpenClaw Greek Accounting system. Reference document.
+- GitHub: https://clawhub.ai/satoshistackalotto/canonical-data-map
+- Source: clawhub
+
+## marketing-calendar
+
+- Author: clawhub
+- Description: 华与华营销日历创意生成器。 输入品牌名与品牌资料，自动执行「盘点品牌资产 → 匹配文化母体 → 五要素创意 → 打分筛选」流程， 输出≥80分的营销日历活动方案，并生成可视化 HTML 报告。
+- GitHub: https://clawhub.ai/skills/marketing-calendar
+- Source: clawhub
+
+## x402r Dispute Resolution
+
+- Author: clawhub
+- Description: File and track payment disputes on the x402r refundable payments protocol
+- GitHub: https://clawhub.ai/skills/x402r-dispute
+- Source: clawhub
+
+## Codifica
+
+- Author: clawhub
+- Description: Keep context when work moves between agents or between you and a human. Uses the Codifica protocol to give every agent a shared, persistent memory of tasks,...
+- GitHub: https://clawhub.ai/skills/codifica
+- Source: clawhub
+
+## Aetherlang Karpathy Skill
+
+- Author: clawhub
+- Description: Implement 10 advanced AI agent node types for any DSL/runtime system — plan compiler, code interpreter, critique loops, intelligent routing, multi-agent ense...
+- GitHub: https://clawhub.ai/skills/aetherlang-karpathy-skill
+- Stars: 1
+- Source: clawhub
+
+## CitrineOS Assistant
+
+- Author: clawhub
+- Description: Install, configure, and manage CitrineOS (EV charging / OCPP) via natural language. Supports Docker, cloud hosting, and API operations.
+- GitHub: https://clawhub.ai/skills/citrineos-assistant
+- Stars: 1
+- Source: clawhub
+
+## Shell Security Ultimate
+
+- Author: clawhub
+- Description: Classify every shell command as SAFE, WARN, or CRIT before your agent runs it.
+- GitHub: https://clawhub.ai/skills/shell-security-ultimate
+- Stars: 1
+- Source: clawhub
+
+## semfind
+
+- Author: clawhub
+- Description: Semantic search over local text files using embeddings. Use when grep/ripgrep fails to find relevant results because the exact wording is unknown, or when se...
+- GitHub: https://clawhub.ai/skills/semfind
+- Source: clawhub
+
+## brand-slogan
+
+- Author: CoCokkxy
+- Description: 华与华方法论品牌谚语生成器。 输入品牌名与品牌资料，自动执行「定策略 → 组合修辞 → 打分排序」三步流程， 输出 7 策略 × 7 修辞 = 49 条品牌谚语，并按百分制评分由高到低排列 Top 10。
+- GitHub: https://clawhub.ai/CoCokkxy/brand-slogan
+- Source: clawhub
+
+## Greek Individual Taxes
+
+- Author: satoshistackalotto
+- Description: Comprehensive Greek individual tax return processing skill for employed individuals. Handles E1 form preparation, personal income tax calculations, deduction...
+- GitHub: https://clawhub.ai/satoshistackalotto/greek-individual-taxes
+- Source: clawhub
+
+## vscode-tunnel
+
+- Author: listky
+- Description: Start VS Code Remote Tunnel in Docker containers for remote terminal access
+- GitHub: https://clawhub.ai/listky/vscode-tunnel
+- Source: clawhub
+
+## Crabukit
+
+- Author: tnbradley
+- Description: Security scanner for OpenClaw skills with Clawdex integration. Analyzes SKILL.md and scripts for dangerous permissions, hardcoded secrets, shell injection vu...
+- GitHub: https://clawhub.ai/tnbradley/crabukit
 - Source: clawhub
