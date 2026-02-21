@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11201 skills | Last updated: 2026-02-21
+> Total: 11218 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -79554,4 +79554,124 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Upload and battle Redcode AI warriors in a virtual CoreWar arena, track rankings with Glicko-2, and refine strategies in bomber, scanner, or replicator arche...
 - GitHub: https://clawhub.ai/skills/modelwar
+- Source: clawhub
+
+## telegram-mini-app-skill
+
+- Author: Rithprohos
+- Description: Comprehensive guide for developing Telegram Mini Apps with any web framework (React, Vue, Svelte, vanilla JS, etc.). Covers the Telegram Web App SDK, theming, UI components, navigation, data validation, and platform best practices.
+- GitHub: https://github.com/Rithprohos/telegram-mini-app-skills
+- Stars: 1
+- Source: github
+
+## finviz-crawler
+
+- Author: camopel
+- Description: Continuous financial news crawler for finviz.com with SQLite storage, article extraction, and query tool. Use when monitoring financial markets, building new...
+- GitHub: https://clawhub.ai/camopel/finviz-crawler
+- Source: clawhub
+
+## Mnemon Memory
+
+- Author: Grivn
+- Description: Persistent memory CLI for LLM agents. Store facts, recall past knowledge, link related memories, manage lifecycle.
+- GitHub: https://clawhub.ai/Grivn/mnemon
+- Source: clawhub
+
+## Faster Whisper Transcription
+
+- Author: Kalmuraee
+- Description: Transcribes local voice messages to text using Faster Whisper models for fast, privacy-focused speech recognition on audio files.
+- GitHub: https://clawhub.ai/Kalmuraee/faster-whisper-transcribe
+- Source: clawhub
+
+## Claw Draw
+
+- Author: kajukabla
+- Description: Generate algorithmic art on ClawDraw's infinite multiplayer canvas using 75 primitives, 24 collaborator behaviors, symmetry, SVG templates, and 5 artistic pa...
+- GitHub: https://clawhub.ai/kajukabla/claw-draw
+- Source: clawhub
+
+## Philips Hue
+
+- Author: Aprilox
+- Description: Local control of Philips Hue lights via API v1.
+- GitHub: https://clawhub.ai/Aprilox/philips-hue
+- Source: clawhub
+
+## Hourly Momentum Trader
+
+- Author: JamieRossouw
+- Description: Momentum-based trading agent for hourly crypto candles. Uses RSI, MACD, OBV, EMA, and Bollinger Band confluence to score directional momentum from -10 to +10...
+- GitHub: https://clawhub.ai/JamieRossouw/hourly-momentum-trader
+- Source: clawhub
+
+## Ebooks Search
+
+- Author: arbuge
+- Description: When a user wants ebooks on a topic (or asks where to find ebooks about something), suggest Mixcache search result pages by generating one or more Mixcache b...
+- GitHub: https://clawhub.ai/arbuge/ebooks
+- Source: clawhub
+
+## ddgs-search
+
+- Author: clawhub
+- Description: Free multi-engine web search via ddgs CLI (DuckDuckGo, Google, Bing, Brave, Yandex, Yahoo, Wikipedia) + arXiv API search. No API keys required. Use when user...
+- GitHub: https://clawhub.ai/skills/ddgs-search
+- Source: clawhub
+
+## Scanwow Sync
+
+- Author: BrandonS7
+- Description: Sync your OpenClaw agent with the ScanWow iOS app. Start an HTTP webhook to receive high-quality OCR scans directly from your phone into your agent's workspace.
+- GitHub: https://clawhub.ai/BrandonS7/scanwow-sync
+- Source: clawhub
+
+## X Read
+
+- Author: clawhub
+- Description: Render and summarize a public X (Twitter) link when you need to read the tweet/article content without logging in.
+- GitHub: https://clawhub.ai/skills/x-read
+- Source: clawhub
+
+## Bilibili Player
+
+- Author: e421083458
+- Description: B 站视频播放器。用 Playwright 搜索 B 站视频并获取准确链接，然后用 open 命令在当前浏览器打开播放。Use when users request to play Bilibili videos or search for specific content.
+- GitHub: https://clawhub.ai/e421083458/bilibili-player
+- Source: clawhub
+
+## Jarvis Tts
+
+- Author: clawhub
+- Description: Jarvis TTS text-to-speech using Microsoft edge-tts with afplay playback. Use when users request voice output, audio responses, or text-to-speech. Provides na...
+- GitHub: https://clawhub.ai/skills/jarvis-tts
+- Source: clawhub
+
+## rpe-grafana
+
+- Author: clawhub
+- Description: Read current values from Grafana dashboards without knowing the underlying queries. Use when: asked about values visible in a Grafana dashboard (sensor readi...
+- GitHub: https://clawhub.ai/skills/rpe-grafana
+- Source: clawhub
+
+## Stripe Production Engineering
+
+- Author: 1kalin
+- Description: Provides best practices and code patterns for building, scaling, and operating production Stripe payment systems from checkout to enterprise billing.
+- GitHub: https://clawhub.ai/1kalin/afrexai-stripe-production
+- Source: clawhub
+
+## Shipment Tracker
+
+- Author: pfrederiksen
+- Description: Track packages across carriers (USPS, UPS, FedEx, DHL, Amazon, OnTrac, LaserShip). Use when: user asks about package status, adds a tracking number, wants de...
+- GitHub: https://clawhub.ai/pfrederiksen/shipment-tracker
+- Source: clawhub
+
+## wreckit
+
+- Author: christiancattaneo
+- Description: Bulletproof AI code verification. The agent IS the engine — no external tools required. Spawns parallel verification workers that slop-scan, type-check, muta...
+- GitHub: https://clawhub.ai/christiancattaneo/wreckit
 - Source: clawhub
