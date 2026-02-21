@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11167 skills | Last updated: 2026-02-21
+> Total: 11186 skills | Last updated: 2026-02-21
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -79314,4 +79314,139 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Expertise in Go project architecture, error handling, concurrency safety, testing, observability, configuration, CI/CD, and documentation for production depl...
 - GitHub: https://clawhub.ai/skills/afrexai-go-production
+- Source: clawhub
+
+## opentelemetry-skill
+
+- Author: o11y-dev
+- Description: A Cognitive Architecture for AI-Assisted Observability Engineering
+- GitHub: https://github.com/o11y-dev/opentelemetry-skill
+- Stars: 4
+- Source: github
+
+## wechat-studio
+
+- Author: chouheiwa
+- Description: 一个帮助AI使用微信公众号的 skill
+- GitHub: https://github.com/chouheiwa/wechat-studio
+- Source: github
+
+## letterxpress
+
+- Author: MehrCurry
+- Description: DIN 5008 German business letter skill for Claude Code. PDF generation with optional LetterXpress postal delivery.
+- GitHub: https://github.com/MehrCurry/briefversand
+- Source: github
+
+## workflow-orchestration
+
+- Author: dnh33
+- Description: Cursor Agent Skill: plan-first workflow, subagents, lessons, and verification for non-trivial tasks
+- GitHub: https://github.com/dnh33/workflow-orchestration
+- Source: github
+
+## elsevier-skill
+
+- Author: yasufumi-nakata
+- Description: Use Elsevier APIs (Scopus search / abstract / author / trends / institution / open access) via simple CLI scripts.
+- GitHub: https://github.com/yasufumi-nakata/Elsevier_skill
+- Source: github
+
+## black-box
+
+- Author: lilyjazz
+- Description: Indestructible audit logs for agent actions, stored in TiDB Zero.
+- GitHub: https://clawhub.ai/lilyjazz/black-box
+- Source: clawhub
+
+## gemini video analyze
+
+- Author: tokyo-s
+- Description: Send a public video URL directly to a Google Gemini model for analysis. Use when Codex must summarize a video, answer questions about video content, or extra...
+- GitHub: https://clawhub.ai/tokyo-s/gemini-video-analyze
+- Source: clawhub
+
+## Employee Retention & Turnover Risk Analyzer
+
+- Author: 1kalin
+- Description: Analyzes employee retention risk across 8 dimensions, identifies flight risks, estimates turnover costs, and provides a 90-day retention action plan with pri...
+- GitHub: https://clawhub.ai/1kalin/afrexai-employee-retention
+- Source: clawhub
+
+## Official Claude-Mem OpenClaw Memory Plugin
+
+- Author: clawhub
+- Description: Enables persistent agent memory with a live-updating MEMORY.md file and optional real-time observation feed streaming via OpenClaw.
+- GitHub: https://clawhub.ai/skills/claude-mem
+- Source: clawhub
+
+## Telegram Alerts
+
+- Author: JamieRossouw
+- Description: Send formatted trading alerts, portfolio updates, and market signals via Telegram. Supports price alerts, stop-loss notifications, win/loss reporting, and sc...
+- GitHub: https://clawhub.ai/JamieRossouw/rho-telegram-alerts
+- Source: clawhub
+
+## Self Review
+
+- Author: clawhub
+- Description: Automatically evaluates and approves agent outputs based on clarity, conciseness, actionability, and structure using a rule-based system.
+- GitHub: https://clawhub.ai/skills/self-review
+- Source: clawhub
+
+## Agent Security Ops
+
+- Author: clawhub
+- Description: Stop leaking secrets. Pre-commit hooks + 10-point scans + cron monitoring. Agent-ops security in one command. By The Agent Wire (theagentwire.ai)
+- GitHub: https://clawhub.ai/skills/agent-security-ops
+- Stars: 1
+- Source: clawhub
+
+## Index Youtube
+
+- Author: clawhub
+- Description: Index YouTube channel videos and transcripts for semantic search. Use when user says "index YouTube", "add YouTube channel", "update video index", or "index...
+- GitHub: https://clawhub.ai/skills/solo-index-youtube
+- Source: clawhub
+
+## Wip X
+
+- Author: clawhub
+- Description: X Platform API. Read posts, search tweets, post, upload media.
+- GitHub: https://clawhub.ai/skills/wip-x
+- Source: clawhub
+
+## Wip Grok
+
+- Author: clawhub
+- Description: xAI Grok API. Search the web, search X, generate images, generate video.
+- GitHub: https://clawhub.ai/skills/wip-grok
+- Source: clawhub
+
+## Wip File Guard
+
+- Author: clawhub
+- Description: Hook that blocks destructive edits to protected identity files. For Claude Code CLI and OpenClaw.
+- GitHub: https://clawhub.ai/skills/wip-file-guard
+- Source: clawhub
+
+## Token Economics Analyzer
+
+- Author: clawhub
+- Description: Analyze token types and score tokenomics health to guide acceptance, holding, launching, or rejecting tokens with risk and cost insights.
+- GitHub: https://clawhub.ai/skills/afrexai-tokenomics
+- Source: clawhub
+
+## Clawhub Manager
+
+- Author: clawhub
+- Description: ClawHub 技能管理工具。封装技能的发布、删除、查询和搜索功能，方便管理 ClawHub 上的技能。
+- GitHub: https://clawhub.ai/skills/clawhub-manager
+- Source: clawhub
+
+## obsidian-curator
+
+- Author: clawhub
+- Description: Manage Obsidian vaults via LiveSync CouchDB — capture notes, AI-enrich and file them, manage tasks, audit and tidy vault structure. Use when working with Obs...
+- GitHub: https://clawhub.ai/skills/obsidian-curator
 - Source: clawhub
