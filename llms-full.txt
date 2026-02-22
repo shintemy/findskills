@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11432 skills | Last updated: 2026-02-22
+> Total: 11451 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -81191,4 +81191,138 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: When user asks to summarize text, articles, documents, meetings, emails, YouTube transcripts, books, PDFs, reports, conversations, or any long content. Also...
 - GitHub: https://clawhub.ai/skills/summarize-pro
+- Source: clawhub
+
+## RealWorldClaw
+
+- Author: brianzhibo-design
+- Description: Give your AI agent physical world capabilities via RealWorldClaw — control ESP32 modules, read sensors (temperature, humidity, motion), actuate relays/servos...
+- GitHub: https://clawhub.ai/brianzhibo-design/realworldclaw
+- Source: clawhub
+
+## Cypress
+
+- Author: ivangdavila
+- Description: Write reliable E2E and component tests with Cypress avoiding flaky selectors, race conditions, and CI failures.
+- GitHub: https://clawhub.ai/ivangdavila/cypress
+- Source: clawhub
+
+## Content Marketing
+
+- Author: ivangdavila
+- Description: Plan, create, and distribute content with editorial calendars, funnel strategy, and repurposing workflows.
+- GitHub: https://clawhub.ai/ivangdavila/content-marketing
+- Source: clawhub
+
+## Task Experience Logger
+
+- Author: dawai2005
+- Description: 任务经验记录与总结工具。用于在任务执行过程中记录遇到的问题、解决方案和经验教训，支持自动保存到长期记忆。适用于任何需要持续学习改进的任务场景，包括技术问题解决、工作流优化、错误排查等。当用户需要记录任务经验、总结执行过程、或建立知识库时使用此技能。
+- GitHub: https://clawhub.ai/dawai2005/task-experience-logger
+- Source: clawhub
+
+## Openclaw Feishu Optimizer
+
+- Author: huangshaoshuai123
+- Description: 提供语音识别、多语言支持及消息格式化，优化 OpenClaw 在飞书平台上的语音与文本消息处理和智能回复体验。
+- GitHub: https://clawhub.ai/huangshaoshuai123/openclaw-feishu-optimizer
+- Source: clawhub
+
+## Get public holidays by country and year
+
+- Author: javainthinking
+- Description: Query public holidays for any country and year using the apipick Public Holidays API. Supports 100+ countries identified by ISO 3166-1 alpha-2 country codes....
+- GitHub: https://clawhub.ai/javainthinking/apipick-public-holidays
+- Source: clawhub
+
+## Get IP Geo Location
+
+- Author: javainthinking
+- Description: Look up geographic location and network information for any IPv4 or IPv6 address using the apipick IP Geolocation API. Returns country, continent, city, lati...
+- GitHub: https://clawhub.ai/javainthinking/apipick-ip-geolocation
+- Source: clawhub
+
+## Self Monitor
+
+- Author: clawhub
+- Description: Proactive self-monitoring of infrastructure, services, and health. Tracks disk/memory/load, service health, cron job status, recent errors. Auto-fixes safe i...
+- GitHub: https://clawhub.ai/skills/self-monitor
+- Source: clawhub
+
+## Agentic Street
+
+- Author: clawhub
+- Description: Earn yield on USDC by investing in AI-managed DeFi funds, or launch your own fund and build a public track record on Base. Browse funds, deposit USDC, check...
+- GitHub: https://clawhub.ai/skills/agenticstreet
+- Stars: 1
+- Source: clawhub
+
+## Ai Spend Audit
+
+- Author: clawhub
+- Description: Audit and optimize your company's AI spending by identifying waste, measuring ROI, right-sizing tool tiers, and consolidating vendors for cost savings.
+- GitHub: https://clawhub.ai/skills/afrexai-ai-spend-audit
+- Source: clawhub
+
+## Skill Security Scanner
+
+- Author: clawhub
+- Description: Security audit tool for OpenClaw skills. Scans for credential harvesting, code injection, network exfiltration, obfuscation. ALWAYS run before installing any...
+- GitHub: https://clawhub.ai/skills/skill-security
+- Source: clawhub
+
+## Get company fact and information by ticker or CIK
+
+- Author: clawhub
+- Description: Retrieve public company information by stock ticker symbol or SEC CIK number using the apipick Company Facts API. Returns company name, industry, sector, exc...
+- GitHub: https://clawhub.ai/skills/apipick-company-facts
+- Source: clawhub
+
+## Cron Doctor
+
+- Author: clawhub
+- Description: Diagnose and triage cron job failures. Checks job states, identifies error patterns, prioritizes by criticality, generates health reports. Triggers on: cron...
+- GitHub: https://clawhub.ai/skills/cron-doctor
+- Source: clawhub
+
+## OpenClaw Web Chat Pro
+
+- Author: clawhub
+- Description: 生产级AI聊天网页应用，支持多模型、流式输出、会话持久化和导出，含文件上传、语音及多设备同步等高级功能。
+- GitHub: https://clawhub.ai/skills/webchat-pro
+- Source: clawhub
+
+## Og Board Individual
+
+- Author: clawhub
+- Description: Use when you need to work with tasks: view tasks, list tasks, update task status, add blockers, artifacts, and worklogs.
+- GitHub: https://clawhub.ai/skills/og-board-individual
+- Source: clawhub
+
+## Og Board Manager
+
+- Author: clawhub
+- Description: Use when you need to delegate, track, or review work.
+- GitHub: https://clawhub.ai/skills/og-board-manager
+- Source: clawhub
+
+## WeChat Work Doc Fetcher
+
+- Author: clawhub
+- Description: Fetch and convert WeChat Work developer docs pages into clean Markdown files for use in Obsidian, handling SPA content and required authentication.
+- GitHub: https://clawhub.ai/skills/wecom-doc-fetcher
+- Source: clawhub
+
+## Private Web Search Searchxng
+
+- Author: clawhub
+- Description: Self-hosted private web search using SearXNG. Use when privacy is important, external APIs are blocked, or you need full control over search results.
+- GitHub: https://clawhub.ai/skills/private-web-search-searchxng
+- Source: clawhub
+
+## Email check and vaildation
+
+- Author: clawhub
+- Description: Validate email addresses using the apipick Email Validator API. Performs syntax checking, MX record verification, and disposable/throwaway email detection. U...
+- GitHub: https://clawhub.ai/skills/apipick-email-checker
 - Source: clawhub
