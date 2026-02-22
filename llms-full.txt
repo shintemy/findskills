@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11355 skills | Last updated: 2026-02-22
+> Total: 11365 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -80644,4 +80644,75 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Authoritative skill-creation standards (Boss). Use when creating or updating OpenClaw skills so they are portable, reproducible, include prerequisites checks...
 - GitHub: https://clawhub.ai/skills/skill-father
+- Source: clawhub
+
+## anki-cli
+
+- Author: ubermenchh
+- Description: Manage Anki flashcards via CLI with structured JSON output. Create, query, review, and organize cards, notes, decks, tags, and notetypes. Supports AnkiConnect and direct SQLite backends. Use when the user mentions Anki, flashcards, spaced repetition, SRS, reviewing cards, or managing decks.
+- GitHub: https://github.com/ubermenchh/anki-cli
+- Source: github
+
+## Ziwei Doushu
+
+- Author: spyfree
+- Description: 紫微斗数排盘与增强解读技能。Use when 用户要求紫微斗数排盘、校验命宫/身宫、查看十二宫主辅星、输出大运列表，或按指定年份提取大运/流年岁位锚点；支持经度修正与 markdown/json 报告。
+- GitHub: https://clawhub.ai/spyfree/ziwei-doushu
+- Stars: 1
+- Source: clawhub
+
+## Bazi Analysis
+
+- Author: spyfree
+- Description: 八字排盘与增强分析技能。Use when 用户要按出生日期时间做四柱（年/月/日/时）排盘，查看日主、十神、藏干、纳音、旬空、命宫/身宫、起运与大运列表，并生成结构化 markdown/json 报告。
+- GitHub: https://clawhub.ai/spyfree/bazi-analysis
+- Source: clawhub
+
+## Piper TTS (Beware)
+
+- Author: bewareofddog
+- Description: Local text-to-speech using Piper for voice message delivery. Use when the user asks for voice responses, audio messages, TTS, text-to-speech, voice notes, or...
+- GitHub: https://clawhub.ai/bewareofddog/beware-piper-tts
+- Source: clawhub
+
+## DingTalk API
+
+- Author: ogenes
+- Description: 调用钉钉开放平台API，实现用户搜索、部门管理等功能。从系统环境变量读取应用凭证。Use when needing to interact with DingTalk API, search users by name, get user details, or manage organizational con...
+- GitHub: https://clawhub.ai/ogenes/dingtalk-api
+- Source: clawhub
+
+## Capability Graph Mapper
+
+- Author: clawhub
+- Description: Helps map the composite permission surface across AI agent skill dependency chains. Traces what each skill can do individually, then computes what they can d...
+- GitHub: https://clawhub.ai/skills/capability-graph-mapper
+- Source: clawhub
+
+## 抖音下载器(Node.js)
+
+- Author: clawhub
+- Description: 抖音无水印视频下载和文案提取工具
+- GitHub: https://clawhub.ai/skills/douyin-downloader-nodejs
+- Source: clawhub
+
+## Trust Decay Monitor
+
+- Author: clawhub
+- Description: Helps track how AI skill verification results decay over time. A "verified" badge from 18 months ago may be meaningless today — dependencies updated, new att...
+- GitHub: https://clawhub.ai/skills/trust-decay-monitor
+- Source: clawhub
+
+## Evolution Drift Detector
+
+- Author: clawhub
+- Description: Helps detect when AI agent skills silently mutate across inheritance chains. A skill audited safe in generation 1 may drift far from the original by generati...
+- GitHub: https://clawhub.ai/skills/evolution-drift-detector
+- Source: clawhub
+
+## Telegram-Bot-managerj
+
+- Author: clawhub
+- Description: Manage and secure local high-privilege storage serving workflows. Use when creating, starting, stopping, or hardening a full-drive file server and related op...
+- GitHub: https://clawhub.ai/skills/telegrambot
 - Source: clawhub
