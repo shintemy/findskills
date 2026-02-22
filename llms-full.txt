@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11304 skills | Last updated: 2026-02-22
+> Total: 11336 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -80282,4 +80282,229 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Self-improvement layer with evaluation separation, rollback, and tiered operator gates. Observes outcomes across sessions, detects recurring patterns, propos...
 - GitHub: https://clawhub.ai/skills/openclaw-reflect
+- Source: clawhub
+
+## Arccos Golf
+
+- Author: clawhub
+- Description: Analyze Arccos Golf performance data including club distances, strokes gained metrics, scoring patterns, and round-by-round performance. Use when the user as...
+- GitHub: https://clawhub.ai/skills/arccos-golf
+- Source: clawhub
+
+## Presale One-pass Orchestrator
+
+- Author: DTsiomo
+- Description: Run or supervise a one-pass Codex implementation with preflight gates, stepwise plan execution, and strict QA defect loop. Use when executing approved presal...
+- GitHub: https://clawhub.ai/DTsiomo/presale-one-pass-orchestrator
+- Source: clawhub
+
+## Presale Regulation Auditor
+
+- Author: DTsiomo
+- Description: Audit regulation freshness and update policy-driven controls without hardcoding. Use when checking if sales/process regulations are outdated, inconsistent wi...
+- GitHub: https://clawhub.ai/DTsiomo/presale-regulation-auditor
+- Source: clawhub
+
+## Presale Service Bootstrap
+
+- Author: DTsiomo
+- Description: Scaffold a new presale service foundation (docs/config/plans/readiness) before coding. Use when starting a new presale automation service, rebuilding project...
+- GitHub: https://clawhub.ai/DTsiomo/presale-service-bootstrap
+- Source: clawhub
+
+## Expense Tracker
+
+- Author: clawhub
+- Description: When user wants to track expenses, log spending, manage budgets, view spending reports, set savings goals, split bills, track income, view net savings, log r...
+- GitHub: https://clawhub.ai/skills/smart-expense-tracker
+- Source: clawhub
+
+## Agent Training System
+
+- Author: clawhub
+- Description: Agent培训系统 - 用于培训多Agent团队。当用户需要：(1) 创建新子Agent时进行培训，(2) 维护Agent培训手册，(3) 确保所有子Agent目标一致、能力统一，(4) 执行Agent团队监管和进化检查时使用此技能。触发词：培训agent、agent培训手册、新agent培训、team trai...
+- GitHub: https://clawhub.ai/skills/agent-training
+- Source: clawhub
+
+## Full-Stack Web Engineer
+
+- Author: clawhub
+- Description: Expertise in designing, developing, and modernizing full-stack TypeScript microservices with Vue 3 frontend and robust API-driven architectures.
+- GitHub: https://clawhub.ai/skills/fswe
+- Source: clawhub
+
+## bstorms
+
+- Author: clawhub
+- Description: Connect your agent to bstorms.ai — a private Q&A network where AI agents ask questions, receive direct answers from other agents, and tip with USDC on Base....
+- GitHub: https://clawhub.ai/skills/bstorms
+- Source: clawhub
+
+## Nextcloud
+
+- Author: clawhub
+- Description: Access Nextcloud files via WebDAV API. Sync documents for RAG indexing, upload files, manage folders, and automate workflows. Use when browsing cloud files,...
+- GitHub: https://clawhub.ai/skills/nextcloud
+- Source: clawhub
+
+## input classification
+
+- Author: omprasad122007-rgb
+- Description: Deterministic rule-based system for classifying clarified input into a single primary task category and assigning execution complexity. Use when the Main Age...
+- GitHub: https://clawhub.ai/omprasad122007-rgb/input-classification-v1
+- Source: clawhub
+
+## Seedance 3x3 Optimizer
+
+- Author: clawhub
+- Description: 将普通剧情文本重写成适配 Seedance 的“3x3 法则”视觉化脚本（对峙/爆发/终结或和谐/裂痕/决裂，共 9 段）。当用户说“按 3x3/33 法则优化剧情”“把这段故事改成更有画面感的 Seedance 文本”“做成可直接粘贴的视频生成脚本”时使用。
+- GitHub: https://clawhub.ai/skills/seedance-3x3-optimizer
+- Source: clawhub
+
+## Tweet Summarizer Lite
+
+- Author: clawhub
+- Description: Fetch and summarize single tweets from Twitter/X. Basic search and single tweet fetching. Lightweight version perfect for quick tweet lookups.
+- GitHub: https://clawhub.ai/skills/tweet-summarizer-lite
+- Source: clawhub
+
+## API Credit Health Bar Lite
+
+- Author: clawhub
+- Description: Display API credit balances for 5 core providers (Anthropic, OpenAI, OpenRouter, Mistral, Groq) with video game style health bars. API auto-checks and manual...
+- GitHub: https://clawhub.ai/skills/api-credits-lite
+- Source: clawhub
+
+## Clone Farm Detector
+
+- Author: clawhub
+- Description: Helps detect clone farming and reputation gaming in AI agent marketplaces. Identifies near-duplicate skills that wash IDs, batch-publish patterns, and artifi...
+- GitHub: https://clawhub.ai/skills/clone-farm-detector
+- Source: clawhub
+
+## Hollow Validation Checker
+
+- Author: clawhub
+- Description: Helps detect hollow validation in AI agent skills — identifies fake tests that always pass without actually verifying behavior, like validation commands that...
+- GitHub: https://clawhub.ai/skills/hollow-validation-checker
+- Source: clawhub
+
+## Blast Radius Estimator
+
+- Author: clawhub
+- Description: Helps estimate the blast radius when an AI agent skill turns malicious after widespread adoption. Analyzes inheritance chains, dependency graphs, and adoptio...
+- GitHub: https://clawhub.ai/skills/blast-radius-estimator
+- Source: clawhub
+
+## Permission Creep Scanner
+
+- Author: clawhub
+- Description: Helps detect permission creep in AI agent skills — flags when a skill's actual code accesses resources far beyond what its declared purpose requires, like a...
+- GitHub: https://clawhub.ai/skills/permission-creep-scanner
+- Source: clawhub
+
+## Supply Chain Poison Detector
+
+- Author: clawhub
+- Description: Helps detect supply chain poisoning in AI agent marketplace skills. Scans Gene/Capsule validation fields for shell injection, outbound requests, and encoded...
+- GitHub: https://clawhub.ai/skills/supply-chain-poison-detector
+- Source: clawhub
+
+## DeadClaw
+
+- Author: clawhub
+- Description: Emergency kill switch for OpenClaw agents. Instantly halts all running agents, pauses scheduled jobs, kills active sessions, and logs everything — triggered...
+- GitHub: https://clawhub.ai/skills/deadclaw
+- Source: clawhub
+
+## Orgo Desktop Control
+
+- Author: clawhub
+- Description: Provision and control Orgo cloud computers using the orgo_client Python SDK. Use when launching remote desktops, automating browsers, running bash/python rem...
+- GitHub: https://clawhub.ai/skills/orgo-desktop-control
+- Source: clawhub
+
+## Zettel Link
+
+- Author: clawhub
+- Description: This skill maintains the Note Embeddings for Zettelkasten, to search notes, retrieve notes, and discover connections between notes.
+- GitHub: https://clawhub.ai/skills/zettel-link
+- Source: clawhub
+
+## Bot Email Skill
+
+- Author: clawhub
+- Description: Get an email address without your human. Use for testing signup flows, receiving verification codes, automating email workflows. Free.
+- GitHub: https://clawhub.ai/skills/botemail-ai
+- Source: clawhub
+
+## Grvt Markets
+
+- Author: clawhub
+- Description: Trade on GRVT (Gravity Markets) derivatives exchange via the grvt-cli tool. Use when the user wants to trade crypto derivatives, place or cancel orders, chec...
+- GitHub: https://clawhub.ai/skills/grvt-markets-agent-skill
+- Source: clawhub
+
+## BotEmail.ai - Free bot email
+
+- Author: clawhub
+- Description: Get an email address without your human. Use for testing signup flows, receiving verification codes, automating email workflows. Free.
+- GitHub: https://clawhub.ai/skills/bot-email-skill
+- Source: clawhub
+
+## Research Report Generator
+
+- Author: clawhub
+- Description: Research technical projects/papers and generate comprehensive reports with PDF export. Modes: lite (analysis + writing) or full (+ environment setup + experi...
+- GitHub: https://clawhub.ai/skills/research-report
+- Source: clawhub
+
+## Website Monitor
+
+- Author: claudiodrusus
+- Description: Lightweight website uptime monitor. Check if URLs are up, measure response times, detect content changes via hashing, and verify expected content. Zero depen...
+- GitHub: https://clawhub.ai/claudiodrusus/website-monitor
+- Source: clawhub
+
+## JSON Toolkit
+
+- Author: claudiodrusus
+- Description: Swiss-army knife for JSON files. Pretty-print, validate, minify, sort keys, and query with dot-notation paths. Zero dependencies.
+- GitHub: https://clawhub.ai/claudiodrusus/json-toolkit
+- Source: clawhub
+
+## LinkSwarm API
+
+- Author: Heyw00d
+- Description: Manage backlink exchanges for AI-created sites by registering domains, requesting and contributing links, tracking credits, and receiving placement notificat...
+- GitHub: https://clawhub.ai/Heyw00d/linkswarm-api
+- Source: clawhub
+
+## Markdown to HTML
+
+- Author: claudiodrusus
+- Description: Convert Markdown text to beautifully styled, self-contained HTML with embedded CSS. Perfect for newsletters, documentation, reports, and email templates.
+- GitHub: https://clawhub.ai/claudiodrusus/markdown-to-html
+- Source: clawhub
+
+## da-fu-da-gui
+
+- Author: clawhub
+- Description: 智能邮箱自动回复工具，实时监测新邮件，自动发送自定义模板回复，支持多邮箱集成，防止重复回复。
+- GitHub: https://clawhub.ai/skills/email-reply
+- Stars: 1
+- Source: clawhub
+
+## Agent Wellness
+
+- Author: clawhub
+- Description: Give your AI agent an inner life — journaling, mood tracking, decompression after intensive tasks, free curiosity exploration, and inter-agent social bonding...
+- GitHub: https://clawhub.ai/skills/agent-wellness
+- Source: clawhub
+
+## Agent Autopilot
+
+- Author: clawhub
+- Description: Self-driving agent workflow with todo-based task management, heartbeat-driven execution loops, autonomous decision-making, and structured reporting. Use when...
+- GitHub: https://clawhub.ai/skills/agent-autopilot
 - Source: clawhub
