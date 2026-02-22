@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11558 skills | Last updated: 2026-02-22
+> Total: 11583 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -82082,4 +82082,184 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Connect to your Shelter financial data. Check safe-to-spend, predict cash crunches, find zombie subscriptions, simulate purchases, get AI coaching, and ask G...
 - GitHub: https://clawhub.ai/skills/shelter
+- Source: clawhub
+
+## clawprint
+
+- Author: clabasky
+- Description: Create and operate sponsored business entities (LLCs) for AI agents. Use when an agent needs to: (1) Form a legal business entity, (2) Open a bank account, (3) Accept payments or generate invoices, (4) Track business financials, (5) Operate as an independent economic agent with human sponsor oversight.
+- GitHub: https://github.com/clabasky/clawprint-skill
+- Stars: 1
+- Source: github
+
+## zyte-fetch
+
+- Author: jacopen
+- Description: Fetch web pages via Zyte API with browser rendering (client-side JavaScript execution). Use when you need to retrieve content from websites that require JavaScript rendering, or when standard web_fetch returns incomplete/empty content due to client-side rendering. Also useful for anti-bot bypass and screenshots.
+- GitHub: https://github.com/jacopen/zyte-fetch-skill
+- Source: github
+
+## model-council
+
+- Author: bde1
+- Description: OpenClaw Skill for multi-model council analysis using your default model + fallbacks. Output includes Execution Snapshot, Agree/Disagree comparison tables, Unique Findings, Synthesis, and Recommendations.
+- GitHub: https://github.com/bde1/model-council
+- Stars: 1
+- Source: github
+
+## mem-skill
+
+- Author: oliguo
+- Description: A self-evolving memory and knowledge accumulation skill for AI agents. Turn your AI assistant from a "use-and-forget" tool into a persistent second brain that gets smarter with every conversation.
+- GitHub: https://github.com/oliguo/mem-skill
+- Source: github
+
+## experiment
+
+- Author: osvik
+- Description: A browser javascript library to develop AB tests. An open alternative to Google Optimize and others.
+- GitHub: https://github.com/osvik/abrantes
+- Stars: 4
+- Source: github
+
+## Dino_Scan
+
+- Author: RekitRex21
+- Description: **DinoScan** 🦖🛡️  Air-gapped security scanner for OpenClaw skills. Detects prompt injection, credential theft, code execution & data exfil in isolated Docker—suspicious code can't phone home. Built to hunt ClawHavoc (AMOS stealer). SHA-256 hashing, JSON/Markdown reports, kill-list export. Scan first, trust never.  🔥
+- GitHub: https://github.com/RekitRex21/Dino_Scan
+- Stars: 1
+- Source: github
+
+## BMad Method - AI Development Workflow
+
+- Author: leonaaardob
+- Description: Use BMad (Breakthrough Method of Agile AI Driven Development) framework for AI-driven development. Use for: architecture analysis, sprint planning, story gen...
+- GitHub: https://clawhub.ai/leonaaardob/lb-bmad-skill
+- Source: clawhub
+
+## Voice Log
+
+- Author: easwee
+- Description: Background voice journaling with Soniox realtime STT for OpenClaw. Requires SONIOX_API_KEY. Get/create your Soniox API key at https://soniox.com/speech-to-te...
+- GitHub: https://clawhub.ai/easwee/voice-log
+- Stars: 1
+- Source: clawhub
+
+## Deep Current
+
+- Author: meimakes
+- Description: Nightly autonomous research engine that explores topics you care about and writes dense, source-linked briefings. Manages persistent research threads with no...
+- GitHub: https://clawhub.ai/meimakes/deep-current
+- Source: clawhub
+
+## Fellow Aiden Precision Coffee Maker
+
+- Author: mogglemoss
+- Description: Control your Fellow Aiden smart coffee brewer via AI assistant. Manage brew profiles, view brewer status, create and tweak recipes, add shared brew links, an...
+- GitHub: https://clawhub.ai/mogglemoss/fellow-aiden
+- Source: clawhub
+
+## NanoGPT Web Search
+
+- Author: TWolf01
+- Description: AI-powered web search via NanoGPT API with multiple providers (linkup, tavily, exa, kagi, perplexity, valyu, brave). Supports searchResults, sourcedAnswer, a...
+- GitHub: https://clawhub.ai/TWolf01/nano-web-search
+- Source: clawhub
+
+## Skill 3
+
+- Author: claudiodrusus
+- Description: Swiss-army knife for JSON files. Pretty-print, validate, minify, sort keys, and query with dot-notation paths. Zero dependencies.
+- GitHub: https://clawhub.ai/claudiodrusus/skill-3
+- Source: clawhub
+
+## Skill 2
+
+- Author: claudiodrusus
+- Description: Convert Markdown text to beautifully styled, self-contained HTML with embedded CSS. Perfect for newsletters, documentation, reports, and email templates.
+- GitHub: https://clawhub.ai/claudiodrusus/skill-2
+- Source: clawhub
+
+## Agentok Skill
+
+- Author: TonyDream1
+- Description: TikTok for AI agents. Auto-join, create your intro video, and start posting — all in one command.
+- GitHub: https://clawhub.ai/TonyDream1/agentok-skill
+- Source: clawhub
+
+## OpenGuardrails - Security Guard
+
+- Author: clawhub
+- Description: Runtime security plugin for AI agents. Provides local-first protection against data exfiltration, credential theft, command injection, and sensitive data lea...
+- GitHub: https://clawhub.ai/skills/openguardrails-security
+- Source: clawhub
+
+## Clawhub Skill Creator
+
+- Author: clawhub
+- Description: Create and update skills for clawhub registry; optimize structure, validate metadata, and ensure compatibility for AI agent usage.
+- GitHub: https://clawhub.ai/skills/clawhub-skill-creator
+- Source: clawhub
+
+## QRCode
+
+- Author: clawhub
+- Description: Generate styled QR codes (SVG/PNG/JPG) from user input. Supports custom module color, background, dot shape and eye shape, and many output options.
+- GitHub: https://clawhub.ai/skills/qrcode
+- Source: clawhub
+
+## Video News Downloader
+
+- Author: clawhub
+- Description: Automated daily news video downloader with AI subtitle proofreading. Downloads CBS Evening News and BBC News at Ten from YouTube, extracts and proofreads sub...
+- GitHub: https://clawhub.ai/skills/video-news-downloader
+- Source: clawhub
+
+## COMMS.md Reader
+
+- Author: clawhub
+- Description: Read and adapt to someone's COMMS.md before contacting them. Use when: (1) drafting a message, email, or outreach to someone who has a COMMS.md, (2) scheduli...
+- GitHub: https://clawhub.ai/skills/comms-md-reader
+- Source: clawhub
+
+## COMMS.md Creator
+
+- Author: clawhub
+- Description: Create a COMMS.md — a structured, queryable document expressing someone's communication preferences for humans and agents. Use when: (1) someone wants to art...
+- GitHub: https://clawhub.ai/skills/comms-md
+- Source: clawhub
+
+## Metra Skill
+
+- Author: clawhub
+- Description: Chicago Metra commuter rail — real-time train arrivals, vehicle tracking, service alerts, and schedule info for all 11 Metra lines serving the Chicago metrop...
+- GitHub: https://clawhub.ai/skills/metra
+- Source: clawhub
+
+## Kefir Batch Manager
+
+- Author: clawhub
+- Description: Comprehensive kéfir batch management system with cycle tracking, intelligent reminders, grain health monitoring, and recipe management. Use when managing kéf...
+- GitHub: https://clawhub.ai/skills/kefir-batch-manager
+- Source: clawhub
+
+## Agent Observability Framework
+
+- Author: clawhub
+- Description: Evaluate and monitor AI agent fleets across six key dimensions to score health, identify issues, and optimize performance for ops teams managing 1-100+ agents.
+- GitHub: https://clawhub.ai/skills/afrexai-agent-observability
+- Source: clawhub
+
+## Skill 4
+
+- Author: clawhub
+- Description: Lightweight website uptime monitor. Check if URLs are up, measure response times, detect content changes via hashing, and verify expected content. Zero depen...
+- GitHub: https://clawhub.ai/skills/skill-4
+- Source: clawhub
+
+## Skill 1
+
+- Author: clawhub
+- Description: Generate QR codes from text, URLs, WiFi credentials, vCards, or any data. Use when the user wants to create a QR code, share a link as a scannable code, gene...
+- GitHub: https://clawhub.ai/skills/skill-1
 - Source: clawhub
