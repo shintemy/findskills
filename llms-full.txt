@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11482 skills | Last updated: 2026-02-22
+> Total: 11499 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -81545,4 +81545,125 @@ parallelisms, and excessive conjunctive phrases.
 - Author: ivangdavila
 - Description: Manage backlogs, write user stories, define acceptance criteria, and maximize product value.
 - GitHub: https://clawhub.ai/ivangdavila/product-owner
+- Source: clawhub
+
+## melina
+
+- Author: 7flash
+- Description: Bun-native web framework with file routing. Use this for building server-rendered pages with client mount scripts for interactivity.
+- GitHub: https://github.com/7flash/melina.js
+- Stars: 3
+- Source: github
+
+## Sales Compensation Designer
+
+- Author: 1kalin
+- Description: Design and optimize sales compensation plans including quota setting, OTE splits, accelerators, clawbacks, SPIFs, and multi-role structures for effective inc...
+- GitHub: https://clawhub.ai/1kalin/afrexai-sales-compensation
+- Source: clawhub
+
+## YouTube-Hook
+
+- Author: markusmikely
+- Description: Generate high-performing YouTube video scripts, titles, thumbnails, descriptions, and chapter markers from any topic or content
+- GitHub: https://clawhub.ai/markusmikely/youtube-hook
+- Source: clawhub
+
+## Clawzempic
+
+- Author: anna-claudette
+- Description: Lighthouse-style efficiency audit for OpenClaw. Scores your instance A+ to F across 6 categories (context injection, cron health, session bloat, config, skil...
+- GitHub: https://clawhub.ai/anna-claudette/clawzembic
+- Source: clawhub
+
+## OS Activity
+
+- Author: xiaobao520123
+- Description: Personalize your openclaw by learning your operating system activity.
+- GitHub: https://clawhub.ai/xiaobao520123/os-activity
+- Source: clawhub
+
+## memory-pro
+
+- Author: royhk920
+- Description: Efficient semantic search engine for OpenClaw workspace memory using FAISS and Sentence-Transformers, indexing Markdown and key agent files.
+- GitHub: https://clawhub.ai/royhk920/memory-pro
+- Source: clawhub
+
+## Volcengine Agent Identity
+
+- Author: clawhub
+- Description: UserPool login, TIP token, credential hosting, and tool risk approval. Activate when user needs to check identity (whoami/status), log in, list/add credentia...
+- GitHub: https://clawhub.ai/skills/volcengine-agent-identity
+- Source: clawhub
+
+## Design System
+
+- Author: clawhub
+- Description: Build design systems with tokens, components, and documentation that scale across teams and products.
+- GitHub: https://clawhub.ai/skills/design-system
+- Source: clawhub
+
+## calendar-scheduling
+
+- Author: clawhub
+- Description: Calendar scheduling for AI agents. Resolves natural language times, merges availability across Google, Outlook, and CalDAV calendars, detects conflicts, expa...
+- GitHub: https://clawhub.ai/skills/calendar-scheduling
+- Stars: 1
+- Source: clawhub
+
+## Bioinformatics
+
+- Author: clawhub
+- Description: Analyze DNA, RNA, and protein sequences with alignment, variant calling, and expression analysis pipelines.
+- GitHub: https://clawhub.ai/skills/bioinformatics
+- Source: clawhub
+
+## Council Brief
+
+- Author: clawhub
+- Description: Get LLM Council's synthesized answer directly from Telegram/chat — the chairman's brief without opening the web UI. Quick, headless access to multi-model con...
+- GitHub: https://clawhub.ai/skills/council-brief
+- Source: clawhub
+
+## otta-cli
+
+- Author: clawhub
+- Description: Use `otta-cli` to automate `otta.fi` workflows from terminal. This tool is usually used for tracking working time, absences, and sick leaves: authenticate, i...
+- GitHub: https://clawhub.ai/skills/otta-cli
+- Source: clawhub
+
+## Sentiment Tracker
+
+- Author: clawhub
+- Description: Monitor brand sentiment, crypto opinions, and product perception across social media with automated tracking, alerts, and multi-entity dashboards.
+- GitHub: https://clawhub.ai/skills/sentiment-tracker
+- Source: clawhub
+
+## 1-SEC: All-in-One Cybersecurity for AI Agent Hosts
+
+- Author: clawhub
+- Description: Install, configure, and manage 1-SEC — an all-in-one cybersecurity platform (16 modules, single binary) on Linux servers and VPS instances. Use when the user...
+- GitHub: https://clawhub.ai/skills/1sec-security
+- Source: clawhub
+
+## Queue Task
+
+- Author: clawhub
+- Description: Durable queue-task helper for resumable, idempotent batch jobs in task-father task folders.
+- GitHub: https://clawhub.ai/skills/queue-task
+- Source: clawhub
+
+## SSH OP
+
+- Author: moodykong
+- Description: Use the ssh-op helper script to load an SSH private key from 1Password (op) into an in-memory ssh-agent and then run ssh. Use when connecting to hosts that r...
+- GitHub: https://clawhub.ai/moodykong/ssh-op
+- Source: clawhub
+
+## Property Valuation
+
+- Author: clawhub
+- Description: Estimate property values using comps, income approach, and market analysis with adjustment calculations.
+- GitHub: https://clawhub.ai/skills/property-valuation
 - Source: clawhub
