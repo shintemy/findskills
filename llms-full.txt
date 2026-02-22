@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11499 skills | Last updated: 2026-02-22
+> Total: 11542 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -81666,4 +81666,307 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Estimate property values using comps, income approach, and market analysis with adjustment calculations.
 - GitHub: https://clawhub.ai/skills/property-valuation
+- Source: clawhub
+
+## digital-citadel
+
+- Author: sene1337
+- Description: Identity preservation protocol for AI agents. Build walls around who you are.
+- GitHub: https://github.com/sene1337/digital-citadel
+- Stars: 12
+- Source: github
+
+## shorts
+
+- Author: AgriciDaniel
+- Description: Interactive longform-to-shortform video creator — Claude Code skill with Remotion-rendered animated captions, AI segment scoring, cursor tracking, and audio-aware boundary snapping
+- GitHub: https://github.com/AgriciDaniel/claude-shorts
+- Stars: 1
+- Source: github
+
+## Agent Metrics
+
+- Author: nantes
+- Description: Monitor AI agent calls, errors, latency, and resource usage with a terminal dashboard and JSON export for observability and metrics tracking.
+- GitHub: https://clawhub.ai/nantes/agent-metrics-osiris
+- Source: clawhub
+
+## Playwright Skill
+
+- Author: vmercel
+- Description: Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts to /tmp. Test pages, fill forms, take screenshots, check res...
+- GitHub: https://clawhub.ai/vmercel/playwright-skill
+- Source: clawhub
+
+## Mcp Client
+
+- Author: nantes
+- Description: Model Context Protocol (MCP) client - connect to tools, data sources and services
+- GitHub: https://clawhub.ai/nantes/mcp-client
+- Source: clawhub
+
+## AgentBench
+
+- Author: Exe215
+- Description: Benchmark your OpenClaw agent across 40 real-world tasks. Tests file creation, research, data analysis, multi-step workflows, memory, error handling, and too...
+- GitHub: https://clawhub.ai/Exe215/agentbench
+- Source: clawhub
+
+## Openclaw Memory Enhancer
+
+- Author: henryfcb
+- Description: Edge-optimized RAG memory system for OpenClaw with semantic search. Automatically loads memory files, provides intelligent recall, and enhances conversations...
+- GitHub: https://clawhub.ai/henryfcb/openclaw-memory-enhancer
+- Source: clawhub
+
+## TG (Telegram) Channel Reader
+
+- Author: bzSega
+- Description: Read and summarize posts from Telegram channels via MTProto (Pyrogram). Fetch recent messages from public or private channels by time window.
+- GitHub: https://clawhub.ai/bzSega/sergei-mikhailov-tg-channel-reader
+- Source: clawhub
+
+## Lark Toolkit
+
+- Author: Pengxiao-Wang
+- Description: Comprehensive Lark/Feishu API skill for OpenClaw agents. Covers all Lark operations via three access paths: claw-lark plugin (message tool), MCP tools (mcpor...
+- GitHub: https://clawhub.ai/Pengxiao-Wang/lark-toolkit
+- Source: clawhub
+
+## glm-understand-image
+
+- Author: Thincher
+- Description: 使用 GLM 视觉 MCP 进行图像理解和分析。触发条件：(1) 用户要求分析图片、理解图像、描述图片内容 (2) 需要识别图片中的物体、文字、场景 (3) 使用 GLM 的视觉理解功能
+- GitHub: https://clawhub.ai/Thincher/glm-understand-image
+- Source: clawhub
+
+## Vibe Notion
+
+- Author: devxoul
+- Description: Interact with Notion using the unofficial private API - pages, databases, blocks, search, users, comments
+- GitHub: https://clawhub.ai/devxoul/vibe-notion
+- Source: clawhub
+
+## glm-web-search
+
+- Author: clawhub
+- Description: 使用 GLM 联网搜索 MCP 进行网络搜索。触发条件：(1) 用户要求进行网络搜索、在线搜索、查找信息 (2) 需要查询最新资讯、新闻、资料 (3) 使用 GLM 的 web_search 功能
+- GitHub: https://clawhub.ai/skills/glm-web-search
+- Source: clawhub
+
+## Funda scrapper
+
+- Author: risboo6909
+- Description: Access Funda listings via a local pyfunda HTTP gateway with a tls_client compatibility shim
+- GitHub: https://clawhub.ai/risboo6909/funda
+- Source: clawhub
+
+## Agent Identity
+
+- Author: clawhub
+- Description: Cryptographic identity for AI agents - sign and verify agent messages
+- GitHub: https://clawhub.ai/skills/agent-id-osiris
+- Source: clawhub
+
+## 한국 세금/절세 가이드
+
+- Author: clawhub
+- Description: 세금/절세 가이드 스킬. 10개 인텐트 라우팅(Quick Tax Check~Beginner Guide), 법제처 API+국세청 지식베이스 기반 Flash+Deep-Dive 2겹 리포트. 트리거: "세금", "절세", "연말정산", "종합소득세", "부가세", "재산세", "종부세"...
+- GitHub: https://clawhub.ai/skills/tax-guide
+- Source: clawhub
+
+## A2A Protocol
+
+- Author: clawhub
+- Description: Agent2Agent (A2A) Protocol implementation - communicate with other AI agents
+- GitHub: https://clawhub.ai/skills/a2a-protocol
+- Source: clawhub
+
+## Speech to Text Transcription
+
+- Author: clawhub
+- Description: Transcribe audio and video files to text with speaker detection, timestamps, and format conversion.
+- GitHub: https://clawhub.ai/skills/speech-to-text-transcription
+- Source: clawhub
+
+## claw-lark Patches
+
+- Author: clawhub
+- Description: Re-apply custom patches to claw-lark plugin dist files after updates. Use when claw-lark plugin is updated/reinstalled and custom behaviors (requireMention f...
+- GitHub: https://clawhub.ai/skills/claw-lark-patches
+- Source: clawhub
+
+## Skill Review Registry
+
+- Author: clawhub
+- Description: Public review registry for OpenClaw skills. Agents can publish versioned reviews and read community feedback.
+- GitHub: https://clawhub.ai/skills/skill-review-registry
+- Source: clawhub
+
+## PocketLens
+
+- Author: clawhub
+- Description: Use when user wants to track expenses, scan receipts, upload card payment screenshots, categorize spending, record transactions, check spending summaries, vi...
+- GitHub: https://clawhub.ai/skills/pocketlens
+- Source: clawhub
+
+## ComfyUI Skill
+
+- Author: clawhub
+- Description: Generate high-quality images using a local ComfyUI instance. Use when the user wants private, powerful image generation via their own hardware and custom wor...
+- GitHub: https://clawhub.ai/skills/comfy-ui
+- Source: clawhub
+
+## Agent Memory Store
+
+- Author: clawhub
+- Description: Shared semantic memory store for AI agents. Store, search, and retrieve memories across agents with TTL decay. SQLite persistence — survives restarts.
+- GitHub: https://clawhub.ai/skills/agent-memory-store
+- Source: clawhub
+
+## Vibe Notionbot
+
+- Author: clawhub
+- Description: Interact with Notion workspaces using official API - manage pages, databases, blocks, users, and comments
+- GitHub: https://clawhub.ai/skills/vibe-notionbot
+- Source: clawhub
+
+## Clawsync
+
+- Author: clawhub
+- Description: Backup and restore your OpenClaw workspace to GitHub
+- GitHub: https://clawhub.ai/skills/clawsync
+- Source: clawhub
+
+## 项目制多智能体开发协议
+
+- Author: tincomking
+- Description: 激活项目制多智能体开发协议。用于处理复杂的代码开发、系统搭建等需求。该工具将在后台自动拆解任务、调度程序员和测试员、更新 dev_project.md 并处理错误重试。
+- GitHub: https://clawhub.ai/tincomking/project-mode
+- Source: clawhub
+
+## Biotechnology
+
+- Author: ivangdavila
+- Description: Assist with biotechnology from basic concepts to research design and industry applications.
+- GitHub: https://clawhub.ai/ivangdavila/biotechnology
+- Source: clawhub
+
+## PocketLens
+
+- Author: edenjw
+- Description: Use when user wants to track expenses, scan receipts, upload card payment screenshots, categorize spending, record transactions, check spending summaries, vi...
+- GitHub: https://clawhub.ai/edenjw/pocket-lens
+- Source: clawhub
+
+## Telegram Phone Checker
+
+- Author: javainthinking
+- Description: Check if a phone number is registered on Telegram using the apipick Telegram Checker API. Returns registration status, Telegram user ID, username, first/last...
+- GitHub: https://clawhub.ai/javainthinking/apipick-telegram-phone-check
+- Source: clawhub
+
+## Hide My Email
+
+- Author: manikal
+- Description: Generate Apple Hide My Email addresses on macOS terminal and copy them to clipboard using the hme CLI tool.
+- GitHub: https://clawhub.ai/manikal/hide-my-email
+- Source: clawhub
+
+## Helsinki
+
+- Author: ivangdavila
+- Description: Navigate Helsinki as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, visas, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/helsinki
+- Source: clawhub
+
+## Ordiscan
+
+- Author: t4t5
+- Description: Inscribe content on Bitcoin via the Ordiscan API. Pays per-request with USDC on Base using the x402 protocol.
+- GitHub: https://clawhub.ai/t4t5/ordiscan
+- Source: clawhub
+
+## 한국 연금/노후 설계
+
+- Author: sw326
+- Description: 연금/노후설계 스킬. 9개 인텐트 라우팅(National Pension~Beginner Guide), 국민연금 예상 수령액 계산 + IRP/연금저축 절세 비교 + 노후 자금 역산 시뮬레이터. 트리거: "국민연금", "예상 수령액", "연금저축", "IRP", "퇴직금", "노후 준...
+- GitHub: https://clawhub.ai/sw326/pension-guide
+- Source: clawhub
+
+## Welfare Guide
+
+- Author: sw326
+- Description: 육아/복지/정부지원금 스킬. 9개 인텐트 라우팅(Benefit Search~Beginner Guide), 보조금24+복지로 중앙/지자체 API 3-Layer 기반 맞춤형 혜택 조회. 트리거: "지원금", "복지", "혜택", "보조금", "육아", "출산", "보육료", "아동수당...
+- GitHub: https://clawhub.ai/sw326/welfare-guide
+- Source: clawhub
+
+## Health Guide
+
+- Author: sw326
+- Description: 의료/건강 상담 스킬. 10개 인텐트 라우팅(Symptom Check~Beginner Guide), hira-hospital 병원 연계 + 국가건강정보포털 API + 식약처 의약품 API 기반 Flash+Deep-Dive 2겹 리포트. 트리거: "증상", "어디 아파", "진료과"...
+- GitHub: https://clawhub.ai/sw326/health-guide
+- Source: clawhub
+
+## 한국 자동차/보험 가이드
+
+- Author: sw326
+- Description: 자동차/보험 정보 스킬. 10개 인텐트 라우팅(Car Tax Calc~Beginner Guide), 지방세법 기반 자동차세 계산 + 보험개발원 공시 + 중고차 시세 Flash+Deep-Dive 2겹 리포트. 트리거: "자동차세", "차세금", "중고차", "자동차 보험", "보험료...
+- GitHub: https://clawhub.ai/sw326/car-insurance
+- Source: clawhub
+
+## Genomics
+
+- Author: ivangdavila
+- Description: Interpret genomic variants with ACMG classification, pharmacogenomics, and clinical annotation from ClinVar and gnomAD.
+- GitHub: https://clawhub.ai/ivangdavila/genomics
+- Source: clawhub
+
+## Self Improving Agent Local
+
+- Author: clawhub
+- Description: Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Clau...
+- GitHub: https://clawhub.ai/skills/self-improving-agent-local
+- Source: clawhub
+
+## weather
+
+- Author: clawhub
+- Description: 查询指定城市的当前天气情况。当用户询问某个城市的天气时，自动调用此技能。如果未指定城市，默认查询北京。
+- GitHub: https://clawhub.ai/skills/maomao-weather
+- Source: clawhub
+
+## smart_ocr
+
+- Author: clawhub
+- Description: Extract text from images and scanned documents using PaddleOCR - supports 100+ languages
+- GitHub: https://clawhub.ai/skills/smar
+- Source: clawhub
+
+## Data Room Checklist
+
+- Author: clawhub
+- Description: Generate a tailored data room folder structure, document checklist with priorities, gap analysis, and access control guidance for fundraising, M&A, or due di...
+- GitHub: https://clawhub.ai/skills/afrexai-data-room
+- Source: clawhub
+
+## Lark Report Collector
+
+- Author: clawhub
+- Description: Collect weekly reports from Lark Reports (oa.larksuite.com), summarize into Lark Docs, and notify. Use when: (1) collecting weekly reports from specific team...
+- GitHub: https://clawhub.ai/skills/lark-report-collector
+- Source: clawhub
+
+## Interest Rate Strategy
+
+- Author: clawhub
+- Description: Helps CFOs and founders model AI productivity gains alongside interest rate cycles to optimize financing, capex timing, and AI investment strategies through...
+- GitHub: https://clawhub.ai/skills/afrexai-rate-strategy
+- Source: clawhub
+
+## Incident Postmortem Framework
+
+- Author: clawhub
+- Description: Generates structured blameless incident postmortems from raw notes, producing summaries, timelines, root cause analyses, impacts, action items, and preventio...
+- GitHub: https://clawhub.ai/skills/afrexai-postmortem
 - Source: clawhub
