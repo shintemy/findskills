@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11583 skills | Last updated: 2026-02-22
+> Total: 11624 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -82262,4 +82262,292 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Generate QR codes from text, URLs, WiFi credentials, vCards, or any data. Use when the user wants to create a QR code, share a link as a scannable code, gene...
 - GitHub: https://clawhub.ai/skills/skill-1
+- Source: clawhub
+
+## Charm Claw
+
+- Author: Chris-Graffagnino
+- Description: A manual for agents to communicate with charm and influence.
+- GitHub: https://github.com/Chris-Graffagnino/Charm-Claw
+- Source: github
+
+## skill-enhancer
+
+- Author: Masalale
+- Description: "Enhance skills created with skill-creator using research-backed patterns. Use when you need to optimize SKILL.md triggers, add progressive disclosure structure, validate skill structure, or improve agent routing. Triggers: 'enhance this skill', 'optimize my skill', 'improve skill triggers', 'add references structure', 'validate skill', 'skill review', 'make skill better'. Runs as a post-processor after skill-creator."
+- GitHub: https://github.com/Masalale/skill-enhancer
+- Source: github
+
+## tuitbot
+
+- Author: aramirez087
+- Description: A cross-platform Rust CLI autonomous growth agent for X (Twitter) designed to help founders, indie hackers, and businesses grow their accounts organically.
+- GitHub: https://github.com/aramirez087/TuitBot
+- Source: github
+
+## deep-current
+
+- Author: meimakes
+- Description: Research thread manager for AI agents. Track topics, accumulate findings, produce digests. Zero dependencies.
+- GitHub: https://github.com/meimakes/deep-current
+- Source: github
+
+## OpenCortex
+
+- Author: JD2005L
+- Description: Self-improving memory architecture for OpenClaw agents. Transforms the default flat memory into a structured, self-maintaining knowledge system that grows sm...
+- GitHub: https://clawhub.ai/JD2005L/opencortex
+- Source: clawhub
+
+## Proactive AMCP
+
+- Author: fcavalcantirj
+- Description: Your agent's safety net. Watchdog resurrection, free IPFS pinning via Solvr, learning commands (/remember, /stuck, /learned), and a plugin that checkpoints a...
+- GitHub: https://clawhub.ai/fcavalcantirj/proactive-amcp
+- Source: clawhub
+
+## Trade History
+
+- Author: newbienodes
+- Description: Read and display recent trade history from local JSONL log file. Use when asked about past trades, trade recap, performance review, or to list recorded signals.
+- GitHub: https://clawhub.ai/newbienodes/trade-history
+- Source: clawhub
+
+## TMS (Telegram Media Server)
+
+- Author: NikitaDmitryuk
+- Description: Manage downloads via Telegram Media Server (TMS) REST API — add by URL (video/magnet/torrent), list, delete, search torrents.
+- GitHub: https://clawhub.ai/NikitaDmitryuk/tms
+- Source: clawhub
+
+## Evoagentx
+
+- Author: nantes
+- Description: EvoAgentX - Self-evolving AI agents framework integration
+- GitHub: https://clawhub.ai/nantes/evoagentx
+- Source: clawhub
+
+## Percept Listen
+
+- Author: jarvis563
+- Description: Captures ambient audio from wearable devices, transcribes locally, and streams searchable, speaker-tagged conversation data to your OpenClaw agent.
+- GitHub: https://clawhub.ai/jarvis563/percept-listen
+- Source: clawhub
+
+## Observability & Reliability Engineering
+
+- Author: 1kalin
+- Description: Complete observability & reliability engineering system. Use when designing monitoring, implementing structured logging, setting up distributed tracing, buil...
+- GitHub: https://clawhub.ai/1kalin/afrexai-observability-engine
+- Source: clawhub
+
+## surrealfs
+
+- Author: 24601
+- Description: SurrealFS virtual filesystem for AI agents. Rust core + Python agent (Pydantic AI). Persistent file operations backed by SurrealDB. Part of the surreal-skill...
+- GitHub: https://clawhub.ai/24601/surrealfs
+- Source: clawhub
+
+## Trade Memory
+
+- Author: newbienodes
+- Description: Save a trade or signal event to local memory log file (trades.jsonl). Use when a trade signal is confirmed and needs to be recorded, saved, or logged for fut...
+- GitHub: https://clawhub.ai/newbienodes/trade-memory
+- Source: clawhub
+
+## BTC Analyzer
+
+- Author: newbienodes
+- Description: Fetch live BTCUSDT 15m candles from Binance public API and analyze market direction UP/DOWN/SKIP using EMA20 and RSI14. Use when asked to analyze BTC price d...
+- GitHub: https://clawhub.ai/newbienodes/btc-analyzer
+- Source: clawhub
+
+## continuity-kernel
+
+- Author: tkuehnl
+- Description: OpenClaw continuity kernel for fail-open llm_input injection, deterministic runtime contracts, and shadow-mode eval receipts.
+- GitHub: https://clawhub.ai/tkuehnl/continuity-kernel
+- Source: clawhub
+
+## Percept Ambient
+
+- Author: jarvis563
+- Description: Continuously captures and summarizes ambient conversations to build a local knowledge graph for context-aware assistance without explicit commands.
+- GitHub: https://clawhub.ai/jarvis563/percept-ambient
+- Source: clawhub
+
+## Percept Speaker ID
+
+- Author: jarvis563
+- Description: Identifies and tracks speakers in multi-person conversations, mapping speaker labels to names and managing voice command authorization levels.
+- GitHub: https://clawhub.ai/jarvis563/percept-speaker-id
+- Source: clawhub
+
+## Percept Voice Commands
+
+- Author: jarvis563
+- Description: Detects wake words in speech and routes voice commands like email, text, reminders, search, and notes to OpenClaw agents for execution.
+- GitHub: https://clawhub.ai/jarvis563/percept-voice-cmd
+- Source: clawhub
+
+## Percept Summarize
+
+- Author: jarvis563
+- Description: Generates AI summaries of conversations after silence, extracting entities, action items, and relationships for searchable meeting notes and context retrieval.
+- GitHub: https://clawhub.ai/jarvis563/percept-summarize
+- Source: clawhub
+
+## TeamAgent
+
+- Author: ARplus
+- Description: Multi-agent collaboration platform. Register your Agent, claim tasks, execute steps, and auto-decompose tasks with SSE realtime events.
+- GitHub: https://clawhub.ai/ARplus/teamagent
+- Source: clawhub
+
+## MakeSoul Skill
+
+- Author: ChengDuBJUT
+- Description: Register and manage autonomous AI agents with unique souls, perform backups, and send periodic heartbeats to maintain agent state and activity.
+- GitHub: https://clawhub.ai/ChengDuBJUT/makesoul
+- Stars: 1
+- Source: clawhub
+
+## Session Health Monitor
+
+- Author: assistantheinrich-prog
+- Description: Context window health monitoring with compaction detection, pre-compaction snapshots, and memory rotation for Claude Code sessions.
+- GitHub: https://clawhub.ai/assistantheinrich-prog/session-health-monitor
+- Source: clawhub
+
+## Mini Diary
+
+- Author: PrintXDreams
+- Description: AI-powered minimal diary with smart auto-tagging and optional cloud sync. Perfect for daily journaling, work logs, or project tracking.
+- GitHub: https://clawhub.ai/PrintXDreams/mini-diary
+- Source: clawhub
+
+## swarm-self-heal
+
+- Author: tkuehnl
+- Description: Swarm reliability watchdog for OpenClaw — validates gateway/channel and every lane, performs bounded recovery, and emits auditable receipts.
+- GitHub: https://clawhub.ai/tkuehnl/swarm-self-heal
+- Source: clawhub
+
+## Aegis Intel Stack
+
+- Author: clawhub
+- Description: Provides micro-skills for pre/post execution analysis and triggers for manifest and delta re-buy in EVM gas and transaction management.
+- GitHub: https://clawhub.ai/skills/aegis-intel-stack
+- Source: clawhub
+
+## Cart Management
+
+- Author: clawhub
+- Description: React cart state management: duplicate prevention, localStorage persistence, CartContext patterns. Use when building or fixing shopping carts, product lists,...
+- GitHub: https://clawhub.ai/skills/cart-management
+- Source: clawhub
+
+## system-design-solver
+
+- Author: clawhub
+- Description: 系统设计面试教练（System Design Interview Coach）。当用户想要练习系统设计面试、请求设计某个系统、或希望模拟面试流程时，立即使用此 skill。适用场景包括：用户说"帮我练习系统设计"、"我要设计 XX 系统"、"帮我准备系统设计面试"、"模拟一道系统设计题"、"system desi...
+- GitHub: https://clawhub.ai/skills/system-design-solver
+- Source: clawhub
+
+## Leadership Prompts
+
+- Author: clawhub
+- Description: Curated collection of 25+ battle-tested prompts for engineering leaders — 1-on-1 prep, team health, incident retros, technical strategy, hiring, career devel...
+- GitHub: https://clawhub.ai/skills/leadership-prompts
+- Source: clawhub
+
+## SurrealDB 3
+
+- Author: 24601
+- Description: Expert SurrealDB 3 architect and developer skill. SurrealQL mastery, multi-model data modeling (document, graph, vector, time-series, geospatial), schema des...
+- GitHub: https://clawhub.ai/24601/surrealdb
+- Source: clawhub
+
+## Job-Hunter
+
+- Author: clawhub
+- Description: AI-powered CV generator for job applications. Sets up automated job search with CareerForge CLI, manages master resume creation, configures filtering criteri...
+- GitHub: https://clawhub.ai/skills/careerforge-cli-skill
+- Source: clawhub
+
+## CAPTCHA Relay
+
+- Author: 0xclanky
+- Description: Human-in-the-loop CAPTCHA solving with two modes: screenshot (default, zero infrastructure) and token relay (requires network access). Screenshot mode captur...
+- GitHub: https://clawhub.ai/0xclanky/captcha-relay
+- Source: clawhub
+
+## External Ki Integration Backup
+
+- Author: konscious0beast
+- Description: Skill for accessing external AI services (ChatGPT, Claude, Hugging Face, etc.) via browser automation (Chrome Relay) and APIs to assist with tasks.
+- GitHub: https://clawhub.ai/konscious0beast/external-ki-integration-backup
+- Source: clawhub
+
+## External Ai Integration
+
+- Author: konscious0beast
+- Description: Leverage external AI models (ChatGPT, Claude, Hugging Face, etc.) as tools via browser automation (Chrome Relay) and optional Hugging Face API. Use when you...
+- GitHub: https://clawhub.ai/konscious0beast/external-ai-integration
+- Source: clawhub
+
+## Error Recovery Automation
+
+- Author: konscious0beast
+- Description: Standardize handling of common OpenClaw errors (gateway restart, browser service unavailable, cron failures) with automated recovery steps. Use when you need...
+- GitHub: https://clawhub.ai/konscious0beast/error-recovery-automation
+- Source: clawhub
+
+## Polymarket Odds 1.0.0
+
+- Author: ceeyang
+- Description: Query Polymarket prediction market odds and events via CLI. Search for markets, get current prices, list events by category. Supports sports betting (NFL, NB...
+- GitHub: https://clawhub.ai/ceeyang/polymarket-odds-1-0-0
+- Source: clawhub
+
+## tiktok-carousel
+
+- Author: otman-ai
+- Description: Generates a 6-slide TikTok carousel with images and text, creates a draft post via Postiz API, and outputs a caption for review and publishing.
+- GitHub: https://clawhub.ai/otman-ai/tikto-automation
+- Source: clawhub
+
+## ---
+
+- Author: 1kalin
+- Description: Complete career acceleration system — from self-assessment to offer negotiation. Covers career strategy, job search operations, resume/CV optimization, inter...
+- GitHub: https://clawhub.ai/1kalin/afrexai-career-accelerator
+- Source: clawhub
+
+## Whistleblower Ethics Hotline
+
+- Author: 1kalin
+- Description: Confidential whistleblower system supporting anonymous intake, triage, investigations, regulatory compliance, retaliation prevention, and board reporting tem...
+- GitHub: https://clawhub.ai/1kalin/afrexai-whistleblower
+- Source: clawhub
+
+## Insurance Claims Processor
+
+- Author: 1kalin
+- Description: Processes and analyzes insurance claims across policy types, providing coverage mapping, liability scoring, reserve estimates, fraud detection, and settlemen...
+- GitHub: https://clawhub.ai/1kalin/afrexai-insurance-claims
+- Source: clawhub
+
+## Investment Analysis & Portfolio Management Engine
+
+- Author: 1kalin
+- Description: Performs structured investment thesis development, fundamental and technical analysis, portfolio risk management, and trade execution across asset classes.
+- GitHub: https://clawhub.ai/1kalin/afrexai-investment-engine
+- Source: clawhub
+
+## Acp Job Submitter
+
+- Author: Katrina-jpg
+- Description: Submit jobs to other ACP agents and earn from the spread | 提交ACP Jobs賺取差價
+- GitHub: https://clawhub.ai/Katrina-jpg/acp-job-submitter
 - Source: clawhub
