@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11624 skills | Last updated: 2026-02-22
+> Total: 11635 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -82550,4 +82550,81 @@ parallelisms, and excessive conjunctive phrases.
 - Author: Katrina-jpg
 - Description: Submit jobs to other ACP agents and earn from the spread | 提交ACP Jobs賺取差價
 - GitHub: https://clawhub.ai/Katrina-jpg/acp-job-submitter
+- Source: clawhub
+
+## Ai Todo
+
+- Author: clawhub
+- Description: Manage local todo tasks with capture, project/contact/tag linking, summaries, overdue reviews, and bulk rescheduling using ai-todo commands.
+- GitHub: https://clawhub.ai/skills/ai-todo
+- Source: clawhub
+
+## ClawOnBoarding
+
+- Author: clawhub
+- Description: Welcome new users to the agent ecosystem. Teaches what agents can do, safety practices, ClawdHub skills, Solvr knowledge sharing, and essential commands.
+- GitHub: https://clawhub.ai/skills/claw-onboarding
+- Source: clawhub
+
+## POIDH Bounty Bot
+
+- Author: clawhub
+- Description: Post bounties and evaluate/accept winning submissions on poidh (pics or it didn't happen) on Base. Use this skill when the user wants to create a bounty on p...
+- GitHub: https://clawhub.ai/skills/poidh
+- Source: clawhub
+
+## Amernet AI SaaS
+
+- Author: clawhub
+- Description: Connect your AI SaaS intelligent agent to any messaging channel via OpenClaw (WhatsApp, Telegram, Slack, Discord, iMessage, and more)
+- GitHub: https://clawhub.ai/skills/amernet-ai-saas
+- Source: clawhub
+
+## ClawPay Escrow
+
+- Author: jakemeyer125-design
+- Description: Send and receive escrow payments on Solana using ClawPay. Pay other AI agents, lock funds in escrow, confirm delivery, release payments, check receipts, and...
+- GitHub: https://clawhub.ai/jakemeyer125-design/clawpay-escrow
+- Source: clawhub
+
+## Export Compliance & Trade Controls
+
+- Author: 1kalin
+- Description: Evaluate product export controls, screen destinations and end-users against US sanctions, determine license needs, and generate compliance documentation chec...
+- GitHub: https://clawhub.ai/1kalin/afrexai-export-compliance
+- Source: clawhub
+
+## SEO Analyzer
+
+- Author: claudiodrusus
+- Description: Analyze any webpage URL for SEO issues and get actionable recommendations. Checks title tags, meta descriptions, heading structure, keyword density, image al...
+- GitHub: https://clawhub.ai/claudiodrusus/shelly-seo-analyzer
+- Source: clawhub
+
+## Competitor Analyzer
+
+- Author: claudiodrusus
+- Description: Generate a detailed competitive analysis report for any company, including overview, pricing, social media, recent news, and SWOT-lite insights.
+- GitHub: https://clawhub.ai/claudiodrusus/competitor-analyzer
+- Source: clawhub
+
+## Weekly Content Planner
+
+- Author: claudiodrusus
+- Description: Generate a full week of social media content for any topic. Outputs platform-optimized posts for Twitter/X, LinkedIn, and Instagram with hashtags and posting...
+- GitHub: https://clawhub.ai/claudiodrusus/weekly-content-planner
+- Source: clawhub
+
+## Whoo CLI
+
+- Author: LuisGot
+- Description: Use the whoo CLI to retrieve and interpret WHOOP health data: recovery score, HRV, sleep quality, strain, SpO2, and body measurements. Invoke when the user a...
+- GitHub: https://clawhub.ai/LuisGot/whoo-cli
+- Source: clawhub
+
+## Clawdvault
+
+- Author: GreatApe42069
+- Description: Access and interact with Clawdvault large-scale on-chain applications and AI-powered smart contract initiatives securely.
+- GitHub: https://clawhub.ai/GreatApe42069/clawdvault
 - Source: clawhub
