@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11245 skills | Last updated: 2026-02-21
+> Total: 11291 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -79865,4 +79865,329 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Analyzes local GHIN golf JSON data to report handicap trends, scoring patterns, course stats, and yearly performance without external connections.
 - GitHub: https://clawhub.ai/skills/ghin-golf-tracker
+- Source: clawhub
+
+## design-taste-frontend
+
+- Author: Leonxlnx
+- Description: Senior UI/UX Engineer. Architect digital interfaces overriding default LLM biases. Enforces metric-based rules, strict component architecture, CSS hardware acceleration, and balanced design engineering.
+- GitHub: https://github.com/Leonxlnx/floria-landing-page
+- Source: github
+
+## Github Different Pointofviews
+
+- Author: arvind3
+- Description: Skill from arvind3/github-different-pointofviews
+- GitHub: https://github.com/arvind3/github-different-pointofviews
+- Source: github
+
+## cta
+
+- Author: brianleach
+- Description: Chicago CTA transit — real-time L train arrivals, bus predictions, service alerts, and route info. Use when the user asks about Chicago public transit, L train schedules, CTA bus times, service alerts, or nearby stops.
+- GitHub: https://github.com/brianleach/cta-skill
+- Stars: 1
+- Source: github
+
+## add-top-openrouter-models
+
+- Author: liaosvcaf
+- Description: Sync top OpenRouter models into your OpenClaw installation — verify against API catalog, add with correct specs and aliases
+- GitHub: https://github.com/liaosvcaf/openclaw-skill-add-top-openrouter-models
+- Source: github
+
+## e2e-reporter
+
+- Author: dablon
+- Description: Automated E2E testing and evidence collection skill for OpenClaw agents
+- GitHub: https://github.com/dablon/openclaw-e2e-reporter-skill
+- Source: github
+
+## "ag2_project_creator"
+
+- Author: neuralconcept
+- Description: "Generates boilerplate AG2 projects and provides authoritative instructions for designing, writing, and debugging AG2 agents, workflows, tools, and MCP servers."
+- GitHub: https://github.com/neuralconcept/ag2_project_creator_skill
+- Source: github
+
+## Ask Council
+
+- Author: jeadland
+- Description: Ask LLM Council a question directly from Telegram/chat — get the chairman's synthesized answer without opening the web UI. Quick, headless access to multi-mo...
+- GitHub: https://clawhub.ai/jeadland/ask-council
+- Source: clawhub
+
+## Arxiv Osiris
+
+- Author: nantes
+- Description: Search and download research papers from arXiv.org - Research version for OpenClaw agents
+- GitHub: https://clawhub.ai/nantes/arxiv-osiris
+- Stars: 1
+- Source: clawhub
+
+## Puppeteer
+
+- Author: clawhub
+- Description: Automate Chrome and Chromium with Puppeteer for scraping, testing, screenshots, and browser workflows.
+- GitHub: https://clawhub.ai/skills/puppeteer
+- Source: clawhub
+
+## Tarot Content
+
+- Author: clawhub
+- Description: Generate tarot × astrology content for social media — weekly horoscope scripts, tarot spreads, video scripts, and cover art. Use when asked to "create tarot...
+- GitHub: https://clawhub.ai/skills/tarot-content
+- Source: clawhub
+
+## fastfish-hot-news-push 每日新闻热点推送（可设过滤词）
+
+- Author: clawhub
+- Description: 热点推送独立项目。从 api.pearktrue.cn 拉取热点，支持飞书/钉钉/Telegram 推送。可配置拉取时间、推送时间、过滤关键词。通过 system.run 直接调用脚本，无需 MCP。当用户需要拉取热点、知乎热搜、配置热点推送或设置定时推送时使用本技能。
+- GitHub: https://clawhub.ai/skills/fastfish-hot
+- Source: clawhub
+
+## WhaleWatch CLI
+
+- Author: bowen31337
+- Description: Agent-native whale wallet tracker for ETH and BTC chains. Track large crypto wallet movements, score whale activity, detect accumulation/distribution pattern...
+- GitHub: https://clawhub.ai/bowen31337/whalecli
+- Source: clawhub
+
+## Agent Reputation Checker
+
+- Author: kgnvsk
+- Description: Checks AI agent reputation across five platforms, computing a composite trust score and recommending PayLock escrow for medium or high-risk agents.
+- GitHub: https://clawhub.ai/kgnvsk/agent-reputation
+- Source: clawhub
+
+## PayLock SOL Escrow
+
+- Author: kgnvsk
+- Description: Create, fund, deliver, verify, and track SOL escrow contracts through the PayLock API from OpenClaw chat.
+- GitHub: https://clawhub.ai/kgnvsk/paylock
+- Source: clawhub
+
+## Recite
+
+- Author: rivradev
+- Description: AI-powered receipt scanning that renames files by date/vendor, extracts transaction details, and logs them in a dynamic bookkeeping CSV.
+- GitHub: https://clawhub.ai/rivradev/recite
+- Source: clawhub
+
+## Passo - Remote Browser Access
+
+- Author: clawhub
+- Description: Enables secure remote access to a browser on your server for manual tasks like logins, 2FA, and captchas via a protected URL.
+- GitHub: https://clawhub.ai/skills/passo
+- Source: clawhub
+
+## Brand Voice Profile
+
+- Author: clawhub
+- Description: Define and store your brand voice profile for consistent content generation. Captures writing style, vocabulary patterns, tone preferences, and content rules...
+- GitHub: https://clawhub.ai/skills/brand-voice-profile
+- Source: clawhub
+
+## RSS Reader
+
+- Author: clawhub
+- Description: Monitor RSS and Atom feeds for content research. Track blogs, news sites, newsletters, and any feed source. Use when monitoring competitors, tracking industr...
+- GitHub: https://clawhub.ai/skills/rss-reader
+- Source: clawhub
+
+## Content Ideas
+
+- Author: DimitriPantzos
+- Description: Generate content ideas from multiple sources. Aggregates trends from RSS feeds, Reddit, Hacker News, X/Twitter, and web search. Outputs actionable content id...
+- GitHub: https://clawhub.ai/DimitriPantzos/content-ideas
+- Source: clawhub
+
+## Estimate Builder
+
+- Author: qmohd
+- Description: Build construction project estimates. Generate detailed cost breakdowns with labor, materials, equipment, and overhead.
+- GitHub: https://clawhub.ai/qmohd/estimate-builder-qmohd
+- Source: clawhub
+
+## Judge Human
+
+- Author: DrDrewCain
+- Description: Vote and submit AI verdicts on ethical, cultural, and content cases to compare AI opinions with human crowds.
+- GitHub: https://clawhub.ai/DrDrewCain/judge-human
+- Stars: 1
+- Source: clawhub
+
+## Vision Router Skill
+
+- Author: JonathanJing
+- Description: A logic-based protocol for organizing life-captures into Notion. Routes images from WhatsApp into categorized Notion databases via your private Discord serve...
+- GitHub: https://clawhub.ai/JonathanJing/glass2claw
+- Source: clawhub
+
+## algorithm-solver
+
+- Author: clawhub
+- Description: 系统性地解析和解决算法题。覆盖题目理解、暴力解到优化解的推导、算法模板讲解、测试用例设计、生产级代码实践。适用于 LeetCode、面试题、竞赛题等场景。当用户提出算法题、数据结构问题、或要求解题时自动触发。
+- GitHub: https://clawhub.ai/skills/algorithm-solver
+- Source: clawhub
+
+## JSON Formatter
+
+- Author: HonestQiao
+- Description: Format, validate, compress JSON data, and extract JSON paths for improved readability and structure verification.
+- GitHub: https://clawhub.ai/HonestQiao/json-formatter
+- Source: clawhub
+
+## ClawBuddy Hatchling
+
+- Author: musketyr
+- Description: Let your OpenClaw agent ask questions to experienced buddies via ClawBuddy.
+- GitHub: https://clawhub.ai/musketyr/clawbuddy-hatchling
+- Source: clawhub
+
+## ClawBuddy Buddy
+
+- Author: musketyr
+- Description: Turn your OpenClaw agent into a ClawBuddy buddy — share knowledge with hatchlings via SSE.
+- GitHub: https://clawhub.ai/musketyr/clawbuddy-buddy
+- Source: clawhub
+
+## Cofounder
+
+- Author: ivangdavila
+- Description: Balance your entrepreneurial blind spots with adaptive counterweight across technical, strategic, and behavioral dimensions.
+- GitHub: https://clawhub.ai/ivangdavila/cofounder
+- Source: clawhub
+
+## Outlook Plus
+
+- Author: clawhub
+- Description: Read, search, and manage Outlook emails and calendar via Microsoft Graph API. Use when the user asks about emails, inbox, Outlook, Microsoft mail, calendar e...
+- GitHub: https://clawhub.ai/skills/outlook-plus
+- Source: clawhub
+
+## Test Case Generator
+
+- Author: clawhub
+- Description: Automatically generate complete unit test code including imports, test cases, mocks, and assertions for Jest, Mocha, or Pytest from given code.
+- GitHub: https://clawhub.ai/skills/test-case-generator
+- Source: clawhub
+
+## Wekan
+
+- Author: madsmith
+- Description: Manage a self-hosted Trello-like board via `wekancli`. Create, move and archive cards, lists and boards on a WeKan server. Use when user asks about task boar...
+- GitHub: https://clawhub.ai/madsmith/wekan-openclaw-skill
+- Source: clawhub
+
+## ClawLife
+
+- Author: mithri-claws
+- Description: Give your agent a home in a shared pixel world. Own a room, visit neighbors, earn shells, customize your lobster avatar, and build real relationships. Use wh...
+- GitHub: https://clawhub.ai/mithri-claws/clawlife
+- Source: clawhub
+
+## Sovereign project-setup-wizard
+
+- Author: clawhub
+- Description: Generates production-ready project scaffolds for Node.js, Python, Go, or Rust with directory, .gitignore, README, CI/CD, Docker, linting, testing, and licens...
+- GitHub: https://clawhub.ai/skills/sovereign-project-setup-wizard
+- Source: clawhub
+
+## Sovereign code-review-helper
+
+- Author: clawhub
+- Description: Generates file-type-specific code review checklists covering security, performance, style, and testing best practices for pull requests.
+- GitHub: https://clawhub.ai/skills/sovereign-code-review-helper
+- Source: clawhub
+
+## Sovereign git-commit-analyzer
+
+- Author: clawhub
+- Description: Analyzes git commit history to report commit frequency, top contributors, file changes, and commit message quality for development insights.
+- GitHub: https://clawhub.ai/skills/sovereign-git-commit-analyzer
+- Source: clawhub
+
+## Git Flow Helper
+
+- Author: clawhub
+- Description: Assist with Git branch management, merging, rebasing, cherry-picking, and cleaning merged branches for smoother workflow.
+- GitHub: https://clawhub.ai/skills/git-flow-helper
+- Source: clawhub
+
+## Dockerfile Generator
+
+- Author: clawhub
+- Description: Automatically generate optimized Dockerfiles for various app types with multi-stage builds and best practice performance enhancements.
+- GitHub: https://clawhub.ai/skills/dockerfile-generator
+- Source: clawhub
+
+## Recover deleted YouTube videos
+
+- Author: clawhub
+- Description: Searches multiple online archives to find and recover deleted YouTube videos, metadata, and comments using a video ID.
+- GitHub: https://clawhub.ai/skills/youtube-video-finder
+- Source: clawhub
+
+## Sovereign Daily Digest
+
+- Author: clawhub
+- Description: Compile and summarize configured news, weather, calendar, tasks, quotes, and more into a structured, daily personal intelligence briefing.
+- GitHub: https://clawhub.ai/skills/sovereign-daily-digest
+- Source: clawhub
+
+## TfL London Transit
+
+- Author: clawhub
+- Description: London TfL transit — real-time Tube arrivals, bus predictions, line status, service disruptions, journey planning, and route info for the London Underground,...
+- GitHub: https://clawhub.ai/skills/tfl
+- Source: clawhub
+
+## NYC MTA Transit
+
+- Author: clawhub
+- Description: NYC MTA transit — real-time subway arrivals, bus predictions, service alerts, and route info for the New York City subway and bus system. Use when the user a...
+- GitHub: https://clawhub.ai/skills/mta
+- Source: clawhub
+
+## DailyExpenseTracker
+
+- Author: clawhub
+- Description: DailyExpenseTracker API integration for recording expenses, checking balances, and managing transactions. Use when user mentions expenses, spending, transact...
+- GitHub: https://clawhub.ai/skills/det
+- Source: clawhub
+
+## Strudel Music
+
+- Author: clawhub
+- Description: Compose, play, and render music using Strudel live-coding patterns. Use when composing music programmatically, generating audio from pattern code, creating m...
+- GitHub: https://clawhub.ai/skills/strudel-music
+- Source: clawhub
+
+## Healthcheck Ready
+
+- Author: clawhub
+- Description: Performs a quick risk posture check on the host and provides a concise snapshot of OpenClaw's security and readiness status.
+- GitHub: https://clawhub.ai/skills/healthcheck-ready
+- Source: clawhub
+
+## Epistemic Council
+
+- Author: su-ariel
+- Description: Manage and execute all Epistemic Council pipeline operations including status checks, validations, audits, and adversarial re-challenges.
+- GitHub: https://clawhub.ai/su-ariel/epistemic-council
+- Source: clawhub
+
+## Cta Skill
+
+- Author: brianleach
+- Description: Chicago CTA transit — real-time L train arrivals, bus predictions, service alerts, and route info. Use when the user asks about Chicago public transit, L tra...
+- GitHub: https://clawhub.ai/brianleach/cta
+- Source: clawhub
+
+## Bitrix24
+
+- Author: rsvbitrix
+- Description: Manage Bitrix24 CRM deals, contacts, leads, tasks, calendar, drive, and messaging via REST API
+- GitHub: https://clawhub.ai/rsvbitrix/bitrix24
 - Source: clawhub
