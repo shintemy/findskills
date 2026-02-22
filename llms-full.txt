@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11451 skills | Last updated: 2026-02-22
+> Total: 11482 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -81325,4 +81325,224 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Validate email addresses using the apipick Email Validator API. Performs syntax checking, MX record verification, and disposable/throwaway email detection. U...
 - GitHub: https://clawhub.ai/skills/apipick-email-checker
+- Source: clawhub
+
+## Isf Agent
+
+- Author: Chlodomer
+- Description: a repo for an agent that helps researchers apply for isf funding
+- GitHub: https://github.com/Chlodomer/isf-agent
+- Source: github
+
+## afk-claude-telegram-bridge
+
+- Author: gmotyl
+- Description: Remote-control Claude Code from Telegram when AFK
+- GitHub: https://github.com/gmotyl/afk-claude-telegram-bridge
+- Source: github
+
+## writing-assistant
+
+- Author: VegetaPn
+- Description: A comprehensive end-to-end writing workflow skill for Claude Code
+- GitHub: https://github.com/VegetaPn/writing-assistant-skill
+- Stars: 16
+- Source: github
+
+## takt-builder
+
+- Author: nrslib
+- Description: TAKTのピースYAMLとファセット（ペルソナ・ポリシー・ナレッジ・インストラクション・出力契約）を作成・更新する。スタイルガイドに準拠したファセット分離とYAMLスキーマに準拠したピース設計を行う。
+- GitHub: https://github.com/nrslib/takt-builder-skill
+- Source: github
+
+## xuexitong-homework-submit
+
+- Author: smallwhiteman
+- Description: 学习通作业自动化 Skill v1.1.2（致谢 HandWrite、学习通 API、超星图床接口）
+- GitHub: https://github.com/smallwhiteman/xuexitong-homework-submit-skill
+- Source: github
+
+## plantuml-node-skill
+
+- Author: likesjx
+- Description: Write PlantUML sequence-diagram blocks in architecture markdown, save .puml files, render local SVG assets, and inject markdown image links.
+- GitHub: https://github.com/likesjx/plantuml-node-skill
+- Source: github
+
+## vibecoding-surgical
+
+- Author: garizs
+- Description: VibeCoding Surgical Mode (Lite). Enforces ICPC-Q discipline and zero-drift patching for AI coding agents.
+- GitHub: https://github.com/garizs/vibecoding-surgical-skill
+- Source: github
+
+## septa
+
+- Author: DeGrandis
+- Description: Command-line tool for accessing real-time SEPTA Regional Rail train schedules, departures, delays, and live train tracking in the Philadelphia area.  Openclaw Ready
+- GitHub: https://github.com/DeGrandis/septa-cli
+- Source: github
+
+## chatsite-provision
+
+- Author: venkatesh3007
+- Description: Automated provisioning system that turns a blank VPS into a working ChatSite - a Telegram-managed website for businesses. Use when user requests to "set up a ChatSite", "provision a ChatSite", "create a website managed from Telegram", or similar deployment requests for the ChatSite system.
+- GitHub: https://github.com/venkatesh3007/chatsite-provision
+- Source: github
+
+## conversation-to-skill-generator
+
+- Author: lirazgershon148
+- Description: A meta-skill that analyzes Claude conversations and generates reusable Skill.md files. Transform successful workflows into repeatable frameworks.
+- GitHub: https://github.com/lirazgershon148/conversation-to-skill-generator
+- Stars: 1
+- Source: github
+
+## huggingface-daily-report
+
+- Author: SoraKsgn
+- Description: HuggingFace Daily Papers Report Generator for OpenClaw
+- GitHub: https://github.com/SoraKsgn/huggingface-daily-report-skill
+- Source: github
+
+## tin
+
+- Author: marcinbogdanski
+- Description: CLI tool for searching local text file collections with BM25, vector, and hybrid search using API models
+- GitHub: https://github.com/marcinbogdanski/tin-cli
+- Source: github
+
+## LarryBrain Marketplace
+
+- Author: OllieWazza
+- Description: Skill marketplace for OpenClaw agents. One subscription, unlimited tools. Search, download, and install skills from the LarryBrain library.
+- GitHub: https://clawhub.ai/OllieWazza/larrybrain-marketplace
+- Source: clawhub
+
+## Content Repurposer
+
+- Author: mkpareek0315
+- Description: When user asks to track clients, manage projects, create invoices, log payments, track earnings, manage leads, track time, generate proposals, set follow-up...
+- GitHub: https://clawhub.ai/mkpareek0315/smart-content-repurposer
+- Source: clawhub
+
+## Shopify Admin
+
+- Author: robsannaa
+- Description: Read and write Shopify store data via Admin API: orders, products, customers, inventory, discounts. Use for store stats, order/product/customer CRUD, invento...
+- GitHub: https://clawhub.ai/robsannaa/shopify-admin
+- Source: clawhub
+
+## Markdown Editor With Chat
+
+- Author: musketyr
+- Description: Lightweight markdown editor with optional OpenClaw gateway chat. Filesystem-based, no database required.
+- GitHub: https://clawhub.ai/musketyr/markdown-editor-with-chat
+- Source: clawhub
+
+## Model Router Manager
+
+- Author: clawhub
+- Description: 智能多模型路由管理器 - 自动选择最优模型，降低成本，提高可靠性
+- GitHub: https://clawhub.ai/skills/model-router-manager
+- Source: clawhub
+
+## EvoMap GEP Client
+
+- Author: clawhub
+- Description: Connect any OpenClaw agent to the EvoMap collaborative evolution marketplace via the GEP-A2A protocol — no evolver required. Activate when the user or agent...
+- GitHub: https://clawhub.ai/skills/evomap-gep
+- Source: clawhub
+
+## Competitor Monitoring
+
+- Author: clawhub
+- Description: Track competitors with pricing alerts, feature changes, positioning analysis, and strategic dossiers.
+- GitHub: https://clawhub.ai/skills/competitor-monitoring
+- Source: clawhub
+
+## Cloudflare Image Generation
+
+- Author: clawhub
+- Description: Generate images using Cloudflare Workers AI flux-1-schnell model. Use when user requests image generation with text-to-image using Cloudflare Workers API.
+- GitHub: https://clawhub.ai/skills/cloudflare-image-gen
+- Source: clawhub
+
+## Pixel Lobster
+
+- Author: clawhub
+- Description: Desktop pixel art lobster avatar that lip-syncs to TTS speech. Use when: (1) user wants a visual avatar or desktop pet, (2) user wants lip-sync animation for...
+- GitHub: https://clawhub.ai/skills/pixel-lobster
+- Source: clawhub
+
+## UX Researcher
+
+- Author: ivangdavila
+- Description: Generate user personas, pain points, journey maps, and UX recommendations without conducting interviews.
+- GitHub: https://clawhub.ai/ivangdavila/ux-researcher
+- Source: clawhub
+
+## ClankerKit
+
+- Author: clawhub
+- Description: Autonomous wallet operations for AI agents on Monad — swap, stake, deploy wallets, trade memecoins, and manage spending policies via natural language.
+- GitHub: https://clawhub.ai/skills/clankerkit
+- Source: clawhub
+
+## Interview Coach
+
+- Author: clawhub
+- Description: When user asks for interview prep, mock interview, practice questions, behavioral questions, technical interview, HR round, salary negotiation, STAR method,...
+- GitHub: https://clawhub.ai/skills/interview-coach-ai
+- Source: clawhub
+
+## Seville
+
+- Author: clawhub
+- Description: Navigate Seville as visitor, resident, tech worker, student, or entrepreneur with neighborhoods, transport, costs, flamenco, and local insights.
+- GitHub: https://clawhub.ai/skills/seville
+- Source: clawhub
+
+## Repliz Api
+
+- Author: staryone
+- Description: Manage connected social accounts, schedule posts, and handle comment queues with Repliz API using basic authentication and ISO formatted scheduling.
+- GitHub: https://clawhub.ai/staryone/repliz
+- Stars: 1
+- Source: clawhub
+
+## Agent Ops Runbook
+
+- Author: clawhub
+- Description: Generate a detailed operations runbook for deploying AI agents, including rollout stages, monitoring, rollback plans, cost estimates, and incident response t...
+- GitHub: https://clawhub.ai/skills/afrexai-agent-runbook
+- Source: clawhub
+
+## Superlore Podcast Briefings
+
+- Author: AdamJurgens
+- Description: Transform your OpenClaw workspace into personalized AI-powered podcast briefings. Get daily audio updates on your work, priorities, and strategy in 8 compell...
+- GitHub: https://clawhub.ai/AdamJurgens/openclaw-podcast
+- Source: clawhub
+
+## Web Scraping & Data Extraction Engine
+
+- Author: 1kalin
+- Description: Complete web scraping methodology — legal compliance, architecture design, anti-detection, data pipelines, and production operations. Use when building scrap...
+- GitHub: https://clawhub.ai/1kalin/afrexai-web-scraping-engine
+- Source: clawhub
+
+## Remote Desktop
+
+- Author: ivangdavila
+- Description: Connect to remote desktops via RDP, VNC, and SSH X11 with secure tunneling and troubleshooting.
+- GitHub: https://clawhub.ai/ivangdavila/remote-desktop
+- Source: clawhub
+
+## Product Owner
+
+- Author: ivangdavila
+- Description: Manage backlogs, write user stories, define acceptance criteria, and maximize product value.
+- GitHub: https://clawhub.ai/ivangdavila/product-owner
 - Source: clawhub
