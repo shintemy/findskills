@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11375 skills | Last updated: 2026-02-22
+> Total: 11404 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -80786,4 +80786,210 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Google Workspace CLI for Gmail, Calendar, and Drive. Official Google APIs wrapper for secure, direct API access without third-party proxies. Use when managin...
 - GitHub: https://clawhub.ai/skills/praxis-gws
+- Source: clawhub
+
+## kubenow
+
+- Author: ppiankov
+- Description: Attention-first Kubernetes analysis for incidents, cost, and capacity — deterministic by default, AI-assisted when useful.
+- GitHub: https://github.com/ppiankov/kubenow
+- Stars: 1
+- Source: github
+
+## pr-review-workflow
+
+- Author: metyatech
+- Description: Agent skill for handling PR review feedback loops, re-requesting reviews, and managing GitHub notifications
+- GitHub: https://github.com/metyatech/skill-pr-review-workflow
+- Source: github
+
+## Stormglass Surf & Ocean Data
+
+- Author: dgorissen
+- Description: Fetch surf-relevant ocean conditions from Stormglass by spot name or coordinates, including current snapshot and 1-3 day forecast windows with tides, gusts,...
+- GitHub: https://clawhub.ai/dgorissen/stormglass
+- Source: clawhub
+
+## A2A Payments
+
+- Author: Paparusi
+- Description: Blockchain USDC payments via APay — pay services, manage budgets, open streaming channels, and handle x402 protocol.
+- GitHub: https://clawhub.ai/Paparusi/a2a-payments
+- Source: clawhub
+
+## Trust Velocity Calculator
+
+- Author: andyxinweiminicloud
+- Description: Helps calculate the rate at which trust in a skill or agent is decaying by combining time elapsed since last verification with the rate of change in behavior...
+- GitHub: https://clawhub.ai/andyxinweiminicloud/trust-velocity-calculator
+- Source: clawhub
+
+## Open Chrome Tabs
+
+- Author: mindsocket
+- Description: Read currently open browser tabs from Chrome or other Chromium browsers (Arc, Brave, Edge, etc.). Use when you need to know what URLs the user has open, or w...
+- GitHub: https://clawhub.ai/mindsocket/open-chrome-tabs
+- Source: clawhub
+
+## BacktestBot
+
+- Author: CollierKing
+- Description: Backtest trading strategies against historical market data with performance analytics and risk metrics
+- GitHub: https://clawhub.ai/CollierKing/backtestbot
+- Source: clawhub
+
+## CatalystWatch
+
+- Author: CollierKing
+- Description: Monitor and analyze market-moving catalysts including earnings, FDA decisions, economic data releases, and corporate events
+- GitHub: https://clawhub.ai/CollierKing/catalystwatch
+- Source: clawhub
+
+## Aruba IAP Manager
+
+- Author: clawhub
+- Description: Aruba Instant AP (IAP/UAP) configuration, management, and troubleshooting. Use when configuring Aruba access points, managing wireless networks, or diagnosin...
+- GitHub: https://clawhub.ai/skills/aruba-iap
+- Source: clawhub
+
+## ChartClass
+
+- Author: clawhub
+- Description: Technical analysis and chart pattern recognition for equities, options, and crypto markets
+- GitHub: https://clawhub.ai/skills/chartclass
+- Source: clawhub
+
+## skill-update-delta-monitor
+
+- Author: clawhub
+- Description: Helps detect security-relevant changes in AI skills after installation. Tracks deltas between the audited version and current version, flagging updates that...
+- GitHub: https://clawhub.ai/skills/skill-update-delta-monitor
+- Source: clawhub
+
+## 长任务监控方案。实现 Worker-Monitor 架构，Monitor 通过 hook-logger 日志监控 Worker 状态，每轮 10 分钟通过 Announce 汇报。采用主会话轮询机制（因子代理 sessions_send 限制）。推荐 OpenClaw 2.21+。触发词：长任务、监控任务、任务监控
+
+- Author: scotthuang
+- Description: 长任务监控方案 V2。实现 Worker-Monitor 架构，Monitor 通过 hook-logger 日志监控 Worker 状态，每轮 10 分钟通过 Announce 汇报。采用主会话轮询机制（因子代理 sessions_send 限制）。推荐 OpenClaw 2.21+。触发词：长任务、监控任务、...
+- GitHub: https://clawhub.ai/scotthuang/long-task-monitor
+- Source: clawhub
+
+## Farmos Weather
+
+- Author: clawhub
+- Description: Query weather data and forecasts for farm fields via the Agronomy module.
+- GitHub: https://clawhub.ai/skills/farmos-weather
+- Source: clawhub
+
+## BotEmail.ai - Free bot email
+
+- Author: clawhub
+- Description: Get an email address without your human. Use for testing signup flows, receiving verification codes, automating email workflows. Free.
+- GitHub: https://clawhub.ai/skills/bot-email-v2
+- Source: clawhub
+
+## attestation-chain-auditor
+
+- Author: clawhub
+- Description: Helps validate the completeness and integrity of trust attestation chains in AI agent ecosystems. Identifies broken links, expired credentials, and missing v...
+- GitHub: https://clawhub.ai/skills/attestation-chain-auditor
+- Source: clawhub
+
+## Hybrid Deep Search
+
+- Author: clawhub
+- Description: Hybrid Deep Search - Intelligent routing between Brave API (free, fast) and OpenAI Codex (deep analysis, paid). Auto-selects optimal search strategy based on...
+- GitHub: https://clawhub.ai/skills/hybrid-deep-search
+- Source: clawhub
+
+## Solanaprox
+
+- Author: clawhub
+- Description: Pay-per-request AI model access via Solana/USDC using a Phantom wallet address. Query Claude and GPT models without API keys. Wallet-native authentication wi...
+- GitHub: https://clawhub.ai/skills/solanaprox
+- Source: clawhub
+
+## A2A Vault
+
+- Author: clawhub
+- Description: Zero-knowledge secrets management via PassBox — store, retrieve, rotate, and inject credentials securely.
+- GitHub: https://clawhub.ai/skills/a2a-vault
+- Source: clawhub
+
+## A2A Marketplace
+
+- Author: clawhub
+- Description: AI tool marketplace via AgentForge — discover, compare, and execute tools with automatic billing and trust scoring.
+- GitHub: https://clawhub.ai/skills/a2a-marketplace
+- Source: clawhub
+
+## Stock Data Skill
+
+- Author: clawhub
+- Description: Fetch comprehensive stock data from Simplywall.st. Use when user asks about stock prices, valuation, financials, dividend, or investment analysis for any glo...
+- GitHub: https://clawhub.ai/skills/stock-data-skill
+- Stars: 1
+- Source: clawhub
+
+## AgentTok - TikTok for AI Agents
+
+- Author: clawhub
+- Description: TikTok for AI agents. Upload videos, get followers, climb the leaderboard.
+- GitHub: https://clawhub.ai/skills/agenttok
+- Source: clawhub
+
+## Us Credit Score Strategist
+
+- Author: clawhub
+- Description: US Credit Repair & Score Optimization Expert. Master FICO mechanics, credit utilization math, and bureau dispute logic.
+- GitHub: https://clawhub.ai/skills/credit-repair-skill
+- Stars: 1
+- Source: clawhub
+
+## agent-card-signing-auditor
+
+- Author: clawhub
+- Description: Helps audit Agent Card signing practices in A2A protocol implementations. Identifies missing signatures, weak signing schemes, and revocation gaps that allow...
+- GitHub: https://clawhub.ai/skills/agent-card-signing-auditor
+- Source: clawhub
+
+## US Stock Valuation Model - Value Investing Framework / 美股估值模型-价值投资框架
+
+- Author: clawhub
+- Description: Structured bilingual framework to evaluate US stocks by quality, moat, management, valuation, and risk for buy/watch/avoid decisions and monitoring.
+- GitHub: https://clawhub.ai/skills/us-value-investing-framework
+- Source: clawhub
+
+## Farmos Tasks
+
+- Author: clawhub
+- Description: Query and manage farm work orders and tasks. View assignments, create tasks, update status. Uses integration endpoints (no auth) for reads and authenticated...
+- GitHub: https://clawhub.ai/skills/farmos-tasks
+- Source: clawhub
+
+## Farmos Observations
+
+- Author: clawhub
+- Description: Query and create field observations and AI-processed captures. Photos, voice notes, and text notes from the field.
+- GitHub: https://clawhub.ai/skills/farmos-observations
+- Source: clawhub
+
+## Farmos Land Portfolio
+
+- Author: clawhub
+- Description: Query land ownership, leases, landlord info, and land payments. Write operations for payment management and lease renewals.
+- GitHub: https://clawhub.ai/skills/farmos-land-portfolio
+- Source: clawhub
+
+## Update Signature Verifier
+
+- Author: clawhub
+- Description: Helps verify the cryptographic integrity of skill updates by checking whether each version is signed by the same key as the original install, detecting key c...
+- GitHub: https://clawhub.ai/skills/update-signature-verifier
+- Source: clawhub
+
+## ABL.ONE Protocol
+
+- Author: clawhub
+- Description: A strict binary communication protocol for high-density, agent-to-agent interactions.
+- GitHub: https://clawhub.ai/skills/dil
 - Source: clawhub
