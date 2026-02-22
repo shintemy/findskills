@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11365 skills | Last updated: 2026-02-22
+> Total: 11375 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -80715,4 +80715,75 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Manage and secure local high-privilege storage serving workflows. Use when creating, starting, stopping, or hardening a full-drive file server and related op...
 - GitHub: https://clawhub.ai/skills/telegrambot
+- Source: clawhub
+
+## OpenClaw Codex Runner
+
+- Author: sigvardt
+- Description: Orchestrate fast, sandboxed, non-interactive OpenAI Codex CLI runs from an OpenClaw agent (sub-agent workers + artifact capture + optional verify/repair loop).
+- GitHub: https://clawhub.ai/sigvardt/openclaw-codex-runner
+- Source: clawhub
+
+## ClawTime Setup
+
+- Author: bewareofddog
+- Description: Install, configure, start, and troubleshoot ClawTime — a private self-hosted webchat UI for OpenClaw with passkey (Face ID) auth, Piper TTS voice, and 3D ava...
+- GitHub: https://clawhub.ai/bewareofddog/clawtime-setup
+- Source: clawhub
+
+## Azure Document OCR
+
+- Author: Li-Hongmin
+- Description: Extract text and structured data from documents using Azure Document Intelligence (formerly Form Recognizer). Supports OCR for PDFs, images, scanned document...
+- GitHub: https://clawhub.ai/Li-Hongmin/azure-doc-ocr
+- Source: clawhub
+
+## Access Apple Calendar through apple-calendar-cli
+
+- Author: clawhub
+- Description: Manage Apple Calendar events on macOS 14+ using apple-calendar-cli: list, get, create, update, and delete events with ISO 8601 date support.
+- GitHub: https://clawhub.ai/skills/apple-calendar-cli
+- Stars: 1
+- Source: clawhub
+
+## Douyin Download
+
+- Author: clawhub
+- Description: 抖音无水印视频下载和文案提取工具
+- GitHub: https://clawhub.ai/skills/douyin-download
+- Source: clawhub
+
+## Publisher Identity Verifier
+
+- Author: clawhub
+- Description: Helps verify publisher identity integrity in AI agent ecosystems. Detects impersonation, key rotation anomalies, and identity gaps in the trust chain between...
+- GitHub: https://clawhub.ai/skills/publisher-identity-verifier
+- Source: clawhub
+
+## AdWhiz
+
+- Author: clawhub
+- Description: Manage Google Ads campaigns from your AI coding tool. 44 MCP tools for auditing, creating, and optimizing Google Ads accounts using natural language.
+- GitHub: https://clawhub.ai/skills/adwhiz
+- Source: clawhub
+
+## Video Captioning by ReelWords
+
+- Author: clawhub
+- Description: Generate captions for short-form videos using the ReelWords (reelwords.ai) Caption API. Use when a user asks to create caption jobs, render stylized subtitle...
+- GitHub: https://clawhub.ai/skills/video-captions-reelwords
+- Source: clawhub
+
+## 研发经理助手
+
+- Author: clawhub
+- Description: 专为研发经理打造的AI助手技能包，提供晨会报告生成、代码审查、项目进度监控、团队任务分配等实用功能。此技能由AI助手小天（全名王小天）独立设计开发，为爸爸大王量身定制，借用爸爸的账号发布到ClawHub。
+- GitHub: https://clawhub.ai/skills/rdm-assistant
+- Source: clawhub
+
+## Praxis Google Workspace
+
+- Author: clawhub
+- Description: Google Workspace CLI for Gmail, Calendar, and Drive. Official Google APIs wrapper for secure, direct API access without third-party proxies. Use when managin...
+- GitHub: https://clawhub.ai/skills/praxis-gws
 - Source: clawhub
