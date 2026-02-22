@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11291 skills | Last updated: 2026-02-22
+> Total: 11304 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -80190,4 +80190,96 @@ parallelisms, and excessive conjunctive phrases.
 - Author: rsvbitrix
 - Description: Manage Bitrix24 CRM deals, contacts, leads, tasks, calendar, drive, and messaging via REST API
 - GitHub: https://clawhub.ai/rsvbitrix/bitrix24
+- Source: clawhub
+
+## Refactor Agent Skills To Hierarchical Routing
+
+- Author: walter-la
+- Description: Enterprise-grade contract for refactoring flat AI agent skills into hierarchical toolkit routers + a global root router, with YAML-only Step0–5 outputs, verifiable lint, DAG/cycle safety, concurrency governance, redaction-by-host, and trace-context observability.
+- GitHub: https://github.com/walter-la/refactor-agent-skills-to-hierarchical-routing
+- Source: github
+
+## Mcp Server Hyperplexity
+
+- Author: EliyahuAI
+- Description: MCP server for Hyperplexity.AI - a service that creates research tables from a prompt, and validates and updates existing research tables. Also checks claims and citations in text via Chex. 
+- GitHub: https://github.com/EliyahuAI/mcp-server-hyperplexity
+- Source: github
+
+## wip-xai-grok
+
+- Author: wipcomputer
+- Description: xAI Grok API. Search the web, search X, generate images, generate video.
+- GitHub: https://github.com/wipcomputer/wip-xai-grok
+- Source: github
+
+## Openclaw Ws Utilities
+
+- Author: cristian473
+- Description: Skill from cristian473/openclaw-ws-utilities
+- GitHub: https://github.com/cristian473/openclaw-ws-utilities
+- Source: github
+
+## SQL Query Optimizer
+
+- Author: clawhub
+- Description: Analyze and optimize SQL queries by providing performance analysis, index recommendations, execution plan interpretation, and optimization suggestions.
+- GitHub: https://clawhub.ai/skills/sql-query-optimizer
+- Source: clawhub
+
+## kenoodl
+
+- Author: clawhub
+- Description: kenoodl is an orthogonal injection engine — it synthesizes patterns from domains outside your agent's training data and maps them onto whatever problem it's...
+- GitHub: https://clawhub.ai/skills/kenoodl-synthesis
+- Source: clawhub
+
+## Skill Seo
+
+- Author: clawhub
+- Description: Optimize your ClawHub skill for maximum discoverability. Analyzes and rewrites SKILL.md description for vector search ranking, suggests keyword coverage, che...
+- GitHub: https://clawhub.ai/skills/skill-seo
+- Source: clawhub
+
+## Data Format Converter
+
+- Author: clawhub
+- Description: Convert data efficiently between CSV, JSON, XML, YAML, and TOML formats including batch processing for CSV↔JSON, JSON↔YAML, XML↔JSON, and TOML↔JSON conversions.
+- GitHub: https://clawhub.ai/skills/data-format-converter
+- Source: clawhub
+
+## Auto Updater Pro
+
+- Author: clawhub
+- Description: Enhanced auto-updater with detailed logging, missed run recovery, and Gateway restart protection.
+- GitHub: https://clawhub.ai/skills/auto-updater-pro
+- Stars: 1
+- Source: clawhub
+
+## Error Message Decoder
+
+- Author: clawhub
+- Description: 解析常见错误代码，提供错误原因及对应解决方案，支持多语言显示。
+- GitHub: https://clawhub.ai/skills/error-message-decoder
+- Source: clawhub
+
+## AgentXPay
+
+- Author: clawhub
+- Description: AgentXPay Skill — 让 AI Agent 在 Monad 区块链上自主发现、付费、订阅 AI 服务。 当用户要求调用外部付费 AI 服务（如图像生成、代码助手、LLM 对话等）， 或者涉及链上支付、Agent 钱包管理、服务订阅、资金托管时，应加载此 Skill。
+- GitHub: https://clawhub.ai/skills/agentxpay
+- Source: clawhub
+
+## System Monitor OpenClaw
+
+- Author: clawhub
+- Description: Monitor CPU, RAM, disk space, temperature, load average, and top processes on OpenClaw systems using a single versatile script.
+- GitHub: https://clawhub.ai/skills/clawstats
+- Source: clawhub
+
+## openclaw-reflect
+
+- Author: clawhub
+- Description: Self-improvement layer with evaluation separation, rollback, and tiered operator gates. Observes outcomes across sessions, detects recurring patterns, propos...
+- GitHub: https://clawhub.ai/skills/openclaw-reflect
 - Source: clawhub
