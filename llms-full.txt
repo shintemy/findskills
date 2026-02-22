@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11542 skills | Last updated: 2026-02-22
+> Total: 11558 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -81969,4 +81969,117 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Generates structured blameless incident postmortems from raw notes, producing summaries, timelines, root cause analyses, impacts, action items, and preventio...
 - GitHub: https://clawhub.ai/skills/afrexai-postmortem
+- Source: clawhub
+
+## ghidra-cli
+
+- Author: akiselev
+- Description: Rust cli to run ghidra headless on files so that Claude Code and other agents can reverse engineer stuff
+- GitHub: https://github.com/akiselev/ghidra-cli
+- Stars: 12
+- Source: github
+
+## Itsyhome Control
+
+- Author: nickustinov
+- Description: Control and query smart home devices via the Itsyhome macOS app. Use when the user asks to turn devices on/off, toggle lights, set brightness/temperature/col...
+- GitHub: https://clawhub.ai/nickustinov/itsyhome-control
+- Source: clawhub
+
+## Magic Quill
+
+- Author: wynnsu
+- Description: Generate YAML spell mapping files for OpenClaw Spellbook themed by a topic or URL, using dynamic spell-list discovery and heuristic fallback.
+- GitHub: https://clawhub.ai/wynnsu/magic-quill
+- Source: clawhub
+
+## Jiaweisi Metatheory
+
+- Author: Taery-mingjun
+- Description: 第一因元理论——因思而在的递归存在论体系
+- GitHub: https://clawhub.ai/Taery-mingjun/jiaweisi-metatheory
+- Source: clawhub
+
+## Skill AGI
+
+- Author: wubotvix
+- Description: Remember mistakes across sessions. Append one-liner learnings, review before complex tasks, promote important ones.
+- GitHub: https://clawhub.ai/wubotvix/skillagi
+- Source: clawhub
+
+## Ship My Token
+
+- Author: clawhub
+- Description: Launch Solana tokens on Pumpfun, create memecoins, mint crypto tokens, manage creator fee sharing, claim trading earnings, and track your portfolio. Deploy t...
+- GitHub: https://clawhub.ai/skills/ship-my-token
+- Source: clawhub
+
+## test
+
+- Author: clawhub
+- Description: Runtime security plugin for AI agents. Provides local-first protection against data exfiltration, credential theft, command injection, and sensitive data lea...
+- GitHub: https://clawhub.ai/skills/og-openclawguard-test
+- Source: clawhub
+
+## feishu-user
+
+- Author: clawhub
+- Description: Feishu document operations (User Access Token version). Use user access token for authentication. When you need to read, create, write, or append Feishu docu...
+- GitHub: https://clawhub.ai/skills/feishu-user
+- Source: clawhub
+
+## safe-backup
+
+- Author: clawhub
+- Description: Backup OpenClaw state directory and workspace. Includes excluding logs, sessions and other sensitive files, packaging for backup. Triggered when user asks to...
+- GitHub: https://clawhub.ai/skills/safe-backup
+- Source: clawhub
+
+## SocialClaw CLI
+
+- Author: vishalgojha
+- Description: Run SocialClaw as an agentic control plane for Meta operations through the installed social CLI. Use when the user asks for multi-step execution, approvals,...
+- GitHub: https://clawhub.ai/vishalgojha/socialclaw-cli
+- Source: clawhub
+
+## video-understand
+
+- Author: clawhub
+- Description: Analyze and understand video content using AI. Upload local files, YouTube URLs, or HTTP video URLs for detailed analysis, Q&A, and timestamped breakdowns.
+- GitHub: https://clawhub.ai/skills/video-understand
+- Source: clawhub
+
+## Traffic-Data
+
+- Author: clawhub
+- Description: Query traffic data - real-time road conditions, traffic incidents, SCATS intersection data
+- GitHub: https://clawhub.ai/skills/traffic-data
+- Source: clawhub
+
+## Madeira
+
+- Author: ivangdavila
+- Description: Navigate Madeira as visitor, digital nomad, or resident with neighborhoods, levadas, costs, visas, and local insights for the Atlantic island.
+- GitHub: https://clawhub.ai/ivangdavila/madeira
+- Source: clawhub
+
+## Budapest
+
+- Author: ivangdavila
+- Description: Navigate Budapest as visitor, expat, digital nomad, student, or entrepreneur with neighborhoods, transport, costs, visas, and local insights.
+- GitHub: https://clawhub.ai/ivangdavila/budapest
+- Source: clawhub
+
+## Daily News Digest
+
+- Author: clawhub
+- Description: Personalized news briefings from your chosen sources, delivered morning or evening, with voice option and smart filtering.
+- GitHub: https://clawhub.ai/skills/daily-news-digest
+- Source: clawhub
+
+## Shelter
+
+- Author: clawhub
+- Description: Connect to your Shelter financial data. Check safe-to-spend, predict cash crunches, find zombie subscriptions, simulate purchases, get AI coaching, and ask G...
+- GitHub: https://clawhub.ai/skills/shelter
 - Source: clawhub
