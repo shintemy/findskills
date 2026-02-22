@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11336 skills | Last updated: 2026-02-22
+> Total: 11355 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -80507,4 +80507,141 @@ parallelisms, and excessive conjunctive phrases.
 - Author: clawhub
 - Description: Self-driving agent workflow with todo-based task management, heartbeat-driven execution loops, autonomous decision-making, and structured reporting. Use when...
 - GitHub: https://clawhub.ai/skills/agent-autopilot
+- Source: clawhub
+
+## mta
+
+- Author: brianleach
+- Description: NYC MTA transit — real-time subway arrivals, bus predictions, service alerts, and route info for the New York City subway and bus system. Use when the user asks about NYC public transit, subway times, MTA bus arrivals, service alerts, or nearby stops.
+- GitHub: https://github.com/brianleach/mta-skill
+- Stars: 1
+- Source: github
+
+## design-taste-frontend
+
+- Author: alexandreeberhardt
+- Description: SAAS to build and generate professional PDF resumes with drag-and-drop sections, powered by   FastAPI and LaTeX
+- GitHub: https://github.com/alexandreeberhardt/sivee.pro
+- Source: github
+
+## product-ceo
+
+- Author: nmintzer-oswego
+- Description: Product CEO skill for Claude Code - strategic product planning with RICE scoring, competitive analysis, and roadmap generation
+- GitHub: https://github.com/nmintzer-oswego/product-ceo
+- Source: github
+
+## sage-protocol
+
+- Author: sage-protocol
+- Description: >
+- GitHub: https://github.com/sage-protocol/landing-page
+- Source: github
+
+## Task Father
+
+- Author: moodykong
+- Description: Generator for file-based task state machines (registry + task folders + lifecycle state + queue files + cron specs/jobs) for long-running work.
+- GitHub: https://clawhub.ai/moodykong/task-father
+- Source: clawhub
+
+## Signal Pipeline
+
+- Author: mephistophelesbits
+- Description: Marketing intelligence pipeline - gather signals from RSS, X/Twitter, Telegram, and Gmail newsletters. Generate daily posts, weekly summaries, and monthly de...
+- GitHub: https://clawhub.ai/mephistophelesbits/signal-pipeline
+- Source: clawhub
+
+## wallet
+
+- Author: KenBlive
+- Description: 🔐 Base Wallet - Crypto Identity for AI Agents. Create wallets, sign messages (SIWE), send transactions programmatically. No browser extensions, no human int...
+- GitHub: https://clawhub.ai/KenBlive/wallet
+- Source: clawhub
+
+## AnveVoice
+
+- Author: ANVEAI
+- Description: Add AI voice assistants to your website. Engage visitors with natural voice conversations, capture leads, automate support, and boost conversions.
+- GitHub: https://clawhub.ai/ANVEAI/anvevoice
+- Source: clawhub
+
+## Openclaw Skill
+
+- Author: JoshuaOHanlon
+- Description: Convert PDFs into structured Markdown filesystems and hydrate them into your workspace for exploration with standard Unix tools
+- GitHub: https://clawhub.ai/JoshuaOHanlon/shelv
+- Stars: 1
+- Source: clawhub
+
+## Code Security Audit
+
+- Author: clawhub
+- Description: Comprehensive code security audit toolkit combining OWASP Top 10 vulnerability scanning, dependency analysis, secret detection, SSL/TLS verification, and aut...
+- GitHub: https://clawhub.ai/skills/code-security-audit
+- Stars: 1
+- Source: clawhub
+
+## Weather Nws
+
+- Author: patelhiren
+- Description: US weather forecasts via National Weather Service (NWS) with automatic fallback to global weather for non-US locations. Provides detailed accumulation data,...
+- GitHub: https://clawhub.ai/patelhiren/weather-nws
+- Stars: 1
+- Source: clawhub
+
+## Protocol Doc Auditor
+
+- Author: clawhub
+- Description: Helps detect hidden attacks in API and protocol documentation. Scans integration guides for dangerous instructions like curl|bash, credential harvesting, and...
+- GitHub: https://clawhub.ai/skills/protocol-doc-auditor
+- Source: clawhub
+
+## Secure Shopper
+
+- Author: clawhub
+- Description: Asynchronous shopping research + checkout using secure-autofill (1Password-backed browser filling) with results recorded to workspace artifacts.
+- GitHub: https://clawhub.ai/skills/secure-shopper
+- Source: clawhub
+
+## OneDrive Integration
+
+- Author: clawhub
+- Description: Copy large/long files to OneDrive for sharing when the user is on Telegram or WhatsApp and wants to view a full document or long file. Use to place files int...
+- GitHub: https://clawhub.ai/skills/onedrive-integration
+- Source: clawhub
+
+## BRICKS CLI
+
+- Author: clawhub
+- Description: Manage BRICKS workspace devices, groups, apps, modules, media, and projects via CLI for control, monitoring, updates, and deployments.
+- GitHub: https://clawhub.ai/skills/bricks-cli
+- Source: clawhub
+
+## Dev Task
+
+- Author: clawhub
+- Description: 开发项目任务管理，支持版本化开发流程。当用户需要启动开发任务、创建新版本、管理项目版本文档时使用。每次启动开发任务必须向用户确认版本编号，按版本号管理代码、开发文档、需求文档、发布配置。严格执行版本归档纪律，封版必须立即归档完整代码和文档。
+- GitHub: https://clawhub.ai/skills/dev-task
+- Source: clawhub
+
+## Secure Autofill
+
+- Author: moodykong
+- Description: 1Password-backed credential filling via vault_suggest/vault_fill (plugin tools).
+- GitHub: https://clawhub.ai/moodykong/secure-autofill
+- Source: clawhub
+
+## Cross-Model Adversarial Review
+
+- Author: Don-GBot
+- Description: Adversarial plan review using two different AI models. Planner writes, reviewer challenges, they iterate until approved. Use when building features touching...
+- GitHub: https://clawhub.ai/Don-GBot/cross-model-review
+- Source: clawhub
+
+## Skill Father
+
+- Author: clawhub
+- Description: Authoritative skill-creation standards (Boss). Use when creating or updating OpenClaw skills so they are portable, reproducible, include prerequisites checks...
+- GitHub: https://clawhub.ai/skills/skill-father
 - Source: clawhub
