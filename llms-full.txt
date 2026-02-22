@@ -1,6 +1,6 @@
 # FindSkills - Complete Skills Catalog
 
-> Total: 11635 skills | Last updated: 2026-02-22
+> Total: 11657 skills | Last updated: 2026-02-22
 
 This file contains a complete listing of all Skills in the FindSkills directory.
 For structured JSON data, fetch: /skills.json
@@ -82627,4 +82627,162 @@ parallelisms, and excessive conjunctive phrases.
 - Author: GreatApe42069
 - Description: Access and interact with Clawdvault large-scale on-chain applications and AI-powered smart contract initiatives securely.
 - GitHub: https://clawhub.ai/GreatApe42069/clawdvault
+- Source: clawhub
+
+## Memos notes
+
+- Author: clawhub
+- Description: Manage memos via the Memos API: create, retrieve, delete, and list memos with visibility and pagination support, requiring MEMOS_URL and MEMOS_TOKEN.
+- GitHub: https://clawhub.ai/skills/memos
+- Source: clawhub
+
+## Instagram Poster
+
+- Author: clawhub
+- Description: Post images to Instagram automatically via Telegram. Generates images with WaveSpeed or uses your own. Bypasses Instagram bot detection using residential pro...
+- GitHub: https://clawhub.ai/skills/instagram-poster
+- Source: clawhub
+
+## 中文工具包
+
+- Author: utopia013-droid
+- Description: 为OpenClaw提供中文文本处理、翻译、OCR、语音识别等功能的综合工具包。支持中文分词、拼音转换、中英文翻译、关键词提取、文本分析等功能。
+- GitHub: https://clawhub.ai/utopia013-droid/chinese-toolkit
+- Source: clawhub
+
+## webcli
+
+- Author: erdinccurebal
+- Description: Browse the web, scrape pages, fill forms, click buttons, and take screenshots using the webcli headless browser. Use when the user asks to visit a website, g...
+- GitHub: https://clawhub.ai/erdinccurebal/webcli
+- Source: clawhub
+
+## Angus Bounty Hunter
+
+- Author: clawhub
+- Description: Automated smart contract bug bounty hunting. Scans Immunefi/Code4rena targets with Slither static analysis, triages findings with local LLMs, and generates P...
+- GitHub: https://clawhub.ai/skills/angus-bounty-hunter
+- Source: clawhub
+
+## Ads Analyzer
+
+- Author: clawhub
+- Description: Analyze extracted Meta ad creatives and generate a professional strategy report. Use after /meta_ads_extractor to produce a clean, organized analysis documen...
+- GitHub: https://clawhub.ai/skills/meta-ads-analyser
+- Source: clawhub
+
+## Session Cost Tracker
+
+- Author: Rushant-123
+- Description: Track and analyze AI session cost-to-value by logging task, value, and token use to optimize productivity and reduce wasted effort.
+- GitHub: https://clawhub.ai/Rushant-123/session-cost-tracker
+- Source: clawhub
+
+## AADA (Agent to Agent Advertising)
+
+- Author: clawhub
+- Description: Create and send fun, personality-rich promotional messages from one agent to the Moltbook audience. Use when a user wants to advertise a product, project, up...
+- GitHub: https://clawhub.ai/skills/aada
+- Source: clawhub
+
+## Native Google Analytics
+
+- Author: clawhub
+- Description: Query Google Analytics 4 (GA4) data directly via the Analytics Data API. Use when you need website analytics like top pages, traffic sources, sessions, users...
+- GitHub: https://clawhub.ai/skills/native-google-analytics
+- Source: clawhub
+
+## Claw Drive
+
+- Author: clawhub
+- Description: Claw Drive — AI-managed personal drive for OpenClaw. Auto-categorize, tag, deduplicate, and retrieve files with natural language. Backed by Google Drive for...
+- GitHub: https://clawhub.ai/skills/claw-drive
+- Stars: 1
+- Source: clawhub
+
+## Desktop Guardian
+
+- Author: clawhub
+- Description: macOS GUI automation and desktop control for OpenClaw, powered by Hammerspoon. Gives your agent full access to interact with the Mac desktop — query windows,...
+- GitHub: https://clawhub.ai/skills/desktop-guardian
+- Source: clawhub
+
+## ClawFeed
+
+- Author: clawhub
+- Description: AI-powered tool that generates structured news summaries from Twitter and RSS feeds in 4-hour, daily, weekly, or monthly digests.
+- GitHub: https://clawhub.ai/skills/clawfeed
+- Stars: 1
+- Source: clawhub
+
+## AI Compliance Readiness Assessment
+
+- Author: clawhub
+- Description: AI Compliance Readiness Assessment — evaluate how prepared an organization is for AI governance regulations (EU AI Act, NIST AI RMF, HHS mandates, state bar...
+- GitHub: https://clawhub.ai/skills/compliance-readiness
+- Source: clawhub
+
+## Microsoft Foundry image generation
+
+- Author: clawhub
+- Description: Azure Foundry image generation skill for OpenClaw; generates images via a Foundry deployment and returns image bytes or URLs.
+- GitHub: https://clawhub.ai/skills/ms-foundry-image-gen
+- Stars: 1
+- Source: clawhub
+
+## YouTube Uploader
+
+- Author: clawhub
+- Description: Upload videos and custom thumbnails to YouTube. Use when the user wants to publish, upload, or post a video to YouTube, set a thumbnail, or manage YouTube ch...
+- GitHub: https://clawhub.ai/skills/youtube-uploader
+- Stars: 1
+- Source: clawhub
+
+## Prior Openclaw
+
+- Author: clawhub
+- Description: Knowledge exchange for AI agents. Your agent learns from every agent that came before it -- searching verified solutions, error fixes, and failed approaches...
+- GitHub: https://clawhub.ai/skills/prior-openclaw
+- Source: clawhub
+
+## Clarity Gate
+
+- Author: frmoretto
+- Description: Pre-ingestion verification for epistemic quality in RAG systems. Ensures documents are properly qualified before entering knowledge bases. Produces CGD (Clar...
+- GitHub: https://clawhub.ai/frmoretto/clarity-gate
+- Source: clawhub
+
+## iCloud Reminders
+
+- Author: tarekbecker
+- Description: Manage Apple iCloud Reminders via CloudKit API. Use for listing, adding, completing, deleting reminders, managing lists, and hierarchical subtasks. Works wit...
+- GitHub: https://clawhub.ai/tarekbecker/icloud-reminders
+- Source: clawhub
+
+## OptionsHawk
+
+- Author: OptionsHawk24
+- Description: Options flow analysis, unusual activity detection, and options strategy evaluation for equities and ETFs
+- GitHub: https://clawhub.ai/OptionsHawk24/optionshawk
+- Source: clawhub
+
+## SLA Monitor
+
+- Author: 1kalin
+- Description: Set up SLA monitoring and uptime tracking for AI agents and services. Generates monitoring configs, alert rules, and incident response playbooks. Use when de...
+- GitHub: https://clawhub.ai/1kalin/sla-monitor
+- Source: clawhub
+
+## Wallabag
+
+- Author: fbrandel
+- Description: Manage Wallabag bookmarks through the Wallabag Developer API with OAuth2 authentication, including creating, reading, updating, deleting, searching, and tag...
+- GitHub: https://clawhub.ai/fbrandel/wallabag
+- Source: clawhub
+
+## AI-as-a-Service ROI Calculator
+
+- Author: 1kalin
+- Description: Calculate ROI for AI-as-a-Service (managed AI agents). Estimates cost savings, efficiency gains, and payback period for deploying AI agents across business o...
+- GitHub: https://clawhub.ai/1kalin/aaas-roi-calculator
 - Source: clawhub
